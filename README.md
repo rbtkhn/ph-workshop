@@ -1,6 +1,6 @@
 # Predictive History
 
-A public, transcript-backed study companion for Professor Jiang's Predictive History corpus.
+A source-disciplined public study companion for Professor Jiang's Predictive History corpus.
 
 This repository organizes source metadata, study annotations, reading paths, claims, concepts, predictions, and future book/site material so Jiang students can study the corpus with source discipline: what was said, where it was said, when it was said, what it implies, and how it can be compared or tested.
 
@@ -55,6 +55,11 @@ The repository should help readers:
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
+- [docs/git-workflow.md](docs/git-workflow.md) - safe pull/push workflow for this checkout
+
+## Contributing
+
+If you want to help improve the repository, start with [CONTRIBUTING.md](CONTRIBUTING.md). It explains the source-discipline rules, rights expectations, and review process for new material or corrections.
 
 ## Source Discipline
 
