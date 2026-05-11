@@ -4,6 +4,8 @@ This public repository is not a mirror of the private working corpus.
 
 Strategy-Codex is the private forge: it may contain raw intake, operator notes, drafts, backlog, experiments, and internal workflow language. This repo is the public instrument: it should contain only source-labeled, audience-readable material that is useful outside Strategy-Codex.
 
+Predictive History may be populated from Strategy-Codex by curated migration, but this public repo does not write back into Strategy-Codex.
+
 ## Export Rule
 
 Material may enter this public repo only when it is:
