@@ -53,3 +53,13 @@ chapters:
     part_i_path: book/volume-i/geo-05-transcript.md
     part_ii_path: book/volume-i/geo-05-commentary.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-06
+    series: geo-strategy
+    chronology: 6
+    title: "Geo-Strategy #6: America's Imperial Hubris"
+    publication_date: 2024-05-22
+    corpus_path: corpus/geo-strategy/geo-06.md
+    part_i_path: book/volume-i/geo-06-transcript.md
+    part_ii_path: book/volume-i/geo-06-commentary.md
+    transcript_fidelity: exact_body_match

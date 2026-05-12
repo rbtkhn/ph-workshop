@@ -15,6 +15,7 @@ Public-facing changes should be recorded in batches.
 - Tighten `README.md` so it stays human-facing while `llms.txt` remains the machine-facing entry point.
 - Add the Geo-Strategy `geo-05` chapter pair plus matching corpus, registry, and manifest entries.
 - Update `README.md` so the V1 scope matches the live `geo-01` through `geo-05` batch.
+- Add the Geo-Strategy `geo-06` chapter pair plus matching corpus, registry, and manifest entries.
 
 ## Batch Log Template
 
