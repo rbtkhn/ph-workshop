@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-10`.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`.
 
 Included now:
 
@@ -26,7 +26,7 @@ Included now:
 - correction workflow
 - repo map
 - export policy from the private working corpus
-- the first public Geo-Strategy chapter files for `geo-01` through `geo-10`
+- the first public Geo-Strategy chapter files for `geo-01` through `geo-12`
 
 Not included yet:
 

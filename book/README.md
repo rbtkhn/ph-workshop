@@ -11,5 +11,5 @@ Future priorities:
 - reading paths by interest
 - volume orientation notes
 - chapter transcripts and complementary material as paired Part I / Part II files
-- the current Geo-Strategy chapter batch
+- the first Geo-Strategy chapter pairs for `geo-01` through `geo-12`
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot

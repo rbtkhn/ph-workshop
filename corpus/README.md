@@ -1,6 +1,6 @@
 # Corpus
 
-This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-10`).
+This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`).
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 

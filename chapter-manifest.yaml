@@ -103,3 +103,23 @@ chapters:
     part_i_path: book/volume-i/geo-10-transcript.md
     part_ii_path: book/volume-i/geo-10-commentary.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-11
+    series: geo-strategy
+    chronology: 11
+    title: "Geo-Strategy #11: The Second American Civil War"
+    publication_date: 2024-06-07
+    corpus_path: corpus/geo-strategy/geo-11.md
+    part_i_path: book/volume-i/geo-11-transcript.md
+    part_ii_path: book/volume-i/geo-11-commentary.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-12
+    series: geo-strategy
+    chronology: 12
+    title: "Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)"
+    publication_date: 2024-06-13
+    corpus_path: corpus/geo-strategy/geo-12.md
+    part_i_path: book/volume-i/geo-12-transcript.md
+    part_ii_path: book/volume-i/geo-12-commentary.md
+    transcript_fidelity: exact_body_match
