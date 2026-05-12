@@ -51,7 +51,7 @@ What is asymmetrical warfare? Let's pretend that Jack and I are enemies, we hate
 
 Even though Jack is superior, because I'm inferior I'm forced to be much more strategic in how I fight against Jack. And so asymmetrical warfare means that as long as you can define the terms of engagement, as long as you can control how the war is fought, you will win.
 
-So let's look at what this means for Iran and the United States. The United States has these aircraft carriers and they cost like a billion dollars, okay, they're very expensive but they're very powerful. Now in a symmetrical warfare what would happen is Iran sends its entire navy against this one aircraft carrier of the United States and then what happens? The United States blows up the entire Iranian navy. That's what would happen. So you don't do that. You do not send your navy against an American aircraft carrier. What you do instead is you send drones, or drone swarms.
+The United States has these aircraft carriers and they cost like a billion dollars, okay, they're very expensive but they're very powerful. Now in a symmetrical warfare what would happen is Iran sends its entire navy against this one aircraft carrier of the United States and then what happens? The United States blows up the entire Iranian navy. That's what would happen. So you don't do that. You do not send your navy against an American aircraft carrier. What you do instead is you send drones, or drone swarms.
 
 So what they did in the Millennium Challenge was they had these suicide boats charging these aircraft carriers and guess what, guys? If there's a lot of them, like a thousand of them, you can't stop all of them and if one hits then your boat sinks. This is what we call asymmetrical warfare.
 
@@ -63,7 +63,9 @@ So this shows us that in a war Iran would use asymmetrical warfare, and even tho
 
 Why doesn't the American military just become more strategic? Why don't empires respond intelligently? The answer is that empires usually have too much bureaucracy. In the first test in the Millennium Challenge, Iran won against the United States, so what did the Americans do? They ran the simulation again. The Americans said, "No, this is cheating." Guys, can you understand? Asymmetrical warfare is cheating, you cannot cheat, and then the Americans won.
 
-What does this tell us about the American military? They are inflexible. Empires are inflexible, and the reason why is hubris. If you're an empire you refuse to admit your failings and faults, you become very stubborn. It's back to the example of Jack: he has his machine gun, his armor, he comes in the dark forest thinking, "I'm invincible," and everyone's like, "Jack, don't go into that dark forest, it's stupid," but Jack's like, "No, I have a machine gun, I don't care." That's a situation. That's why asymmetrical warfare is so effective because it allows you flexibility and creativity, and the empire, the dominant power, refuses to be flexible and creative.
+What does this tell us about the American military? They are inflexible. Empires are inflexible, and the reason why is hubris. If you're an empire you refuse to admit your failings and faults, you become very stubborn.
+
+It's back to the example of Jack: he has his machine gun, his armor, he comes in the dark forest thinking, "I'm invincible," and everyone's like, "Jack, don't go into that dark forest, it's stupid," but Jack's like, "No, I have a machine gun, I don't care." That's a situation. That's why asymmetrical warfare is so effective because it allows you flexibility and creativity, and the empire, the dominant power, refuses to be flexible and creative.
 
 The classic example of this is Vietnam, where the Vietnamese were clearly dominated by the Americans but the Vietnamese were using extremely creative and flexible tactics against the Americans, whereas the Americans insisted on their main military doctrine.
 
