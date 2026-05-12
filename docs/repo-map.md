@@ -14,11 +14,15 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 │   ├── repo-map.md
 │   └── source-status.md
 ├── corpus/
-│   └── README.md
+│   ├── README.md
+│   └── geo-strategy/
+│       └── geo-01.md
 ├── registries/
 │   └── README.md
 └── book/
-    └── README.md
+    ├── README.md
+    └── volume-i/
+        └── ch01.md
 ```
 
 ## Future Corpus Shape

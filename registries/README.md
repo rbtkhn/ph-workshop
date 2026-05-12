@@ -1,6 +1,6 @@
 # Registries
 
-This folder will hold public registries after the first manual pilot proves the annotation shape.
+This folder holds public registries after the first manual pilot proved the annotation shape.
 
 Possible registries:
 

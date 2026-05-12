@@ -1,8 +1,8 @@
 # Corpus
 
-This folder will hold public corpus annotations after the standards-only bootstrap.
+This folder holds public corpus annotations and now includes the first Geo-Strategy pilot pointer.
 
-V1 intentionally contains no real source items, transcripts, or excerpts. The first future pilot should be a small manual Geo-Strategy batch.
+The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
 ## Entry Requirements
 

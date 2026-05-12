@@ -14,7 +14,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version is standards-only. It establishes the public contract before importing real corpus items.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy pilot is now present as a transcript-first chapter plus a corpus pointer.
 
 Included now:
 
@@ -24,13 +24,12 @@ Included now:
 - correction workflow
 - repo map
 - export policy from the private working corpus
-- empty public surfaces for corpus items, registries, and book material
+- the first public Geo-Strategy pilot files for corpus and book material
 
 Not included yet:
 
-- real transcript files
 - generous excerpts
-- full corpus exports
+- full corpus exports beyond the first pilot
 - private operator notes
 - internal working backlog
 
@@ -49,8 +48,11 @@ The repository should help readers:
 ## Public Surfaces
 
 - [corpus/](corpus/) - future source items and annotations
-- [registries/](registries/) - future claim, concept, prediction, and source registries
+- [registries/](registries/) - source, claim, concept, prediction, and counter-reading registries
 - [book/](book/) - future public book/site materials
+- [corpus/geo-strategy/geo-01.md](corpus/geo-strategy/geo-01.md) - first public Geo-Strategy corpus pointer
+- [book/volume-i/ch01.md](book/volume-i/ch01.md) - first Volume I transcript chapter
+- [registries/sources.md](registries/sources.md) - first public source registry entry
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed
