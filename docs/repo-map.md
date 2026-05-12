@@ -11,6 +11,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |-- CHANGELOG.md
 |-- docs/
 |   |-- annotation-block.md
+|   |-- chapter-index.md
 |   |-- corrections-policy.md
 |   |-- export-from-strategy-codex.md
 |   |-- repo-map.md
