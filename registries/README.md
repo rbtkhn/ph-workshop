@@ -1,6 +1,6 @@
 # Registries
 
-This folder holds public registries after the first manual Geo-Strategy batch proved the annotation shape.
+This folder holds public registries after the first manual Geo-Strategy batches proved the annotation shape.
 
 Possible registries:
 

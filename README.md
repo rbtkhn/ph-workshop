@@ -14,7 +14,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-04`.
 
 Included now:
 
@@ -24,7 +24,7 @@ Included now:
 - correction workflow
 - repo map
 - export policy from the private working corpus
-- the first public Geo-Strategy chapter files for `geo-01` through `geo-03`
+- the first public Geo-Strategy chapter files for `geo-01` through `geo-04`
 
 Not included yet:
 
@@ -59,7 +59,10 @@ The repository should help readers:
 - [corpus/geo-strategy/geo-03.md](corpus/geo-strategy/geo-03.md) - third public Geo-Strategy corpus pointer
 - [book/volume-i/geo-03-transcript.md](book/volume-i/geo-03-transcript.md) - third Volume I transcript chapter
 - [book/volume-i/geo-03-commentary.md](book/volume-i/geo-03-commentary.md) - third Volume I commentary chapter
-- [registries/sources.md](registries/sources.md) - public source registry entries for the first Geo-Strategy batch
+- [corpus/geo-strategy/geo-04.md](corpus/geo-strategy/geo-04.md) - fourth public Geo-Strategy corpus pointer
+- [book/volume-i/geo-04-transcript.md](book/volume-i/geo-04-transcript.md) - fourth Volume I transcript chapter
+- [book/volume-i/geo-04-commentary.md](book/volume-i/geo-04-commentary.md) - fourth Volume I commentary chapter
+- [registries/sources.md](registries/sources.md) - public source registry entries for the Geo-Strategy batch
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed

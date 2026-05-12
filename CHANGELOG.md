@@ -10,6 +10,7 @@ Public-facing changes should be recorded in batches.
 - Keep Part II reserved for later complementary material in the new chapter format.
 - Refactor the first chapter into paired Part I / Part II files: `geo-01-transcript.md` and `geo-01-commentary.md`.
 - Add the next Geo-Strategy batch for `geo-02` and `geo-03` as paired transcript/commentary chapters with matching corpus and registry entries.
+- Add the Geo-Strategy `geo-04` chapter pair with matching corpus pointer and registry row.
 
 ## Batch Log Template
 
