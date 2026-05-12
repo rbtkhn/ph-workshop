@@ -43,3 +43,13 @@ chapters:
     part_i_path: book/volume-i/geo-04-transcript.md
     part_ii_path: book/volume-i/geo-04-commentary.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-05
+    series: geo-strategy
+    chronology: 5
+    title: "Geo-Strategy #5: Why Trump Will Win (And Pick Nikki Haley as VP)"
+    publication_date: 2024-05-17
+    corpus_path: corpus/geo-strategy/geo-05.md
+    part_i_path: book/volume-i/geo-05-transcript.md
+    part_ii_path: book/volume-i/geo-05-commentary.md
+    transcript_fidelity: exact_body_match
