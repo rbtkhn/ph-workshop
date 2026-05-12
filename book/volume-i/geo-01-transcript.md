@@ -23,13 +23,21 @@ commentary_path: ./geo-01-commentary.md
 
 Part I contains the full lecture transcript. Part II is kept in the companion commentary file.
 
-Section timestamps are shown lightly in each section label so readers can locate the lecture quickly without turning the page into a timestamp index.
+Section timestamps are collected once below so readers can locate the lecture quickly without repeating them inside every heading.
+
+Source timestamps:
+
+- Opening: `00:00:00-00:04:50`
+- Asymmetrical warfare and empire inflexibility: `00:04:50-00:13:01`
+- The Iran strategy matrix: `00:16:49-00:19:14`
+- Alliances, Russia, and China: `00:19:14-00:24:40`
+- Global opinion, Gaza, and weakening the enemy: `00:24:40-00:33:18`
+- Rules of engagement, strategic ambiguity, and hubris: `00:33:18-00:41:05`
+- Overextension, debt, civil unrest, and closing questions: `00:41:05-00:45:00`
 
 ## Part I: Full transcript
 
 ### Opening: the strike, dominance, and Operation True Promise
-
-_00:00:00-00:04:50_
 
 Okay so um, as you know from your research, on April 1st the Israelis struck the Iranian Embassy in Damascus, Syria, killing seven people including two commanders. This is an active war because the embassy is considered Iranian territory, and never before has this been done intentionally. And this follows the killing, the assassination, of their General Qasem Soleimani in 2020, right? This is when the Americans launched a drone strike against him in Baghdad and he was really one of the top Iranian generals.
 
@@ -42,8 +50,6 @@ So this is clearly military dominance that Israel and Americans possess over Ira
 So who's right, the Israelis or the Iranians? I want to make an argument to you today that the Iranians are more believable, more credible. And the reason why is that the Iranians have to be very strategic in their response to the Americans and the Israelis.
 
 ### Asymmetrical warfare and empire inflexibility
-
-_00:04:50-00:13:01_
 
 The reason why is the Americans and the Israelis have military dominance over Iran. But just because you have military dominance does not mean you'll win the war. So what I believe is that Iran and Israel are committed to a war, and it's possible that in two years time there will be a ground invasion of Iran. But it's going to take time to build up to the ground invasion, and just because the Americans and the Israelis attack Iran does not mean they will win.
 
@@ -75,8 +81,6 @@ The classic example of this is Vietnam, where the Vietnamese were clearly domina
 
 ### The Iran strategy matrix
 
-_00:16:49-00:19:14_
-
 So if the Iranians are going to use asymmetrical warfare, what would it look like? And the answer is this: when the Americans invade, the war started before the invasion. The Iranians must do four things if it is to prevail in the war, and this is what we call the Iran strategy matrix. The Iran strategy matrix means that from now on everything must fit into the strategy matrix; it must accomplish the objectives of the strategic matrix.
 
 The first thing it must do is unite the population. Second thing it must do is build alliances. The third thing is win global opinion. The fourth is weaken the enemy. In other words, everything that Iran is going to do from now until the actual invasion will be to accomplish all four goals at once, and it must if it is to survive a full-scale American invasion.
@@ -90,8 +94,6 @@ For decades the Iranians have been trying to renegotiate the deal. In 1953 the d
 So the Iranian people do not like the idea of foreign invaders coming in and controlling their resource. Over time, as Israel and America continue to be aggressive toward Iran, the population will start to coalesce and fight against the Americans.
 
 ### Alliances, Russia, and China
-
-_00:19:14-00:24:40_
 
 Second is build alliances. Iran has two layers of alliance. The first layer is called the axis of resistance, which I ask you to research, and the axis of resistance includes the Shia militias in Iraq, Syria, Hezbollah in Lebanon, Hamas, and the Houthis in Yemen. What's important to understand is that this is an alliance. They agree to fight together because they have common interests, which is to remain independent of American influence.
 
@@ -108,8 +110,6 @@ For Russia and China to get themselves involved in this conflict, Iran must prov
 So this will take time for Iran to prove this to Russia and China, and the more that Iran can show it can win, the more that China and Russia will invest in Iran, both financially and militarily and politically.
 
 ### Global opinion, Gaza, and weakening the enemy
-
-_00:24:40-00:33:18_
 
 The third thing is win global opinion. What's happening right now that's helping Iran win global opinion? What's Israel doing right now that is outraging the world? Gaza. This is really important for Iran. It must maintain the world spotlight on Gaza because what's happening in Gaza is basically genocide, right? The Israelis are committed to solving the Palestinian problem once and for all. That basically means removing the Palestinians from Gaza. They can go to Egypt, they can go to Jordan, it doesn't matter, but the Israelis want them out of Gaza.
 
@@ -132,8 +132,6 @@ When Iran attacked Israel for the first time, Israel was committed to a dispropo
 So the United States had to restrain Israel, and so this is creating conflict between Israel and the United States. In other words, from a military-dominance perspective Operation True Promise accomplished nothing because you blew nothing up, but from an asymmetrical-warfare perspective you accomplished all your four major goals, and that's why the Iranians claimed success.
 
 ### Rules of engagement, strategic ambiguity, and hubris
-
-_00:33:18-00:41:05_
 
 Any questions about this? Peter asked a great question: how will this war affect us? We're going to the United States for college, we're trying to study, okay? The answer is this. In war there is something called rules of engagement. Before they have a war all the major parties agree on what the rules are.
 
@@ -162,8 +160,6 @@ But if America were not around then it's possible that Israel unleashes the full
 I would say that the regional powers right now are Germany, Israel, and Japan, and it is the American Empire that's constraining all three right now. If America were just to go back home and isolate itself, then these three nations would rise to the top.
 
 ### Overextension, debt, civil unrest, and closing questions
-
-_00:41:05-00:45:00_
 
 First of all, listen, this is all theory and conjecture. America has not expressed any intent of invading Iran, and if America does invade Iran then chances are it will win the war. But an invasion of Iran, if it loses the war, would basically mean the end of the American Empire.
 
