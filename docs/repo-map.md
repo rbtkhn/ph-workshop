@@ -26,7 +26,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       |-- geo-05.md
 |       |-- geo-06.md
 |       |-- geo-07.md
-|       `-- geo-08.md
+|       |-- geo-08.md
 |       |-- geo-09.md
 |       `-- geo-10.md
 |       |-- geo-11.md
