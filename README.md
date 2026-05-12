@@ -14,7 +14,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy pilot is now present as a transcript-first chapter plus a corpus pointer.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers.
 
 Included now:
 
@@ -24,12 +24,12 @@ Included now:
 - correction workflow
 - repo map
 - export policy from the private working corpus
-- the first public Geo-Strategy pilot files for corpus and book material
+- the first public Geo-Strategy chapter files for `geo-01` through `geo-03`
 
 Not included yet:
 
 - generous excerpts
-- full corpus exports beyond the first pilot
+- full corpus exports beyond the first batch
 - private operator notes
 - internal working backlog
 
@@ -53,7 +53,13 @@ The repository should help readers:
 - [corpus/geo-strategy/geo-01.md](corpus/geo-strategy/geo-01.md) - first public Geo-Strategy corpus pointer
 - [book/volume-i/geo-01-transcript.md](book/volume-i/geo-01-transcript.md) - first Volume I transcript chapter
 - [book/volume-i/geo-01-commentary.md](book/volume-i/geo-01-commentary.md) - first Volume I commentary chapter
-- [registries/sources.md](registries/sources.md) - first public source registry entry
+- [corpus/geo-strategy/geo-02.md](corpus/geo-strategy/geo-02.md) - second public Geo-Strategy corpus pointer
+- [book/volume-i/geo-02-transcript.md](book/volume-i/geo-02-transcript.md) - second Volume I transcript chapter
+- [book/volume-i/geo-02-commentary.md](book/volume-i/geo-02-commentary.md) - second Volume I commentary chapter
+- [corpus/geo-strategy/geo-03.md](corpus/geo-strategy/geo-03.md) - third public Geo-Strategy corpus pointer
+- [book/volume-i/geo-03-transcript.md](book/volume-i/geo-03-transcript.md) - third Volume I transcript chapter
+- [book/volume-i/geo-03-commentary.md](book/volume-i/geo-03-commentary.md) - third Volume I commentary chapter
+- [registries/sources.md](registries/sources.md) - public source registry entries for the first Geo-Strategy batch
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed
@@ -73,7 +79,7 @@ Video-derived claims should include timestamps where practical. Transcript text 
 ## Roadmap
 
 1. Standards-only bootstrap.
-2. Manual Geo-Strategy pilot with a small number of annotated items.
+2. Manual Geo-Strategy batches with a small number of annotated items.
 3. Reading paths for geopolitics, civilization, game theory, great books, interviews, and essays.
 4. Scoped prediction tracking, especially for Geo-Strategy and current-events claims.
-5. Later review packet suitable for showing to Professor Jiang after the standards and pilot prove useful.
+5. Later review packet suitable for showing to Professor Jiang after the standards and batch prove useful.
