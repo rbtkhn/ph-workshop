@@ -12,6 +12,7 @@ Public-facing changes should be recorded in batches.
 - Add the next Geo-Strategy batch for `geo-02` and `geo-03` as paired transcript/commentary chapters with matching corpus and registry entries.
 - Add the Geo-Strategy `geo-04` chapter pair with matching corpus pointer and registry row.
 - Add an AI-facing root `llms.txt`, a machine-readable `chapter-manifest.yaml`, and a transcript fidelity validator for chapter-scoped loads.
+- Tighten `README.md` so it stays human-facing while `llms.txt` remains the machine-facing entry point.
 
 ## Batch Log Template
 
