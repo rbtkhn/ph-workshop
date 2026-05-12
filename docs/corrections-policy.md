@@ -9,6 +9,7 @@ Open an issue or pull request for:
 - incorrect title, date, URL, or source ID
 - broken or changed source links
 - transcript errors
+- transcript body fidelity mismatches against the source lecture
 - missing timestamps
 - misread or overconfident annotations
 - unclear separation between Jiang's claim and the annotator's interpretation

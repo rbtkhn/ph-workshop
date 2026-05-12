@@ -1,0 +1,29 @@
+# Predictive History
+
+> A source-disciplined public study companion for Professor Jiang's Predictive History corpus.
+> Start with one chapter at a time. Use `chapter-manifest.yaml` to route to the canonical transcript pair, and use the docs below for trust, fidelity, and export rules.
+
+## Start Here
+
+- [README.md](README.md): human-facing overview and contribution path.
+- [chapter-manifest.yaml](chapter-manifest.yaml): machine-readable chapter routing table.
+- [docs/repo-map.md](docs/repo-map.md): folder map and surface guide.
+
+## Canonical Rules
+
+- [docs/source-status.md](docs/source-status.md): source, transcript, annotation, review, and fidelity vocabulary.
+- [docs/annotation-block.md](docs/annotation-block.md): public item template.
+- [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
+- [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
+
+## Canonical Content
+
+- [book/volume-i/](book/volume-i/): current Part I transcript and Part II commentary chapters.
+- [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
+- [registries/sources.md](registries/sources.md): current source registry entries.
+
+## Load Contract
+
+- Default to one chapter at a time.
+- Expand to adjacent chapters only for comparison tasks.
+- Treat chronology as the primary navigation axis and topic paths as secondary.

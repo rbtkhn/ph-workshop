@@ -20,6 +20,7 @@ source_reviewed_at: null
 exported_from_strategy_codex_at: null
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
+transcript_fidelity: exact_body_match
 ---
 ```
 
@@ -35,6 +36,7 @@ representation_not_endorsement: true
 - Series / episode:
 - Public source ID:
 - Transcript status:
+- Transcript fidelity:
 - Annotation status:
 - Review status:
 

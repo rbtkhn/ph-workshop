@@ -1,0 +1,45 @@
+version: 1
+primary_navigation: chronology
+secondary_navigation: topic_paths
+default_load: one_chapter_at_a_time
+
+chapters:
+  - chapter_id: geo-01
+    series: geo-strategy
+    chronology: 1
+    title: "Geo-Strategy #1: Iran's Strategy Matrix"
+    publication_date: 2024-04-24
+    corpus_path: corpus/geo-strategy/geo-01.md
+    part_i_path: book/volume-i/geo-01-transcript.md
+    part_ii_path: book/volume-i/geo-01-commentary.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-02
+    series: geo-strategy
+    chronology: 2
+    title: "Geo-Strategy #2: Christian Zionism and the Middle East Conflict"
+    publication_date: 2024-05-08
+    corpus_path: corpus/geo-strategy/geo-02.md
+    part_i_path: book/volume-i/geo-02-transcript.md
+    part_ii_path: book/volume-i/geo-02-commentary.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-03
+    series: geo-strategy
+    chronology: 3
+    title: "Geo-Strategy #3: How Empire Is Destroying America"
+    publication_date: 2024-05-10
+    corpus_path: corpus/geo-strategy/geo-03.md
+    part_i_path: book/volume-i/geo-03-transcript.md
+    part_ii_path: book/volume-i/geo-03-commentary.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-04
+    series: geo-strategy
+    chronology: 4
+    title: "Geo-Strategy #4: Saudi Arabia's Trump Card Against Iran"
+    publication_date: 2024-05-15
+    corpus_path: corpus/geo-strategy/geo-04.md
+    part_i_path: book/volume-i/geo-04-transcript.md
+    part_ii_path: book/volume-i/geo-04-commentary.md
+    transcript_fidelity: exact_body_match

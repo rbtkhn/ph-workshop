@@ -6,6 +6,8 @@ Strategy-Codex is the private forge: it may contain raw intake, operator notes, 
 
 Predictive History may be populated from Strategy-Codex by curated migration, but this public repo does not write back into Strategy-Codex.
 
+For transcript-backed chapters, Part I is the fidelity-bearing artifact and must match the source lecture body exactly after normalization.
+
 ## Export Rule
 
 Material may enter this public repo only when it is:
@@ -16,6 +18,7 @@ Material may enter this public repo only when it is:
 - free of private operator notes
 - free of internal governance jargon
 - useful as a public study artifact
+- transcript bodies must meet the exact-body-match fidelity benchmark against the source lecture before being promoted into the public chapter file
 
 ## Do Not Export
 
@@ -42,7 +45,8 @@ Future public items should include:
 1. Bootstrap standards only.
 2. Manually select a tiny Geo-Strategy pilot.
 3. Convert each selected item into the public annotation template.
-4. Review source status, quote length, rights risk, and timestamp anchors.
+4. Review source status, quote length, rights risk, timestamp anchors, and transcript fidelity.
+   - Use [scripts/validate-transcript-fidelity.ps1](../scripts/validate-transcript-fidelity.ps1) to compare the source lecture body against the Part I transcript body.
 5. Batch the update and record it in `CHANGELOG.md`.
 
 Automation may come later, after the manual pilot proves the public shape.

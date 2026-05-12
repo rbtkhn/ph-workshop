@@ -4,6 +4,8 @@ A source-disciplined public study companion for Professor Jiang's Predictive His
 
 This repository organizes source metadata, study annotations, reading paths, claims, concepts, predictions, and future book/site material so Jiang students can study the corpus with source discipline: what was said, where it was said, when it was said, what it implies, and how it can be compared or tested.
 
+If you are using an LLM or coding agent, start with [llms.txt](llms.txt) and [chapter-manifest.yaml](chapter-manifest.yaml). Those two files point to the canonical reading path without repeating the whole repository map here.
+
 ## Status
 
 This is an independent educational and research project. It is not an official archive, not a substitute for Professor Jiang's original videos or essays, and not endorsed by Professor Jiang unless explicitly stated later.
@@ -47,6 +49,9 @@ The repository should help readers:
 
 ## Public Surfaces
 
+- [llms.txt](llms.txt) - compact AI-facing entry point
+- [chapter-manifest.yaml](chapter-manifest.yaml) - machine-readable chapter routing table
+- [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [corpus/](corpus/) - future source items and annotations
 - [registries/](registries/) - source, claim, concept, prediction, and counter-reading registries
 - [book/](book/) - future public book/site materials
@@ -66,7 +71,6 @@ The repository should help readers:
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed
-- [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [docs/git-workflow.md](docs/git-workflow.md) - safe pull/push workflow for this checkout
 
 ## Contributing

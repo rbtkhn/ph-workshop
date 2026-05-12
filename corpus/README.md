@@ -4,6 +4,8 @@ This folder holds public corpus annotations and now includes the first Geo-Strat
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
+Use [chapter-manifest.yaml](../chapter-manifest.yaml) as the fast routing table for the current chapter pairs. The default load contract is one chapter at a time.
+
 ## Entry Requirements
 
 Each item must:

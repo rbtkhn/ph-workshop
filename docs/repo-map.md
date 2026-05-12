@@ -5,6 +5,8 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 ```text
 .
 |-- README.md
+|-- llms.txt
+|-- chapter-manifest.yaml
 |-- CONTRIBUTING.md
 |-- CHANGELOG.md
 |-- docs/
@@ -22,6 +24,8 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       `-- geo-04.md
 |-- registries/
 |   `-- README.md
+|-- scripts/
+|   `-- validate-transcript-fidelity.ps1
 `-- book/
     |-- README.md
     `-- volume-i/
