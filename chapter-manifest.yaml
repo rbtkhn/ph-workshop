@@ -63,3 +63,13 @@ chapters:
     part_i_path: book/volume-i/geo-06-transcript.md
     part_ii_path: book/volume-i/geo-06-commentary.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-07
+    series: geo-strategy
+    chronology: 7
+    title: "Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi?"
+    publication_date: 2024-05-24
+    corpus_path: corpus/geo-strategy/geo-07.md
+    part_i_path: book/volume-i/geo-07-transcript.md
+    part_ii_path: book/volume-i/geo-07-commentary.md
+    transcript_fidelity: exact_body_match
