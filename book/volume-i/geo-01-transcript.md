@@ -4,7 +4,7 @@ public_slug: geo-01-iran-strategy-matrix
 title: "Geo-Strategy #1: Iran's Strategy Matrix"
 series: geo-strategy
 episode: 1
-chapter_id: ch01
+chapter_id: geo-01
 part: I
 source_type: video
 canonical_url: https://www.youtube.com/watch?v=xEEpOxqdU5E
@@ -16,11 +16,12 @@ review_status: source_reviewed
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 corpus_path: ../../corpus/geo-strategy/geo-01.md
+commentary_path: ./geo-01-commentary.md
 ---
 
-# ch01 - Geo-Strategy #1: Iran's Strategy Matrix
+# Part I - Geo-Strategy #1: Iran's Strategy Matrix
 
-Part I contains the full transcript only. Part II is reserved for complementary material and is intentionally left as a skeleton in this first migration.
+Part I contains the full lecture transcript. Part II is kept in the companion commentary file.
 
 Section timestamps mark timed caption anchors for the transcript sections, so readers can locate the lecture quickly without treating every spoken sentence as its own timestamp.
 
@@ -165,8 +166,3 @@ This is a very complicated question: what is the relationship between Israel and
 So just to summarize, we will do a class on Jack's question: what will the war look like and what will it mean for America if it loses the war? We'll also do a class on David's question, which is what's the relationship between Israel and America? We will also be talking about the rise of Japan and Germany.
 
 Okay, great. I'll see you next week.
-
-## Part II: Complementary material
-
-- Pending migration.
-- Reserved for summary, claims, predictions, counter-reading, and other complementary material.

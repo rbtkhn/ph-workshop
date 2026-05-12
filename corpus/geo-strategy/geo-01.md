@@ -13,12 +13,14 @@ annotation_status: not_started
 review_status: source_reviewed
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
-book_path: ../../book/volume-i/ch01.md
+book_path: ../../book/volume-i/geo-01-transcript.md
+transcript_path: ../../book/volume-i/geo-01-transcript.md
+commentary_path: ../../book/volume-i/geo-01-commentary.md
 ---
 
 # geo-01
 
-This entry points to the chapter transcript in [book/volume-i/ch01.md](../../book/volume-i/ch01.md).
+This entry points to the chapter transcript in [book/volume-i/geo-01-transcript.md](../../book/volume-i/geo-01-transcript.md) and the companion commentary in [book/volume-i/geo-01-commentary.md](../../book/volume-i/geo-01-commentary.md).
 
 ## Notes
 

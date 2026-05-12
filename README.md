@@ -51,7 +51,8 @@ The repository should help readers:
 - [registries/](registries/) - source, claim, concept, prediction, and counter-reading registries
 - [book/](book/) - future public book/site materials
 - [corpus/geo-strategy/geo-01.md](corpus/geo-strategy/geo-01.md) - first public Geo-Strategy corpus pointer
-- [book/volume-i/ch01.md](book/volume-i/ch01.md) - first Volume I transcript chapter
+- [book/volume-i/geo-01-transcript.md](book/volume-i/geo-01-transcript.md) - first Volume I transcript chapter
+- [book/volume-i/geo-01-commentary.md](book/volume-i/geo-01-commentary.md) - first Volume I commentary chapter
 - [registries/sources.md](registries/sources.md) - first public source registry entry
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling

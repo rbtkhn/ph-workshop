@@ -22,7 +22,8 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 └── book/
     ├── README.md
     └── volume-i/
-        └── ch01.md
+        ├── geo-01-transcript.md
+        └── geo-01-commentary.md
 ```
 
 ## Future Corpus Shape

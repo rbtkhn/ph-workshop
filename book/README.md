@@ -8,5 +8,5 @@ Future priorities:
 
 - reading paths by interest
 - volume orientation notes
-- chapter transcripts and complementary material as the volume layers mature
+- chapter transcripts and complementary material as paired Part I / Part II files
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot
