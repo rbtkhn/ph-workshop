@@ -83,3 +83,23 @@ chapters:
     part_i_path: book/volume-i/geo-08-transcript.md
     part_ii_path: book/volume-i/geo-08-commentary.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-09
+    series: geo-strategy
+    chronology: 9
+    title: "Geo-Strategy #9: Putin's War for the Soul of Russia"
+    publication_date: 2024-05-31
+    corpus_path: corpus/geo-strategy/geo-09.md
+    part_i_path: book/volume-i/geo-09-transcript.md
+    part_ii_path: book/volume-i/geo-09-commentary.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: geo-10
+    series: geo-strategy
+    chronology: 10
+    title: "Geo-Strategy #10: Putin's Strategic Imagination"
+    publication_date: 2024-06-05
+    corpus_path: corpus/geo-strategy/geo-10.md
+    part_i_path: book/volume-i/geo-10-transcript.md
+    part_ii_path: book/volume-i/geo-10-commentary.md
+    transcript_fidelity: exact_body_match

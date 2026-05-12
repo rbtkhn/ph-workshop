@@ -1,0 +1,34 @@
+---
+source_id: geo-10
+public_slug: geo-10-putins-strategic-imagination
+title: "Geo-Strategy #10: Putin's Strategic Imagination"
+series: geo-strategy
+episode: 10
+chapter_id: geo-10
+part: II
+source_type: video
+canonical_url: https://www.youtube.com/watch?v=B_al2wgk49Y
+publication_date: 2024-06-05
+source_status: metadata_checked
+transcript_status: curated_transcript_pending_rights_review
+annotation_status: not_started
+review_status: source_reviewed
+rights_review: required_before_long_excerpt
+representation_not_endorsement: true
+transcript_path: ./geo-10-transcript.md
+corpus_path: ../../corpus/geo-strategy/geo-10.md
+---
+
+# Part II - Geo-Strategy #10: Putin's Strategic Imagination
+
+Part II is reserved for commentary and complementary material.
+
+## Commentary skeleton
+
+- Summary: pending
+- Core thesis: pending
+- Key claims: pending
+- Concepts: pending
+- Predictions / falsifiers: pending
+- Counter-reading pointer: pending
+- Notes: pending

@@ -26,6 +26,8 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       |-- geo-06.md
 |       |-- geo-07.md
 |       `-- geo-08.md
+|       |-- geo-09.md
+|       `-- geo-10.md
 |-- registries/
 |   `-- README.md
 |-- scripts/
@@ -48,7 +50,11 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
         |-- geo-07-transcript.md
         |-- geo-07-commentary.md
         |-- geo-08-transcript.md
-        `-- geo-08-commentary.md
+        |-- geo-08-commentary.md
+        |-- geo-09-transcript.md
+        |-- geo-09-commentary.md
+        |-- geo-10-transcript.md
+        `-- geo-10-commentary.md
 ```
 
 ## Future Corpus Shape
