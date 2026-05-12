@@ -26,7 +26,7 @@ Included now:
 - correction workflow
 - repo map
 - export policy from the private working corpus
-- the first public Geo-Strategy chapter files for `geo-01` through `geo-04`
+- the first public Geo-Strategy chapter files for `geo-01` through `geo-05`
 
 Not included yet:
 
