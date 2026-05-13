@@ -98,7 +98,7 @@ if (-not (Test-Path -LiteralPath $resolvedManifestPath -PathType Leaf)) {
 }
 
 $manifestText = Get-Text -Path $resolvedManifestPath
-$expectedIds = 1..25 | ForEach-Object { "civ-{0:D2}" -f $_ }
+$expectedIds = 1..28 | ForEach-Object { "civ-{0:D2}" -f $_ }
 $strategySourcesPath = Join-Path -Path $StrategyRoot -ChildPath 'metadata\sources.yaml'
 if (-not (Test-Path -LiteralPath $strategySourcesPath -PathType Leaf)) {
   throw "Strategy metadata path does not exist: $strategySourcesPath"

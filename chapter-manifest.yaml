@@ -401,3 +401,36 @@ chapters:
     part_ii_path: book/volume-ii/civ-25/civ-25-commentary.md
     ph_civ_path: corpus/ph-civ/civ-25.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-26
+    series: civilization
+    chronology: 26
+    title: "Civilization #26: Constantine's Monotheistic Revolution"
+    publication_date: 2024-12-28
+    corpus_path: corpus/civilization/civ-26.md
+    part_i_path: book/volume-ii/civ-26/civ-26-transcript.md
+    part_ii_path: book/volume-ii/civ-26/civ-26-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-26.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-27
+    series: civilization
+    chronology: 27
+    title: "Civilization #27: Augustine's Empire of God"
+    publication_date: 2024-12-31
+    corpus_path: corpus/civilization/civ-27.md
+    part_i_path: book/volume-ii/civ-27/civ-27-transcript.md
+    part_ii_path: book/volume-ii/civ-27/civ-27-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-27.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-28
+    series: civilization
+    chronology: 28
+    title: "Civilization #28: Muhammad's Revolution of God"
+    publication_date: 2025-01-02
+    corpus_path: corpus/civilization/civ-28.md
+    part_i_path: book/volume-ii/civ-28/civ-28-transcript.md
+    part_ii_path: book/volume-ii/civ-28/civ-28-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-28.md
+    transcript_fidelity: exact_body_match

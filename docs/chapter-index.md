@@ -2,7 +2,7 @@
 
 This index lists the current public chapter pairs in publication order. Use [chapter-manifest.yaml](../chapter-manifest.yaml) for routing and [README.md](../README.md) / [llms.txt](../llms.txt) for orientation.
 
-Civilization now has a first twenty-five-chapter spine. `civ-01` remains the calibrated pilot, and `civ-02` through `civ-25` are in review after initial commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
+Civilization now has a first twenty-eight-chapter spine. `civ-01` remains the calibrated pilot, and `civ-02` through `civ-28` are in review after initial commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
 
 For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpus/ph-civ/index.md).
 
@@ -45,3 +45,6 @@ For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpu
 | civ-23 | Civilization #23: Cyrus the Great as Messiah | 2024-12-12 | [corpus/civilization/civ-23.md](../corpus/civilization/civ-23.md) | [book/volume-ii/civ-23/civ-23-transcript.md](../book/volume-ii/civ-23/civ-23-transcript.md) | [book/volume-ii/civ-23/civ-23-commentary.md](../book/volume-ii/civ-23/civ-23-commentary.md) | exact_body_match |
 | civ-24 | Civilization #24: Resurrecting the Gnostic Jesus | 2024-12-17 | [corpus/civilization/civ-24.md](../corpus/civilization/civ-24.md) | [book/volume-ii/civ-24/civ-24-transcript.md](../book/volume-ii/civ-24/civ-24-transcript.md) | [book/volume-ii/civ-24/civ-24-commentary.md](../book/volume-ii/civ-24/civ-24-commentary.md) | exact_body_match |
 | civ-25 | Civilization #25: Paul of Tarsus, Messiah of Rome | 2024-12-19 | [corpus/civilization/civ-25.md](../corpus/civilization/civ-25.md) | [book/volume-ii/civ-25/civ-25-transcript.md](../book/volume-ii/civ-25/civ-25-transcript.md) | [book/volume-ii/civ-25/civ-25-commentary.md](../book/volume-ii/civ-25/civ-25-commentary.md) | exact_body_match |
+| civ-26 | Civilization #26: Constantine's Monotheistic Revolution | 2024-12-28 | [corpus/civilization/civ-26.md](../corpus/civilization/civ-26.md) | [book/volume-ii/civ-26/civ-26-transcript.md](../book/volume-ii/civ-26/civ-26-transcript.md) | [book/volume-ii/civ-26/civ-26-commentary.md](../book/volume-ii/civ-26/civ-26-commentary.md) | exact_body_match |
+| civ-27 | Civilization #27: Augustine's Empire of God | 2024-12-31 | [corpus/civilization/civ-27.md](../corpus/civilization/civ-27.md) | [book/volume-ii/civ-27/civ-27-transcript.md](../book/volume-ii/civ-27/civ-27-transcript.md) | [book/volume-ii/civ-27/civ-27-commentary.md](../book/volume-ii/civ-27/civ-27-commentary.md) | exact_body_match |
+| civ-28 | Civilization #28: Muhammad's Revolution of God | 2025-01-02 | [corpus/civilization/civ-28.md](../corpus/civilization/civ-28.md) | [book/volume-ii/civ-28/civ-28-transcript.md](../book/volume-ii/civ-28/civ-28-transcript.md) | [book/volume-ii/civ-28/civ-28-commentary.md](../book/volume-ii/civ-28/civ-28-commentary.md) | exact_body_match |
