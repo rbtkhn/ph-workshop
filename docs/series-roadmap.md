@@ -32,6 +32,7 @@ This order is only a planning guide. The actual publication sequence can change 
 - Keep the series roadmap high-level.
 - Treat Civilization as the next real migration batch, with source-ready material for the first five lectures.
 - Do not reserve placeholder chapter files or manifest rows until the batch is actually created.
+- Media policy draft for future chapters: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
 - Keep chapter routing in `chapter-manifest.yaml`.
 - Keep the readable chapter inventory in `chapter-index.md`.
 - Keep the public front door in `README.md`.
