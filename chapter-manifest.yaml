@@ -236,3 +236,80 @@ chapters:
     part_ii_path: book/volume-ii/civ-10/civ-10-commentary.md
     ph_civ_path: corpus/ph-civ/civ-10.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-11
+    series: civilization
+    chronology: 11
+    title: "Civilization #11: The Greatness of Philip II of Macedon"
+    publication_date: 2024-10-24
+    corpus_path: corpus/civilization/civ-11.md
+    part_i_path: book/volume-ii/civ-11/civ-11-transcript.md
+    part_ii_path: book/volume-ii/civ-11/civ-11-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-11.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-12
+    series: civilization
+    chronology: 12
+    title: "Civilization #12: The Tyranny of Alexander the Great"
+    publication_date: 2024-10-29
+    corpus_path: corpus/civilization/civ-12.md
+    part_i_path: book/volume-ii/civ-12/civ-12-transcript.md
+    part_ii_path: book/volume-ii/civ-12/civ-12-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-12.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-13
+    series: civilization
+    chronology: 13
+    title: "Civilization #13: Aristotle and the Greek Legacy"
+    publication_date: 2024-11-05
+    corpus_path: corpus/civilization/civ-13.md
+    part_i_path: book/volume-ii/civ-13/civ-13-transcript.md
+    part_ii_path: book/volume-ii/civ-13/civ-13-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-13.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-14
+    series: civilization
+    chronology: 14
+    title: "Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome"
+    publication_date: 2024-11-07
+    corpus_path: corpus/civilization/civ-14.md
+    part_i_path: book/volume-ii/civ-14/civ-14-transcript.md
+    part_ii_path: book/volume-ii/civ-14/civ-14-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-14.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-15
+    series: civilization
+    chronology: 15
+    title: "Civilization #15: The Myth-Making Genius of Julius Caesar"
+    publication_date: 2024-11-12
+    corpus_path: corpus/civilization/civ-15.md
+    part_i_path: book/volume-ii/civ-15/civ-15-transcript.md
+    part_ii_path: book/volume-ii/civ-15/civ-15-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-15.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-16
+    series: civilization
+    chronology: 16
+    title: "Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire"
+    publication_date: 2024-11-19
+    corpus_path: corpus/civilization/civ-16.md
+    part_i_path: book/volume-ii/civ-16/civ-16-transcript.md
+    part_ii_path: book/volume-ii/civ-16/civ-16-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-16.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-17
+    series: civilization
+    chronology: 17
+    title: "Civilization #17: Homer, Virgil, and the War for the Soul of Rome"
+    publication_date: 2024-11-21
+    corpus_path: corpus/civilization/civ-17.md
+    part_i_path: book/volume-ii/civ-17/civ-17-transcript.md
+    part_ii_path: book/volume-ii/civ-17/civ-17-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-17.md
+    transcript_fidelity: exact_body_match

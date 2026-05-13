@@ -34,6 +34,13 @@ The pipeline keeps the corpus compact: choose eligible chapters, write placement
 | `civ-08` | medium | in_review | civilization | [civ-08.md](civ-08.md) |
 | `civ-09` | medium | in_review | civilization | [civ-09.md](civ-09.md) |
 | `civ-10` | medium | in_review | civilization | [civ-10.md](civ-10.md) |
+| `civ-11` | strong | in_review | civilization | [civ-11.md](civ-11.md) |
+| `civ-12` | strong | in_review | civilization | [civ-12.md](civ-12.md) |
+| `civ-13` | strong | in_review | civilization | [civ-13.md](civ-13.md) |
+| `civ-14` | strong | in_review | civilization | [civ-14.md](civ-14.md) |
+| `civ-15` | strong | in_review | civilization | [civ-15.md](civ-15.md) |
+| `civ-16` | strong | in_review | civilization | [civ-16.md](civ-16.md) |
+| `civ-17` | medium | in_review | civilization | [civ-17.md](civ-17.md) |
 | `geo-05` | light | calibration_seed | geo-strategy | [geo-05.md](geo-05.md) |
 | `geo-07` | medium | calibration_seed | geo-strategy | [geo-07.md](geo-07.md) |
 | `geo-12` | medium | calibration_seed | geo-strategy | [geo-12.md](geo-12.md) |
