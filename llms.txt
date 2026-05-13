@@ -22,6 +22,7 @@
 - [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
 - [registries/sources.md](registries/sources.md): current source registry entries.
 - [docs/chapter-index.md](docs/chapter-index.md): human-readable chapter catalog.
+- [docs/series-roadmap.md](docs/series-roadmap.md): series-level planning and next-batch order.
 
 ## Load Contract
 

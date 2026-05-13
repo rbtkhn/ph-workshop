@@ -51,6 +51,7 @@ The repository should help readers:
 
 - [llms.txt](llms.txt) - compact AI-facing entry point
 - [docs/chapter-index.md](docs/chapter-index.md) - readable chapter catalog
+- [docs/series-roadmap.md](docs/series-roadmap.md) - series-level planning and batch order
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [corpus/](corpus/) - public source items and annotations
 - [registries/](registries/) - current source index and future cross-reference registries
@@ -78,8 +79,4 @@ Video-derived claims should include timestamps where practical. Transcript text 
 
 ## Roadmap
 
-1. Standards-only bootstrap.
-2. Manual Geo-Strategy batches with a small number of annotated items.
-3. Reading paths for geopolitics, civilization, game theory, great books, interviews, and essays.
-4. Scoped prediction tracking, especially for Geo-Strategy and current-events claims.
-5. Later review packet suitable for showing to Professor Jiang after the standards and batch prove useful.
+See [docs/series-roadmap.md](docs/series-roadmap.md) for the series-level plan and current batch order.
