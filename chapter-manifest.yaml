@@ -434,3 +434,73 @@ chapters:
     part_ii_path: book/volume-ii/civ-28/civ-28-commentary.md
     ph_civ_path: corpus/ph-civ/civ-28.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-29
+    series: civilization
+    chronology: 29
+    title: "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination"
+    publication_date: 2025-01-07
+    corpus_path: corpus/civilization/civ-29.md
+    part_i_path: book/volume-ii/civ-29/civ-29-transcript.md
+    part_ii_path: book/volume-ii/civ-29/civ-29-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-29.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-30
+    series: civilization
+    chronology: 30
+    title: "Civilization #30: Dante as the Second Coming of Homer"
+    publication_date: 2025-01-14
+    corpus_path: corpus/civilization/civ-30.md
+    part_i_path: book/volume-ii/civ-30/civ-30-transcript.md
+    part_ii_path: book/volume-ii/civ-30/civ-30-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-30.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-31
+    series: civilization
+    chronology: 31
+    title: "Civilization #31: The Oceanic Currents of History"
+    publication_date: 2025-02-18
+    corpus_path: corpus/civilization/civ-31.md
+    part_i_path: book/volume-ii/civ-31/civ-31-transcript.md
+    part_ii_path: book/volume-ii/civ-31/civ-31-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-31.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-32
+    series: civilization
+    chronology: 32
+    title: "Civilization #32: Rome's Rise, Fall, and Legacy"
+    publication_date: 2025-02-20
+    corpus_path: corpus/civilization/civ-32.md
+    part_i_path: book/volume-ii/civ-32/civ-32-transcript.md
+    part_ii_path: book/volume-ii/civ-32/civ-32-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-32.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-33
+    series: civilization
+    chronology: 33
+    title: "Civilization #33: The Rise and Fall of the Byzantine Empire"
+    publication_date: 2025-02-25
+    corpus_path: corpus/civilization/civ-33.md
+    part_i_path: book/volume-ii/civ-33/civ-33-transcript.md
+    part_ii_path: book/volume-ii/civ-33/civ-33-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-33.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-34
+    series: civilization
+    chronology: 34
+    title: "Civilization #34: The Useful Fiction of the Holy Roman Empire"
+    publication_date: 2025-02-27
+    corpus_path: corpus/civilization/civ-34.md
+    part_i_path: book/volume-ii/civ-34/civ-34-transcript.md
+    part_ii_path: book/volume-ii/civ-34/civ-34-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-34.md
+    transcript_fidelity: exact_body_match

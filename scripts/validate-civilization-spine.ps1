@@ -41,6 +41,24 @@ function Get-YamlScalar {
   }
 
   $value = $match.Groups[1].Value.Trim()
+  if ($value.StartsWith("'") -and -not $value.EndsWith("'")) {
+    $remainingBlock = $Block.Substring($match.Index + $match.Length)
+    foreach ($line in ($remainingBlock -split "`n")) {
+      if ($line.Trim().Length -eq 0) {
+        continue
+      }
+
+      if ($line -notmatch '^\s{2,}\S') {
+        break
+      }
+
+      $value = "$value $($line.Trim())"
+      if ($line.Trim().EndsWith("'")) {
+        break
+      }
+    }
+  }
+
   if ($value -eq 'null') {
     return $null
   }
@@ -98,7 +116,7 @@ if (-not (Test-Path -LiteralPath $resolvedManifestPath -PathType Leaf)) {
 }
 
 $manifestText = Get-Text -Path $resolvedManifestPath
-$expectedIds = 1..28 | ForEach-Object { "civ-{0:D2}" -f $_ }
+$expectedIds = 1..34 | ForEach-Object { "civ-{0:D2}" -f $_ }
 $strategySourcesPath = Join-Path -Path $StrategyRoot -ChildPath 'metadata\sources.yaml'
 if (-not (Test-Path -LiteralPath $strategySourcesPath -PathType Leaf)) {
   throw "Strategy metadata path does not exist: $strategySourcesPath"
