@@ -313,3 +313,91 @@ chapters:
     part_ii_path: book/volume-ii/civ-17/civ-17-commentary.md
     ph_civ_path: corpus/ph-civ/civ-17.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-18
+    series: civilization
+    chronology: 18
+    title: "Civilization #18: The Great Pyramid as Ancient Egypt's Manhattan Project"
+    publication_date: 2024-11-26
+    corpus_path: corpus/civilization/civ-18.md
+    part_i_path: book/volume-ii/civ-18/civ-18-transcript.md
+    part_ii_path: book/volume-ii/civ-18/civ-18-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-18.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-19
+    series: civilization
+    chronology: 19
+    title: "Civilization #19: Gilgamesh and Mesopotamia's Quest for Immortality"
+    publication_date: 2024-11-28
+    corpus_path: corpus/civilization/civ-19.md
+    part_i_path: book/volume-ii/civ-19/civ-19-transcript.md
+    part_ii_path: book/volume-ii/civ-19/civ-19-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-19.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-20
+    series: civilization
+    chronology: 20
+    title: "Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization"
+    publication_date: 2024-12-03
+    corpus_path: corpus/civilization/civ-20.md
+    part_i_path: book/volume-ii/civ-20/civ-20-transcript.md
+    part_ii_path: book/volume-ii/civ-20/civ-20-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-20.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-21
+    series: civilization
+    chronology: 21
+    title: "Civilization #21: The Apology of King David of Israel"
+    publication_date: 2024-12-05
+    corpus_path: corpus/civilization/civ-21.md
+    part_i_path: book/volume-ii/civ-21/civ-21-transcript.md
+    part_ii_path: book/volume-ii/civ-21/civ-21-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-21.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-22
+    series: civilization
+    chronology: 22
+    title: "Civilization #22: The Literary Genesis of the Yahwist"
+    publication_date: 2024-12-10
+    corpus_path: corpus/civilization/civ-22.md
+    part_i_path: book/volume-ii/civ-22/civ-22-transcript.md
+    part_ii_path: book/volume-ii/civ-22/civ-22-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-22.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-23
+    series: civilization
+    chronology: 23
+    title: "Civilization #23: Cyrus the Great as Messiah"
+    publication_date: 2024-12-12
+    corpus_path: corpus/civilization/civ-23.md
+    part_i_path: book/volume-ii/civ-23/civ-23-transcript.md
+    part_ii_path: book/volume-ii/civ-23/civ-23-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-23.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-24
+    series: civilization
+    chronology: 24
+    title: "Civilization #24: Resurrecting the Gnostic Jesus"
+    publication_date: 2024-12-17
+    corpus_path: corpus/civilization/civ-24.md
+    part_i_path: book/volume-ii/civ-24/civ-24-transcript.md
+    part_ii_path: book/volume-ii/civ-24/civ-24-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-24.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-25
+    series: civilization
+    chronology: 25
+    title: "Civilization #25: Paul of Tarsus, Messiah of Rome"
+    publication_date: 2024-12-19
+    corpus_path: corpus/civilization/civ-25.md
+    part_i_path: book/volume-ii/civ-25/civ-25-transcript.md
+    part_ii_path: book/volume-ii/civ-25/civ-25-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-25.md
+    transcript_fidelity: exact_body_match
