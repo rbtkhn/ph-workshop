@@ -27,6 +27,6 @@ Template rules:
 - Use `draft`, `in-review`, or `complete` in the completeness state fields.
 
 The transcript companion path is recorded in the commentary frontmatter.
-The first ten-chapter spine lives in `civ-01/` through `civ-10/`. `civ-01` is the calibrated pilot, `civ-02` and `civ-03` are in review after initial commentary analysis, and `civ-04` through `civ-10` are materialized draft chapter pairs pending full commentary analysis.
+The first ten-chapter spine lives in `civ-01/` through `civ-10/`. `civ-01` is the calibrated pilot, and `civ-02` through `civ-10` are in review after initial commentary analysis.
 
 For chapter placement, use the derived PH-CIV corpus in [corpus/ph-civ/](../../corpus/ph-civ/) and check each entry's `review_status`. Commentary pages should remain focused on the source-backed layer structure.

@@ -7,8 +7,8 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Series | Status | Notes |
 | --- | --- | --- |
 | Geo-Strategy | Complete through `geo-12` | First public batch; all twelve chapter pairs are present and fidelity-verified. |
-| Civilization | First ten-chapter spine present | Volume II commentary template is present in `book/volume-ii/`; `civ-01` is the calibrated pilot, `civ-02` and `civ-03` are in review, and `civ-04` through `civ-10` are materialized draft chapter pairs pending full commentary analysis. |
-| PH-CIV | Seed plus spine placements present | Calibrated placements exist for `civ-01`, `geo-05`, `geo-07`, and `geo-12`; `civ-02` and `civ-03` are in review; draft pending-analysis placements exist for `civ-04` through `civ-10`. |
+| Civilization | First ten-chapter spine present | Volume II commentary template is present in `book/volume-ii/`; `civ-01` is the calibrated pilot, and `civ-02` through `civ-10` are in review after initial commentary analysis. |
+| PH-CIV | Seed plus spine placements present | Calibrated placements exist for `civ-01`, `geo-05`, `geo-07`, and `geo-12`; `civ-02` through `civ-10` are in review. |
 | Secret History | Pending | Planned future series; no public chapter batch yet. |
 | Game Theory | Pending | Planned future series; no public chapter batch yet. |
 | Great Books | Pending | Planned future series; no public chapter batch yet. |
@@ -31,7 +31,7 @@ This order is only a planning guide. The actual publication sequence can change 
 ## Planning Notes
 
 - Keep the series roadmap high-level.
-- Treat Civilization as the next active batch family, with a public first-ten spine and analysis work still pending for `civ-04` through `civ-10`.
+- Treat Civilization as the next active batch family, with a public first-ten spine now in review from `civ-02` through `civ-10`.
 - Treat PH-CIV as a derived study corpus, not a replacement for source transcripts, annotations, or commentary.
 - Do not reserve placeholder chapter files or manifest rows for future Civilization chapters until the batch is actually created.
 - Media policy draft for future chapters: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).

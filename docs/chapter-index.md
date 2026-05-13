@@ -2,7 +2,7 @@
 
 This index lists the current public chapter pairs in publication order. Use [chapter-manifest.yaml](../chapter-manifest.yaml) for routing and [README.md](../README.md) / [llms.txt](../llms.txt) for orientation.
 
-Civilization now has a first ten-chapter spine. `civ-01` remains the calibrated pilot, `civ-02` and `civ-03` are in review after initial commentary analysis, and `civ-04` through `civ-10` are materialized draft chapter pairs pending full commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
+Civilization now has a first ten-chapter spine. `civ-01` remains the calibrated pilot, and `civ-02` through `civ-10` are in review after initial commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
 
 For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpus/ph-civ/index.md).
 

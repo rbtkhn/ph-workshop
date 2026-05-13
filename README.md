@@ -28,7 +28,7 @@ Included now:
 - export policy from the private working corpus
 - the first public Geo-Strategy chapter files for `geo-01` through `geo-12`
 - the Civilization Volume II scaffold and multi-layer commentary template
-- the first Civilization spine from `civ-01` through `civ-10`, with `civ-02` and `civ-03` in review and `civ-04` through `civ-10` marked draft pending full analysis
+- the first Civilization spine from `civ-01` through `civ-10`, with `civ-02` through `civ-10` in review
 - the `ph-civ` derived study corpus for calibrated and draft chapter placement and re-entry
 
 Not included yet:
