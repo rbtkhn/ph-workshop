@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`, and the Civilization Volume II scaffold is now in place as a versioned commentary template.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`, and the Civilization Volume II scaffold is now in place with the first pilot chapter pair for `civ-01`.
 
 Included now:
 
@@ -28,6 +28,7 @@ Included now:
 - export policy from the private working corpus
 - the first public Geo-Strategy chapter files for `geo-01` through `geo-12`
 - the Civilization Volume II scaffold and multi-layer commentary template
+- the first Civilization pilot chapter pair for `civ-01`
 
 Not included yet:
 
@@ -56,9 +57,11 @@ The repository should help readers:
 - [docs/series-roadmap.md](docs/series-roadmap.md) - series-level planning and batch order
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [corpus/](corpus/) - public source items and annotations
+- [corpus/civilization/](corpus/civilization/) - Civilization corpus pointer for `civ-01`
 - [registries/](registries/) - current source index and future cross-reference registries
 - [book/](book/) - public chapter files and reader-facing material
 - [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and commentary template
+- [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - first Civilization pilot chapter pair
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed

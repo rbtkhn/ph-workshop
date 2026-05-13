@@ -27,3 +27,4 @@ Template rules:
 - Use `draft`, `in-review`, or `complete` in the completeness state fields.
 
 The transcript companion path is recorded in the commentary frontmatter.
+The first pilot chapter lives in [civ-01/](civ-01/) and follows this scaffold in a dedicated chapter folder.

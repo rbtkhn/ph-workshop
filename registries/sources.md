@@ -18,3 +18,9 @@ This registry indexes the public corpus entries by source ID and chapter paths.
 | `geo-10` | Geo-Strategy #10: Putin's Strategic Imagination | geo-strategy | 10 | 2024-06-05 | metadata_checked | curated_transcript_pending_rights_review | [corpus/geo-strategy/geo-10.md](../corpus/geo-strategy/geo-10.md) | [book/volume-i/geo-10-transcript.md](../book/volume-i/geo-10-transcript.md) | [book/volume-i/geo-10-commentary.md](../book/volume-i/geo-10-commentary.md) |
 | `geo-11` | Geo-Strategy #11: The Second American Civil War | geo-strategy | 11 | 2024-06-07 | metadata_checked | curated_transcript_pending_rights_review | [corpus/geo-strategy/geo-11.md](../corpus/geo-strategy/geo-11.md) | [book/volume-i/geo-11-transcript.md](../book/volume-i/geo-11-transcript.md) | [book/volume-i/geo-11-commentary.md](../book/volume-i/geo-11-commentary.md) |
 | `geo-12` | Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future) | geo-strategy | 12 | 2024-06-13 | metadata_checked | curated_transcript_pending_rights_review | [corpus/geo-strategy/geo-12.md](../corpus/geo-strategy/geo-12.md) | [book/volume-i/geo-12-transcript.md](../book/volume-i/geo-12-transcript.md) | [book/volume-i/geo-12-commentary.md](../book/volume-i/geo-12-commentary.md) |
+
+## Civilization
+
+| source_id | title | series | episode | publication_date | source_status | transcript_status | corpus_path | transcript_path | commentary_path |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| `civ-01` | Civilization #1: Explaining Humanity's Transition to Agriculture | civilization | 1 | 2024-08-29 | metadata_checked | curated_transcript_pending_rights_review | [corpus/civilization/civ-01.md](../corpus/civilization/civ-01.md) | [book/volume-ii/civ-01/civ-01-transcript.md](../book/volume-ii/civ-01/civ-01-transcript.md) | [book/volume-ii/civ-01/civ-01-commentary.md](../book/volume-ii/civ-01/civ-01-commentary.md) |

@@ -2,7 +2,7 @@
 
 This index lists the current public chapter pairs in publication order. Use [chapter-manifest.yaml](../chapter-manifest.yaml) for routing and [README.md](../README.md) / [llms.txt](../llms.txt) for orientation.
 
-Civilization chapter pairs are not yet populated. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
+Civilization now has its first pilot chapter pair: `civ-01`. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
 
 | chapter_id | title | publication_date | corpus_path | part_i_path | part_ii_path | fidelity |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -18,3 +18,4 @@ Civilization chapter pairs are not yet populated. Use [book/volume-ii/README.md]
 | geo-10 | Geo-Strategy #10: Putin's Strategic Imagination | 2024-06-05 | [corpus/geo-strategy/geo-10.md](../corpus/geo-strategy/geo-10.md) | [book/volume-i/geo-10-transcript.md](../book/volume-i/geo-10-transcript.md) | [book/volume-i/geo-10-commentary.md](../book/volume-i/geo-10-commentary.md) | exact_body_match |
 | geo-11 | Geo-Strategy #11: The Second American Civil War | 2024-06-07 | [corpus/geo-strategy/geo-11.md](../corpus/geo-strategy/geo-11.md) | [book/volume-i/geo-11-transcript.md](../book/volume-i/geo-11-transcript.md) | [book/volume-i/geo-11-commentary.md](../book/volume-i/geo-11-commentary.md) | exact_body_match |
 | geo-12 | Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future) | 2024-06-13 | [corpus/geo-strategy/geo-12.md](../corpus/geo-strategy/geo-12.md) | [book/volume-i/geo-12-transcript.md](../book/volume-i/geo-12-transcript.md) | [book/volume-i/geo-12-commentary.md](../book/volume-i/geo-12-commentary.md) | exact_body_match |
+| civ-01 | Civilization #1: Explaining Humanity's Transition to Agriculture | 2024-08-29 | [corpus/civilization/civ-01.md](../corpus/civilization/civ-01.md) | [book/volume-ii/civ-01/civ-01-transcript.md](../book/volume-ii/civ-01/civ-01-transcript.md) | [book/volume-ii/civ-01/civ-01-commentary.md](../book/volume-ii/civ-01/civ-01-commentary.md) | exact_body_match |

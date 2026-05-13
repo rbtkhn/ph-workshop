@@ -19,19 +19,21 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   `-- source-status.md
 |-- corpus/
 |   |-- README.md
-|   `-- geo-strategy/
-|       |-- geo-01.md
-|       |-- geo-02.md
-|       |-- geo-03.md
-|       |-- geo-04.md
-|       |-- geo-05.md
-|       |-- geo-06.md
-|       |-- geo-07.md
-|       |-- geo-08.md
-|       |-- geo-09.md
-|       `-- geo-10.md
-|       |-- geo-11.md
-|       `-- geo-12.md
+|   |-- geo-strategy/
+|   |   |-- geo-01.md
+|   |   |-- geo-02.md
+|   |   |-- geo-03.md
+|   |   |-- geo-04.md
+|   |   |-- geo-05.md
+|   |   |-- geo-06.md
+|   |   |-- geo-07.md
+|   |   |-- geo-08.md
+|   |   |-- geo-09.md
+|   |   |-- geo-10.md
+|   |   |-- geo-11.md
+|   |   `-- geo-12.md
+|   `-- civilization/
+|       `-- civ-01.md
 |-- registries/
 |   `-- README.md
 |-- scripts/
@@ -65,7 +67,10 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
         |-- geo-12-commentary.md
         `-- volume-ii/
             |-- README.md
-            `-- civ-XX-commentary.md
+            |-- civ-XX-commentary.md
+            `-- civ-01/
+                |-- civ-01-transcript.md
+                `-- civ-01-commentary.md
 ```
 
 ## Future Corpus Shape

@@ -7,7 +7,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Series | Status | Notes |
 | --- | --- | --- |
 | Geo-Strategy | Complete through `geo-12` | First public batch; all twelve chapter pairs are present and fidelity-verified. |
-| Civilization | Scaffold ready; first migration batch pending | Volume II commentary template is present in `book/volume-ii/`, and the first five lectures are source-ready in the private working corpus. No public `civ-01` through `civ-05` placeholders have been created yet. |
+| Civilization | First pilot present; first batch source-ready | Volume II commentary template is present in `book/volume-ii/`, the first pilot chapter pair is public as `civ-01`, and the first five lectures remain source-ready in the private working corpus for later batches. |
 | Secret History | Pending | Planned future series; no public chapter batch yet. |
 | Game Theory | Pending | Planned future series; no public chapter batch yet. |
 | Great Books | Pending | Planned future series; no public chapter batch yet. |
@@ -30,8 +30,8 @@ This order is only a planning guide. The actual publication sequence can change 
 ## Planning Notes
 
 - Keep the series roadmap high-level.
-- Treat Civilization as the next real migration batch, with source-ready material for the first five lectures.
-- Do not reserve placeholder chapter files or manifest rows until the batch is actually created.
+- Treat Civilization as the next active batch family, with source-ready material for the first five lectures and the first pilot already public as `civ-01`.
+- Do not reserve placeholder chapter files or manifest rows for future Civilization chapters until the batch is actually created.
 - Media policy draft for future chapters: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
 - Keep chapter routing in `chapter-manifest.yaml`.
 - Keep the readable chapter inventory in `chapter-index.md`.

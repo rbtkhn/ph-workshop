@@ -123,3 +123,13 @@ chapters:
     part_i_path: book/volume-i/geo-12-transcript.md
     part_ii_path: book/volume-i/geo-12-commentary.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-01
+    series: civilization
+    chronology: 1
+    title: "Civilization #1: Explaining Humanity's Transition to Agriculture"
+    publication_date: 2024-08-29
+    corpus_path: corpus/civilization/civ-01.md
+    part_i_path: book/volume-ii/civ-01/civ-01-transcript.md
+    part_ii_path: book/volume-ii/civ-01/civ-01-commentary.md
+    transcript_fidelity: exact_body_match
