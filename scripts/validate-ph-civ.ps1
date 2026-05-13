@@ -136,8 +136,9 @@ foreach ($file in $entryFiles) {
     throw "PH-CIV entry $($file.FullName) must set derived_corpus: ph-civ"
   }
 
-  if ((Get-FrontmatterValue -Frontmatter $frontmatter -Key 'review_status') -ne 'calibration_seed') {
-    throw "PH-CIV entry $($file.FullName) must set review_status: calibration_seed"
+  $reviewStatus = Get-FrontmatterValue -Frontmatter $frontmatter -Key 'review_status'
+  if ($reviewStatus -notin @('calibration_seed', 'in_review', 'draft_pending_analysis')) {
+    throw "PH-CIV entry $($file.FullName) has invalid review_status '$reviewStatus'"
   }
 
   $sourceId = Get-FrontmatterValue -Frontmatter $frontmatter -Key 'source_id'

@@ -137,3 +137,102 @@ chapters:
     part_ii_path: book/volume-ii/civ-01/civ-01-commentary.md
     ph_civ_path: corpus/ph-civ/civ-01.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-02
+    series: civilization
+    chronology: 2
+    title: "Civilization #2: Religion and the Dawn of Society"
+    publication_date: 2024-09-03
+    corpus_path: corpus/civilization/civ-02.md
+    part_i_path: book/volume-ii/civ-02/civ-02-transcript.md
+    part_ii_path: book/volume-ii/civ-02/civ-02-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-02.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-03
+    series: civilization
+    chronology: 3
+    title: "Civilization #3: The Religious Imagination"
+    publication_date: 2024-09-05
+    corpus_path: corpus/civilization/civ-03.md
+    part_i_path: book/volume-ii/civ-03/civ-03-transcript.md
+    part_ii_path: book/volume-ii/civ-03/civ-03-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-03.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-04
+    series: civilization
+    chronology: 4
+    title: "Civilization #4: The Paradise Lost of Marija Gimbutas"
+    publication_date: 2024-09-10
+    corpus_path: corpus/civilization/civ-04.md
+    part_i_path: book/volume-ii/civ-04/civ-04-transcript.md
+    part_ii_path: book/volume-ii/civ-04/civ-04-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-04.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-05
+    series: civilization
+    chronology: 5
+    title: "Civilization #5: The Yamnaya Conquest of Europe"
+    publication_date: 2024-09-12
+    corpus_path: corpus/civilization/civ-05.md
+    part_i_path: book/volume-ii/civ-05/civ-05-transcript.md
+    part_ii_path: book/volume-ii/civ-05/civ-05-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-05.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-06
+    series: civilization
+    chronology: 6
+    title: "Civilization #6: Elite Overproduction and the Bronze Age Collapse"
+    publication_date: 2024-10-08
+    corpus_path: corpus/civilization/civ-06.md
+    part_i_path: book/volume-ii/civ-06/civ-06-transcript.md
+    part_ii_path: book/volume-ii/civ-06/civ-06-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-06.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-07
+    series: civilization
+    chronology: 7
+    title: "Civilization #7: Homer's Iliad and the Birth of Greek Civilization"
+    publication_date: 2024-10-10
+    corpus_path: corpus/civilization/civ-07.md
+    part_i_path: book/volume-ii/civ-07/civ-07-transcript.md
+    part_ii_path: book/volume-ii/civ-07/civ-07-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-07.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-08
+    series: civilization
+    chronology: 8
+    title: "Civilization #8: Rat Utopia and the Peloponnesian War"
+    publication_date: 2024-10-15
+    corpus_path: corpus/civilization/civ-08.md
+    part_i_path: book/volume-ii/civ-08/civ-08-transcript.md
+    part_ii_path: book/volume-ii/civ-08/civ-08-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-08.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-09
+    series: civilization
+    chronology: 9
+    title: "Civilization #9: Aeschylus, Sophocles, and Euripides as Prophets of Democracy"
+    publication_date: 2024-10-17
+    corpus_path: corpus/civilization/civ-09.md
+    part_i_path: book/volume-ii/civ-09/civ-09-transcript.md
+    part_ii_path: book/volume-ii/civ-09/civ-09-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-09.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-10
+    series: civilization
+    chronology: 10
+    title: "Civilization #10: The Trial of Socrates and Plato's Allegory of the Cave"
+    publication_date: 2024-10-22
+    corpus_path: corpus/civilization/civ-10.md
+    part_i_path: book/volume-ii/civ-10/civ-10-transcript.md
+    part_ii_path: book/volume-ii/civ-10/civ-10-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-10.md
+    transcript_fidelity: exact_body_match

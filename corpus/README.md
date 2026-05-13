@@ -1,6 +1,6 @@
 # Corpus
 
-This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`), the first Civilization pilot (`civ-01`), and the `ph-civ` derived study corpus seed set.
+This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`), the first Civilization spine (`civ-01` through `civ-10`), and the `ph-civ` derived study corpus. Within the Civilization spine, `civ-02` and `civ-03` are in review and `civ-04` through `civ-10` remain draft pending full analysis.
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
@@ -20,8 +20,8 @@ Each item must:
 ## Planned Series
 
 - Geo-Strategy
-- Civilization (pilot underway)
-- PH-CIV derived placements (seed set underway)
+- Civilization (first ten-chapter spine underway)
+- PH-CIV derived placements
 - Secret History
 - Game Theory
 - Great Books

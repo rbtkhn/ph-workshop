@@ -19,11 +19,11 @@
 ## Canonical Content
 
 - [book/volume-i/](book/volume-i/): current Part I transcript and Part II commentary chapters.
-- [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and multi-layer commentary template.
-- [book/volume-ii/civ-01/](book/volume-ii/civ-01/): first Civilization pilot chapter pair.
-- [corpus/ph-civ/](corpus/ph-civ/): derived chapter placements and return paths for calibrated units.
+- [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and first ten-chapter spine.
+- [book/volume-ii/civ-01/](book/volume-ii/civ-01/): calibrated Civilization pilot chapter pair.
+- [corpus/ph-civ/](corpus/ph-civ/): derived chapter placements and return paths for calibrated and draft units.
 - [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
-- [corpus/civilization/](corpus/civilization/): Civilization source pointer for `civ-01`.
+- [corpus/civilization/](corpus/civilization/): Civilization source pointers for `civ-01` through `civ-10`.
 - [registries/sources.md](registries/sources.md): current source registry entries.
 - [docs/chapter-index.md](docs/chapter-index.md): human-readable chapter catalog.
 - [docs/series-roadmap.md](docs/series-roadmap.md): series-level planning and next-batch order.
@@ -31,5 +31,7 @@
 ## Load Contract
 
 - Default to one chapter at a time.
+- Use `ph_civ_path` from `chapter-manifest.yaml` when the task asks for placement, orientation, or re-entry framing; check `review_status` before treating a PH-CIV entry as calibrated.
+- Treat PH-CIV work as `map -> orient -> constrain -> validate -> route`.
 - Expand to adjacent chapters only for comparison tasks.
 - Treat chronology as the primary navigation axis and topic paths as secondary.
