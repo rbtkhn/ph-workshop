@@ -1,6 +1,6 @@
 # Corpus
 
-This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`) and the first Civilization pilot (`civ-01`).
+This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`), the first Civilization pilot (`civ-01`), and the `ph-civ` derived study corpus seed set.
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
@@ -21,6 +21,7 @@ Each item must:
 
 - Geo-Strategy
 - Civilization (pilot underway)
+- PH-CIV derived placements (seed set underway)
 - Secret History
 - Game Theory
 - Great Books

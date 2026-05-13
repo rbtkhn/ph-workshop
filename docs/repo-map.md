@@ -11,7 +11,6 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |-- CHANGELOG.md
 |-- docs/
 |   |-- annotation-block.md
-|   |-- civ-mem.md
 |   |-- chapter-index.md
 |   |-- series-roadmap.md
 |   |-- corrections-policy.md
@@ -33,12 +32,19 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   |-- geo-10.md
 |   |   |-- geo-11.md
 |   |   `-- geo-12.md
-|   `-- civilization/
-|       `-- civ-01.md
+|   |-- civilization/
+|   |   `-- civ-01.md
+|   `-- ph-civ/
+|       |-- README.md
+|       |-- index.md
+|       |-- civ-01.md
+|       |-- geo-05.md
+|       |-- geo-07.md
+|       `-- geo-12.md
 |-- registries/
 |   `-- README.md
 |-- scripts/
-|   |-- validate-civmem.ps1
+|   |-- validate-ph-civ.ps1
 |   `-- validate-transcript-fidelity.ps1
 `-- book/
     |-- README.md
@@ -67,14 +73,12 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
         |-- geo-11-commentary.md
         |-- geo-12-transcript.md
         |-- geo-12-commentary.md
-        |-- geo-12-civmem.yaml
         `-- volume-ii/
             |-- README.md
             |-- civ-XX-commentary.md
             `-- civ-01/
                 |-- civ-01-transcript.md
-                |-- civ-01-commentary.md
-                `-- civ-01-civmem.yaml
+                `-- civ-01-commentary.md
 ```
 
 ## Future Corpus Shape
@@ -85,6 +89,7 @@ Future corpus material should be added in small reviewed batches. A likely struc
 corpus/
 |-- geo-strategy/
 |-- civilization/
+|-- ph-civ/
 |-- secret-history/
 |-- game-theory/
 |-- great-books/

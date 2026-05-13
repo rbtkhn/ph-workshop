@@ -4,7 +4,8 @@ Public-facing changes should be recorded in batches.
 
 ## Unreleased
 
-- Prepare the CIV-MEM contract surface with a doctrine doc, chapter-local payload sidecars, rendered context blocks for `civ-01` and `geo-12`, and a lightweight validation helper.
+- Prepare the internal chapter-orientation contract surface with a doctrine doc, chapter-local payload sidecars, and a lightweight validation helper.
+- Add the PH-CIV derived study corpus seed set for `civ-01`, `geo-05`, `geo-07`, and `geo-12`, plus manifest routing and validation.
 - Bootstrap public standards and scaffold files.
 - Establish source-status vocabulary, correction workflow, annotation template, and contribution rules.
 - Add the first Geo-Strategy migration pair for `geo-01`: a transcript-first chapter file plus a lightweight corpus index entry.

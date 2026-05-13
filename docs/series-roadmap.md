@@ -8,6 +8,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | --- | --- | --- |
 | Geo-Strategy | Complete through `geo-12` | First public batch; all twelve chapter pairs are present and fidelity-verified. |
 | Civilization | First pilot present; first batch source-ready | Volume II commentary template is present in `book/volume-ii/`, the first pilot chapter pair is public as `civ-01`, and the first five lectures remain source-ready in the private working corpus for later batches. |
+| PH-CIV | Seed set present | Derived study placements exist for `civ-01`, `geo-05`, `geo-07`, and `geo-12`; this corpus is calibrated before broader rollout. |
 | Secret History | Pending | Planned future series; no public chapter batch yet. |
 | Game Theory | Pending | Planned future series; no public chapter batch yet. |
 | Great Books | Pending | Planned future series; no public chapter batch yet. |
@@ -31,6 +32,7 @@ This order is only a planning guide. The actual publication sequence can change 
 
 - Keep the series roadmap high-level.
 - Treat Civilization as the next active batch family, with source-ready material for the first five lectures and the first pilot already public as `civ-01`.
+- Treat PH-CIV as a derived study corpus, not a replacement for source transcripts, annotations, or commentary.
 - Do not reserve placeholder chapter files or manifest rows for future Civilization chapters until the batch is actually created.
 - Media policy draft for future chapters: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
 - Keep chapter routing in `chapter-manifest.yaml`.

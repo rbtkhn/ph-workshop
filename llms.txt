@@ -13,7 +13,6 @@
 
 - [docs/source-status.md](docs/source-status.md): source, transcript, annotation, review, and fidelity vocabulary.
 - [docs/annotation-block.md](docs/annotation-block.md): public item template.
-- [docs/civ-mem.md](docs/civ-mem.md): CIV-MEM payload/render/voice contract.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
 
@@ -22,8 +21,7 @@
 - [book/volume-i/](book/volume-i/): current Part I transcript and Part II commentary chapters.
 - [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and multi-layer commentary template.
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/): first Civilization pilot chapter pair.
-- [book/volume-ii/civ-01/civ-01-civmem.yaml](book/volume-ii/civ-01/civ-01-civmem.yaml): first strong-fit CIV-MEM payload.
-- [book/volume-i/geo-12-civmem.yaml](book/volume-i/geo-12-civmem.yaml): first contrast CIV-MEM payload.
+- [corpus/ph-civ/](corpus/ph-civ/): derived chapter placements and return paths for calibrated units.
 - [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
 - [corpus/civilization/](corpus/civilization/): Civilization source pointer for `civ-01`.
 - [registries/sources.md](registries/sources.md): current source registry entries.

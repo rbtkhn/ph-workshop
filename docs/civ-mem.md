@@ -1,9 +1,11 @@
 ---
 active_voice_profile: house-default
 payload_home: chapter-local YAML sidecar
-render_surface: commentary only
+render_surface: ph-civ derived corpus
 calibration_units:
   - civ-01
+  - geo-05
+  - geo-07
   - geo-12
 low_fit_rule: always present, shorter, and honest
 ---
@@ -11,13 +13,15 @@ low_fit_rule: always present, shorter, and honest
 # CIV-MEM Doctrine
 
 CIV-MEM is a historical-civilizational contextualization layer for lecture and chapter reading.
-It is an overlay, not a second corpus.
+It is an internal derivation scaffold, not the public reader-facing corpus.
 
 ## Contract
 
-- **Payload** lives in a chapter-local YAML sidecar.
-- **Rendering** lives in the chapter commentary surface as `## CIV-MEM Context`.
-- **Voice** is rendering-only and is currently fixed to `house-default`.
+- **Payload authority** lives in a chapter-local YAML sidecar named `*-civmem.yaml`.
+- **Public rendering authority** lives in the PH-CIV derived corpus under `corpus/ph-civ/`.
+- **Voice authority** lives in this doctrine file; rendering is currently fixed to `house-default`.
+
+The current repository does not yet have a separate evidence/media pack object beyond the chapter-local source files, corpus pointer, and commentary pair. The CIV-MEM sidecar is therefore the lightest existing pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
 
 ## Payload Fields
 
@@ -30,11 +34,11 @@ Each CIV-MEM payload should carry:
 - `fit_strength`
 - optional `mismatch_limit_note`
 
-## Rendering Rules
+## Derived Rendering Rules
 
-- Render a substantial but compact `## CIV-MEM Context` block near the top of the commentary.
-- Keep the rendered block derived from the payload, not independently authored.
-- Keep `At a glance` and `CIV-MEM Context` distinct: the first is topic/argument, the second is civilizational placement and reading posture.
+- Render public placements in `corpus/ph-civ/`, not as a named top-of-chapter block.
+- Keep the derived entry anchored in the payload, not independently authored.
+- Keep source commentary and PH-CIV distinct: commentary is topic, claim, and evidence work; PH-CIV is civilizational placement and reading posture.
 
 ## Voice
 
@@ -49,8 +53,15 @@ Each CIV-MEM payload should carry:
 
 ## Calibration Set
 
-The first calibration set is:
+The first calibration set is deliberately mixed across fit and genre conditions:
 
 - `civ-01` as the strong-fit Civilization pilot
-- `geo-12` as the first contrast unit
+- `geo-07` as a mediated uncertainty / current-event reasoning unit
+- `geo-05` as a lower-fit electoral forecast unit
+- `geo-12` as the medium-fit bridge into psychohistory and future modeling
 
+The repository has not yet imported Interviews or Great Books as chapter pairs. When those series arrive, add one true interview-style unit and one true literary unit before broad CIV-MEM rollout.
+
+## Cooler Rerender Check
+
+The schema must survive voice modulation without payload redesign. A cooler rerender of an existing payload may reduce rhetoric and shorten the frame, but it should still use the same `primary_object`, `historical_arc`, `dominant_slots`, `reader_orientation`, and `fit_strength` fields. This is a calibration check, not a second active voice profile.

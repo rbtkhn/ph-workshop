@@ -52,6 +52,7 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-05.md
     part_i_path: book/volume-i/geo-05-transcript.md
     part_ii_path: book/volume-i/geo-05-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-05.md
     transcript_fidelity: exact_body_match
 
   - chapter_id: geo-06
@@ -72,6 +73,7 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-07.md
     part_i_path: book/volume-i/geo-07-transcript.md
     part_ii_path: book/volume-i/geo-07-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-07.md
     transcript_fidelity: exact_body_match
 
   - chapter_id: geo-08
@@ -122,6 +124,7 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-12.md
     part_i_path: book/volume-i/geo-12-transcript.md
     part_ii_path: book/volume-i/geo-12-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-12.md
     transcript_fidelity: exact_body_match
 
   - chapter_id: civ-01
@@ -132,4 +135,5 @@ chapters:
     corpus_path: corpus/civilization/civ-01.md
     part_i_path: book/volume-ii/civ-01/civ-01-transcript.md
     part_ii_path: book/volume-ii/civ-01/civ-01-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-01.md
     transcript_fidelity: exact_body_match

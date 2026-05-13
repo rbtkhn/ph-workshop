@@ -1,0 +1,11 @@
+primary_object: "the lecture's electoral forecast about Trump, Nikki Haley, and the road to an Iran war"
+historical_arc: "coalition erosion, suburban legitimacy, donor influence, and foreign-policy escalation in late-imperial American politics"
+dominant_slots:
+  - "electoral coalition"
+  - "suburban voters"
+  - "elite signaling"
+  - "Iran war"
+  - "prediction testing"
+reader_orientation: "Read this as a low-fit CIV-MEM case: useful for seeing forecast method and imperial incentives, but not as a full civilizational chapter."
+fit_strength: "light"
+mismatch_limit_note: "The unit is mostly electoral analysis and near-term prediction, so the context block should stay compact and avoid civilizational overreach."

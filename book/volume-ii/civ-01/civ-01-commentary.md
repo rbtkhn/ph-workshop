@@ -25,22 +25,11 @@ source_reviewed_at: 2026-05-13
 exported_from_strategy_codex_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
-civ_mem_payload_path: ./civ-01-civmem.yaml
 ---
 
 # Part II - Civilization Commentary
 
 Part I is the full lecture transcript in `civ-01-transcript.md`. Part II uses the multi-layer scaffold below.
-
-## CIV-MEM Context
-
-This chapter sits at the opening of the Civilization arc. In house-default, it reads as a strong-fit example of how a lecture can place agriculture inside a wider story of ritual aggregation, sedentism, ancestor worship, and resource pressure. The frame is civilizational without inflating the evidence: the lecture is still about archaeology and interpretation, but its explanatory center is the formation of social order before full agriculture.
-
-- **Primary object:** the transition from hunter-gatherer life to agriculture as a civilizational threshold.
-- **Historical arc:** ritual aggregation, sedentism, ancestor worship, and resource pressure precede full agriculture and reshape social order.
-- **Dominant slots:** religion, sedentism, ancestor worship, resource pressure, social cohesion.
-- **Reader orientation:** read the lecture as an origin story for civilizational formation rather than a narrow archaeology lecture.
-- **Fit strength:** strong
 
 ## Layer 0 - Metadata & Quick Reference
 
