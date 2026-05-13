@@ -14,5 +14,6 @@ Future priorities:
 - volume orientation notes
 - chapter transcripts and complementary material as paired Part I / Part II files
 - Civilization Volume II scaffold, commentary template, and the civ-01 pilot
+- CIV-MEM doctrine, chapter-local payload sidecars, and the civ-01 / geo-12 calibration set
 - the first Geo-Strategy chapter pairs for `geo-01` through `geo-12`
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot

@@ -56,6 +56,7 @@ The repository should help readers:
 - [docs/chapter-index.md](docs/chapter-index.md) - readable chapter catalog
 - [docs/series-roadmap.md](docs/series-roadmap.md) - series-level planning and batch order
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
+- [docs/civ-mem.md](docs/civ-mem.md) - CIV-MEM doctrine and calibration set
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/civilization/](corpus/civilization/) - Civilization corpus pointer for `civ-01`
 - [registries/](registries/) - current source index and future cross-reference registries
@@ -64,6 +65,7 @@ The repository should help readers:
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - first Civilization pilot chapter pair
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
+- [docs/civ-mem.md](docs/civ-mem.md) - CIV-MEM payload/render contract and voice profile
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed
 - [docs/git-workflow.md](docs/git-workflow.md) - safe pull/push workflow for this checkout
 

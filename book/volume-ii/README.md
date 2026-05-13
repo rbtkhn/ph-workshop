@@ -28,3 +28,5 @@ Template rules:
 
 The transcript companion path is recorded in the commentary frontmatter.
 The first pilot chapter lives in [civ-01/](civ-01/) and follows this scaffold in a dedicated chapter folder.
+
+For CIV-MEM calibration units, the commentary file can render a top-level `## CIV-MEM Context` block from a chapter-local YAML payload sidecar. The shared doctrine lives in [docs/civ-mem.md](../../docs/civ-mem.md).
