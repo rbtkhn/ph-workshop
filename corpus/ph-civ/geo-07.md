@@ -3,6 +3,7 @@ source_id: geo-07
 title: "Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi?"
 source_series: geo-strategy
 publication_date: 2024-05-24
+source_corpus_path: corpus/geo-strategy/geo-07.md
 source_chapter_path: book/volume-i/geo-07-transcript.md
 commentary_path: book/volume-i/geo-07-commentary.md
 derived_corpus: ph-civ

@@ -15,6 +15,7 @@ source_id:
 title:
 source_series:
 publication_date:
+source_corpus_path:
 source_chapter_path:
 commentary_path:
 derived_corpus: ph-civ
@@ -30,6 +31,21 @@ Required sections:
 - `Limits of the Frame`
 - `Return Path`
 
+## What PH-CIV Is / Is Not
+
+PH-CIV is:
+
+- a derived placement corpus
+- a reading posture and return-path aid
+- a way to compare calibrated chapters by historical pressure and placement weight
+
+PH-CIV is not:
+
+- a transcript or source substitute
+- an endorsement of every represented claim
+- a second commentary page
+- a prediction registry
+
 ## Calibration
 
 Placement weight controls rhetorical force.
@@ -39,6 +55,10 @@ Placement weight controls rhetorical force.
 - `light` entries should be narrow, useful, and explicit about limits.
 
 PH-CIV entries should not become second commentaries. They should orient the reader, name the pressure points, and point back to the source chapter.
+
+## Tool Readiness
+
+PH-CIV filenames intentionally match source IDs. This keeps the corpus ready for future commands such as `ph-civ orient geo-07`, `ph-civ index`, and `ph-civ validate` without changing the file layout.
 
 ## Seed Set
 

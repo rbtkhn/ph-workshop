@@ -3,6 +3,7 @@ source_id: geo-12
 title: "Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)"
 source_series: geo-strategy
 publication_date: 2024-06-13
+source_corpus_path: corpus/geo-strategy/geo-12.md
 source_chapter_path: book/volume-i/geo-12-transcript.md
 commentary_path: book/volume-i/geo-12-commentary.md
 derived_corpus: ph-civ

@@ -3,6 +3,7 @@ source_id: civ-01
 title: "Civilization #1: Explaining Humanity's Transition to Agriculture"
 source_series: civilization
 publication_date: 2024-08-29
+source_corpus_path: corpus/civilization/civ-01.md
 source_chapter_path: book/volume-ii/civ-01/civ-01-transcript.md
 commentary_path: book/volume-ii/civ-01/civ-01-commentary.md
 derived_corpus: ph-civ

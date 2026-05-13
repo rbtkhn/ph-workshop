@@ -36,20 +36,63 @@ function Get-FrontmatterValue {
   return $match.Groups[1].Value.Trim().Trim('"')
 }
 
+function Get-PublicSurfaceFiles {
+  param([Parameter(Mandatory = $true)][string]$CorpusPath)
+
+  $paths = @(
+    'README.md',
+    'llms.txt',
+    'CHANGELOG.md',
+    'chapter-manifest.yaml',
+    'corpus/README.md',
+    'book/README.md',
+    'book/volume-ii/README.md',
+    'docs/chapter-index.md',
+    'docs/repo-map.md',
+    'docs/series-roadmap.md'
+  )
+
+  $files = New-Object System.Collections.Generic.List[string]
+
+  foreach ($path in $paths) {
+    $resolvedPath = Resolve-RepoPath -Path $path
+    if (Test-Path -LiteralPath $resolvedPath -PathType Leaf) {
+      $files.Add($resolvedPath)
+    }
+  }
+
+  $resolvedCorpusPath = Resolve-RepoPath -Path $CorpusPath
+  if (Test-Path -LiteralPath $resolvedCorpusPath -PathType Container) {
+    foreach ($file in (Get-ChildItem -LiteralPath $resolvedCorpusPath -Filter '*.md' -File)) {
+      $files.Add($file.FullName)
+    }
+  }
+
+  $bookRoot = Resolve-RepoPath -Path 'book'
+  if (Test-Path -LiteralPath $bookRoot -PathType Container) {
+    foreach ($file in (Get-ChildItem -LiteralPath $bookRoot -Filter '*.md' -File -Recurse)) {
+      $files.Add($file.FullName)
+    }
+  }
+
+  return $files | Select-Object -Unique
+}
+
 $resolvedCorpusPath = Resolve-RepoPath -Path $CorpusPath
 if (-not (Test-Path -LiteralPath $resolvedCorpusPath -PathType Container)) {
   throw "PH-CIV corpus path does not exist: $CorpusPath"
 }
 
 $forbiddenPattern = '(?i)civ[-_ ]?mem'
-$publicFiles = Get-ChildItem -LiteralPath $resolvedCorpusPath -Filter '*.md' -File
-foreach ($file in $publicFiles) {
-  $text = Get-Text -Path $file.FullName
+$publicSurfaceFiles = Get-PublicSurfaceFiles -CorpusPath $CorpusPath
+foreach ($file in $publicSurfaceFiles) {
+  $text = Get-Text -Path $file
   if ($text -match $forbiddenPattern) {
-    throw "Public PH-CIV file $($file.FullName) contains internal scaffold terminology"
+    throw "Public surface file $file contains internal scaffold terminology"
   }
 }
 
+$publicFiles = Get-ChildItem -LiteralPath $resolvedCorpusPath -Filter '*.md' -File
 $entryFiles = $publicFiles | Where-Object { $_.Name -notin @('README.md', 'index.md') }
 if (-not $entryFiles) {
   throw "No PH-CIV entry files found in $CorpusPath"
@@ -60,6 +103,7 @@ $requiredFields = @(
   'title',
   'source_series',
   'publication_date',
+  'source_corpus_path',
   'source_chapter_path',
   'commentary_path',
   'derived_corpus',
@@ -112,7 +156,7 @@ foreach ($file in $entryFiles) {
     }
   }
 
-  foreach ($pathField in @('source_chapter_path', 'commentary_path')) {
+  foreach ($pathField in @('source_corpus_path', 'source_chapter_path', 'commentary_path')) {
     $target = Get-FrontmatterValue -Frontmatter $frontmatter -Key $pathField
     $resolvedTarget = Resolve-RepoPath -Path $target
     if (-not (Test-Path -LiteralPath $resolvedTarget -PathType Leaf)) {
