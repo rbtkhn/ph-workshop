@@ -7,7 +7,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Series | Status | Notes |
 | --- | --- | --- |
 | Geo-Strategy | Complete through `geo-12` | First public batch; all twelve chapter pairs are present and fidelity-verified. |
-| Civilization | Pending first public batch | Next likely series for a fresh transcript/commentary pilot. |
+| Civilization | Scaffold ready; first public batch pending | Volume II commentary template is now present in `book/volume-ii/`. |
 | Secret History | Pending | Planned future series; no public chapter batch yet. |
 | Game Theory | Pending | Planned future series; no public chapter batch yet. |
 | Great Books | Pending | Planned future series; no public chapter batch yet. |

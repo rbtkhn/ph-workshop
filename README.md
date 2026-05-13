@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`, and the Civilization Volume II scaffold is now in place as a versioned commentary template.
 
 Included now:
 
@@ -27,6 +27,7 @@ Included now:
 - repo map
 - export policy from the private working corpus
 - the first public Geo-Strategy chapter files for `geo-01` through `geo-12`
+- the Civilization Volume II scaffold and multi-layer commentary template
 
 Not included yet:
 
@@ -34,6 +35,7 @@ Not included yet:
 - full corpus exports beyond the first batch
 - private operator notes
 - internal working backlog
+- completed Civilization chapter pairs
 
 ## Intended Audience
 
@@ -56,6 +58,7 @@ The repository should help readers:
 - [corpus/](corpus/) - public source items and annotations
 - [registries/](registries/) - current source index and future cross-reference registries
 - [book/](book/) - public chapter files and reader-facing material
+- [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and commentary template
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed

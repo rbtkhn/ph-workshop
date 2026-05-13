@@ -62,7 +62,10 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
         |-- geo-11-transcript.md
         |-- geo-11-commentary.md
         |-- geo-12-transcript.md
-        `-- geo-12-commentary.md
+        |-- geo-12-commentary.md
+        `-- volume-ii/
+            |-- README.md
+            `-- civ-XX-commentary.md
 ```
 
 ## Future Corpus Shape

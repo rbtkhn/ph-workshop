@@ -2,6 +2,8 @@
 
 This index lists the current public chapter pairs in publication order. Use [chapter-manifest.yaml](../chapter-manifest.yaml) for routing and [README.md](../README.md) / [llms.txt](../llms.txt) for orientation.
 
+Civilization chapter pairs are not yet populated. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
+
 | chapter_id | title | publication_date | corpus_path | part_i_path | part_ii_path | fidelity |
 | --- | --- | --- | --- | --- | --- | --- |
 | geo-01 | Geo-Strategy #1: Iran's Strategy Matrix | 2024-04-24 | [corpus/geo-strategy/geo-01.md](../corpus/geo-strategy/geo-01.md) | [book/volume-i/geo-01-transcript.md](../book/volume-i/geo-01-transcript.md) | [book/volume-i/geo-01-commentary.md](../book/volume-i/geo-01-commentary.md) | exact_body_match |

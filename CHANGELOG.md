@@ -21,6 +21,7 @@ Public-facing changes should be recorded in batches.
 - Add the Geo-Strategy `geo-09` and `geo-10` chapter pairs plus matching corpus, registry, and manifest entries.
 - Move the long chapter inventory out of `README.md` into a dedicated chapter index.
 - Add the Geo-Strategy `geo-11` and `geo-12` chapter pairs plus matching corpus, registry, and manifest entries.
+- Add the Civilization Volume II scaffold and the multi-layer commentary template.
 
 ## Batch Log Template
 
