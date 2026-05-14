@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH Cross-Volume"
+  short_description: "Cross-volume corridor workflow"
+  default_prompt: "Use $ph-cross-volume to add or audit a typed Predictive History cross-volume corridor."
+
+policy:
+  allow_implicit_invocation: true

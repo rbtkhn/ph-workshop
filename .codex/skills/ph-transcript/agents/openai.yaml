@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH Transcript"
+  short_description: "Transcript capture and fidelity"
+  default_prompt: "Use $ph-transcript to handle a Predictive History transcript workflow with quote-grade and fidelity guardrails."
+
+policy:
+  allow_implicit_invocation: true

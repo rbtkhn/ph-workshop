@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH Audit"
+  short_description: "Repo health and audit workflow"
+  default_prompt: "Use $ph-audit to run Predictive History health checks and summarize findings."
+
+policy:
+  allow_implicit_invocation: true

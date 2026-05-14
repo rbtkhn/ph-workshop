@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH-CIV"
+  short_description: "PH-CIV orientation workflow"
+  default_prompt: "Use $ph-civ to maintain a Predictive History PH-CIV orientation entry with limits and return paths."
+
+policy:
+  allow_implicit_invocation: true

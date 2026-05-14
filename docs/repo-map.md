@@ -11,9 +11,19 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |-- CHANGELOG.md
 |-- .cursor/
 |   `-- skills/
+|       |-- ph-transcript/
+|       |-- ph-chapter/
+|       |-- ph-civ/
+|       |-- ph-cross-volume/
+|       |-- ph-audit/
 |       `-- ph-youtube-transcript/
 |-- .codex/
 |   `-- skills/
+|       |-- ph-transcript/
+|       |-- ph-chapter/
+|       |-- ph-civ/
+|       |-- ph-cross-volume/
+|       |-- ph-audit/
 |       `-- ph-youtube-transcript/
 |-- docs/
 |   |-- annotation-block.md
@@ -76,6 +86,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- validate-cross-volume-links.ps1
 |   |-- validate-orientation.ps1
 |   |-- validate-ph-civ.ps1
+|   |-- validate-ph-skills.ps1
 |   |-- validate-transcript-skill.ps1
 |   `-- validate-transcript-fidelity.ps1
 `-- book/
@@ -151,4 +162,13 @@ The exact registry format should be settled after the first manual Geo-Strategy 
 
 ## Local Skills
 
-The repo-local `ph-youtube-transcript` skill lives under both `.cursor/skills/` and `.codex/skills/` so future agents can load the same Predictive History transcript workflow in either surface. Use it for PH YouTube transcript acquisition, ASR audit, verbatim sync, curated transcript repair, and quote-grade verification boundaries. See [youtube-transcript-workflow.md](youtube-transcript-workflow.md) for the public workflow map.
+The repo-local Predictive History skill suite lives under both `.cursor/skills/` and `.codex/skills/` so future agents can load the same workflows in either surface.
+
+- `ph-transcript`: transcript acquisition, ASR audit, generated verbatim sync, exact-body-match checks, and quote-grade boundaries.
+- `ph-chapter`: one chapter pair plus manifest, source metadata, and review status wiring.
+- `ph-civ`: PH-CIV placement entries, orientation payload alignment, limits, and return paths.
+- `ph-cross-volume`: typed cross-volume corridors and edge registry work.
+- `ph-audit`: health checks, audit reports, high-risk queue, and next-action summaries.
+- `ph-youtube-transcript`: compatibility alias for `ph-transcript`.
+
+See [youtube-transcript-workflow.md](youtube-transcript-workflow.md) for the public transcript workflow map.

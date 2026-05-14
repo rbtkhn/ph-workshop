@@ -60,8 +60,8 @@ Invoke-Step -Name 'Validate cross-volume links' -Script {
   & .\scripts\validate-cross-volume-links.ps1
 }
 
-Invoke-Step -Name 'Validate transcript skill' -Script {
-  & .\scripts\validate-transcript-skill.ps1
+Invoke-Step -Name 'Validate PH skills' -Script {
+  & .\scripts\validate-ph-skills.ps1
 }
 
 Invoke-Step -Name 'Validate transcript substrate' -Script {

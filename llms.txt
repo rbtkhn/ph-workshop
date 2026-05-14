@@ -41,6 +41,7 @@
 - Use `ph_civ_path` from `chapter-manifest.yaml` when the task asks for placement, orientation, or re-entry framing; check `review_status` before treating a PH-CIV entry as calibrated.
 - Use `corpus/cross-volume/` and `registries/cross-volume-links.yaml` when the task asks for cross-volume inheritance, comparison, or a guided route across series.
 - Treat PH-CIV work as `map -> orient -> constrain -> validate -> route`.
-- Use the repo-local `ph-youtube-transcript` skill for `youtube transcript`, `ph transcript`, or `predictive history transcript` work; if the fuller transcript tooling is absent, stay in plan-only fallback.
+- Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `ph-civ`, `ph-cross-volume`, and `ph-audit`.
+- Treat `ph-youtube-transcript` as a compatibility alias for `ph-transcript`.
 - Expand to adjacent chapters only for comparison tasks.
 - Treat chronology as the primary navigation axis and topic paths as secondary.

@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH Chapter"
+  short_description: "Chapter pair creation workflow"
+  default_prompt: "Use $ph-chapter to create or update one Predictive History chapter pair with manifest routing."
+
+policy:
+  allow_implicit_invocation: true
