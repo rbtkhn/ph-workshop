@@ -11,8 +11,8 @@ corridors:
     status: in_review
     reader_path: corpus/cross-volume/homer-to-tolstoy.md
     terminal_author: Tolstoy
-    terminal_status: not_yet_routed
-    description: "A broader literary author arc from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, with Tolstoy named as the unrouted terminal author."
+    terminal_status: routed_via_secret_history_subset
+    description: "A broader literary author arc from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, with Tolstoy routed through the limited Secret History literary subset."
 
 edges:
   - from: civ-07
@@ -122,3 +122,12 @@ edges:
     claim: "The literary arc moves from Shakespeare's language of empire into Dostoevsky's novelistic pressure on conscience, suffering, faith, and the modern soul."
     strength: strong
     guardrail: "Do not turn Shakespeare or Dostoevsky into complete explanations for British, Russian, or modern civilization; keep them as literary carriers inside larger historical frames."
+
+  - from: civ-53
+    to: sh-16
+    relation_type: return
+    corridor: homer-to-tolstoy
+    theme: "Dostoevsky into Tolstoy"
+    claim: "The literary arc can now reach Tolstoy through SH-16's Anna Karenina coda, which returns from Greek epic memory to the modern novel's spiritual and psychological fracture."
+    strength: medium
+    guardrail: "SH-16 is source-backed but not a dedicated Tolstoy lecture; treat Tolstoy here as a routed terminal coda, not as complete Tolstoy coverage."

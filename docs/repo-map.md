@@ -56,6 +56,10 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   |-- README.md
 |   |   |-- index.md
 |   |   `-- gb-01..gb-10.md
+|   |-- secret-history/
+|   |   |-- README.md
+|   |   |-- index.md
+|   |   `-- sh-11,sh-16..sh-18.md
 |   |-- cross-volume/
 |   |   |-- README.md
 |   |   |-- index.md
@@ -67,6 +71,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       |-- civ-01.md
 |       |-- civ-02..civ-60.md
 |       |-- gb-01..gb-10.md
+|       |-- sh-11,sh-16..sh-18.md
 |       |-- geo-05.md
 |       |-- geo-07.md
 |       `-- geo-12.md
@@ -85,6 +90,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- validate-all.ps1
 |   |-- validate-civilization-spine.ps1
 |   |-- validate-cross-volume-links.ps1
+|   |-- validate-secret-history-spine.ps1
 |   |-- validate-orientation.ps1
 |   |-- validate-ph-civ.ps1
 |   |-- validate-ph-skills.ps1
@@ -122,12 +128,18 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
     |   `-- civ-01..civ-60/
     |       |-- civ-XX-transcript.md
     |       `-- civ-XX-commentary.md
-    `-- volume-v/
+    |-- volume-v/
+    |   |-- README.md
+    |   `-- gb-01..gb-10/
+    |       |-- gb-XX-transcript.md
+    |       |-- gb-XX-commentary.md
+    |       `-- gb-XX-orientation.yaml
+    `-- volume-vi/
         |-- README.md
-        `-- gb-01..gb-10/
-            |-- gb-XX-transcript.md
-            |-- gb-XX-commentary.md
-            `-- gb-XX-orientation.yaml
+        `-- sh-11,sh-16..sh-18/
+            |-- sh-XX-transcript.md
+            |-- sh-XX-commentary.md
+            `-- sh-XX-orientation.yaml
 ```
 
 ## Future Corpus Shape

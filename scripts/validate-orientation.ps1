@@ -1,7 +1,7 @@
 param(
   [string]$ManifestPath = "chapter-manifest.yaml",
   [string]$CorpusPath = "corpus/ph-civ",
-  [string[]]$CalibrationIds = @('civ-01', 'geo-05', 'geo-07', 'geo-12', 'gb-01', 'gb-02', 'gb-03', 'gb-04', 'gb-05', 'gb-06', 'gb-07', 'gb-08', 'gb-09', 'gb-10')
+  [string[]]$CalibrationIds = @('civ-01', 'geo-05', 'geo-07', 'geo-12', 'gb-01', 'gb-02', 'gb-03', 'gb-04', 'gb-05', 'gb-06', 'gb-07', 'gb-08', 'gb-09', 'gb-10', 'sh-11', 'sh-16', 'sh-17', 'sh-18')
 )
 
 $ErrorActionPreference = 'Stop'

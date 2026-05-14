@@ -11,6 +11,8 @@ Corridors are not causal proofs. They are reading routes: ways to notice how a f
 | Homer to Dante | In review | [homer-to-dante.md](homer-to-dante.md) |
 | Homer to Tolstoy | In review | [homer-to-tolstoy.md](homer-to-tolstoy.md) |
 
+The Homer-to-Tolstoy route now reaches Tolstoy through the limited Secret History literary subset. That endpoint is source-backed but deliberately modest: SH-16 includes an *Anna Karenina* coda, not a dedicated Tolstoy lecture.
+
 ## Routing Contract
 
 - Reader-facing corridor files live in this folder.

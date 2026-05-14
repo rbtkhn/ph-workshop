@@ -916,3 +916,72 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-10.md
     orientation_payload_path: book/volume-v/gb-10/gb-10-orientation.yaml
     transcript_fidelity: needs_fidelity_review
+
+  - chapter_id: sh-11
+    series: secret-history
+    chronology: 11
+    title: "Secret History #11: Dawn of the Human Imagination"
+    source_url: https://www.youtube.com/watch?v=LvHsg5qtDs8
+    publication_date: 2025-10-21
+    corpus_path: corpus/secret-history/sh-11.md
+    part_i_path: book/volume-vi/sh-11/sh-11-transcript.md
+    part_ii_path: book/volume-vi/sh-11/sh-11-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-11.md
+    orientation_payload_path: book/volume-vi/sh-11/sh-11-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    subset_status: literary_subset
+  - chapter_id: sh-16
+    series: secret-history
+    chronology: 16
+    title: "Secret History #16: The Big Bang of Greek Civilization"
+    source_url: https://www.youtube.com/watch?v=4ehovUNrSrw
+    publication_date: 2025-11-06
+    corpus_path: corpus/secret-history/sh-16.md
+    part_i_path: book/volume-vi/sh-16/sh-16-transcript.md
+    part_ii_path: book/volume-vi/sh-16/sh-16-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-16.md
+    orientation_payload_path: book/volume-vi/sh-16/sh-16-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    subset_status: literary_subset
+  - chapter_id: sh-17
+    series: secret-history
+    chronology: 17
+    title: "Secret History #17: Literary Genesis"
+    source_url: https://www.youtube.com/watch?v=PlMNq44tBG0
+    publication_date: 2025-11-12
+    corpus_path: corpus/secret-history/sh-17.md
+    part_i_path: book/volume-vi/sh-17/sh-17-transcript.md
+    part_ii_path: book/volume-vi/sh-17/sh-17-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-17.md
+    orientation_payload_path: book/volume-vi/sh-17/sh-17-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    subset_status: literary_subset
+  - chapter_id: sh-18
+    series: secret-history
+    chronology: 18
+    title: "Secret History #18: Thus Spoke Zarathustra"
+    source_url: https://www.youtube.com/watch?v=dELEdxh0ceg
+    publication_date: 2025-11-14
+    corpus_path: corpus/secret-history/sh-18.md
+    part_i_path: book/volume-vi/sh-18/sh-18-transcript.md
+    part_ii_path: book/volume-vi/sh-18/sh-18-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-18.md
+    orientation_payload_path: book/volume-vi/sh-18/sh-18-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    subset_status: literary_subset

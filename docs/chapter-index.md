@@ -4,6 +4,8 @@ This index lists the current public chapter pairs in publication order. Use [cha
 
 Civilization now has a first sixty-chapter spine. `civ-01` remains the calibrated pilot, and `civ-02` through `civ-60` are in review after initial commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
 
+Secret History is present only as a limited literary/imagination subset for the Homer-to-Tolstoy corridor. Do not read the `sh-*` rows below as a full Secret History series rollout.
+
 For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpus/ph-civ/index.md).
 
 | chapter_id | title | publication_date | corpus_path | part_i_path | part_ii_path | fidelity |
@@ -91,3 +93,7 @@ For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpu
 | gb-08 | Great Books #8: The Poetry of Empire | 2026-03-25 | [corpus/great-books/gb-08.md](../corpus/great-books/gb-08.md) | [book/volume-v/gb-08/gb-08-transcript.md](../book/volume-v/gb-08/gb-08-transcript.md) | [book/volume-v/gb-08/gb-08-commentary.md](../book/volume-v/gb-08/gb-08-commentary.md) | exact_body_match |
 | gb-09 | Great Books #9: Dante (Re-Upload with Audio Fixed) | 2026-04-08 | [corpus/great-books/gb-09.md](../corpus/great-books/gb-09.md) | [book/volume-v/gb-09/gb-09-transcript.md](../book/volume-v/gb-09/gb-09-transcript.md) | [book/volume-v/gb-09/gb-09-commentary.md](../book/volume-v/gb-09/gb-09-commentary.md) | exact_body_match |
 | gb-10 | Great Books #10: Dante's Hierarchy of Hell | 2026-04-29 | [corpus/great-books/gb-10.md](../corpus/great-books/gb-10.md) | [book/volume-v/gb-10/gb-10-transcript.md](../book/volume-v/gb-10/gb-10-transcript.md) | [book/volume-v/gb-10/gb-10-commentary.md](../book/volume-v/gb-10/gb-10-commentary.md) | needs_fidelity_review |
+| sh-11 | Secret History #11: Dawn of the Human Imagination | 2025-10-21 | [corpus/secret-history/sh-11.md](../corpus/secret-history/sh-11.md) | [book/volume-vi/sh-11/sh-11-transcript.md](../book/volume-vi/sh-11/sh-11-transcript.md) | [book/volume-vi/sh-11/sh-11-commentary.md](../book/volume-vi/sh-11/sh-11-commentary.md) | exact_body_match |
+| sh-16 | Secret History #16: The Big Bang of Greek Civilization | 2025-11-06 | [corpus/secret-history/sh-16.md](../corpus/secret-history/sh-16.md) | [book/volume-vi/sh-16/sh-16-transcript.md](../book/volume-vi/sh-16/sh-16-transcript.md) | [book/volume-vi/sh-16/sh-16-commentary.md](../book/volume-vi/sh-16/sh-16-commentary.md) | exact_body_match |
+| sh-17 | Secret History #17: Literary Genesis | 2025-11-12 | [corpus/secret-history/sh-17.md](../corpus/secret-history/sh-17.md) | [book/volume-vi/sh-17/sh-17-transcript.md](../book/volume-vi/sh-17/sh-17-transcript.md) | [book/volume-vi/sh-17/sh-17-commentary.md](../book/volume-vi/sh-17/sh-17-commentary.md) | exact_body_match |
+| sh-18 | Secret History #18: Thus Spoke Zarathustra | 2025-11-14 | [corpus/secret-history/sh-18.md](../corpus/secret-history/sh-18.md) | [book/volume-vi/sh-18/sh-18-transcript.md](../book/volume-vi/sh-18/sh-18-transcript.md) | [book/volume-vi/sh-18/sh-18-commentary.md](../book/volume-vi/sh-18/sh-18-commentary.md) | exact_body_match |

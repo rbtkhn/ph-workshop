@@ -47,6 +47,10 @@ function Get-PublicSurfaceFiles {
     'corpus/README.md',
     'book/README.md',
     'book/volume-ii/README.md',
+    'book/volume-v/README.md',
+    'book/volume-vi/README.md',
+    'corpus/secret-history/README.md',
+    'corpus/secret-history/index.md',
     'docs/chapter-index.md',
     'docs/repo-map.md',
     'docs/series-roadmap.md'
@@ -71,6 +75,13 @@ function Get-PublicSurfaceFiles {
   $greatBooksCorpusPath = Resolve-RepoPath -Path 'corpus/great-books'
   if (Test-Path -LiteralPath $greatBooksCorpusPath -PathType Container) {
     foreach ($file in (Get-ChildItem -LiteralPath $greatBooksCorpusPath -Filter '*.md' -File)) {
+      $files.Add($file.FullName)
+    }
+  }
+
+  $secretHistoryCorpusPath = Resolve-RepoPath -Path 'corpus/secret-history'
+  if (Test-Path -LiteralPath $secretHistoryCorpusPath -PathType Container) {
+    foreach ($file in (Get-ChildItem -LiteralPath $secretHistoryCorpusPath -Filter '*.md' -File)) {
       $files.Add($file.FullName)
     }
   }

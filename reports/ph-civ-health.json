@@ -1,11 +1,11 @@
 ﻿{
     "generated_at":  "deterministic-local",
     "corpus_path":  "corpus/ph-civ",
-    "entry_count":  73,
+    "entry_count":  77,
     "warning_count":  0,
     "placement_weight_counts":  {
                                     "strong":  60,
-                                    "medium":  12,
+                                    "medium":  16,
                                     "light":  1
                                 },
     "status":  "clean",
@@ -809,6 +809,50 @@
                         "file":  "corpus/ph-civ/geo-12.md",
                         "limits_length":  258,
                         "return_path_length":  244,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-11",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-11.md",
+                        "limits_length":  162,
+                        "return_path_length":  152,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-16",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-16.md",
+                        "limits_length":  162,
+                        "return_path_length":  123,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-17",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-17.md",
+                        "limits_length":  171,
+                        "return_path_length":  145,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-18",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-18.md",
+                        "limits_length":  164,
+                        "return_path_length":  148,
                         "warnings":  [
 
                                      ]

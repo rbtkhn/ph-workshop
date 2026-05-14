@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`; Civilization Volume II has a first sixty-chapter spine from `civ-01` through `civ-60`; and Volume V Great Books is active through `gb-10`.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`; Civilization Volume II has a first sixty-chapter spine from `civ-01` through `civ-60`; Volume V Great Books is active through `gb-10`; and a limited Secret History literary subset supports the Homer-to-Tolstoy corridor.
 
 Included now:
 
@@ -31,12 +31,13 @@ Included now:
 - the first Civilization spine from `civ-01` through `civ-60`, with `civ-02` through `civ-60` in review
 - the `ph-civ` derived study corpus for calibrated and in-review chapter placement and re-entry
 - the Great Books Volume V spine from `gb-01` through `gb-10`, with all ten units in review
-- the first cross-volume corridor, Homer to Dante, linking Civilization and Great Books study routes
+- the limited Secret History literary subset for `sh-11`, `sh-16`, `sh-17`, and `sh-18`
+- the first cross-volume corridors, Homer to Dante and Homer to Tolstoy, linking Civilization, Great Books, and selected Secret History study routes
 
 Not included yet:
 
 - generous excerpts
-- full corpus exports beyond the active Geo-Strategy, Civilization, and Great Books batches
+- full corpus exports beyond the active Geo-Strategy, Civilization, Great Books, and limited Secret History literary subset batches
 - private operator notes
 - internal working backlog
 - final Civilization commentary analysis beyond `civ-01`
@@ -63,11 +64,13 @@ The repository should help readers:
 - [corpus/ph-civ/](corpus/ph-civ/) - derived study placements for calibrated and in-review chapters
 - [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc
 - [corpus/great-books/](corpus/great-books/) - Great Books corpus pointers for `gb-01` through `gb-10`
+- [corpus/secret-history/](corpus/secret-history/) - limited Secret History literary/imagination subset for the Homer-to-Tolstoy corridor
 - [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-60`
 - [registries/](registries/) - current source index, cross-volume edge registry, and future cross-reference registries
 - [book/](book/) - public chapter files and reader-facing material
 - [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first sixty-chapter spine
 - [book/volume-v/](book/volume-v/) - Great Books chapter scaffold and first ten-chapter spine
+- [book/volume-vi/](book/volume-vi/) - limited Secret History literary/imagination subset
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - calibrated Civilization pilot chapter pair
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling

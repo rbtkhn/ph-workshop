@@ -97,3 +97,14 @@ The pipeline keeps the corpus compact: choose eligible chapters, write placement
 | `geo-05` | light | calibration_seed | geo-strategy | [geo-05.md](geo-05.md) |
 | `geo-07` | medium | calibration_seed | geo-strategy | [geo-07.md](geo-07.md) |
 | `geo-12` | medium | calibration_seed | geo-strategy | [geo-12.md](geo-12.md) |
+
+## Secret History Literary Subset
+
+These entries are routed to support the Homer-to-Tolstoy literary/imagination spine. They do not imply that the full Secret History series has been materialized.
+
+| ID | Series | Title | Weight | Status | Role |
+| --- | --- | --- | --- | --- | --- |
+| [sh-11](sh-11.md) | Secret History | Secret History #11: Dawn of the Human Imagination | medium | in review | Literary/imagination support |
+| [sh-16](sh-16.md) | Secret History | Secret History #16: The Big Bang of Greek Civilization | medium | in review | Literary/imagination support |
+| [sh-17](sh-17.md) | Secret History | Secret History #17: Literary Genesis | medium | in review | Literary/imagination support |
+| [sh-18](sh-18.md) | Secret History | Secret History #18: Thus Spoke Zarathustra | medium | in review | Literary/imagination support |
