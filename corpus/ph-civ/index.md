@@ -1,110 +1,152 @@
 # PH-CIV Index
 
-This index is the human entry point for PH-CIV placements. Use it when you want a chapter's larger historical placement before moving into transcript or commentary detail.
+PH-CIV is the Predictive History orientation and re-entry corpus. It uses one public card shape across both semesters: Civilization discovers the laws of history, and World War sees those laws applied.
 
-PH-CIV is an orientation layer. The source chapter remains canonical; the PH-CIV entry helps readers decide what to notice, how much weight to give the frame, and how to return later.
+## Operating Pipeline
 
-## How To Use
-
-1. Start with a PH-CIV entry when entering a chapter cold.
-2. Move from the entry to the source transcript for what was said.
-3. Use the companion commentary for source-backed claims, concepts, predictions, and counter-readings.
-
-Machine and tool routing should use `ph_civ_path` in [chapter-manifest.yaml](../../chapter-manifest.yaml).
-
-PH-CIV work follows this operating pipeline:
-
-```text
-map -> orient -> constrain -> validate -> route
-```
-
-The pipeline keeps the corpus compact: choose eligible chapters, write placement entries, control overreach, validate the contract, and route readers or tools to the result.
+PH-CIV work follows: map -> orient -> constrain -> validate -> route.
 
 ## Entries
 
-| source_id | placement_weight | review_status | source_series | entry |
+| ID | Part | Title | Weight | Status |
 | --- | --- | --- | --- | --- |
-| `civ-01` | strong | calibration_seed | civilization | [civ-01.md](civ-01.md) |
-| `civ-02` | strong | in_review | civilization | [civ-02.md](civ-02.md) |
-| `civ-03` | strong | in_review | civilization | [civ-03.md](civ-03.md) |
-| `civ-04` | medium | in_review | civilization | [civ-04.md](civ-04.md) |
-| `civ-05` | strong | in_review | civilization | [civ-05.md](civ-05.md) |
-| `civ-06` | strong | in_review | civilization | [civ-06.md](civ-06.md) |
-| `civ-07` | medium | in_review | civilization | [civ-07.md](civ-07.md) |
-| `civ-08` | medium | in_review | civilization | [civ-08.md](civ-08.md) |
-| `civ-09` | medium | in_review | civilization | [civ-09.md](civ-09.md) |
-| `civ-10` | medium | in_review | civilization | [civ-10.md](civ-10.md) |
-| `civ-11` | strong | in_review | civilization | [civ-11.md](civ-11.md) |
-| `civ-12` | strong | in_review | civilization | [civ-12.md](civ-12.md) |
-| `civ-13` | strong | in_review | civilization | [civ-13.md](civ-13.md) |
-| `civ-14` | strong | in_review | civilization | [civ-14.md](civ-14.md) |
-| `civ-15` | strong | in_review | civilization | [civ-15.md](civ-15.md) |
-| `civ-16` | strong | in_review | civilization | [civ-16.md](civ-16.md) |
-| `civ-17` | medium | in_review | civilization | [civ-17.md](civ-17.md) |
-| `civ-18` | strong | in_review | civilization | [civ-18.md](civ-18.md) |
-| `civ-19` | strong | in_review | civilization | [civ-19.md](civ-19.md) |
-| `civ-20` | medium | in_review | civilization | [civ-20.md](civ-20.md) |
-| `civ-21` | strong | in_review | civilization | [civ-21.md](civ-21.md) |
-| `civ-22` | strong | in_review | civilization | [civ-22.md](civ-22.md) |
-| `civ-23` | strong | in_review | civilization | [civ-23.md](civ-23.md) |
-| `civ-24` | medium | in_review | civilization | [civ-24.md](civ-24.md) |
-| `civ-25` | strong | in_review | civilization | [civ-25.md](civ-25.md) |
-| `civ-26` | strong | in_review | civilization | [civ-26.md](civ-26.md) |
-| `civ-27` | strong | in_review | civilization | [civ-27.md](civ-27.md) |
-| `civ-28` | strong | in_review | civilization | [civ-28.md](civ-28.md) |
-| `civ-29` | strong | in_review | civilization | [civ-29.md](civ-29.md) |
-| `civ-30` | strong | in_review | civilization | [civ-30.md](civ-30.md) |
-| `civ-31` | strong | in_review | civilization | [civ-31.md](civ-31.md) |
-| `civ-32` | strong | in_review | civilization | [civ-32.md](civ-32.md) |
-| `civ-33` | strong | in_review | civilization | [civ-33.md](civ-33.md) |
-| `civ-34` | strong | in_review | civilization | [civ-34.md](civ-34.md) |
-| `civ-35` | strong | in_review | civilization | [civ-35.md](civ-35.md) |
-| `civ-36` | strong | in_review | civilization | [civ-36.md](civ-36.md) |
-| `civ-37` | strong | in_review | civilization | [civ-37.md](civ-37.md) |
-| `civ-38` | strong | in_review | civilization | [civ-38.md](civ-38.md) |
-| `civ-39` | strong | in_review | civilization | [civ-39.md](civ-39.md) |
-| `civ-40` | strong | in_review | civilization | [civ-40.md](civ-40.md) |
-| `civ-41` | strong | in_review | civilization | [civ-41.md](civ-41.md) |
-| `civ-42` | strong | in_review | civilization | [civ-42.md](civ-42.md) |
-| `civ-43` | strong | in_review | civilization | [civ-43.md](civ-43.md) |
-| `civ-44` | strong | in_review | civilization | [civ-44.md](civ-44.md) |
-| `civ-45` | strong | in_review | civilization | [civ-45.md](civ-45.md) |
-| `civ-46` | strong | in_review | civilization | [civ-46.md](civ-46.md) |
-| `civ-47` | strong | in_review | civilization | [civ-47.md](civ-47.md) |
-| `civ-48` | strong | in_review | civilization | [civ-48.md](civ-48.md) |
-| `civ-49` | strong | in_review | civilization | [civ-49.md](civ-49.md) |
-| `civ-50` | strong | in_review | civilization | [civ-50.md](civ-50.md) |
-| `civ-51` | strong | in_review | civilization | [civ-51.md](civ-51.md) |
-| `civ-52` | strong | in_review | civilization | [civ-52.md](civ-52.md) |
-| `civ-53` | strong | in_review | civilization | [civ-53.md](civ-53.md) |
-| `civ-54` | strong | in_review | civilization | [civ-54.md](civ-54.md) |
-| `civ-55` | strong | in_review | civilization | [civ-55.md](civ-55.md) |
-| `civ-56` | strong | in_review | civilization | [civ-56.md](civ-56.md) |
-| `civ-57` | strong | in_review | civilization | [civ-57.md](civ-57.md) |
-| `civ-58` | strong | in_review | civilization | [civ-58.md](civ-58.md) |
-| `civ-59` | strong | in_review | civilization | [civ-59.md](civ-59.md) |
-| `civ-60` | strong | in_review | civilization | [civ-60.md](civ-60.md) |
-| `gb-01` | strong | in_review | great-books | [gb-01.md](gb-01.md) |
-| `gb-02` | strong | in_review | great-books | [gb-02.md](gb-02.md) |
-| `gb-03` | strong | in_review | great-books | [gb-03.md](gb-03.md) |
-| `gb-04` | medium | in_review | great-books | [gb-04.md](gb-04.md) |
-| `gb-05` | strong | in_review | great-books | [gb-05.md](gb-05.md) |
-| `gb-06` | medium | in_review | great-books | [gb-06.md](gb-06.md) |
-| `gb-07` | strong | in_review | great-books | [gb-07.md](gb-07.md) |
-| `gb-08` | strong | in_review | great-books | [gb-08.md](gb-08.md) |
-| `gb-09` | strong | in_review | great-books | [gb-09.md](gb-09.md) |
-| `gb-10` | strong | in_review | great-books | [gb-10.md](gb-10.md) |
-| `geo-05` | light | calibration_seed | geo-strategy | [geo-05.md](geo-05.md) |
-| `geo-07` | medium | calibration_seed | geo-strategy | [geo-07.md](geo-07.md) |
-| `geo-12` | medium | calibration_seed | geo-strategy | [geo-12.md](geo-12.md) |
-
-## Secret History Literary Subset
-
-These entries are routed to support the Homer-to-Tolstoy literary/imagination spine. They do not imply that the full Secret History series has been materialized.
-
-| ID | Series | Title | Weight | Status | Role |
-| --- | --- | --- | --- | --- | --- |
-| [sh-11](sh-11.md) | Secret History | Secret History #11: Dawn of the Human Imagination | medium | in review | Literary/imagination support |
-| [sh-16](sh-16.md) | Secret History | Secret History #16: The Big Bang of Greek Civilization | medium | in review | Literary/imagination support |
-| [sh-17](sh-17.md) | Secret History | Secret History #17: Literary Genesis | medium | in review | Literary/imagination support |
-| [sh-18](sh-18.md) | Secret History | Secret History #18: Thus Spoke Zarathustra | medium | in review | Literary/imagination support |
+| [civ-01](civ-01.md) | civilization | Civilization #1: Explaining Humanity's Transition to Agriculture | strong | calibration_seed |
+| [civ-02](civ-02.md) | civilization | Civilization #2: Religion and the Dawn of Society | strong | in_review |
+| [civ-03](civ-03.md) | civilization | Civilization #3: The Religious Imagination | strong | in_review |
+| [civ-04](civ-04.md) | civilization | Civilization #4: The Paradise Lost of Marija Gimbutas | medium | in_review |
+| [civ-05](civ-05.md) | civilization | Civilization #5: The Yamnaya Conquest of Europe | strong | in_review |
+| [civ-06](civ-06.md) | civilization | Civilization #6: Elite Overproduction and the Bronze Age Collapse | strong | in_review |
+| [civ-07](civ-07.md) | civilization | Civilization #7: Homer's Iliad and the Birth of Greek Civilization | medium | in_review |
+| [civ-08](civ-08.md) | civilization | Civilization #8: Rat Utopia and the Peloponnesian War | medium | in_review |
+| [civ-09](civ-09.md) | civilization | Civilization #9: Aeschylus, Sophocles, and Euripides as Prophets of Democracy | medium | in_review |
+| [civ-10](civ-10.md) | civilization | Civilization #10: The Trial of Socrates and Plato's Allegory of the Cave | medium | in_review |
+| [civ-11](civ-11.md) | civilization | Civilization #11: The Greatness of Philip II of Macedon | strong | in_review |
+| [civ-12](civ-12.md) | civilization | Civilization #12: The Tyranny of Alexander the Great | strong | in_review |
+| [civ-13](civ-13.md) | civilization | Civilization #13: Aristotle and the Greek Legacy | strong | in_review |
+| [civ-14](civ-14.md) | civilization | Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome | strong | in_review |
+| [civ-15](civ-15.md) | civilization | Civilization #15: The Myth-Making Genius of Julius Caesar | strong | in_review |
+| [civ-16](civ-16.md) | civilization | Civilization #16: Julius Caesar's Will and Octavian's Birth of Empire | strong | in_review |
+| [civ-17](civ-17.md) | civilization | Civilization #17: Homer, Virgil, and the War for the Soul of Rome | medium | in_review |
+| [civ-18](civ-18.md) | civilization | Civilization #18: The Great Pyramid as Ancient Egypt's Manhattan Project | strong | in_review |
+| [civ-19](civ-19.md) | civilization | Civilization #19: Gilgamesh and Mesopotamia's Quest for Immortality | strong | in_review |
+| [civ-20](civ-20.md) | civilization | Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization | medium | in_review |
+| [civ-21](civ-21.md) | civilization | Civilization #21: The Apology of King David of Israel | strong | in_review |
+| [civ-22](civ-22.md) | civilization | Civilization #22: The Literary Genesis of the Yahwist | strong | in_review |
+| [civ-23](civ-23.md) | civilization | Civilization #23: Cyrus the Great as Messiah | strong | in_review |
+| [civ-24](civ-24.md) | civilization | Civilization #24: Resurrecting the Gnostic Jesus | medium | in_review |
+| [civ-25](civ-25.md) | civilization | Civilization #25: Paul of Tarsus, Messiah of Rome | strong | in_review |
+| [civ-26](civ-26.md) | civilization | Civilization #26: Constantine's Monotheistic Revolution | strong | in_review |
+| [civ-27](civ-27.md) | civilization | Civilization #27: Augustine's Empire of God | strong | in_review |
+| [civ-28](civ-28.md) | civilization | Civilization #28: Muhammad's Revolution of God | strong | in_review |
+| [civ-29](civ-29.md) | civilization | Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination | strong | in_review |
+| [civ-30](civ-30.md) | civilization | Civilization #30: Dante as the Second Coming of Homer | strong | in_review |
+| [civ-31](civ-31.md) | civilization | Civilization #31: The Oceanic Currents of History | strong | in_review |
+| [civ-32](civ-32.md) | civilization | Civilization #32: Rome's Rise, Fall, and Legacy | strong | in_review |
+| [civ-33](civ-33.md) | civilization | Civilization #33: The Rise and Fall of the Byzantine Empire | strong | in_review |
+| [civ-34](civ-34.md) | civilization | Civilization #34: The Useful Fiction of the Holy Roman Empire | strong | in_review |
+| [civ-35](civ-35.md) | civilization | Civilization #35: The Viking Legacy | strong | in_review |
+| [civ-36](civ-36.md) | civilization | Civilization #36: Memory of the Norse | strong | in_review |
+| [civ-37](civ-37.md) | civilization | Civilization #37: The Golden Age of Islam | strong | in_review |
+| [civ-38](civ-38.md) | civilization | Civilization #38: Twilight of the Middle Kingdom | strong | in_review |
+| [civ-39](civ-39.md) | civilization | Civilization #39: Genghis Khan, World Shatterer | strong | in_review |
+| [civ-40](civ-40.md) | civilization | Civilization #40: Church and Empire | strong | in_review |
+| [civ-41](civ-41.md) | civilization | Civilization #41: Dante's Quiet Revolution | strong | in_review |
+| [civ-42](civ-42.md) | civilization | Civilization #42: The Protestant Reformation and the Birth of Capitalism | strong | in_review |
+| [civ-43](civ-43.md) | civilization | Civilization #43: The Structure of Scientific Revolutions | strong | in_review |
+| [civ-44](civ-44.md) | civilization | Civilization #44: The Spanish Conquest of the New World | strong | in_review |
+| [civ-45](civ-45.md) | civilization | Civilization #45: The Gunpowder Revolution | strong | in_review |
+| [civ-46](civ-46.md) | civilization | Civilization #46: The Revolution of Reason | strong | in_review |
+| [civ-47](civ-47.md) | civilization | Civilization #47: The Passion of Robespierre | strong | in_review |
+| [civ-48](civ-48.md) | civilization | Civilization #48: Napoleon's Empire of Myth | strong | in_review |
+| [civ-49](civ-49.md) | civilization | Civilization #49: The Dutch Golden Age and the Rise of the Middle Class | strong | in_review |
+| [civ-50](civ-50.md) | civilization | Civilization #50: Rule, Britannia! | strong | in_review |
+| [civ-51](civ-51.md) | civilization | Civilization #51: Shakespeare's Language of Empire | strong | in_review |
+| [civ-52](civ-52.md) | civilization | Civilization #52: Empire of Democracy | strong | in_review |
+| [civ-53](civ-53.md) | civilization | Civilization #53: Dostoevsky and the Soul of Russia | strong | in_review |
+| [civ-54](civ-54.md) | civilization | Civilization #54: The German Will to Power | strong | in_review |
+| [civ-55](civ-55.md) | civilization | Civilization #55: Kant, Hegel, and the Theory of Everything | strong | in_review |
+| [civ-56](civ-56.md) | civilization | Civilization #56: What Marx Got Wrong | strong | in_review |
+| [civ-57](civ-57.md) | civilization | Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa) | strong | in_review |
+| [civ-58](civ-58.md) | civilization | Civilization #58: Birth of the Nation-State | strong | in_review |
+| [civ-59](civ-59.md) | civilization | Civilization #59: The Man of Steel | strong | in_review |
+| [civ-60](civ-60.md) | civilization | Civilization #60: The Decline and Fall of the American Empire | strong | in_review |
+| [gb-01](gb-01.md) | civilization | Great Books #1: Secrets of the Universe | strong | in_review |
+| [gb-02](gb-02.md) | civilization | Great Books #2: Homer and the Invention of the Human | strong | in_review |
+| [gb-03](gb-03.md) | civilization | Great Books #3: Poets and Prophets | strong | in_review |
+| [gb-04](gb-04.md) | civilization | Great Books #4: The Conscious Universe | medium | in_review |
+| [gb-05](gb-05.md) | civilization | Great Books #5: The Odyssey | strong | in_review |
+| [gb-06](gb-06.md) | civilization | Great Books #6: The Intimacy of Love | medium | in_review |
+| [gb-07](gb-07.md) | civilization | Great Books #7: The Anti-Homer | strong | in_review |
+| [gb-08](gb-08.md) | civilization | Great Books #8: The Poetry of Empire | strong | in_review |
+| [gb-09](gb-09.md) | civilization | Great Books #9: Dante (Re-Upload with Audio Fixed) | strong | in_review |
+| [gb-10](gb-10.md) | civilization | Great Books #10: Dante's Hierarchy of Hell | strong | in_review |
+| [geo-01](geo-01.md) | world-war | Geo-Strategy #1: Iran’s Strategy Matrix | strong | in_review |
+| [geo-02](geo-02.md) | world-war | Geo-Strategy #2: Christian Zionism and the Middle East Conflict | strong | in_review |
+| [geo-03](geo-03.md) | world-war | Geo-Strategy #3: How Empire Is Destroying America | strong | in_review |
+| [geo-04](geo-04.md) | world-war | Geo-Strategy #4: Saudi Arabia’s Trump Card Against Iran | strong | in_review |
+| [geo-05](geo-05.md) | world-war | Geo-Strategy #5: Why Trump Will Win (And Pick Nikki Haley as VP) | light | in_review |
+| [geo-06](geo-06.md) | world-war | Geo-Strategy #6: America's Imperial Hubris | strong | in_review |
+| [geo-07](geo-07.md) | world-war | Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi? | medium | in_review |
+| [geo-08](geo-08.md) | world-war | Geo-Strategy #8: The Iran Trap | strong | in_review |
+| [geo-09](geo-09.md) | world-war | Geo-Strategy #9: Putin's War for the Soul of Russia | strong | in_review |
+| [geo-10](geo-10.md) | world-war | Geo-Strategy #10: Putin's Strategic Imagination | strong | in_review |
+| [geo-11](geo-11.md) | world-war | Geo-Strategy #11: The Second American Civil War | strong | in_review |
+| [geo-12](geo-12.md) | world-war | Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future) | medium | in_review |
+| [geo-13](geo-13.md) | world-war | Geo-Strategy #13: US-Iran War Incoming | strong | in_review |
+| [geo-14](geo-14.md) | world-war | Geo-Strategy #14: WWIII Begins, Let's Game Theory | strong | in_review |
+| [geo-15](geo-15.md) | world-war | Geo-Strategy #15: The Messianic Calling | strong | in_review |
+| [geo-16](geo-16.md) | world-war | Geo-Strategy #16: Newton's Divine Plan | strong | in_review |
+| [geo-17](geo-17.md) | world-war | Geo-Strategy #17: The Universal Law of Game Theory | strong | in_review |
+| [geo-18](geo-18.md) | world-war | Geo-Strategy #18: Is Putin the Ubermensch? | strong | in_review |
+| [geo-19](geo-19.md) | world-war | Geo-Strategy #19: When Eschatologies Converge | strong | in_review |
+| [geo-20](geo-20.md) | world-war | Geo-Strategy #20: Why the West is Doomed | strong | in_review |
+| [gt-01](gt-01.md) | world-war | Game Theory #1: The Dating Game | medium | in_review |
+| [gt-02](gt-02.md) | world-war | Game Theory #2: Why Schools Suck | medium | in_review |
+| [gt-03](gt-03.md) | world-war | Game Theory #3: Rich Dad, Poor Dad | medium | in_review |
+| [gt-04](gt-04.md) | world-war | Game Theory #4: The Immigration Trap | strong | in_review |
+| [gt-05](gt-05.md) | world-war | Game Theory #5: The World Game | strong | in_review |
+| [gt-06](gt-06.md) | world-war | Game Theory #6: The World's Bank | strong | in_review |
+| [gt-07](gt-07.md) | world-war | Game Theory #7: America's Game | strong | in_review |
+| [gt-08](gt-08.md) | world-war | Game Theory #8: Communist Specter | strong | in_review |
+| [gt-09](gt-09.md) | world-war | Game Theory #9: The US-Iran War | strong | in_review |
+| [gt-10](gt-10.md) | world-war | Game Theory #10: The Law of Asymmetry | strong | in_review |
+| [gt-11](gt-11.md) | world-war | Game Theory #11: The Law of Escalation | strong | in_review |
+| [gt-12](gt-12.md) | world-war | Game Theory #12: The Law of Eschatological Convergence | strong | in_review |
+| [gt-13](gt-13.md) | world-war | Game Theory #13: Epstein's World | strong | in_review |
+| [gt-14](gt-14.md) | world-war | Game Theory #14: The Law of Proximity | strong | in_review |
+| [gt-15](gt-15.md) | world-war | Game Theory #15: The Return of History | strong | in_review |
+| [gt-16](gt-16.md) | world-war | Game Theory #16: Pax Judaica Rising | strong | in_review |
+| [gt-17](gt-17.md) | world-war | Game Theory #17: The Great Reset | strong | in_review |
+| [gt-18](gt-18.md) | world-war | Game Theory #18: Trump World Order | strong | in_review |
+| [gt-19](gt-19.md) | world-war | Game Theory #19: The Hollywood-Pentagon Complex | strong | in_review |
+| [gt-20](gt-20.md) | world-war | Game Theory #20: Mid-Term Examination | strong | in_review |
+| [gt-21](gt-21.md) | world-war | Game Theory #21: World War Trump | strong | in_review |
+| [gt-22](gt-22.md) | world-war | Game Theory #22: Twilight of the Nation-State | strong | in_review |
+| [sh-01](sh-01.md) | world-war | Secret History #1: How Power Works (4K Re-Upload with Audio Fixed) | strong | in_review |
+| [sh-02](sh-02.md) | world-war | Secret History #2: How Societies Collapse | strong | in_review |
+| [sh-03](sh-03.md) | world-war | Secret History #3: Death by Gerontocracy | strong | in_review |
+| [sh-04](sh-04.md) | world-war | Secret History #4: How Evil Triumphs | strong | in_review |
+| [sh-05](sh-05.md) | world-war | Secret History #5: The Birth of Evil | strong | in_review |
+| [sh-06](sh-06.md) | world-war | Secret History #6: The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised) | strong | in_review |
+| [sh-07](sh-07.md) | world-war | Secret History #7: Death by Meritocracy | strong | in_review |
+| [sh-08](sh-08.md) | world-war | Secret History #8: Death by Bureaucracy | strong | in_review |
+| [sh-09](sh-09.md) | world-war | Secret History #9: The Theory of Everything | strong | in_review |
+| [sh-10](sh-10.md) | world-war | Secret History #10: The Conspiracy of Evil | strong | in_review |
+| [sh-11](sh-11.md) | world-war | Secret History #11: Dawn of the Human Imagination | medium | in_review |
+| [sh-12](sh-12.md) | world-war | Secret History #12: Heaven on Earth | strong | in_review |
+| [sh-13](sh-13.md) | world-war | Secret History #13: Mandate of Heaven | strong | in_review |
+| [sh-14](sh-14.md) | world-war | Secret History #14: Legacy of the Steppes | strong | in_review |
+| [sh-15](sh-15.md) | world-war | Secret History #15: Capital and the Bronze Age Collapse | strong | in_review |
+| [sh-16](sh-16.md) | world-war | Secret History #16: The Big Bang of Greek Civilization | medium | in_review |
+| [sh-17](sh-17.md) | world-war | Secret History #17: Literary Genesis | medium | in_review |
+| [sh-18](sh-18.md) | world-war | Secret History #18: Thus Spoke Zarathustra | medium | in_review |
+| [sh-19](sh-19.md) | world-war | Secret History #19: Dawn of the Jews | strong | in_review |
+| [sh-20](sh-20.md) | world-war | Secret History #20: The Hellenistic World | strong | in_review |
+| [sh-21](sh-21.md) | world-war | Secret History #21: Roman Anti-Civilization | strong | in_review |
+| [sh-22](sh-22.md) | world-war | Secret History #22: The Divine Spark of Jesus | strong | in_review |
+| [sh-23](sh-23.md) | world-war | Secret History #23: The Organization of Evil | strong | in_review |
+| [sh-24](sh-24.md) | world-war | Secret History #24: Empire of Church | strong | in_review |
+| [sh-25](sh-25.md) | world-war | Secret History #25: Capital of Evil | strong | in_review |
+| [sh-26](sh-26.md) | world-war | Secret History #26: Faith of Evil | strong | in_review |
+| [sh-27](sh-27.md) | world-war | Secret History #27: Empire of Evil | strong | in_review |
+| [sh-28](sh-28.md) | world-war | Secret History #28: Pax Judaica | strong | in_review |

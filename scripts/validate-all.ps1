@@ -44,7 +44,13 @@ if (-not $SkipStrategyChecks) {
   Invoke-Step -Name 'Validate Great Books spine' -Script {
     & .\scripts\validate-great-books-spine.ps1 -StrategyRoot $StrategyRoot
   }
-  Invoke-Step -Name 'Validate Secret History literary subset' -Script {
+  Invoke-Step -Name 'Validate Geo-Strategy spine' -Script {
+    & .\scripts\validate-geo-strategy-spine.ps1 -StrategyRoot $StrategyRoot
+  }
+  Invoke-Step -Name 'Validate Game Theory spine' -Script {
+    & .\scripts\validate-game-theory-spine.ps1 -StrategyRoot $StrategyRoot
+  }
+  Invoke-Step -Name 'Validate Secret History spine' -Script {
     & .\scripts\validate-secret-history-spine.ps1 -StrategyRoot $StrategyRoot
   }
 } else {
@@ -61,6 +67,14 @@ Invoke-Step -Name 'Validate orientation payloads' -Script {
 
 Invoke-Step -Name 'Validate cross-volume links' -Script {
   & .\scripts\validate-cross-volume-links.ps1
+}
+
+Invoke-Step -Name 'Validate World War part' -Script {
+  & .\scripts\validate-world-war-part.ps1
+}
+
+Invoke-Step -Name 'Validate media packs' -Script {
+  & .\scripts\validate-media-packs.ps1
 }
 
 Invoke-Step -Name 'Validate PH skills' -Script {
@@ -91,13 +105,23 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     'chapter-manifest.yaml',
     'corpus/README.md',
     'corpus/ph-civ',
+    'corpus/geo-strategy',
+    'corpus/game-theory',
     'corpus/secret-history',
+    'corpus/world-war',
+    'corpus/media-packs',
     'corpus/cross-volume',
     'corpus/great-books',
     'registries/README.md',
+    'registries/actors.yaml',
+    'registries/theaters.yaml',
+    'registries/forecasts.yaml',
     'registries/cross-volume-links.yaml',
     'book/README.md',
+    'book/parts',
+    'book/volume-i',
     'book/volume-ii/README.md',
+    'book/volume-iii',
     'book/volume-v/README.md',
     'book/volume-vi/README.md',
     'docs/chapter-index.md',
@@ -136,7 +160,7 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
 }
 
 Invoke-Step -Name 'Scan stale placeholders' -Script {
-$scanRoots = @('book/volume-ii', 'book/volume-v', 'book/volume-vi', 'corpus/civilization', 'corpus/great-books', 'corpus/secret-history', 'corpus/ph-civ', 'corpus/cross-volume', 'README.md', 'llms.txt', 'docs')
+  $scanRoots = @('book/parts', 'book/volume-i', 'book/volume-ii', 'book/volume-iii', 'book/volume-v', 'book/volume-vi', 'corpus/civilization', 'corpus/geo-strategy', 'corpus/game-theory', 'corpus/great-books', 'corpus/secret-history', 'corpus/ph-civ', 'corpus/cross-volume', 'corpus/world-war', 'corpus/media-packs', 'README.md', 'llms.txt', 'docs')
   $allowed = @(
     'book\volume-ii\civ-XX-commentary.md',
     'corpus\ph-civ\README.md',

@@ -3,9 +3,9 @@
 Internal audit snapshot for PH-CIV orientation entries.
 
 Status: clean
-Entry count: 77
+Entry count: 140
 Warning count: 0
-Placement weights: strong=60, medium=16, light=1
+Placement weights: strong=120, medium=19, light=1
 
 | source_id | weight | review_status | warnings |
 | --- | --- | --- | --- |
@@ -79,10 +79,73 @@ Placement weights: strong=60, medium=16, light=1
 | `gb-08` | strong | in_review | none |
 | `gb-09` | strong | in_review | none |
 | `gb-10` | strong | in_review | none |
-| `geo-05` | light | calibration_seed | none |
-| `geo-07` | medium | calibration_seed | none |
-| `geo-12` | medium | calibration_seed | none |
+| `geo-01` | strong | in_review | none |
+| `geo-02` | strong | in_review | none |
+| `geo-03` | strong | in_review | none |
+| `geo-04` | strong | in_review | none |
+| `geo-05` | light | in_review | none |
+| `geo-06` | strong | in_review | none |
+| `geo-07` | medium | in_review | none |
+| `geo-08` | strong | in_review | none |
+| `geo-09` | strong | in_review | none |
+| `geo-10` | strong | in_review | none |
+| `geo-11` | strong | in_review | none |
+| `geo-12` | medium | in_review | none |
+| `geo-13` | strong | in_review | none |
+| `geo-14` | strong | in_review | none |
+| `geo-15` | strong | in_review | none |
+| `geo-16` | strong | in_review | none |
+| `geo-17` | strong | in_review | none |
+| `geo-18` | strong | in_review | none |
+| `geo-19` | strong | in_review | none |
+| `geo-20` | strong | in_review | none |
+| `gt-01` | medium | in_review | none |
+| `gt-02` | medium | in_review | none |
+| `gt-03` | medium | in_review | none |
+| `gt-04` | strong | in_review | none |
+| `gt-05` | strong | in_review | none |
+| `gt-06` | strong | in_review | none |
+| `gt-07` | strong | in_review | none |
+| `gt-08` | strong | in_review | none |
+| `gt-09` | strong | in_review | none |
+| `gt-10` | strong | in_review | none |
+| `gt-11` | strong | in_review | none |
+| `gt-12` | strong | in_review | none |
+| `gt-13` | strong | in_review | none |
+| `gt-14` | strong | in_review | none |
+| `gt-15` | strong | in_review | none |
+| `gt-16` | strong | in_review | none |
+| `gt-17` | strong | in_review | none |
+| `gt-18` | strong | in_review | none |
+| `gt-19` | strong | in_review | none |
+| `gt-20` | strong | in_review | none |
+| `gt-21` | strong | in_review | none |
+| `gt-22` | strong | in_review | none |
+| `sh-01` | strong | in_review | none |
+| `sh-02` | strong | in_review | none |
+| `sh-03` | strong | in_review | none |
+| `sh-04` | strong | in_review | none |
+| `sh-05` | strong | in_review | none |
+| `sh-06` | strong | in_review | none |
+| `sh-07` | strong | in_review | none |
+| `sh-08` | strong | in_review | none |
+| `sh-09` | strong | in_review | none |
+| `sh-10` | strong | in_review | none |
 | `sh-11` | medium | in_review | none |
+| `sh-12` | strong | in_review | none |
+| `sh-13` | strong | in_review | none |
+| `sh-14` | strong | in_review | none |
+| `sh-15` | strong | in_review | none |
 | `sh-16` | medium | in_review | none |
 | `sh-17` | medium | in_review | none |
 | `sh-18` | medium | in_review | none |
+| `sh-19` | strong | in_review | none |
+| `sh-20` | strong | in_review | none |
+| `sh-21` | strong | in_review | none |
+| `sh-22` | strong | in_review | none |
+| `sh-23` | strong | in_review | none |
+| `sh-24` | strong | in_review | none |
+| `sh-25` | strong | in_review | none |
+| `sh-26` | strong | in_review | none |
+| `sh-27` | strong | in_review | none |
+| `sh-28` | strong | in_review | none |

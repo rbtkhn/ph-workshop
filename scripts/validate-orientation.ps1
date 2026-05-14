@@ -1,7 +1,7 @@
 param(
   [string]$ManifestPath = "chapter-manifest.yaml",
   [string]$CorpusPath = "corpus/ph-civ",
-  [string[]]$CalibrationIds = @('civ-01', 'geo-05', 'geo-07', 'geo-12', 'gb-01', 'gb-02', 'gb-03', 'gb-04', 'gb-05', 'gb-06', 'gb-07', 'gb-08', 'gb-09', 'gb-10', 'sh-11', 'sh-16', 'sh-17', 'sh-18')
+  [string[]]$CalibrationIds = @()
 )
 
 $ErrorActionPreference = 'Stop'
@@ -24,8 +24,25 @@ function Parse-OrientationPayload {
 
   $data = [ordered]@{}
   $currentKey = $null
+  $blockKey = $null
+  $blockLines = New-Object System.Collections.Generic.List[string]
+
+  $flushBlockScalar = {
+    if ($blockKey) {
+      $data[$blockKey] = (($blockLines | ForEach-Object { $_ }) -join "`n").Trim()
+      $blockKey = $null
+      $blockLines.Clear()
+    }
+  }
 
   foreach ($line in ($Text -split "`n")) {
+    if ($blockKey -and $line -match '^\s+(.*)$') {
+      $blockLines.Add($matches[1]) | Out-Null
+      continue
+    }
+
+    . $flushBlockScalar
+
     if ($line -match '^\s*$' -or $line -match '^\s*#') {
       continue
     }
@@ -33,6 +50,12 @@ function Parse-OrientationPayload {
     if ($line -match '^([A-Za-z_]+):\s*(.*)$') {
       $currentKey = $matches[1]
       $value = $matches[2].Trim()
+
+      if ($value -eq '|') {
+        $blockKey = $currentKey
+        $currentKey = $null
+        continue
+      }
 
       if ($value -eq '') {
         $data[$currentKey] = @()
@@ -55,6 +78,8 @@ function Parse-OrientationPayload {
 
     throw "Unrecognized orientation payload line in ${PayloadPath}: $line"
   }
+
+  . $flushBlockScalar
 
   return $data
 }
@@ -165,6 +190,13 @@ $requiredSections = @(
 )
 
 $manifestText = Get-Text -Path $resolvedManifestPath
+if ($CalibrationIds.Count -eq 0) {
+  $CalibrationIds = @(
+    [regex]::Matches($manifestText, "(?ms)^\s+- chapter_id:\s*(\S+)\s*\n(.*?)(?=^\s+- chapter_id:|\z)") |
+      Where-Object { $_.Groups[2].Value -match '(?m)^\s+orientation_payload_path:\s*\S+' -and $_.Groups[2].Value -match '(?m)^\s+ph_civ_path:\s*\S+' } |
+      ForEach-Object { $_.Groups[1].Value }
+  )
+}
 $validated = 0
 
 foreach ($sourceId in $CalibrationIds) {

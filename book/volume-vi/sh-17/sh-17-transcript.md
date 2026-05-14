@@ -1,15 +1,11 @@
-﻿---
+---
 source_id: sh-17
-public_slug: secret-history-17-literary-genesis
 title: "Secret History #17: Literary Genesis"
-source_series: secret-history
-episode: 17
-book_volume: volume-vi
-book_chapter_id: sh-ch17
-source_url: https://www.youtube.com/watch?v=PlMNq44tBG0
-video_id: PlMNq44tBG0
+source_series: "Secret History"
 publication_date: 2025-11-12
-source_lecture_path: lectures/secret-history-17-literary-genesis.md
+source_url: "https://www.youtube.com/watch?v=PlMNq44tBG0"
+video_id: "PlMNq44tBG0"
+transfer_lecture_path: "lectures/secret-history-17-literary-genesis.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
 transcript_source: strategy_codex_transfer
@@ -17,11 +13,12 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
+part: world-war
+part_role: dual_civilization_support
+civilization_support: true
 ---
 
 # Secret History #17: Literary Genesis
-
-> This Part I transcript preserves the transfer-authority lecture body for fidelity work. Guardrails, limits, and review notes belong in commentary, PH-CIV orientation, and routing language; they do not rewrite the verbatim transcript layer.
 
 ## Part I: Full transcript
 
@@ -185,4 +182,3 @@ First is legitimacy. Okay. To explain that this guy should be the king because t
  That's what the Bible was constructed or in initially to do. But over time, its nature will change. It's something we'll discuss as we go along. But when the Bible was first constructed, it was constructed as propaganda. But Yahweh is, okay, the Yahweh or the Jay, she uses opportunity to create beautiful stories that become living entities, living memories onto themselves and they ignite the imagination of the Jewish people.
  And that's why the Jewish people are so creative. All right. >> All right. So, okay. And do you have any more questions? Okay. Great. Okay, so we've done the Greeks, we've done the Jews. Next class we'll do the Persians. Okay, and these are the three most creative peoples of this period.
  The Jews, the Greeks, and the Persians. And you can argue that it's these three people, the Jews, the Greeks, and the Persians that have that are the pillars of Western civilization. Okay. So we will continue this next class.
-

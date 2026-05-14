@@ -1,6 +1,6 @@
 # Corpus
 
-This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`), the first Civilization spine (`civ-01` through `civ-60`), the Great Books Volume V spine (`gb-01` through `gb-10`), a limited Secret History literary subset (`sh-11`, `sh-16`, `sh-17`, and `sh-18`), the `ph-civ` derived study corpus, and the first cross-volume literary corridors. Within the Civilization spine, `civ-02` through `civ-60` are in review after initial commentary analysis.
+This folder holds public corpus annotations for the two-part Predictive History course. Part One, Civilization, discovers the laws of history through `civ-01` through `civ-60`, Great Books `gb-01` through `gb-10`, PH-CIV orientation cards, media packs, and cross-volume literary corridors. Part Two, World War, applies those laws through Geo-Strategy `geo-01` through `geo-20`, Game Theory `gt-01` through `gt-22`, Secret History `sh-01` through `sh-28`, pressure corridors, and media packs.
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
@@ -19,12 +19,14 @@ Each item must:
 
 ## Planned Series
 
-- Geo-Strategy
+- Geo-Strategy (complete through `geo-20`)
 - Civilization (first sixty-chapter spine present)
 - PH-CIV derived placements
 - Cross-volume corridors
-- Secret History (limited literary subset present; full series pending)
-- Game Theory
+- World War pressure corridors
+- Media packs
+- Secret History (complete through `sh-28`)
+- Game Theory (complete through `gt-22`)
 - Great Books (first ten-chapter Volume V spine present)
 - Interviews
 - Essays

@@ -1,15 +1,11 @@
-﻿---
+---
 source_id: sh-11
-public_slug: secret-history-11-dawn-of-the-human-imagination
 title: "Secret History #11: Dawn of the Human Imagination"
-source_series: secret-history
-episode: 11
-book_volume: volume-vi
-book_chapter_id: sh-ch11
-source_url: https://www.youtube.com/watch?v=LvHsg5qtDs8
-video_id: LvHsg5qtDs8
+source_series: "Secret History"
 publication_date: 2025-10-21
-source_lecture_path: lectures/secret-history-11-dawn-of-the-human-imagination.md
+source_url: "https://www.youtube.com/watch?v=LvHsg5qtDs8"
+video_id: "LvHsg5qtDs8"
+transfer_lecture_path: "lectures/secret-history-11-dawn-of-the-human-imagination.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
 transcript_source: strategy_codex_transfer
@@ -17,11 +13,12 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
+part: world-war
+part_role: dual_civilization_support
+civilization_support: true
 ---
 
 # Secret History #11: Dawn of the Human Imagination
-
-> This Part I transcript preserves the transfer-authority lecture body for fidelity work. Guardrails, limits, and review notes belong in commentary, PH-CIV orientation, and routing language; they do not rewrite the verbatim transcript layer.
 
 ## Part I: Full transcript
 
@@ -173,4 +170,3 @@ breaking that emotional connection. And once the emotional connection is broken,
  It's as though you become a zombie. You don't you don't have any you don't have any direction. You don't have any purpose. You don't have any meaning in life anymore. And that's what leads to tremendous depression. Okay? Does that make sense? So we are not socialized into empathy. We are socialized out of empathy. We're born into empathy.
 Okay. All right. Great questions. Okay. Any more questions? Okay. Great guys. So, I will see you next time. All right. We'll continue this next time. Okay. So, I'm just introducing these concepts, but we'll expand them and use more examples and learn more about human history from this framework. All right. Okay. Thank you.
 Thank you.
-

@@ -1,16 +1,9 @@
-﻿# Secret History Corpus
+# Secret History Corpus
 
-This corpus is a limited Secret History literary/imagination subset. It exists to support the Homer-to-Tolstoy literary spine and does not claim that the full Secret History series has been materialized.
+Secret History is materialized as a full World War spine. It tracks hidden inheritance, myth, ideology, imagination, and social memory as forces that become operational in modern crisis.
 
-## Scope
+Most Secret History chapters belong to World War by default. sh-11, sh-16, sh-17, and sh-18 also support the Civilization literary and imagination spine, with sh-16 serving as the routed Tolstoy endpoint for the Homer-to-Tolstoy corridor.
 
-The current routed subset includes only chapters that directly strengthen the literary arc or its imagination supports. Each entry has a source corpus card, Part I transcript, Part II in-review commentary, PH-CIV orientation entry, orientation payload, and manifest row.
-
-## Guardrail
-
-Secret History material is source-backed from the transfer authority, but this public surface should not be read as a full SH rollout. Claims remain in review, and transcript fidelity does not imply endorsement of contested interpretations.
-
-## Entries
+## Index
 
 See [index.md](index.md).
-

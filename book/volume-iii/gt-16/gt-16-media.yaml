@@ -1,0 +1,86 @@
+source_id: gt-16
+title: "Game Theory #16: Pax Judaica Rising"
+part: world-war
+media_pack_status: curated_draft
+primary_job: orient_before_reading
+rights_mode: link_first_rights_safe
+reader_voice: museum_label
+curation:
+  human_curated: false
+  curator_note: "Initial agent-structured draft; awaiting human search and curation pass."
+items:
+  - id: 01
+    label: "Persian Gulf and Strait of Hormuz map"
+    item_type: map
+    role: entry_object
+    source_url: "https://commons.wikimedia.org/wiki/Category:Maps_of_the_Persian_Gulf"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "The Gulf map makes the lecture's trade, oil, and naval pressure immediately visible."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Geography constrains strategy but does not determine outcomes alone."
+    related_paths:
+      ph_civ_path: corpus/ph-civ/gt-16.md
+      transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
+      commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
+  - id: 02
+    label: "Oil tanker in Strait of Hormuz"
+    item_type: artifact
+    role: pressure_structure
+    source_url: "https://commons.wikimedia.org/wiki/Category:Oil_tankers_in_the_Strait_of_Hormuz"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Tankers show why maritime disruption can become global price and alliance pressure."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Illustrative shipping images are not evidence of any specific incident."
+    related_paths:
+      ph_civ_path: corpus/ph-civ/gt-16.md
+      transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
+      commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
+  - id: 03
+    label: "US aircraft carrier in Persian Gulf"
+    item_type: artifact
+    role: pressure_structure
+    source_url: "https://commons.wikimedia.org/wiki/Category:United_States_Navy_aircraft_carriers_in_the_Persian_Gulf"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Carrier imagery helps students see projection, deterrence, vulnerability, and theater signaling."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "A platform's presence does not settle strategic intent."
+    related_paths:
+      ph_civ_path: corpus/ph-civ/gt-16.md
+      transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
+      commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
+  - id: 04
+    label: "Israel map and regional neighbors"
+    item_type: map
+    role: context_anchor
+    source_url: "https://commons.wikimedia.org/wiki/Category:Maps_of_Israel"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Regional placement clarifies why the lecture ties narrative, military, and political layers together."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Boundary and regional maps carry political sensitivities and need careful reading."
+    related_paths:
+      ph_civ_path: corpus/ph-civ/gt-16.md
+      transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
+      commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
+  - id: 05
+    label: "Global oil trade chart context"
+    item_type: chart
+    role: comparison_object
+    source_url: "https://www.eia.gov/international/analysis/regions-of-interest/Strait_of_Hormuz"
+    thumbnail_url: ""
+    rights_status: external_link_only
+    rights_note: "Link-first reference; do not mirror local media without separate review."
+    what_to_notice: "Energy-flow context helps students test claims about economic pressure and war termination."
+    lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
+    limit_note: "Agency explainers are date-sensitive and should be checked at time of use."
+    related_paths:
+      ph_civ_path: corpus/ph-civ/gt-16.md
+      transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
+      commentary_path: book/volume-iii/gt-16/gt-16-commentary.md

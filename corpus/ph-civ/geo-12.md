@@ -1,37 +1,40 @@
 ---
 source_id: geo-12
 title: "Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)"
-source_series: geo-strategy
+source_series: "Geo-Strategy"
 publication_date: 2024-06-13
 source_corpus_path: corpus/geo-strategy/geo-12.md
 source_chapter_path: book/volume-i/geo-12-transcript.md
 commentary_path: book/volume-i/geo-12-commentary.md
+orientation_payload_path: book/volume-i/geo-12-orientation.yaml
 derived_corpus: ph-civ
 placement_weight: medium
-review_status: calibration_seed
+review_status: in_review
+part: world-war
+part_role: world-war
 ---
 
-# geo-12 - PH-CIV Placement
+# Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)
 
 ## Where This Sits
 
-This chapter closes Geo-Strategy by turning from crisis analysis toward future modeling. Its wider frame links collapse analysis, artificial intelligence, elite overproduction, exceptional historical actors, and the hope of reconstructing history into a more predictive discipline.
+Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future) sits in the first strategic application layer of Predictive History, where geography and institutions turn historical patterns into live geopolitical constraint.
 
 ## Reading Posture
 
-Read this as a bridge chapter. It is still rooted in the preceding geopolitical diagnosis, but its real movement is toward method: how history might be modeled, tested, revised, and used to imagine repair after civilizational breakdown.
+Read this as an orientation card for pressure and application, not as a substitute for the transcript or commentary. The task is to notice how the lecture converts historical pattern into actors, systems, risks, and possible futures.
 
 ## Historical Pressure Points
 
-- Collapse is treated as something that can be studied across patterns, not only narrated after the fact.
-- Elite overproduction and institutional failure become inputs for future modeling.
-- Exceptional individuals test the limits of any structural prediction system.
-- Reconstructing history is framed as part of building better forecasts.
+- geography, institutions, resources, and strategic constraint
+- Russia-Ukraine pressure, imperial memory, and regime security
+- China-Pacific pressure, maritime power, and civilizational scale
+- media-technology pressure, narrative control, and cognitive compression
 
 ## Limits of the Frame
 
-The chapter is more about forecasting, method, and imagination than about one concrete civilization. Its placement weight should remain medium: broad enough to orient the end of Geo-Strategy, but narrow enough to avoid turning methodological hope into proof.
+This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use.
 
 ## Return Path
 
-Return to this entry after reading earlier Geo-Strategy chapters on empire, Iran, and American crisis. It is most useful as a hinge between diagnosis and the larger project of asking how historical knowledge might support prediction and repair.
+Return through book/volume-i/geo-12-transcript.md for exact lecture wording, book/volume-i/geo-12-commentary.md for bounded analysis, and corpus/geo-strategy/geo-12.md for source metadata.

@@ -1,0 +1,16 @@
+theaters:
+  - id: middle-east
+    label: Middle East
+    corridors: [us-iran, eschatology]
+  - id: eastern-europe
+    label: Eastern Europe
+    corridors: [russia-ukraine, escalation]
+  - id: western-pacific
+    label: Western Pacific
+    corridors: [china-pacific]
+  - id: global-financial-system
+    label: Global financial system
+    corridors: [dollar-finance, state-decay]
+  - id: information-space
+    label: Information space
+    corridors: [media-technology, escalation]

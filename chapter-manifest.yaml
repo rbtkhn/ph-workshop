@@ -12,8 +12,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-01.md
     part_i_path: book/volume-i/geo-01-transcript.md
     part_ii_path: book/volume-i/geo-01-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-01-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-01.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-02
     series: geo-strategy
     chronology: 2
@@ -22,8 +25,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-02.md
     part_i_path: book/volume-i/geo-02-transcript.md
     part_ii_path: book/volume-i/geo-02-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-02-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-02.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-03
     series: geo-strategy
     chronology: 3
@@ -32,8 +38,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-03.md
     part_i_path: book/volume-i/geo-03-transcript.md
     part_ii_path: book/volume-i/geo-03-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-03-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-03.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-04
     series: geo-strategy
     chronology: 4
@@ -42,8 +51,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-04.md
     part_i_path: book/volume-i/geo-04-transcript.md
     part_ii_path: book/volume-i/geo-04-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-04-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-04.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-05
     series: geo-strategy
     chronology: 5
@@ -52,10 +64,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-05.md
     part_i_path: book/volume-i/geo-05-transcript.md
     part_ii_path: book/volume-i/geo-05-commentary.md
+    part_role: world-war
+    part: world-war
     ph_civ_path: corpus/ph-civ/geo-05.md
     orientation_payload_path: book/volume-i/geo-05-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-06
     series: geo-strategy
     chronology: 6
@@ -64,8 +77,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-06.md
     part_i_path: book/volume-i/geo-06-transcript.md
     part_ii_path: book/volume-i/geo-06-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-06-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-06.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-07
     series: geo-strategy
     chronology: 7
@@ -74,10 +90,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-07.md
     part_i_path: book/volume-i/geo-07-transcript.md
     part_ii_path: book/volume-i/geo-07-commentary.md
+    part_role: world-war
+    part: world-war
     ph_civ_path: corpus/ph-civ/geo-07.md
     orientation_payload_path: book/volume-i/geo-07-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-08
     series: geo-strategy
     chronology: 8
@@ -86,8 +103,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-08.md
     part_i_path: book/volume-i/geo-08-transcript.md
     part_ii_path: book/volume-i/geo-08-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-08-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-08.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-09
     series: geo-strategy
     chronology: 9
@@ -96,8 +116,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-09.md
     part_i_path: book/volume-i/geo-09-transcript.md
     part_ii_path: book/volume-i/geo-09-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-09-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-09.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-10
     series: geo-strategy
     chronology: 10
@@ -106,8 +129,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-10.md
     part_i_path: book/volume-i/geo-10-transcript.md
     part_ii_path: book/volume-i/geo-10-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-10-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-10.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-11
     series: geo-strategy
     chronology: 11
@@ -116,8 +142,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-11.md
     part_i_path: book/volume-i/geo-11-transcript.md
     part_ii_path: book/volume-i/geo-11-commentary.md
+    part_role: world-war
+    part: world-war
+    orientation_payload_path: book/volume-i/geo-11-orientation.yaml
+    ph_civ_path: corpus/ph-civ/geo-11.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: geo-12
     series: geo-strategy
     chronology: 12
@@ -126,10 +155,11 @@ chapters:
     corpus_path: corpus/geo-strategy/geo-12.md
     part_i_path: book/volume-i/geo-12-transcript.md
     part_ii_path: book/volume-i/geo-12-commentary.md
+    part_role: world-war
+    part: world-war
     ph_civ_path: corpus/ph-civ/geo-12.md
     orientation_payload_path: book/volume-i/geo-12-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-01
     series: civilization
     chronology: 1
@@ -141,7 +171,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/civ-01.md
     orientation_payload_path: book/volume-ii/civ-01/civ-01-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-02
     series: civilization
     chronology: 2
@@ -152,7 +181,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-02/civ-02-commentary.md
     ph_civ_path: corpus/ph-civ/civ-02.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-03
     series: civilization
     chronology: 3
@@ -163,7 +191,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-03/civ-03-commentary.md
     ph_civ_path: corpus/ph-civ/civ-03.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-04
     series: civilization
     chronology: 4
@@ -174,7 +201,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-04/civ-04-commentary.md
     ph_civ_path: corpus/ph-civ/civ-04.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-05
     series: civilization
     chronology: 5
@@ -185,7 +211,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-05/civ-05-commentary.md
     ph_civ_path: corpus/ph-civ/civ-05.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-06
     series: civilization
     chronology: 6
@@ -196,7 +221,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-06/civ-06-commentary.md
     ph_civ_path: corpus/ph-civ/civ-06.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-07
     series: civilization
     chronology: 7
@@ -206,8 +230,10 @@ chapters:
     part_i_path: book/volume-ii/civ-07/civ-07-transcript.md
     part_ii_path: book/volume-ii/civ-07/civ-07-commentary.md
     ph_civ_path: corpus/ph-civ/civ-07.md
+    media_pack_path: corpus/media-packs/civ-07.md
+    media_payload_path: book/volume-ii/civ-07/civ-07-media.yaml
+    media_pack_status: curated_draft
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-08
     series: civilization
     chronology: 8
@@ -218,7 +244,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-08/civ-08-commentary.md
     ph_civ_path: corpus/ph-civ/civ-08.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-09
     series: civilization
     chronology: 9
@@ -229,7 +254,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-09/civ-09-commentary.md
     ph_civ_path: corpus/ph-civ/civ-09.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-10
     series: civilization
     chronology: 10
@@ -240,7 +264,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-10/civ-10-commentary.md
     ph_civ_path: corpus/ph-civ/civ-10.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-11
     series: civilization
     chronology: 11
@@ -251,7 +274,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-11/civ-11-commentary.md
     ph_civ_path: corpus/ph-civ/civ-11.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-12
     series: civilization
     chronology: 12
@@ -262,7 +284,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-12/civ-12-commentary.md
     ph_civ_path: corpus/ph-civ/civ-12.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-13
     series: civilization
     chronology: 13
@@ -273,7 +294,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-13/civ-13-commentary.md
     ph_civ_path: corpus/ph-civ/civ-13.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-14
     series: civilization
     chronology: 14
@@ -284,7 +304,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-14/civ-14-commentary.md
     ph_civ_path: corpus/ph-civ/civ-14.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-15
     series: civilization
     chronology: 15
@@ -295,7 +314,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-15/civ-15-commentary.md
     ph_civ_path: corpus/ph-civ/civ-15.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-16
     series: civilization
     chronology: 16
@@ -306,7 +324,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-16/civ-16-commentary.md
     ph_civ_path: corpus/ph-civ/civ-16.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-17
     series: civilization
     chronology: 17
@@ -317,7 +334,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-17/civ-17-commentary.md
     ph_civ_path: corpus/ph-civ/civ-17.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-18
     series: civilization
     chronology: 18
@@ -328,7 +344,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-18/civ-18-commentary.md
     ph_civ_path: corpus/ph-civ/civ-18.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-19
     series: civilization
     chronology: 19
@@ -339,7 +354,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-19/civ-19-commentary.md
     ph_civ_path: corpus/ph-civ/civ-19.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-20
     series: civilization
     chronology: 20
@@ -350,7 +364,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-20/civ-20-commentary.md
     ph_civ_path: corpus/ph-civ/civ-20.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-21
     series: civilization
     chronology: 21
@@ -361,7 +374,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-21/civ-21-commentary.md
     ph_civ_path: corpus/ph-civ/civ-21.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-22
     series: civilization
     chronology: 22
@@ -372,7 +384,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-22/civ-22-commentary.md
     ph_civ_path: corpus/ph-civ/civ-22.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-23
     series: civilization
     chronology: 23
@@ -383,7 +394,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-23/civ-23-commentary.md
     ph_civ_path: corpus/ph-civ/civ-23.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-24
     series: civilization
     chronology: 24
@@ -394,7 +404,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-24/civ-24-commentary.md
     ph_civ_path: corpus/ph-civ/civ-24.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-25
     series: civilization
     chronology: 25
@@ -405,7 +414,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-25/civ-25-commentary.md
     ph_civ_path: corpus/ph-civ/civ-25.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-26
     series: civilization
     chronology: 26
@@ -416,7 +424,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-26/civ-26-commentary.md
     ph_civ_path: corpus/ph-civ/civ-26.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-27
     series: civilization
     chronology: 27
@@ -427,7 +434,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-27/civ-27-commentary.md
     ph_civ_path: corpus/ph-civ/civ-27.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-28
     series: civilization
     chronology: 28
@@ -438,7 +444,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-28/civ-28-commentary.md
     ph_civ_path: corpus/ph-civ/civ-28.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-29
     series: civilization
     chronology: 29
@@ -448,8 +453,10 @@ chapters:
     part_i_path: book/volume-ii/civ-29/civ-29-transcript.md
     part_ii_path: book/volume-ii/civ-29/civ-29-commentary.md
     ph_civ_path: corpus/ph-civ/civ-29.md
+    media_pack_path: corpus/media-packs/civ-29.md
+    media_payload_path: book/volume-ii/civ-29/civ-29-media.yaml
+    media_pack_status: curated_draft
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-30
     series: civilization
     chronology: 30
@@ -460,8 +467,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-30/civ-30-commentary.md
     ph_civ_path: corpus/ph-civ/civ-30.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-31
     series: civilization
     chronology: 31
@@ -472,8 +477,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-31/civ-31-commentary.md
     ph_civ_path: corpus/ph-civ/civ-31.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-32
     series: civilization
     chronology: 32
@@ -484,8 +487,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-32/civ-32-commentary.md
     ph_civ_path: corpus/ph-civ/civ-32.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-33
     series: civilization
     chronology: 33
@@ -496,8 +497,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-33/civ-33-commentary.md
     ph_civ_path: corpus/ph-civ/civ-33.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-34
     series: civilization
     chronology: 34
@@ -508,8 +507,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-34/civ-34-commentary.md
     ph_civ_path: corpus/ph-civ/civ-34.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-35
     series: civilization
     chronology: 35
@@ -520,8 +517,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-35/civ-35-commentary.md
     ph_civ_path: corpus/ph-civ/civ-35.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-36
     series: civilization
     chronology: 36
@@ -532,8 +527,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-36/civ-36-commentary.md
     ph_civ_path: corpus/ph-civ/civ-36.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-37
     series: civilization
     chronology: 37
@@ -544,8 +537,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-37/civ-37-commentary.md
     ph_civ_path: corpus/ph-civ/civ-37.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-38
     series: civilization
     chronology: 38
@@ -556,8 +547,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-38/civ-38-commentary.md
     ph_civ_path: corpus/ph-civ/civ-38.md
     transcript_fidelity: exact_body_match
-
-
   - chapter_id: civ-39
     series: civilization
     chronology: 39
@@ -568,7 +557,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-39/civ-39-commentary.md
     ph_civ_path: corpus/ph-civ/civ-39.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-40
     series: civilization
     chronology: 40
@@ -579,7 +567,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-40/civ-40-commentary.md
     ph_civ_path: corpus/ph-civ/civ-40.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-41
     series: civilization
     chronology: 41
@@ -590,7 +577,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-41/civ-41-commentary.md
     ph_civ_path: corpus/ph-civ/civ-41.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-42
     series: civilization
     chronology: 42
@@ -601,7 +587,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-42/civ-42-commentary.md
     ph_civ_path: corpus/ph-civ/civ-42.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-43
     series: civilization
     chronology: 43
@@ -612,7 +597,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-43/civ-43-commentary.md
     ph_civ_path: corpus/ph-civ/civ-43.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-44
     series: civilization
     chronology: 44
@@ -623,7 +607,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-44/civ-44-commentary.md
     ph_civ_path: corpus/ph-civ/civ-44.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-45
     series: civilization
     chronology: 45
@@ -634,7 +617,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-45/civ-45-commentary.md
     ph_civ_path: corpus/ph-civ/civ-45.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-46
     series: civilization
     chronology: 46
@@ -645,7 +627,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-46/civ-46-commentary.md
     ph_civ_path: corpus/ph-civ/civ-46.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-47
     series: civilization
     chronology: 47
@@ -656,7 +637,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-47/civ-47-commentary.md
     ph_civ_path: corpus/ph-civ/civ-47.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-48
     series: civilization
     chronology: 48
@@ -667,7 +647,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-48/civ-48-commentary.md
     ph_civ_path: corpus/ph-civ/civ-48.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-49
     series: civilization
     chronology: 49
@@ -678,7 +657,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-49/civ-49-commentary.md
     ph_civ_path: corpus/ph-civ/civ-49.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-50
     series: civilization
     chronology: 50
@@ -689,7 +667,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-50/civ-50-commentary.md
     ph_civ_path: corpus/ph-civ/civ-50.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-51
     series: civilization
     chronology: 51
@@ -699,8 +676,10 @@ chapters:
     part_i_path: book/volume-ii/civ-51/civ-51-transcript.md
     part_ii_path: book/volume-ii/civ-51/civ-51-commentary.md
     ph_civ_path: corpus/ph-civ/civ-51.md
+    media_pack_path: corpus/media-packs/civ-51.md
+    media_payload_path: book/volume-ii/civ-51/civ-51-media.yaml
+    media_pack_status: curated_draft
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-52
     series: civilization
     chronology: 52
@@ -741,7 +720,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-55/civ-55-commentary.md
     ph_civ_path: corpus/ph-civ/civ-55.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-56
     series: civilization
     chronology: 56
@@ -752,7 +730,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-56/civ-56-commentary.md
     ph_civ_path: corpus/ph-civ/civ-56.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-57
     series: civilization
     chronology: 57
@@ -763,7 +740,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-57/civ-57-commentary.md
     ph_civ_path: corpus/ph-civ/civ-57.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-58
     series: civilization
     chronology: 58
@@ -774,7 +750,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-58/civ-58-commentary.md
     ph_civ_path: corpus/ph-civ/civ-58.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-59
     series: civilization
     chronology: 59
@@ -785,7 +760,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-59/civ-59-commentary.md
     ph_civ_path: corpus/ph-civ/civ-59.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: civ-60
     series: civilization
     chronology: 60
@@ -796,7 +770,6 @@ chapters:
     part_ii_path: book/volume-ii/civ-60/civ-60-commentary.md
     ph_civ_path: corpus/ph-civ/civ-60.md
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-01
     series: great-books
     chronology: 1
@@ -808,7 +781,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-01.md
     orientation_payload_path: book/volume-v/gb-01/gb-01-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-02
     series: great-books
     chronology: 2
@@ -818,9 +790,11 @@ chapters:
     part_i_path: book/volume-v/gb-02/gb-02-transcript.md
     part_ii_path: book/volume-v/gb-02/gb-02-commentary.md
     ph_civ_path: corpus/ph-civ/gb-02.md
+    media_pack_path: corpus/media-packs/gb-02.md
+    media_payload_path: book/volume-v/gb-02/gb-02-media.yaml
+    media_pack_status: curated_draft
     orientation_payload_path: book/volume-v/gb-02/gb-02-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-03
     series: great-books
     chronology: 3
@@ -832,7 +806,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-03.md
     orientation_payload_path: book/volume-v/gb-03/gb-03-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-04
     series: great-books
     chronology: 4
@@ -844,7 +817,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-04.md
     orientation_payload_path: book/volume-v/gb-04/gb-04-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-05
     series: great-books
     chronology: 5
@@ -856,7 +828,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-05.md
     orientation_payload_path: book/volume-v/gb-05/gb-05-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-06
     series: great-books
     chronology: 6
@@ -868,7 +839,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-06.md
     orientation_payload_path: book/volume-v/gb-06/gb-06-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-07
     series: great-books
     chronology: 7
@@ -880,7 +850,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-07.md
     orientation_payload_path: book/volume-v/gb-07/gb-07-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-08
     series: great-books
     chronology: 8
@@ -892,7 +861,6 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-08.md
     orientation_payload_path: book/volume-v/gb-08/gb-08-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-09
     series: great-books
     chronology: 9
@@ -902,9 +870,11 @@ chapters:
     part_i_path: book/volume-v/gb-09/gb-09-transcript.md
     part_ii_path: book/volume-v/gb-09/gb-09-commentary.md
     ph_civ_path: corpus/ph-civ/gb-09.md
+    media_pack_path: corpus/media-packs/gb-09.md
+    media_payload_path: book/volume-v/gb-09/gb-09-media.yaml
+    media_pack_status: curated_draft
     orientation_payload_path: book/volume-v/gb-09/gb-09-orientation.yaml
     transcript_fidelity: exact_body_match
-
   - chapter_id: gb-10
     series: great-books
     chronology: 10
@@ -916,12 +886,696 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-10.md
     orientation_payload_path: book/volume-v/gb-10/gb-10-orientation.yaml
     transcript_fidelity: needs_fidelity_review
-
+  - chapter_id: geo-13
+    series: geo-strategy
+    chronology: 13
+    title: "Geo-Strategy #13: US-Iran War Incoming"
+    publication_date: 2025-06-18
+    corpus_path: corpus/geo-strategy/geo-13.md
+    part_i_path: book/volume-i/geo-13-transcript.md
+    part_ii_path: book/volume-i/geo-13-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-13.md
+    orientation_payload_path: book/volume-i/geo-13-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-14
+    series: geo-strategy
+    chronology: 14
+    title: "Geo-Strategy #14: WWIII Begins, Let's Game Theory"
+    publication_date: 2025-06-22
+    corpus_path: corpus/geo-strategy/geo-14.md
+    part_i_path: book/volume-i/geo-14-transcript.md
+    part_ii_path: book/volume-i/geo-14-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-14.md
+    media_pack_path: corpus/media-packs/geo-14.md
+    media_payload_path: book/volume-i/geo-14-media.yaml
+    media_pack_status: curated_draft
+    orientation_payload_path: book/volume-i/geo-14-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-15
+    series: geo-strategy
+    chronology: 15
+    title: "Geo-Strategy #15: The Messianic Calling"
+    publication_date: 2025-06-25
+    corpus_path: corpus/geo-strategy/geo-15.md
+    part_i_path: book/volume-i/geo-15-transcript.md
+    part_ii_path: book/volume-i/geo-15-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-15.md
+    orientation_payload_path: book/volume-i/geo-15-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-16
+    series: geo-strategy
+    chronology: 16
+    title: "Geo-Strategy #16: Newton's Divine Plan"
+    publication_date: 2025-06-28
+    corpus_path: corpus/geo-strategy/geo-16.md
+    part_i_path: book/volume-i/geo-16-transcript.md
+    part_ii_path: book/volume-i/geo-16-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-16.md
+    orientation_payload_path: book/volume-i/geo-16-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-17
+    series: geo-strategy
+    chronology: 17
+    title: "Geo-Strategy #17: The Universal Law of Game Theory"
+    publication_date: 2025-07-11
+    corpus_path: corpus/geo-strategy/geo-17.md
+    part_i_path: book/volume-i/geo-17-transcript.md
+    part_ii_path: book/volume-i/geo-17-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-17.md
+    orientation_payload_path: book/volume-i/geo-17-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-18
+    series: geo-strategy
+    chronology: 18
+    title: "Geo-Strategy #18: Is Putin the Ubermensch?"
+    publication_date: 2025-07-18
+    corpus_path: corpus/geo-strategy/geo-18.md
+    part_i_path: book/volume-i/geo-18-transcript.md
+    part_ii_path: book/volume-i/geo-18-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-18.md
+    orientation_payload_path: book/volume-i/geo-18-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-19
+    series: geo-strategy
+    chronology: 19
+    title: "Geo-Strategy #19: When Eschatologies Converge"
+    publication_date: 2025-08-01
+    corpus_path: corpus/geo-strategy/geo-19.md
+    part_i_path: book/volume-i/geo-19-transcript.md
+    part_ii_path: book/volume-i/geo-19-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-19.md
+    orientation_payload_path: book/volume-i/geo-19-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: geo-20
+    series: geo-strategy
+    chronology: 20
+    title: "Geo-Strategy #20: Why the West is Doomed"
+    publication_date: 2025-08-08
+    corpus_path: corpus/geo-strategy/geo-20.md
+    part_i_path: book/volume-i/geo-20-transcript.md
+    part_ii_path: book/volume-i/geo-20-commentary.md
+    ph_civ_path: corpus/ph-civ/geo-20.md
+    orientation_payload_path: book/volume-i/geo-20-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-01
+    series: game-theory
+    chronology: 1
+    title: "Game Theory #1: The Dating Game"
+    publication_date: 2026-01-06
+    corpus_path: corpus/game-theory/gt-01.md
+    part_i_path: book/volume-iii/gt-01/gt-01-transcript.md
+    part_ii_path: book/volume-iii/gt-01/gt-01-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-01.md
+    orientation_payload_path: book/volume-iii/gt-01/gt-01-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-02
+    series: game-theory
+    chronology: 2
+    title: "Game Theory #2: Why Schools Suck"
+    publication_date: 2026-01-08
+    corpus_path: corpus/game-theory/gt-02.md
+    part_i_path: book/volume-iii/gt-02/gt-02-transcript.md
+    part_ii_path: book/volume-iii/gt-02/gt-02-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-02.md
+    orientation_payload_path: book/volume-iii/gt-02/gt-02-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-03
+    series: game-theory
+    chronology: 3
+    title: "Game Theory #3: Rich Dad, Poor Dad"
+    publication_date: 2026-01-13
+    corpus_path: corpus/game-theory/gt-03.md
+    part_i_path: book/volume-iii/gt-03/gt-03-transcript.md
+    part_ii_path: book/volume-iii/gt-03/gt-03-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-03.md
+    orientation_payload_path: book/volume-iii/gt-03/gt-03-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-04
+    series: game-theory
+    chronology: 4
+    title: "Game Theory #4: The Immigration Trap"
+    publication_date: 2026-01-15
+    corpus_path: corpus/game-theory/gt-04.md
+    part_i_path: book/volume-iii/gt-04/gt-04-transcript.md
+    part_ii_path: book/volume-iii/gt-04/gt-04-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-04.md
+    orientation_payload_path: book/volume-iii/gt-04/gt-04-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-05
+    series: game-theory
+    chronology: 5
+    title: "Game Theory #5: The World Game"
+    publication_date: 2026-01-20
+    corpus_path: corpus/game-theory/gt-05.md
+    part_i_path: book/volume-iii/gt-05/gt-05-transcript.md
+    part_ii_path: book/volume-iii/gt-05/gt-05-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-05.md
+    orientation_payload_path: book/volume-iii/gt-05/gt-05-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-06
+    series: game-theory
+    chronology: 6
+    title: "Game Theory #6: The World's Bank"
+    publication_date: 2026-01-22
+    corpus_path: corpus/game-theory/gt-06.md
+    part_i_path: book/volume-iii/gt-06/gt-06-transcript.md
+    part_ii_path: book/volume-iii/gt-06/gt-06-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-06.md
+    orientation_payload_path: book/volume-iii/gt-06/gt-06-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-07
+    series: game-theory
+    chronology: 7
+    title: "Game Theory #7: America's Game"
+    publication_date: 2026-01-27
+    corpus_path: corpus/game-theory/gt-07.md
+    part_i_path: book/volume-iii/gt-07/gt-07-transcript.md
+    part_ii_path: book/volume-iii/gt-07/gt-07-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-07.md
+    orientation_payload_path: book/volume-iii/gt-07/gt-07-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-08
+    series: game-theory
+    chronology: 8
+    title: "Game Theory #8: Communist Specter"
+    publication_date: 2026-01-29
+    corpus_path: corpus/game-theory/gt-08.md
+    part_i_path: book/volume-iii/gt-08/gt-08-transcript.md
+    part_ii_path: book/volume-iii/gt-08/gt-08-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-08.md
+    orientation_payload_path: book/volume-iii/gt-08/gt-08-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-09
+    series: game-theory
+    chronology: 9
+    title: "Game Theory #9: The US-Iran War"
+    publication_date: 2026-03-03
+    corpus_path: corpus/game-theory/gt-09.md
+    part_i_path: book/volume-iii/gt-09/gt-09-transcript.md
+    part_ii_path: book/volume-iii/gt-09/gt-09-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-09.md
+    orientation_payload_path: book/volume-iii/gt-09/gt-09-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-10
+    series: game-theory
+    chronology: 10
+    title: "Game Theory #10: The Law of Asymmetry"
+    publication_date: 2026-03-05
+    corpus_path: corpus/game-theory/gt-10.md
+    part_i_path: book/volume-iii/gt-10/gt-10-transcript.md
+    part_ii_path: book/volume-iii/gt-10/gt-10-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-10.md
+    orientation_payload_path: book/volume-iii/gt-10/gt-10-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-11
+    series: game-theory
+    chronology: 11
+    title: "Game Theory #11: The Law of Escalation"
+    publication_date: 2026-03-10
+    corpus_path: corpus/game-theory/gt-11.md
+    part_i_path: book/volume-iii/gt-11/gt-11-transcript.md
+    part_ii_path: book/volume-iii/gt-11/gt-11-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-11.md
+    orientation_payload_path: book/volume-iii/gt-11/gt-11-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-12
+    series: game-theory
+    chronology: 12
+    title: "Game Theory #12: The Law of Eschatological Convergence"
+    publication_date: 2026-03-12
+    corpus_path: corpus/game-theory/gt-12.md
+    part_i_path: book/volume-iii/gt-12/gt-12-transcript.md
+    part_ii_path: book/volume-iii/gt-12/gt-12-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-12.md
+    orientation_payload_path: book/volume-iii/gt-12/gt-12-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-13
+    series: game-theory
+    chronology: 13
+    title: "Game Theory #13: Epstein's World"
+    publication_date: 2026-03-17
+    corpus_path: corpus/game-theory/gt-13.md
+    part_i_path: book/volume-iii/gt-13/gt-13-transcript.md
+    part_ii_path: book/volume-iii/gt-13/gt-13-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-13.md
+    orientation_payload_path: book/volume-iii/gt-13/gt-13-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-14
+    series: game-theory
+    chronology: 14
+    title: "Game Theory #14: The Law of Proximity"
+    publication_date: 2026-03-19
+    corpus_path: corpus/game-theory/gt-14.md
+    part_i_path: book/volume-iii/gt-14/gt-14-transcript.md
+    part_ii_path: book/volume-iii/gt-14/gt-14-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-14.md
+    orientation_payload_path: book/volume-iii/gt-14/gt-14-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-15
+    series: game-theory
+    chronology: 15
+    title: "Game Theory #15: The Return of History"
+    publication_date: 2026-03-24
+    corpus_path: corpus/game-theory/gt-15.md
+    part_i_path: book/volume-iii/gt-15/gt-15-transcript.md
+    part_ii_path: book/volume-iii/gt-15/gt-15-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-15.md
+    orientation_payload_path: book/volume-iii/gt-15/gt-15-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-16
+    series: game-theory
+    chronology: 16
+    title: "Game Theory #16: Pax Judaica Rising"
+    publication_date: 2026-03-26
+    corpus_path: corpus/game-theory/gt-16.md
+    part_i_path: book/volume-iii/gt-16/gt-16-transcript.md
+    part_ii_path: book/volume-iii/gt-16/gt-16-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-16.md
+    media_pack_path: corpus/media-packs/gt-16.md
+    media_payload_path: book/volume-iii/gt-16/gt-16-media.yaml
+    media_pack_status: curated_draft
+    orientation_payload_path: book/volume-iii/gt-16/gt-16-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-17
+    series: game-theory
+    chronology: 17
+    title: "Game Theory #17: The Great Reset"
+    publication_date: unknown
+    corpus_path: corpus/game-theory/gt-17.md
+    part_i_path: book/volume-iii/gt-17/gt-17-transcript.md
+    part_ii_path: book/volume-iii/gt-17/gt-17-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-17.md
+    orientation_payload_path: book/volume-iii/gt-17/gt-17-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-18
+    series: game-theory
+    chronology: 18
+    title: "Game Theory #18: Trump World Order"
+    publication_date: 2026-04-02
+    corpus_path: corpus/game-theory/gt-18.md
+    part_i_path: book/volume-iii/gt-18/gt-18-transcript.md
+    part_ii_path: book/volume-iii/gt-18/gt-18-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-18.md
+    orientation_payload_path: book/volume-iii/gt-18/gt-18-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-19
+    series: game-theory
+    chronology: 19
+    title: "Game Theory #19: The Hollywood-Pentagon Complex"
+    publication_date: 2026-04-07
+    corpus_path: corpus/game-theory/gt-19.md
+    part_i_path: book/volume-iii/gt-19/gt-19-transcript.md
+    part_ii_path: book/volume-iii/gt-19/gt-19-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-19.md
+    orientation_payload_path: book/volume-iii/gt-19/gt-19-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-20
+    series: game-theory
+    chronology: 20
+    title: "Game Theory #20: Mid-Term Examination"
+    publication_date: 2026-04-08
+    corpus_path: corpus/game-theory/gt-20.md
+    part_i_path: book/volume-iii/gt-20/gt-20-transcript.md
+    part_ii_path: book/volume-iii/gt-20/gt-20-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-20.md
+    orientation_payload_path: book/volume-iii/gt-20/gt-20-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-21
+    series: game-theory
+    chronology: 21
+    title: "Game Theory #21: World War Trump"
+    publication_date: 2026-04-27
+    corpus_path: corpus/game-theory/gt-21.md
+    part_i_path: book/volume-iii/gt-21/gt-21-transcript.md
+    part_ii_path: book/volume-iii/gt-21/gt-21-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-21.md
+    orientation_payload_path: book/volume-iii/gt-21/gt-21-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: gt-22
+    series: game-theory
+    chronology: 22
+    title: "Game Theory #22: Twilight of the Nation-State"
+    publication_date: 2026-04-28
+    corpus_path: corpus/game-theory/gt-22.md
+    part_i_path: book/volume-iii/gt-22/gt-22-transcript.md
+    part_ii_path: book/volume-iii/gt-22/gt-22-commentary.md
+    ph_civ_path: corpus/ph-civ/gt-22.md
+    orientation_payload_path: book/volume-iii/gt-22/gt-22-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-01
+    series: secret-history
+    chronology: 1
+    title: "Secret History #1: How Power Works (4K Re-Upload with Audio Fixed)"
+    publication_date: 2025-08-22
+    corpus_path: corpus/secret-history/sh-01.md
+    part_i_path: book/volume-vi/sh-01/sh-01-transcript.md
+    part_ii_path: book/volume-vi/sh-01/sh-01-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-01.md
+    orientation_payload_path: book/volume-vi/sh-01/sh-01-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-02
+    series: secret-history
+    chronology: 2
+    title: "Secret History #2: How Societies Collapse"
+    publication_date: 2025-08-22
+    corpus_path: corpus/secret-history/sh-02.md
+    part_i_path: book/volume-vi/sh-02/sh-02-transcript.md
+    part_ii_path: book/volume-vi/sh-02/sh-02-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-02.md
+    orientation_payload_path: book/volume-vi/sh-02/sh-02-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-03
+    series: secret-history
+    chronology: 3
+    title: "Secret History #3: Death by Gerontocracy"
+    publication_date: 2025-08-29
+    corpus_path: corpus/secret-history/sh-03.md
+    part_i_path: book/volume-vi/sh-03/sh-03-transcript.md
+    part_ii_path: book/volume-vi/sh-03/sh-03-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-03.md
+    orientation_payload_path: book/volume-vi/sh-03/sh-03-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-04
+    series: secret-history
+    chronology: 4
+    title: "Secret History #4: How Evil Triumphs"
+    publication_date: 2025-08-29
+    corpus_path: corpus/secret-history/sh-04.md
+    part_i_path: book/volume-vi/sh-04/sh-04-transcript.md
+    part_ii_path: book/volume-vi/sh-04/sh-04-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-04.md
+    orientation_payload_path: book/volume-vi/sh-04/sh-04-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-05
+    series: secret-history
+    chronology: 5
+    title: "Secret History #5: The Birth of Evil"
+    publication_date: 2025-09-05
+    corpus_path: corpus/secret-history/sh-05.md
+    part_i_path: book/volume-vi/sh-05/sh-05-transcript.md
+    part_ii_path: book/volume-vi/sh-05/sh-05-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-05.md
+    orientation_payload_path: book/volume-vi/sh-05/sh-05-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-06
+    series: secret-history
+    chronology: 6
+    title: "Secret History #6: The Psychology of Evil (Graphic and Disturbing, Viewer Discretion Advised)"
+    publication_date: 2025-09-11
+    corpus_path: corpus/secret-history/sh-06.md
+    part_i_path: book/volume-vi/sh-06/sh-06-transcript.md
+    part_ii_path: book/volume-vi/sh-06/sh-06-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-06.md
+    orientation_payload_path: book/volume-vi/sh-06/sh-06-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-07
+    series: secret-history
+    chronology: 7
+    title: "Secret History #7: Death by Meritocracy"
+    publication_date: 2025-09-12
+    corpus_path: corpus/secret-history/sh-07.md
+    part_i_path: book/volume-vi/sh-07/sh-07-transcript.md
+    part_ii_path: book/volume-vi/sh-07/sh-07-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-07.md
+    orientation_payload_path: book/volume-vi/sh-07/sh-07-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-08
+    series: secret-history
+    chronology: 8
+    title: "Secret History #8: Death by Bureaucracy"
+    publication_date: 2025-10-11
+    corpus_path: corpus/secret-history/sh-08.md
+    part_i_path: book/volume-vi/sh-08/sh-08-transcript.md
+    part_ii_path: book/volume-vi/sh-08/sh-08-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-08.md
+    orientation_payload_path: book/volume-vi/sh-08/sh-08-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-09
+    series: secret-history
+    chronology: 9
+    title: "Secret History #9: The Theory of Everything"
+    publication_date: 2025-10-15
+    corpus_path: corpus/secret-history/sh-09.md
+    part_i_path: book/volume-vi/sh-09/sh-09-transcript.md
+    part_ii_path: book/volume-vi/sh-09/sh-09-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-09.md
+    orientation_payload_path: book/volume-vi/sh-09/sh-09-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-10
+    series: secret-history
+    chronology: 10
+    title: "Secret History #10: The Conspiracy of Evil"
+    publication_date: 2025-10-17
+    corpus_path: corpus/secret-history/sh-10.md
+    part_i_path: book/volume-vi/sh-10/sh-10-transcript.md
+    part_ii_path: book/volume-vi/sh-10/sh-10-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-10.md
+    orientation_payload_path: book/volume-vi/sh-10/sh-10-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
   - chapter_id: sh-11
     series: secret-history
     chronology: 11
     title: "Secret History #11: Dawn of the Human Imagination"
-    source_url: https://www.youtube.com/watch?v=LvHsg5qtDs8
     publication_date: 2025-10-21
     corpus_path: corpus/secret-history/sh-11.md
     part_i_path: book/volume-vi/sh-11/sh-11-transcript.md
@@ -933,12 +1587,81 @@ chapters:
     review_status: source_reviewed
     annotation_status: drafted
     source_reviewed_at: 2026-05-14
-    subset_status: literary_subset
+    part: world-war
+    part_role: dual_civilization_support
+    civilization_support: true
+  - chapter_id: sh-12
+    series: secret-history
+    chronology: 12
+    title: "Secret History #12: Heaven on Earth"
+    publication_date: 2025-10-24
+    corpus_path: corpus/secret-history/sh-12.md
+    part_i_path: book/volume-vi/sh-12/sh-12-transcript.md
+    part_ii_path: book/volume-vi/sh-12/sh-12-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-12.md
+    orientation_payload_path: book/volume-vi/sh-12/sh-12-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-13
+    series: secret-history
+    chronology: 13
+    title: "Secret History #13: Mandate of Heaven"
+    publication_date: 2025-10-29
+    corpus_path: corpus/secret-history/sh-13.md
+    part_i_path: book/volume-vi/sh-13/sh-13-transcript.md
+    part_ii_path: book/volume-vi/sh-13/sh-13-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-13.md
+    orientation_payload_path: book/volume-vi/sh-13/sh-13-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-14
+    series: secret-history
+    chronology: 14
+    title: "Secret History #14: Legacy of the Steppes"
+    publication_date: 2025-10-31
+    corpus_path: corpus/secret-history/sh-14.md
+    part_i_path: book/volume-vi/sh-14/sh-14-transcript.md
+    part_ii_path: book/volume-vi/sh-14/sh-14-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-14.md
+    orientation_payload_path: book/volume-vi/sh-14/sh-14-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-15
+    series: secret-history
+    chronology: 15
+    title: "Secret History #15: Capital and the Bronze Age Collapse"
+    publication_date: 2025-11-04
+    corpus_path: corpus/secret-history/sh-15.md
+    part_i_path: book/volume-vi/sh-15/sh-15-transcript.md
+    part_ii_path: book/volume-vi/sh-15/sh-15-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-15.md
+    orientation_payload_path: book/volume-vi/sh-15/sh-15-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
   - chapter_id: sh-16
     series: secret-history
     chronology: 16
     title: "Secret History #16: The Big Bang of Greek Civilization"
-    source_url: https://www.youtube.com/watch?v=4ehovUNrSrw
     publication_date: 2025-11-06
     corpus_path: corpus/secret-history/sh-16.md
     part_i_path: book/volume-vi/sh-16/sh-16-transcript.md
@@ -950,12 +1673,13 @@ chapters:
     review_status: source_reviewed
     annotation_status: drafted
     source_reviewed_at: 2026-05-14
-    subset_status: literary_subset
+    part: world-war
+    part_role: dual_civilization_support
+    civilization_support: true
   - chapter_id: sh-17
     series: secret-history
     chronology: 17
     title: "Secret History #17: Literary Genesis"
-    source_url: https://www.youtube.com/watch?v=PlMNq44tBG0
     publication_date: 2025-11-12
     corpus_path: corpus/secret-history/sh-17.md
     part_i_path: book/volume-vi/sh-17/sh-17-transcript.md
@@ -967,12 +1691,13 @@ chapters:
     review_status: source_reviewed
     annotation_status: drafted
     source_reviewed_at: 2026-05-14
-    subset_status: literary_subset
+    part: world-war
+    part_role: dual_civilization_support
+    civilization_support: true
   - chapter_id: sh-18
     series: secret-history
     chronology: 18
     title: "Secret History #18: Thus Spoke Zarathustra"
-    source_url: https://www.youtube.com/watch?v=dELEdxh0ceg
     publication_date: 2025-11-14
     corpus_path: corpus/secret-history/sh-18.md
     part_i_path: book/volume-vi/sh-18/sh-18-transcript.md
@@ -984,4 +1709,179 @@ chapters:
     review_status: source_reviewed
     annotation_status: drafted
     source_reviewed_at: 2026-05-14
-    subset_status: literary_subset
+    part: world-war
+    part_role: dual_civilization_support
+    civilization_support: true
+  - chapter_id: sh-19
+    series: secret-history
+    chronology: 19
+    title: "Secret History #19: Dawn of the Jews"
+    publication_date: 2025-11-18
+    corpus_path: corpus/secret-history/sh-19.md
+    part_i_path: book/volume-vi/sh-19/sh-19-transcript.md
+    part_ii_path: book/volume-vi/sh-19/sh-19-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-19.md
+    orientation_payload_path: book/volume-vi/sh-19/sh-19-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-20
+    series: secret-history
+    chronology: 20
+    title: "Secret History #20: The Hellenistic World"
+    publication_date: 2025-11-20
+    corpus_path: corpus/secret-history/sh-20.md
+    part_i_path: book/volume-vi/sh-20/sh-20-transcript.md
+    part_ii_path: book/volume-vi/sh-20/sh-20-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-20.md
+    orientation_payload_path: book/volume-vi/sh-20/sh-20-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-21
+    series: secret-history
+    chronology: 21
+    title: "Secret History #21: Roman Anti-Civilization"
+    publication_date: 2025-11-25
+    corpus_path: corpus/secret-history/sh-21.md
+    part_i_path: book/volume-vi/sh-21/sh-21-transcript.md
+    part_ii_path: book/volume-vi/sh-21/sh-21-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-21.md
+    orientation_payload_path: book/volume-vi/sh-21/sh-21-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-22
+    series: secret-history
+    chronology: 22
+    title: "Secret History #22: The Divine Spark of Jesus"
+    publication_date: 2025-11-27
+    corpus_path: corpus/secret-history/sh-22.md
+    part_i_path: book/volume-vi/sh-22/sh-22-transcript.md
+    part_ii_path: book/volume-vi/sh-22/sh-22-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-22.md
+    orientation_payload_path: book/volume-vi/sh-22/sh-22-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-23
+    series: secret-history
+    chronology: 23
+    title: "Secret History #23: The Organization of Evil"
+    publication_date: 2025-12-02
+    corpus_path: corpus/secret-history/sh-23.md
+    part_i_path: book/volume-vi/sh-23/sh-23-transcript.md
+    part_ii_path: book/volume-vi/sh-23/sh-23-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-23.md
+    orientation_payload_path: book/volume-vi/sh-23/sh-23-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-24
+    series: secret-history
+    chronology: 24
+    title: "Secret History #24: Empire of Church"
+    publication_date: 2025-12-04
+    corpus_path: corpus/secret-history/sh-24.md
+    part_i_path: book/volume-vi/sh-24/sh-24-transcript.md
+    part_ii_path: book/volume-vi/sh-24/sh-24-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-24.md
+    orientation_payload_path: book/volume-vi/sh-24/sh-24-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-25
+    series: secret-history
+    chronology: 25
+    title: "Secret History #25: Capital of Evil"
+    publication_date: 2025-12-09
+    corpus_path: corpus/secret-history/sh-25.md
+    part_i_path: book/volume-vi/sh-25/sh-25-transcript.md
+    part_ii_path: book/volume-vi/sh-25/sh-25-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-25.md
+    orientation_payload_path: book/volume-vi/sh-25/sh-25-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-26
+    series: secret-history
+    chronology: 26
+    title: "Secret History #26: Faith of Evil"
+    publication_date: 2025-12-11
+    corpus_path: corpus/secret-history/sh-26.md
+    part_i_path: book/volume-vi/sh-26/sh-26-transcript.md
+    part_ii_path: book/volume-vi/sh-26/sh-26-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-26.md
+    orientation_payload_path: book/volume-vi/sh-26/sh-26-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-27
+    series: secret-history
+    chronology: 27
+    title: "Secret History #27: Empire of Evil"
+    publication_date: 2025-12-16
+    corpus_path: corpus/secret-history/sh-27.md
+    part_i_path: book/volume-vi/sh-27/sh-27-transcript.md
+    part_ii_path: book/volume-vi/sh-27/sh-27-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-27.md
+    orientation_payload_path: book/volume-vi/sh-27/sh-27-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war
+  - chapter_id: sh-28
+    series: secret-history
+    chronology: 28
+    title: "Secret History #28: Pax Judaica"
+    publication_date: 2025-12-18
+    corpus_path: corpus/secret-history/sh-28.md
+    part_i_path: book/volume-vi/sh-28/sh-28-transcript.md
+    part_ii_path: book/volume-vi/sh-28/sh-28-commentary.md
+    ph_civ_path: corpus/ph-civ/sh-28.md
+    media_pack_path: corpus/media-packs/sh-28.md
+    media_payload_path: book/volume-vi/sh-28/sh-28-media.yaml
+    media_pack_status: curated_draft
+    orientation_payload_path: book/volume-vi/sh-28/sh-28-orientation.yaml
+    transcript_fidelity: exact_body_match
+    completeness_state: in-review
+    review_status: source_reviewed
+    annotation_status: drafted
+    source_reviewed_at: 2026-05-14
+    part: world-war
+    part_role: world-war

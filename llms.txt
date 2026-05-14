@@ -20,17 +20,22 @@
 
 ## Canonical Content
 
-- [book/volume-i/](book/volume-i/): current Part I transcript and Part II commentary chapters.
+- [book/parts/](book/parts/): semester guides for Civilization and World War.
+- [book/volume-i/](book/volume-i/): Geo-Strategy transcript and commentary chapters.
 - [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and first sixty-chapter spine.
+- [book/volume-iii/](book/volume-iii/): Game Theory transcript and commentary chapters.
 - [book/volume-v/](book/volume-v/): Great Books chapter scaffold and first ten-chapter spine.
-- [book/volume-vi/](book/volume-vi/): limited Secret History literary/imagination subset.
+- [book/volume-vi/](book/volume-vi/): Secret History transcript and commentary chapters.
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/): calibrated Civilization pilot chapter pair.
 - [corpus/ph-civ/](corpus/ph-civ/): derived chapter placements and return paths for calibrated and in-review units.
 - [corpus/cross-volume/](corpus/cross-volume/): public guided routes across volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc.
 - [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
+- [corpus/game-theory/](corpus/game-theory/): Game Theory source pointers and public indices.
 - [corpus/civilization/](corpus/civilization/): Civilization source pointers for `civ-01` through `civ-60`.
 - [corpus/great-books/](corpus/great-books/): Great Books source pointers for `gb-01` through `gb-10`.
-- [corpus/secret-history/](corpus/secret-history/): selected Secret History source pointers for the literary sub-spine only.
+- [corpus/secret-history/](corpus/secret-history/): Secret History source pointers for `sh-01` through `sh-28`.
+- [corpus/world-war/](corpus/world-war/): pressure corridors for the applied second semester.
+- [corpus/media-packs/](corpus/media-packs/): visual/source orientation packs; use before transcript or commentary when the task asks what students should see first.
 - [registries/sources.md](registries/sources.md): current source registry entries.
 - [registries/cross-volume-links.yaml](registries/cross-volume-links.yaml): typed edges for cross-volume corridors.
 - [docs/chapter-index.md](docs/chapter-index.md): human-readable chapter catalog.
@@ -41,8 +46,10 @@
 
 - Default to one chapter at a time.
 - Use `ph_civ_path` from `chapter-manifest.yaml` when the task asks for placement, orientation, or re-entry framing; check `review_status` before treating a PH-CIV entry as calibrated.
+- Treat Part One, Civilization, as the law-discovery semester; treat Part Two, World War, as the law-application semester.
 - Use `corpus/cross-volume/` and `registries/cross-volume-links.yaml` when the task asks for cross-volume inheritance, comparison, or a guided route across series.
 - Treat PH-CIV work as `map -> orient -> constrain -> validate -> route`.
+- Treat media-pack work as human-curated search/selection plus agent-structured museum labels, with link-first rights-safe status.
 - Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `ph-civ`, `ph-cross-volume`, and `ph-audit`.
 - Treat `ph-youtube-transcript` as a compatibility alias for `ph-transcript`.
 - Expand to adjacent chapters only for comparison tasks.

@@ -1,15 +1,11 @@
-﻿---
+---
 source_id: sh-18
-public_slug: secret-history-18-thus-spoke-zarathustra
 title: "Secret History #18: Thus Spoke Zarathustra"
-source_series: secret-history
-episode: 18
-book_volume: volume-vi
-book_chapter_id: sh-ch18
-source_url: https://www.youtube.com/watch?v=dELEdxh0ceg
-video_id: dELEdxh0ceg
+source_series: "Secret History"
 publication_date: 2025-11-14
-source_lecture_path: lectures/secret-history-18-thus-spoke-zarathustra.md
+source_url: "https://www.youtube.com/watch?v=dELEdxh0ceg"
+video_id: "dELEdxh0ceg"
+transfer_lecture_path: "lectures/secret-history-18-thus-spoke-zarathustra.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
 transcript_source: strategy_codex_transfer
@@ -17,11 +13,12 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
+part: world-war
+part_role: dual_civilization_support
+civilization_support: true
 ---
 
 # Secret History #18: Thus Spoke Zarathustra
-
-> This Part I transcript preserves the transfer-authority lecture body for fidelity work. Guardrails, limits, and review notes belong in commentary, PH-CIV orientation, and routing language; they do not rewrite the verbatim transcript layer.
 
 ## Part I: Full transcript
 
@@ -174,4 +171,3 @@ Nietzsche would definitely say this is that God is creativity okay So God, so wh
  The fact that we're all striving to be better. Okay? Virtue, truth, asha, these are all we strive for. Okay? There can be no perfection. There can just be only a process of becoming. >> Right? Does that make sense? >> Yes. >> Okay. So look, I mean, I know people want simple answers. I know that oh there'll be there'll be a final judgment we're going to go to heaven and we'll live every happy happ happy happ happy happ happy happ happy happ happy happ happy happ happy happ happy happ happy happ happy happily ever after okay that's not what that's not what the
 truth is the truth is that the universe is a constant process of becoming of struggle of pain of tragedy but from that we can build hope and virtue and good okay all right so thank you so I've done I've gone over into the three major civilizations Okay, the Greeks, uh, the Israelites and the Persians that that have come after the collapse of the Bronze Age.
  Okay, what what I'm going to do next week is I'm going to put I'm going to show you how these three civilizations interact with each other. Okay, we're going to go into the history of these civilizations. Okay. All right. So, I'll see you guys next
-

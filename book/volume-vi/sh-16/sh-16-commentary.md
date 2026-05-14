@@ -1,54 +1,56 @@
-﻿---
+---
 source_id: sh-16
 title: "Secret History #16: The Big Bang of Greek Civilization"
-source_series: secret-history
+source_series: "Secret History"
+publication_date: 2025-11-06
+source_chapter_path: book/volume-vi/sh-16/sh-16-transcript.md
+source_corpus_path: corpus/secret-history/sh-16.md
 commentary_status: in-review
 review_status: source_reviewed
 annotation_status: drafted
 source_reviewed_at: 2026-05-14
-template_family: secret-history-literary-commentary
-source_chapter_path: book/volume-vi/sh-16/sh-16-transcript.md
-ph_civ_path: corpus/ph-civ/sh-16.md
-orientation_payload_path: book/volume-vi/sh-16/sh-16-orientation.yaml
+template_family: world-war-strategic-commentary
+part: world-war
+part_role: dual_civilization_support
+civilization_support: true
 representation_not_endorsement: true
 ---
 
-# Commentary: Secret History #16: The Big Bang of Greek Civilization
+# Secret History #16: The Big Bang of Greek Civilization
 
-## Core Thesis & Literary Role
+## Core Strategic Thesis
 
-This Secret History unit gives the Homer-to-Tolstoy corridor its first routed Tolstoy endpoint: Homer remains the Greek beginning, while the Anna Karenina coda lets the spine reach modern prose and spiritual fracture.
+Secret History #16: The Big Bang of Greek Civilization belongs to Secret History inside World War, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. It also serves as the routed Tolstoy endpoint for the literary spine, while remaining a Secret History lecture rather than a dedicated Tolstoy lecture. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
 
 ## Neutral Lecture Summary
 
-Secret History #16 is the mandatory limited-subset route because it supplies the first source-backed Tolstoy endpoint for the Homer-to-Tolstoy corridor. The commentary treats the lecture as source-reviewed but still in review: it identifies the chapter's literary function, flags high-risk claims, and avoids treating the lecture's broad comparisons as settled scholarship.
+Macro recap: city-states and trade competition → innovation → empire → bureaucracy (centralization, censorship, propaganda writing) → stagnation; Mycenaean Greece as Bronze Age empire; collapse opens space for classical Greece.
 
-## Key Terms, Texts, and Interpretive Claims
+## Actors, Systems, And Stakes
 
-  - Homer, oral epic, and the Greek civilizational beginning
-  - The Iliad as rage, guilt, forgiveness, and heroic memory
-  - The alphabet and oral-to-written transition as cultural infrastructure
-  - Anna Karenina, Tolstoy, and modern prose as a late comparison point
+- **Primary actors:** traditions, writers, movements, institutions, and political communities
+- **System pressure:** hidden inheritance, myth, imagination, ideology, and social memory
+- **Decision field:** The lecture asks how inherited structures narrow or expand what actors can plausibly do.
+- **Reader task:** Track the difference between source representation, interpretive model, and forecast-bearing claim.
 
-## Passage / Argument Anchors
+## Claims, Forecasts, And Falsifiers
 
-- Use the transcript's opening framing to identify the chapter's central problem.
-- Use the named literary, religious, or philosophical figures as anchors for later cross-volume linking.
-- Use late comparative passages cautiously, especially when the lecture moves from historical reconstruction into modern literary or civilizational diagnosis.
+- Claims should be treated as lecture interpretations until checked against external evidence.
+- Forecast-bearing claims require date, source, and falsifier review before being used as operational guidance.
+- A useful falsifier is any later event, archival record, or scholarly consensus that shows the lecture's pressure model overstates causation or ignores stronger constraints.
 
-## Counter-Readings & Limits
+## Evidence Limits And Date Sensitivity
 
-This entry is in review and uses SH-16 as a source-backed Tolstoy endpoint, but SH-16 is not a dedicated Tolstoy lecture and its Anna Karenina material is a coda. Transcript fidelity is preserved in Part I, but commentary and PH-CIV should mark uncertainty, source risk, and representation-not-endorsement instead of smoothing or endorsing contested claims.
+This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use. Its Tolstoy function is a source-backed literary endpoint, not evidence that the course contains a full dedicated Tolstoy lecture. Transcript fidelity preserves uncomfortable or speculative claims in Part I; guardrails belong here, in PH-CIV, and in routing language.
 
-## Cross-Series Links
+## Counter-Readings
 
-- PH-CIV entry: [sh-16](../../../corpus/ph-civ/sh-16.md)
-- Secret History source entry: [sh-16](../../../corpus/secret-history/sh-16.md)
-- Homer-to-Tolstoy corridor: [homer-to-tolstoy](../../../corpus/cross-volume/homer-to-tolstoy.md)
+- The same material may be read through local contingency rather than broad historical law.
+- Strategic behavior may reflect institutional weakness, personality, or accident as much as deep civilizational inheritance.
+- Literary, theological, or mythic material should not be treated as a sole cause of political outcomes.
 
-## Open Issues & Future Review
+## Open Issues For Review
 
-- Compare the transfer transcript against audio/video before quote-grade use.
-- Add external bibliography only in a later scholarly-review pass.
-- Decide whether this support node should remain in the limited literary subset if a full Secret History spine is later materialized.
-
+- Identify which claims are descriptive, interpretive, predictive, or rhetorical.
+- Add external bibliography before treating this commentary as final.
+- Preserve exact transcript wording when quoting; do not smooth ASR or lecture phrasing into stronger claims.

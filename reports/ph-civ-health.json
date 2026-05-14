@@ -1,11 +1,11 @@
 ﻿{
     "generated_at":  "deterministic-local",
     "corpus_path":  "corpus/ph-civ",
-    "entry_count":  77,
+    "entry_count":  140,
     "warning_count":  0,
     "placement_weight_counts":  {
-                                    "strong":  60,
-                                    "medium":  16,
+                                    "strong":  120,
+                                    "medium":  19,
                                     "light":  1
                                 },
     "status":  "clean",
@@ -781,12 +781,67 @@
                                      ]
                     },
                     {
+                        "source_id":  "geo-01",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-01.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-02",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-02.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-03",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-03.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-04",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-04.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
                         "source_id":  "geo-05",
                         "placement_weight":  "light",
-                        "review_status":  "calibration_seed",
+                        "review_status":  "in_review",
                         "file":  "corpus/ph-civ/geo-05.md",
-                        "limits_length":  264,
-                        "return_path_length":  236,
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-06",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-06.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
                         "warnings":  [
 
                                      ]
@@ -794,10 +849,54 @@
                     {
                         "source_id":  "geo-07",
                         "placement_weight":  "medium",
-                        "review_status":  "calibration_seed",
+                        "review_status":  "in_review",
                         "file":  "corpus/ph-civ/geo-07.md",
                         "limits_length":  282,
-                        "return_path_length":  235,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-08",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-08.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-09",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-09.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-10",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-10.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-11",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-11.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
                         "warnings":  [
 
                                      ]
@@ -805,10 +904,450 @@
                     {
                         "source_id":  "geo-12",
                         "placement_weight":  "medium",
-                        "review_status":  "calibration_seed",
+                        "review_status":  "in_review",
                         "file":  "corpus/ph-civ/geo-12.md",
-                        "limits_length":  258,
-                        "return_path_length":  244,
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-13",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-13.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-14",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-14.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-15",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-15.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-16",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-16.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-17",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-17.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-18",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-18.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-19",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-19.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "geo-20",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/geo-20.md",
+                        "limits_length":  282,
+                        "return_path_length":  188,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-01",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-01.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-02",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-02.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-03",
+                        "placement_weight":  "medium",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-03.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-04",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-04.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-05",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-05.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-06",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-06.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-07",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-07.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-08",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-08.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-09",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-09.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-10",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-10.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-11",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-11.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-12",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-12.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-13",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-13.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-14",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-14.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-15",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-15.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-16",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-16.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-17",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-17.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-18",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-18.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-19",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-19.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-20",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-20.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-21",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-21.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gt-22",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gt-22.md",
+                        "limits_length":  282,
+                        "return_path_length":  200,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-01",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-01.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-02",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-02.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-03",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-03.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-04",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-04.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-05",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-05.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-06",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-06.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-07",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-07.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-08",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-08.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-09",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-09.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-10",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-10.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
                         "warnings":  [
 
                                      ]
@@ -818,8 +1357,52 @@
                         "placement_weight":  "medium",
                         "review_status":  "in_review",
                         "file":  "corpus/ph-civ/sh-11.md",
-                        "limits_length":  162,
-                        "return_path_length":  152,
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-12",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-12.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-13",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-13.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-14",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-14.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-15",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-15.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
                         "warnings":  [
 
                                      ]
@@ -829,8 +1412,8 @@
                         "placement_weight":  "medium",
                         "review_status":  "in_review",
                         "file":  "corpus/ph-civ/sh-16.md",
-                        "limits_length":  162,
-                        "return_path_length":  123,
+                        "limits_length":  413,
+                        "return_path_length":  201,
                         "warnings":  [
 
                                      ]
@@ -840,8 +1423,8 @@
                         "placement_weight":  "medium",
                         "review_status":  "in_review",
                         "file":  "corpus/ph-civ/sh-17.md",
-                        "limits_length":  171,
-                        "return_path_length":  145,
+                        "limits_length":  282,
+                        "return_path_length":  201,
                         "warnings":  [
 
                                      ]
@@ -851,8 +1434,118 @@
                         "placement_weight":  "medium",
                         "review_status":  "in_review",
                         "file":  "corpus/ph-civ/sh-18.md",
-                        "limits_length":  164,
-                        "return_path_length":  148,
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-19",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-19.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-20",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-20.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-21",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-21.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-22",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-22.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-23",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-23.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-24",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-24.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-25",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-25.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-26",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-26.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-27",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-27.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "sh-28",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/sh-28.md",
+                        "limits_length":  282,
+                        "return_path_length":  201,
                         "warnings":  [
 
                                      ]

@@ -47,8 +47,13 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   |-- geo-08.md
 |   |   |-- geo-09.md
 |   |   |-- geo-10.md
-|   |   |-- geo-11.md
-|   |   `-- geo-12.md
+|   |   |-- index.md
+|   |   |-- geo-01.md
+|   |   `-- geo-02..geo-20.md
+|   |-- game-theory/
+|   |   |-- README.md
+|   |   |-- index.md
+|   |   `-- gt-01..gt-22.md
 |   |-- civilization/
 |   |   |-- civ-01.md
 |   |   `-- civ-02..civ-60.md
@@ -59,7 +64,15 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- secret-history/
 |   |   |-- README.md
 |   |   |-- index.md
-|   |   `-- sh-11,sh-16..sh-18.md
+|   |   `-- sh-01..sh-28.md
+|   |-- world-war/
+|   |   |-- README.md
+|   |   |-- index.md
+|   |   `-- pressure-corridor files
+|   |-- media-packs/
+|   |   |-- README.md
+|   |   |-- index.md
+|   |   `-- calibrated media-pack pages
 |   |-- cross-volume/
 |   |   |-- README.md
 |   |   |-- index.md
@@ -70,13 +83,15 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       |-- index.md
 |       |-- civ-01.md
 |       |-- civ-02..civ-60.md
+|       |-- geo-01..geo-20.md
+|       |-- gt-01..gt-22.md
 |       |-- gb-01..gb-10.md
-|       |-- sh-11,sh-16..sh-18.md
-|       |-- geo-05.md
-|       |-- geo-07.md
-|       `-- geo-12.md
+|       `-- sh-01..sh-28.md
 |-- registries/
 |   |-- README.md
+|   |-- actors.yaml
+|   |-- theaters.yaml
+|   |-- forecasts.yaml
 |   `-- cross-volume-links.yaml
 |-- reports/
 |   |-- civilization-spine-health.md
@@ -90,7 +105,11 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- validate-all.ps1
 |   |-- validate-civilization-spine.ps1
 |   |-- validate-cross-volume-links.ps1
+|   |-- validate-geo-strategy-spine.ps1
+|   |-- validate-game-theory-spine.ps1
 |   |-- validate-secret-history-spine.ps1
+|   |-- validate-world-war-part.ps1
+|   |-- validate-media-packs.ps1
 |   |-- validate-orientation.ps1
 |   |-- validate-ph-civ.ps1
 |   |-- validate-ph-skills.ps1
@@ -98,6 +117,9 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   `-- validate-transcript-fidelity.ps1
 `-- book/
     |-- README.md
+    |-- parts/
+    |   |-- civilization/
+    |   `-- world-war/
     |-- volume-i/
     |   |-- geo-01-transcript.md
     |   |-- geo-01-commentary.md
@@ -119,10 +141,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
     |   |-- geo-09-commentary.md
     |   |-- geo-10-transcript.md
     |   |-- geo-10-commentary.md
-    |   |-- geo-11-transcript.md
-    |   |-- geo-11-commentary.md
-    |   |-- geo-12-transcript.md
-    |   `-- geo-12-commentary.md
+    |   `-- geo-01..geo-20 transcript/commentary/orientation files
     |-- volume-ii/
     |   |-- README.md
     |   `-- civ-01..civ-60/
@@ -136,7 +155,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
     |       `-- gb-XX-orientation.yaml
     `-- volume-vi/
         |-- README.md
-        `-- sh-11,sh-16..sh-18/
+        `-- sh-01..sh-28/
             |-- sh-XX-transcript.md
             |-- sh-XX-commentary.md
             `-- sh-XX-orientation.yaml
@@ -171,7 +190,7 @@ registries/
 `-- counter-readings.md
 ```
 
-The exact registry format should be settled after the first manual Geo-Strategy batch.
+The strategic registries are intentionally minimal in this pass. They provide starting anchors for actors, theaters, and forecast-bearing claims without replacing chapter-level review.
 
 ## Local Skills
 
@@ -185,3 +204,10 @@ The repo-local Predictive History skill suite lives under both `.cursor/skills/`
 - `ph-youtube-transcript`: compatibility alias for `ph-transcript`.
 
 See [youtube-transcript-workflow.md](youtube-transcript-workflow.md) for the public transcript workflow map.
+    |-- volume-iii/
+    |   |-- README.md
+    |   `-- gt-01..gt-22/
+    |       |-- gt-XX-transcript.md
+    |       |-- gt-XX-commentary.md
+    |       `-- gt-XX-orientation.yaml
+    |-- volume-v/

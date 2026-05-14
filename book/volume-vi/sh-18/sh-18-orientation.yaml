@@ -1,12 +1,16 @@
-﻿source_id: sh-18
+source_id: sh-18
 placement_weight: medium
-where_this_sits: This Secret History unit supports the literary spine through Zarathustra, Rumi, Nietzsche, and the prophetic-poetic mode where religious imagination becomes philosophical and literary force.
-reading_posture: Read this as a support node linking theology, philosophy, and literature. It is useful for the spine because it shows how prophetic voice can move into poetry and modern philosophical style.
+part: world-war
+part_role: dual_civilization_support
+civilization_support: true
+where_this_sits: |
+  Secret History #18: Thus Spoke Zarathustra belongs to Secret History inside World War, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. It also supports the Civilization literary and imagination spine, so it should be read as a bridge between discovery and application.
+reading_posture: |
+  Read this as an orientation card for pressure and application, not as a substitute for the transcript or commentary. The task is to notice how the lecture converts historical pattern into actors, systems, risks, and possible futures.
 historical_pressure_points:
-  - Zarathustra and Zoroastrian moral dualism
-  - Rumi and poetic-theological inheritance
-  - Nietzsche's Thus Spoke Zarathustra as modern prophetic-literary form
-  - Connections to Plato, Kant, and the cave/opening of knowledge
-limits_of_the_frame: This entry is in review, the transfer transcript appears cut off, and its Zoroastrian, Rumi, Nietzsche, Plato, and Kant connections require careful external review.
-return_path: Return from this card to the transcript for the lecture's movement from Zarathustra through Rumi into Nietzsche, while preserving the cutoff caveat.
-
+  - "hidden inheritance, myth, imagination, ideology, and social memory"
+  - "US-Iran pressure, regional escalation, and religious-political legitimacy"
+limits_of_the_frame: |
+  This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use.
+return_path: |
+  Return through book/volume-vi/sh-18/sh-18-transcript.md for exact lecture wording, book/volume-vi/sh-18/sh-18-commentary.md for bounded analysis, and corpus/secret-history/sh-18.md for source metadata.

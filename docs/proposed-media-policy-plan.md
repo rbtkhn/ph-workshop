@@ -1,31 +1,32 @@
-# Mandatory Chapter Media Packs, Lightweight by Default
+# Human-Curated Chapter Media Packs, Link-First By Default
 
 ## Summary
-Make media packs mandatory for future chapters, but keep them lightweight and chapter-local. The pack should be a study aid rather than a media archive: each chapter gets a small media index plus a thumbnail and external links, while full video/audio mirroring stays out of scope. Existing Geo chapters stay unchanged for now; the rule applies to future chapters only.
+Make media packs a human-curated, agent-structured study layer. The pack should orient students before transcript and commentary: PH-CIV says where the lecture sits, the media pack says what to see before reading, the transcript preserves what was said, and commentary interprets and bounds it.
 
 ## Key Changes
-- Add a chapter-local media pack contract for new chapters:
-  - each chapter has a `media.md` or equivalent media index beside transcript and commentary
-  - the pack includes a thumbnail, external source links, and brief accessibility notes
-  - optional key frames or slide images can be added when they materially help the lecture
+- Add a chapter-local media payload plus public media-pack corpus page:
+  - each calibrated chapter has a `*-media.yaml` beside transcript and commentary
+  - rendered packs live under `corpus/media-packs/`
+  - packs aim for 5-15 high-value items, with 15 as the rich target
 - Surface the media pack in chapter metadata and chapter-level docs:
-  - add a media pack path/status field to the future chapter template
-  - make the chapter media pack discoverable from the transcript/commentary pair
+  - add `media_pack_path`, `media_payload_path`, and `media_pack_status`
+  - make packs discoverable from manifest and corpus index
 - Keep the policy lightweight and rights-safe:
   - no default full video/audio storage in the repo
   - no mandatory Git LFS workflow
   - external links preferred over mirrored binaries
-- Keep existing Geo content untouched:
-  - no retroactive media-pack backfill for Geo
-  - no placeholder media files for old chapters
+- Keep human responsibility focused:
+  - humans search and curate candidate media
+  - agents structure payloads, write museum-label captions, and run validation
+  - rights handling uses conservative statuses, not human legal review
 
 ## Test Plan
-- Verify the media-pack rule is explicit for future chapters and does not imply a repo-wide backfill.
-- Confirm the chapter template requires a media pack path while keeping the pack itself lightweight.
+- Verify media packs are link-first orientation aids, not proof bundles or media archives.
+- Confirm each calibrated pack resolves from the manifest and contains required item metadata.
 - Check that the policy is consistent with the current rights/reuse language in `CONTRIBUTING.md` and `docs/export-from-strategy-codex.md`.
-- Ensure the repo map and front-door docs can point to the media pack without turning the repo into a media archive.
+- Ensure repo map, front-door docs, and validation runner point to the media-pack layer.
 
 ## Assumptions
-- “Mandatory” means every **new** chapter must have a media pack; existing Geo chapters are not backfilled.
-- The minimum pack is chapter-local index + thumbnail + external links.
-- Key frames and slides are optional enhancements, not baseline requirements.
+- The first rollout is calibration-only.
+- Existing chapters are not all backfilled in one pass.
+- The first calibration packs may remain `curated_draft` until a human search and curation pass approves the final selections.

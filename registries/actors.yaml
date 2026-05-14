@@ -1,0 +1,25 @@
+actors:
+  - id: united-states
+    label: United States
+    part: world-war
+  - id: iran
+    label: Iran
+    part: world-war
+  - id: russia
+    label: Russia
+    part: world-war
+  - id: ukraine
+    label: Ukraine
+    part: world-war
+  - id: china
+    label: China
+    part: world-war
+  - id: israel
+    label: Israel
+    part: world-war
+  - id: european-union
+    label: European Union
+    part: world-war
+  - id: global-finance
+    label: Global finance
+    part: world-war

@@ -1,15 +1,11 @@
-﻿---
+---
 source_id: sh-16
-public_slug: secret-history-16-the-big-bang-of-greek-civilization
 title: "Secret History #16: The Big Bang of Greek Civilization"
-source_series: secret-history
-episode: 16
-book_volume: volume-vi
-book_chapter_id: sh-ch16
-source_url: https://www.youtube.com/watch?v=4ehovUNrSrw
-video_id: 4ehovUNrSrw
+source_series: "Secret History"
 publication_date: 2025-11-06
-source_lecture_path: lectures/secret-history-16-the-big-bang-of-greek-civilization.md
+source_url: "https://www.youtube.com/watch?v=4ehovUNrSrw"
+video_id: "4ehovUNrSrw"
+transfer_lecture_path: "lectures/secret-history-16-the-big-bang-of-greek-civilization.md"
 transcript_status: curated_transcript_pending_rights_review
 transcript_fidelity: exact_body_match
 transcript_source: strategy_codex_transfer
@@ -17,11 +13,12 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 review_status: source_reviewed
 source_reviewed_at: 2026-05-14
+part: world-war
+part_role: dual_civilization_support
+civilization_support: true
 ---
 
 # Secret History #16: The Big Bang of Greek Civilization
-
-> This Part I transcript preserves the transfer-authority lecture body for fidelity work. Guardrails, limits, and review notes belong in commentary, PH-CIV orientation, and routing language; they do not rewrite the verbatim transcript layer.
 
 ## Part I: Full transcript
 
@@ -181,4 +178,3 @@ All right. So, last thing I'm going to do is I'm going to read some YouTube comm
  Children is what gives us purpose. When you see that the world has collapsed or when you see the world is in chaos, you have children because children give you the energy, the motivation, inspiration to fight for a better world. Okay? So I am probably the most pessimistic person on planet earth. Okay? I think the entire world is going to hell. I have three kids.
  I have three young kids. And the reason why is well, first of all, I love my kids. I love having children. but also my children fill me with hope and energy and power to fight for a better world. I'm only doing this I'm only teaching this class. I'm only putting this on YouTube to build a legacy for my children.
  If it were not for my children, I would honestly not be doing this. It's really hard work. Okay. All right. So, that is it for today. Thank you guys. Uh we'll continue next week. Okay.
-

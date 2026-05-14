@@ -1,0 +1,6 @@
+forecasts:
+  - id: world-war-review-needed
+    part: world-war
+    status: seed_pending_detail
+    description: Forecast-bearing claims across Geo-Strategy, Game Theory, and Secret History require chapter-level falsifier review before operational or publication-grade use.
+    corridors: [us-iran, russia-ukraine, china-pacific, dollar-finance, state-decay, escalation, eschatology, media-technology]
