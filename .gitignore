@@ -1,0 +1,7 @@
+# Raw Predictive History YouTube caption cache.
+research/external/youtube-channels/predictive-history/transcripts/*.txt
+research/external/youtube-channels/predictive-history/transcripts/*.vtt
+research/external/youtube-channels/predictive-history/transcripts/*.srt
+.codex-test-temp/
+__pycache__/
+*.pyc

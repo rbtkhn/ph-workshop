@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "transcripts": [
+    {
+      "video_id": "8nsxuB3Vsts",
+      "path": "research/external/youtube-channels/predictive-history/transcripts/8nsxuB3Vsts.txt",
+      "source_tier": "yt_dlp_auto_vtt",
+      "quality_score": 0.671,
+      "status": "captured",
+      "content_hash": "a56ce9a2b3bc121a4a69c78824d5e03df52016b17fae399d995a1e06834a6507",
+      "captured_at": "2026-05-14T14:32:00+00:00"
+    },
+    {
+      "video_id": "BIl5vJn6ohI",
+      "path": "research/external/youtube-channels/predictive-history/transcripts/BIl5vJn6ohI.txt",
+      "source_tier": "yt_dlp_auto_vtt",
+      "quality_score": 0.667,
+      "status": "captured",
+      "content_hash": "0650de3f63de20aa71db81d74e6369d0d165f5a2cdfc647b7895a02b445758c4",
+      "captured_at": "2026-05-14T14:32:00+00:00"
+    }
+  ]
+}
