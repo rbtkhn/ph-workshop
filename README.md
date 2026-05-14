@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`, and the Civilization Volume II scaffold now has a first thirty-four-chapter spine from `civ-01` through `civ-34`.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`, and the Civilization Volume II scaffold now has a first thirty-nine-chapter spine from `civ-01` through `civ-39`.
 
 Included now:
 
@@ -28,7 +28,7 @@ Included now:
 - export policy from the private working corpus
 - the first public Geo-Strategy chapter files for `geo-01` through `geo-12`
 - the Civilization Volume II scaffold and multi-layer commentary template
-- the first Civilization spine from `civ-01` through `civ-34`, with `civ-02` through `civ-34` in review
+- the first Civilization spine from `civ-01` through `civ-39`, with `civ-02` through `civ-39` in review
 - the `ph-civ` derived study corpus for calibrated and in-review chapter placement and re-entry
 
 Not included yet:
@@ -59,10 +59,10 @@ The repository should help readers:
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/ph-civ/](corpus/ph-civ/) - derived study placements for calibrated and in-review chapters
-- [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-34`
+- [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-39`
 - [registries/](registries/) - current source index and future cross-reference registries
 - [book/](book/) - public chapter files and reader-facing material
-- [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first thirty-four-chapter spine
+- [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first thirty-nine-chapter spine
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - calibrated Civilization pilot chapter pair
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling

@@ -504,3 +504,63 @@ chapters:
     part_ii_path: book/volume-ii/civ-34/civ-34-commentary.md
     ph_civ_path: corpus/ph-civ/civ-34.md
     transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-35
+    series: civilization
+    chronology: 35
+    title: "Civilization #35: The Viking Legacy"
+    publication_date: 2025-03-04
+    corpus_path: corpus/civilization/civ-35.md
+    part_i_path: book/volume-ii/civ-35/civ-35-transcript.md
+    part_ii_path: book/volume-ii/civ-35/civ-35-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-35.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-36
+    series: civilization
+    chronology: 36
+    title: "Civilization #36: Memory of the Norse"
+    publication_date: 2025-03-06
+    corpus_path: corpus/civilization/civ-36.md
+    part_i_path: book/volume-ii/civ-36/civ-36-transcript.md
+    part_ii_path: book/volume-ii/civ-36/civ-36-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-36.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-37
+    series: civilization
+    chronology: 37
+    title: "Civilization #37: The Golden Age of Islam"
+    publication_date: 2025-03-11
+    corpus_path: corpus/civilization/civ-37.md
+    part_i_path: book/volume-ii/civ-37/civ-37-transcript.md
+    part_ii_path: book/volume-ii/civ-37/civ-37-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-37.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-38
+    series: civilization
+    chronology: 38
+    title: "Civilization #38: Twilight of the Middle Kingdom"
+    publication_date: 2025-03-13
+    corpus_path: corpus/civilization/civ-38.md
+    part_i_path: book/volume-ii/civ-38/civ-38-transcript.md
+    part_ii_path: book/volume-ii/civ-38/civ-38-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-38.md
+    transcript_fidelity: exact_body_match
+
+
+  - chapter_id: civ-39
+    series: civilization
+    chronology: 39
+    title: "Civilization #39: Genghis Khan, World Shatterer"
+    publication_date: 2025-03-18
+    corpus_path: corpus/civilization/civ-39.md
+    part_i_path: book/volume-ii/civ-39/civ-39-transcript.md
+    part_ii_path: book/volume-ii/civ-39/civ-39-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-39.md
+    transcript_fidelity: exact_body_match

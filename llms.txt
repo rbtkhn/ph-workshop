@@ -19,11 +19,11 @@
 ## Canonical Content
 
 - [book/volume-i/](book/volume-i/): current Part I transcript and Part II commentary chapters.
-- [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and first thirty-four-chapter spine.
+- [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and first thirty-nine-chapter spine.
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/): calibrated Civilization pilot chapter pair.
 - [corpus/ph-civ/](corpus/ph-civ/): derived chapter placements and return paths for calibrated and in-review units.
 - [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
-- [corpus/civilization/](corpus/civilization/): Civilization source pointers for `civ-01` through `civ-34`.
+- [corpus/civilization/](corpus/civilization/): Civilization source pointers for `civ-01` through `civ-39`.
 - [registries/sources.md](registries/sources.md): current source registry entries.
 - [docs/chapter-index.md](docs/chapter-index.md): human-readable chapter catalog.
 - [docs/series-roadmap.md](docs/series-roadmap.md): series-level planning and next-batch order.
