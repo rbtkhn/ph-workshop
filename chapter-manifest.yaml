@@ -904,3 +904,15 @@ chapters:
     ph_civ_path: corpus/ph-civ/gb-09.md
     orientation_payload_path: book/volume-v/gb-09/gb-09-orientation.yaml
     transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-10
+    series: great-books
+    chronology: 10
+    title: "Great Books #10: Dante's Hierarchy of Hell"
+    publication_date: 2026-04-29
+    corpus_path: corpus/great-books/gb-10.md
+    part_i_path: book/volume-v/gb-10/gb-10-transcript.md
+    part_ii_path: book/volume-v/gb-10/gb-10-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-10.md
+    orientation_payload_path: book/volume-v/gb-10/gb-10-orientation.yaml
+    transcript_fidelity: needs_fidelity_review

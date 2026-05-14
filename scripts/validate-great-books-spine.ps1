@@ -148,7 +148,17 @@ if (-not (Test-Path -LiteralPath $strategySourcesPath -PathType Leaf)) {
 
 $manifestText = Get-Text -Path $resolvedManifestPath
 $strategySourcesText = Get-Text -Path $strategySourcesPath
-$expectedIds = 1..9 | ForEach-Object { "gb-{0:D2}" -f $_ }
+$expectedIds = 1..10 | ForEach-Object { "gb-{0:D2}" -f $_ }
+$directYouTubeSources = @{
+  'gb-10' = @{
+    Title = "Great Books #10: Dante's Hierarchy of Hell"
+    Url = 'https://www.youtube.com/watch?v=wGpdMYa2bME'
+    Date = '2026-04-29'
+    VideoId = 'wGpdMYa2bME'
+    BookChapterId = 'gb-ch10'
+    TranscriptFidelity = 'needs_fidelity_review'
+  }
+}
 $requiredCommentarySections = @(
   'Core Thesis & Reading Problem',
   'Neutral Lecture Summary',
@@ -160,19 +170,31 @@ $requiredCommentarySections = @(
 )
 
 foreach ($chapterId in $expectedIds) {
-  $sourceBlock = Get-SourceBlock -SourceText $strategySourcesText -SourceId $chapterId
-  $expectedTitle = Get-YamlScalar -Block $sourceBlock -Key 'title'
-  $expectedUrl = Get-YamlScalar -Block $sourceBlock -Key 'canonical_url'
-  $expectedDate = Get-YamlScalar -Block $sourceBlock -Key 'publication_date'
-  $lecturePath = Get-YamlScalar -Block $sourceBlock -Key 'lecture_path'
-  $analysisPath = Get-YamlScalar -Block $sourceBlock -Key 'analysis_path'
-  $strategyLecturePath = Join-Path -Path $StrategyRoot -ChildPath ($lecturePath -replace '/', [IO.Path]::DirectorySeparatorChar)
-  $strategyAnalysisPath = Join-Path -Path $StrategyRoot -ChildPath ($analysisPath -replace '/', [IO.Path]::DirectorySeparatorChar)
-  $evidencePackPath = Join-Path -Path $StrategyRoot -ChildPath ("evidence-packs\gb-ch$($chapterId.Substring(3)).md")
+  $isDirectYouTubeSource = $directYouTubeSources.ContainsKey($chapterId)
+  if ($isDirectYouTubeSource) {
+    $directSource = $directYouTubeSources[$chapterId]
+    $expectedTitle = $directSource.Title
+    $expectedUrl = $directSource.Url
+    $expectedDate = $directSource.Date
+    $expectedTranscriptFidelity = $directSource.TranscriptFidelity
+    $expectedBookChapterId = $directSource.BookChapterId
+  } else {
+    $sourceBlock = Get-SourceBlock -SourceText $strategySourcesText -SourceId $chapterId
+    $expectedTitle = Get-YamlScalar -Block $sourceBlock -Key 'title'
+    $expectedUrl = Get-YamlScalar -Block $sourceBlock -Key 'canonical_url'
+    $expectedDate = Get-YamlScalar -Block $sourceBlock -Key 'publication_date'
+    $expectedTranscriptFidelity = 'exact_body_match'
+    $expectedBookChapterId = "gb-ch$($chapterId.Substring(3))"
+    $lecturePath = Get-YamlScalar -Block $sourceBlock -Key 'lecture_path'
+    $analysisPath = Get-YamlScalar -Block $sourceBlock -Key 'analysis_path'
+    $strategyLecturePath = Join-Path -Path $StrategyRoot -ChildPath ($lecturePath -replace '/', [IO.Path]::DirectorySeparatorChar)
+    $strategyAnalysisPath = Join-Path -Path $StrategyRoot -ChildPath ($analysisPath -replace '/', [IO.Path]::DirectorySeparatorChar)
+    $evidencePackPath = Join-Path -Path $StrategyRoot -ChildPath ("evidence-packs\$expectedBookChapterId.md")
 
-  foreach ($strategyFile in @($strategyLecturePath, $strategyAnalysisPath, $evidencePackPath)) {
-    if (-not (Test-Path -LiteralPath $strategyFile -PathType Leaf)) {
-      throw "Strategy transfer file does not exist for ${chapterId}: $strategyFile"
+    foreach ($strategyFile in @($strategyLecturePath, $strategyAnalysisPath, $evidencePackPath)) {
+      if (-not (Test-Path -LiteralPath $strategyFile -PathType Leaf)) {
+        throw "Strategy transfer file does not exist for ${chapterId}: $strategyFile"
+      }
     }
   }
 
@@ -195,7 +217,7 @@ foreach ($chapterId in $expectedIds) {
     @{ Key = 'title'; Expected = $expectedTitle },
     @{ Key = 'canonical_url'; Expected = $expectedUrl },
     @{ Key = 'publication_date'; Expected = $expectedDate },
-    @{ Key = 'transcript_fidelity'; Expected = 'exact_body_match' },
+    @{ Key = 'transcript_fidelity'; Expected = $expectedTranscriptFidelity },
     @{ Key = 'representation_not_endorsement'; Expected = 'true' }
   )) {
     $actualValue = Get-FrontmatterValue -Text $transcriptText -Key $metadataCheck.Key
@@ -204,15 +226,24 @@ foreach ($chapterId in $expectedIds) {
     }
   }
 
-  $strategyLectureText = Get-Text -Path $strategyLecturePath
-  $strategyBody = Get-BodyFromMarker -Text $strategyLectureText -Marker '## Full transcript'
   $targetBody = Get-BodyFromMarker -Text $transcriptText -Marker '## Part I: Full transcript'
-  if ($strategyBody -cne $targetBody) {
-    throw "Transcript body mismatch for $chapterId against strategy-codex transfer source"
+  if ($isDirectYouTubeSource) {
+    if ([string]::IsNullOrWhiteSpace($targetBody)) {
+      throw "Transcript body for $chapterId is empty"
+    }
+    if ((Get-FrontmatterValue -Text $transcriptText -Key 'transcript_source') -ne 'youtube_auto_captions') {
+      throw "Transcript $chapterId must identify transcript_source: youtube_auto_captions"
+    }
+  } else {
+    $strategyLectureText = Get-Text -Path $strategyLecturePath
+    $strategyBody = Get-BodyFromMarker -Text $strategyLectureText -Marker '## Full transcript'
+    if ($strategyBody -cne $targetBody) {
+      throw "Transcript body mismatch for $chapterId against strategy-codex transfer source"
+    }
   }
 
   $corpusText = Get-Text -Path (Resolve-RepoPath -Path $corpusPath)
-  if ((Get-FrontmatterValue -Text $corpusText -Key 'book_chapter_id') -ne ("gb-ch$($chapterId.Substring(3))")) {
+  if ((Get-FrontmatterValue -Text $corpusText -Key 'book_chapter_id') -ne $expectedBookChapterId) {
     throw "Corpus entry $chapterId must preserve transfer book_chapter_id metadata"
   }
 

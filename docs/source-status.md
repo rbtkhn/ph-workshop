@@ -13,6 +13,7 @@ Use these labels so readers can see what is known, what is provisional, and what
 
 - `not_imported` - no transcript text in this repo.
 - `machine_transcript_available` - machine transcript exists elsewhere but is not reviewed here.
+- `machine_transcript_imported_pending_review` - machine transcript has been imported locally but still needs fidelity and curation review.
 - `curated_transcript_pending_rights_review` - curated text exists but is not approved for public publication.
 - `excerpted_with_review` - limited excerpts reviewed for public study use.
 - `verified_transcript` - transcript checked against source and approved for public use under the repo's future source-text policy, with body fidelity meeting the exact-match benchmark.

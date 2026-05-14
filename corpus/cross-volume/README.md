@@ -9,6 +9,7 @@ Corridors are not causal proofs. They are reading routes: ways to notice how a f
 | Corridor | Status | Path |
 | --- | --- | --- |
 | Homer to Dante | In review | [homer-to-dante.md](homer-to-dante.md) |
+| Homer to Tolstoy | In review | [homer-to-tolstoy.md](homer-to-tolstoy.md) |
 
 ## Routing Contract
 

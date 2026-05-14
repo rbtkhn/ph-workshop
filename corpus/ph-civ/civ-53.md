@@ -35,3 +35,7 @@ This entry is in review after initial commentary analysis. The placement is stro
 ## Return Path
 
 Return here when later chapters discuss Russia, Dostoevsky, Orthodoxy, fatalism, Ukraine, sovereignty, civilizational conflict, Russian literature, or the contrast between material empire and spiritual identity.
+
+## Cross-Volume Corridor
+
+This unit is part of the [Homer to Tolstoy arc](../cross-volume/homer-to-tolstoy.md). Use that corridor to treat Dostoevsky as the routed endpoint of the current literary arc, with Tolstoy named as the intended terminal author but not yet a typed endpoint.

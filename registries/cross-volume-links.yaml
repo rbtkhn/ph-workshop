@@ -6,6 +6,13 @@ corridors:
     status: in_review
     reader_path: corpus/cross-volume/homer-to-dante.md
     description: "A guided cross-volume route from Homeric Greek memory through Virgilian empire into Dante's poetic reordering of European imagination."
+  - corridor: homer-to-tolstoy
+    title: "Homer to Tolstoy"
+    status: in_review
+    reader_path: corpus/cross-volume/homer-to-tolstoy.md
+    terminal_author: Tolstoy
+    terminal_status: not_yet_routed
+    description: "A broader literary author arc from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, with Tolstoy named as the unrouted terminal author."
 
 edges:
   - from: civ-07
@@ -88,3 +95,30 @@ edges:
     claim: "After Dante is framed as a civilizational hinge, Great Books returns to Dante as a close-reading problem of love, ascent, and poetic architecture."
     strength: strong
     guardrail: "Use the return to deepen reading, not to collapse Civilization and Great Books into one interpretive surface."
+
+  - from: gb-09
+    to: gb-10
+    relation_type: inheritance
+    corridor: homer-to-dante
+    theme: "Dante's Inferno deepening"
+    claim: "After Great Books re-enters Dante through the Divine Comedy, the next Dante unit deepens the route into Inferno's hierarchy of hell, sin, punishment, love, and self-forgiveness."
+    strength: strong
+    guardrail: "Treat this as a Dante-sequence deepening, not as a final theological account of Inferno."
+
+  - from: gb-10
+    to: civ-51
+    relation_type: transmutation
+    corridor: homer-to-tolstoy
+    theme: "Dante into Shakespeare"
+    claim: "After Dante gathers epic inheritance into love, ascent, hell, and poetic architecture, Shakespeare shifts literary power toward language, theater, psychology, and imperial culture."
+    strength: strong
+    guardrail: "Treat the move from Dante to Shakespeare as an author-arc transition, not as proof that Shakespeare directly inherits Dante in a simple causal line."
+
+  - from: civ-51
+    to: civ-53
+    relation_type: transmutation
+    corridor: homer-to-tolstoy
+    theme: "Shakespeare into Dostoevsky"
+    claim: "The literary arc moves from Shakespeare's language of empire into Dostoevsky's novelistic pressure on conscience, suffering, faith, and the modern soul."
+    strength: strong
+    guardrail: "Do not turn Shakespeare or Dostoevsky into complete explanations for British, Russian, or modern civilization; keep them as literary carriers inside larger historical frames."

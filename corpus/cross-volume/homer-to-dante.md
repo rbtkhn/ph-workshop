@@ -25,6 +25,7 @@ Use this as a guided route, not as a causal proof. The corridor shows how poems 
 | 8 | [civ-30](../ph-civ/civ-30.md) | Frames Dante as the figure who can inherit and surpass Virgil's place in European memory. |
 | 9 | [civ-41](../ph-civ/civ-41.md) | Returns to Dante as a Renaissance hinge and a quiet revolution in imagination. |
 | 10 | [gb-09](../ph-civ/gb-09.md) | Re-enters Dante through Great Books close reading, love, ascent, and poetic architecture. |
+| 11 | [gb-10](../ph-civ/gb-10.md) | Deepens the Dante sequence through Inferno's hierarchy of hell, sin, self-forgiveness, and punishment. |
 
 ## Reading Grammar
 
@@ -32,7 +33,7 @@ Use this as a guided route, not as a causal proof. The corridor shows how poems 
 - **Odyssey:** epic turns inward toward return, desire, storytelling, and recognition.
 - **Anti-Homer:** the tradition learns to argue with its own heroic inheritance.
 - **Virgil:** Greek epic is transmuted into Roman imperial memory.
-- **Dante:** epic inheritance becomes pilgrimage, love, ascent, and a new architecture of the self.
+- **Dante:** epic inheritance becomes pilgrimage, love, ascent, hell, self-forgiveness, and a new architecture of the self.
 
 ## Guardrail
 

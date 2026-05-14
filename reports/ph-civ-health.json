@@ -1,10 +1,10 @@
 ﻿{
     "generated_at":  "deterministic-local",
     "corpus_path":  "corpus/ph-civ",
-    "entry_count":  72,
+    "entry_count":  73,
     "warning_count":  0,
     "placement_weight_counts":  {
-                                    "strong":  59,
+                                    "strong":  60,
                                     "medium":  12,
                                     "light":  1
                                 },
@@ -765,6 +765,17 @@
                         "file":  "corpus/ph-civ/gb-09.md",
                         "limits_length":  196,
                         "return_path_length":  186,
+                        "warnings":  [
+
+                                     ]
+                    },
+                    {
+                        "source_id":  "gb-10",
+                        "placement_weight":  "strong",
+                        "review_status":  "in_review",
+                        "file":  "corpus/ph-civ/gb-10.md",
+                        "limits_length":  247,
+                        "return_path_length":  183,
                         "warnings":  [
 
                                      ]

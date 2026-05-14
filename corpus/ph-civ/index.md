@@ -93,6 +93,7 @@ The pipeline keeps the corpus compact: choose eligible chapters, write placement
 | `gb-07` | strong | in_review | great-books | [gb-07.md](gb-07.md) |
 | `gb-08` | strong | in_review | great-books | [gb-08.md](gb-08.md) |
 | `gb-09` | strong | in_review | great-books | [gb-09.md](gb-09.md) |
+| `gb-10` | strong | in_review | great-books | [gb-10.md](gb-10.md) |
 | `geo-05` | light | calibration_seed | geo-strategy | [geo-05.md](geo-05.md) |
 | `geo-07` | medium | calibration_seed | geo-strategy | [geo-07.md](geo-07.md) |
 | `geo-12` | medium | calibration_seed | geo-strategy | [geo-12.md](geo-12.md) |

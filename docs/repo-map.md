@@ -55,17 +55,18 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- great-books/
 |   |   |-- README.md
 |   |   |-- index.md
-|   |   `-- gb-01..gb-09.md
+|   |   `-- gb-01..gb-10.md
 |   |-- cross-volume/
 |   |   |-- README.md
 |   |   |-- index.md
-|   |   `-- homer-to-dante.md
+|   |   |-- homer-to-dante.md
+|   |   `-- homer-to-tolstoy.md
 |   `-- ph-civ/
 |       |-- README.md
 |       |-- index.md
 |       |-- civ-01.md
 |       |-- civ-02..civ-60.md
-|       |-- gb-01..gb-09.md
+|       |-- gb-01..gb-10.md
 |       |-- geo-05.md
 |       |-- geo-07.md
 |       `-- geo-12.md
@@ -123,7 +124,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
     |       `-- civ-XX-commentary.md
     `-- volume-v/
         |-- README.md
-        `-- gb-01..gb-09/
+        `-- gb-01..gb-10/
             |-- gb-XX-transcript.md
             |-- gb-XX-commentary.md
             `-- gb-XX-orientation.yaml

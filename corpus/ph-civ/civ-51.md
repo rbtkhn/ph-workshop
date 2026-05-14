@@ -35,3 +35,7 @@ This entry is in review after initial commentary analysis. The placement is stro
 ## Return Path
 
 Return here when later chapters discuss Anglo-American empire, language, Shakespeare, race, soft power, civilization as imagination, British cultural identity, American inheritance, or the Russian/German/British/American comparison.
+
+## Cross-Volume Corridor
+
+This unit is part of the [Homer to Tolstoy arc](../cross-volume/homer-to-tolstoy.md). Use that corridor to place Shakespeare after Homer, Virgil, and Dante, then continue toward Dostoevsky as the literary arc enters the Russian soul.
