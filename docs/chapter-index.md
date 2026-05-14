@@ -2,7 +2,7 @@
 
 This index lists the current public chapter pairs in publication order. Use [chapter-manifest.yaml](../chapter-manifest.yaml) for routing and [README.md](../README.md) / [llms.txt](../llms.txt) for orientation.
 
-Civilization now has a first forty-three-chapter spine. `civ-01` remains the calibrated pilot, and `civ-02` through `civ-43` are in review after initial commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
+Civilization now has a first forty-six-chapter spine. `civ-01` remains the calibrated pilot, and `civ-02` through `civ-46` are in review after initial commentary analysis. Use [book/volume-ii/README.md](../book/volume-ii/README.md) for the Civilization scaffold and commentary template.
 
 For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpus/ph-civ/index.md).
 
@@ -64,3 +64,6 @@ For derived chapter placement and re-entry aids, use the [PH-CIV index](../corpu
 | civ-41 | Civilization #41: Dante's Quiet Revolution | 2025-03-25 | [corpus/civilization/civ-41.md](../corpus/civilization/civ-41.md) | [book/volume-ii/civ-41/civ-41-transcript.md](../book/volume-ii/civ-41/civ-41-transcript.md) | [book/volume-ii/civ-41/civ-41-commentary.md](../book/volume-ii/civ-41/civ-41-commentary.md) | exact_body_match |
 | civ-42 | Civilization #42: The Protestant Reformation and the Birth of Capitalism | 2025-03-27 | [corpus/civilization/civ-42.md](../corpus/civilization/civ-42.md) | [book/volume-ii/civ-42/civ-42-transcript.md](../book/volume-ii/civ-42/civ-42-transcript.md) | [book/volume-ii/civ-42/civ-42-commentary.md](../book/volume-ii/civ-42/civ-42-commentary.md) | exact_body_match |
 | civ-43 | Civilization #43: The Structure of Scientific Revolutions | 2025-04-01 | [corpus/civilization/civ-43.md](../corpus/civilization/civ-43.md) | [book/volume-ii/civ-43/civ-43-transcript.md](../book/volume-ii/civ-43/civ-43-transcript.md) | [book/volume-ii/civ-43/civ-43-commentary.md](../book/volume-ii/civ-43/civ-43-commentary.md) | exact_body_match |
+| civ-44 | Civilization #44: The Spanish Conquest of the New World | 2025-04-08 | [corpus/civilization/civ-44.md](../corpus/civilization/civ-44.md) | [book/volume-ii/civ-44/civ-44-transcript.md](../book/volume-ii/civ-44/civ-44-transcript.md) | [book/volume-ii/civ-44/civ-44-commentary.md](../book/volume-ii/civ-44/civ-44-commentary.md) | exact_body_match |
+| civ-45 | Civilization #45: The Gunpowder Revolution | 2025-04-10 | [corpus/civilization/civ-45.md](../corpus/civilization/civ-45.md) | [book/volume-ii/civ-45/civ-45-transcript.md](../book/volume-ii/civ-45/civ-45-transcript.md) | [book/volume-ii/civ-45/civ-45-commentary.md](../book/volume-ii/civ-45/civ-45-commentary.md) | exact_body_match |
+| civ-46 | Civilization #46: The Revolution of Reason | 2025-04-22 | [corpus/civilization/civ-46.md](../corpus/civilization/civ-46.md) | [book/volume-ii/civ-46/civ-46-transcript.md](../book/volume-ii/civ-46/civ-46-transcript.md) | [book/volume-ii/civ-46/civ-46-commentary.md](../book/volume-ii/civ-46/civ-46-commentary.md) | exact_body_match |

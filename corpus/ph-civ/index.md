@@ -67,6 +67,9 @@ The pipeline keeps the corpus compact: choose eligible chapters, write placement
 | `civ-41` | strong | in_review | civilization | [civ-41.md](civ-41.md) |
 | `civ-42` | strong | in_review | civilization | [civ-42.md](civ-42.md) |
 | `civ-43` | strong | in_review | civilization | [civ-43.md](civ-43.md) |
+| `civ-44` | strong | in_review | civilization | [civ-44.md](civ-44.md) |
+| `civ-45` | strong | in_review | civilization | [civ-45.md](civ-45.md) |
+| `civ-46` | strong | in_review | civilization | [civ-46.md](civ-46.md) |
 | `geo-05` | light | calibration_seed | geo-strategy | [geo-05.md](geo-05.md) |
 | `geo-07` | medium | calibration_seed | geo-strategy | [geo-07.md](geo-07.md) |
 | `geo-12` | medium | calibration_seed | geo-strategy | [geo-12.md](geo-12.md) |

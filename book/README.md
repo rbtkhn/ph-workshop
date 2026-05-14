@@ -6,6 +6,8 @@ The book surface should not outrun the source surface. Public book material shou
 
 The default reading unit is one chapter at a time: Part I is the transcript, Part II is the companion commentary. Use [chapter-manifest.yaml](../chapter-manifest.yaml) as the routing table when you want to open or compare a chapter pair.
 
+Part I is governed by transcript fidelity: preserve the source wording rather than applying interpretive guardrails inside the transcript body. Part II is where guardrails belong, including uncertainty labels, counter-readings, limits, representation-not-endorsement, and warnings around high-risk claims.
+
 Volume II is scaffolded separately for Civilization. It uses the same Part I / Part II split, but Part II commentary follows the multi-layer template in [volume-ii/README.md](volume-ii/README.md).
 
 Future priorities:

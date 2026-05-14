@@ -7,6 +7,10 @@ For Civilization, each chapter is split into two files:
 - Part I: `civ-XX-transcript.md`
 - Part II: `civ-XX-commentary.md`
 
+Part I is fidelity-bearing. Its transcript body should preserve the transferred source wording exactly after normalization, even when the wording is contested, high-risk, speculative, or uncomfortable. Do not use interpretive guardrails to rewrite the transcript body.
+
+Part II is interpretation-bearing. Apply guardrails there: status labels, neutral summaries, source-backed claims, counter-readings, limits, representation-not-endorsement, and explicit handling of uncertainty or live-current risk.
+
 The commentary file uses the versioned multi-layer scaffold in `civ-XX-commentary.md`:
 
 - Layer 0 - Metadata & Quick Reference
@@ -27,6 +31,6 @@ Template rules:
 - Use `draft`, `in-review`, or `complete` in the completeness state fields.
 
 The transcript companion path is recorded in the commentary frontmatter.
-The first forty-three-chapter spine lives in `civ-01/` through `civ-43/`. `civ-01` is the calibrated pilot, and `civ-02` through `civ-43` are in review after initial commentary analysis.
+The first forty-six-chapter spine lives in `civ-01/` through `civ-46/`. `civ-01` is the calibrated pilot, and `civ-02` through `civ-46` are in review after initial commentary analysis.
 
 For chapter placement, use the derived PH-CIV corpus in [corpus/ph-civ/](../../corpus/ph-civ/) and check each entry's `review_status`. Commentary pages should remain focused on the source-backed layer structure.

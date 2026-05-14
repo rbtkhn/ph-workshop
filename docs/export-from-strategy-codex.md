@@ -8,6 +8,8 @@ Predictive History may be populated from Strategy-Codex by curated migration, bu
 
 For transcript-backed chapters, Part I is the fidelity-bearing artifact and must match the source lecture body exactly after normalization.
 
+Interpretive guardrails do not apply by editing the Part I transcript body. If a transcript contains difficult, mistaken, offensive, speculative, or high-risk wording, the export rule is to preserve the transferred wording for fidelity and handle the risk in Part II commentary, PH-CIV placement, limits sections, and public routing language.
+
 ## Export Rule
 
 Material may enter this public repo only when it is:
@@ -19,6 +21,7 @@ Material may enter this public repo only when it is:
 - free of internal governance jargon
 - useful as a public study artifact
 - transcript bodies must meet the exact-body-match fidelity benchmark against the source lecture before being promoted into the public chapter file
+- interpretive guardrails must be expressed outside the verbatim transcript body, in commentary and orientation surfaces
 
 ## Do Not Export
 

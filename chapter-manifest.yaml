@@ -608,3 +608,36 @@ chapters:
     part_ii_path: book/volume-ii/civ-43/civ-43-commentary.md
     ph_civ_path: corpus/ph-civ/civ-43.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-44
+    series: civilization
+    chronology: 44
+    title: "Civilization #44: The Spanish Conquest of the New World"
+    publication_date: 2025-04-08
+    corpus_path: corpus/civilization/civ-44.md
+    part_i_path: book/volume-ii/civ-44/civ-44-transcript.md
+    part_ii_path: book/volume-ii/civ-44/civ-44-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-44.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-45
+    series: civilization
+    chronology: 45
+    title: "Civilization #45: The Gunpowder Revolution"
+    publication_date: 2025-04-10
+    corpus_path: corpus/civilization/civ-45.md
+    part_i_path: book/volume-ii/civ-45/civ-45-transcript.md
+    part_ii_path: book/volume-ii/civ-45/civ-45-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-45.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-46
+    series: civilization
+    chronology: 46
+    title: "Civilization #46: The Revolution of Reason"
+    publication_date: 2025-04-22
+    corpus_path: corpus/civilization/civ-46.md
+    part_i_path: book/volume-ii/civ-46/civ-46-transcript.md
+    part_ii_path: book/volume-ii/civ-46/civ-46-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-46.md
+    transcript_fidelity: exact_body_match
