@@ -45,8 +45,18 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       `-- geo-12.md
 |-- registries/
 |   `-- README.md
+|-- reports/
+|   |-- civilization-spine-health.md
+|   |-- ph-civ-health.md
+|   |-- high-risk-review-queue.md
+|   `-- next-actions.md
 |-- scripts/
+|   |-- audit-civilization-spine.ps1
+|   |-- audit-ph-civ.ps1
+|   |-- audit-review-queue.ps1
+|   |-- validate-all.ps1
 |   |-- validate-civilization-spine.ps1
+|   |-- validate-orientation.ps1
 |   |-- validate-ph-civ.ps1
 |   `-- validate-transcript-fidelity.ps1
 `-- book/

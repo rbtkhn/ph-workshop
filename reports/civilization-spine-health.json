@@ -1,0 +1,1029 @@
+﻿{
+    "generated_at":  "deterministic-local",
+    "manifest_path":  "chapter-manifest.yaml",
+    "chapter_count":  60,
+    "warning_count":  0,
+    "status":  "clean",
+    "chapters":  [
+                     {
+                         "source_id":  "civ-01",
+                         "title":  "Civilization #1: Explaining Humanity\u0027s Transition to Agriculture",
+                         "corpus_path":  "corpus/civilization/civ-01.md",
+                         "part_i_path":  "book/volume-ii/civ-01/civ-01-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-01/civ-01-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-01.md",
+                         "orientation_payload_path":  "book/volume-ii/civ-01/civ-01-orientation.yaml",
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "calibration_seed",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-02",
+                         "title":  "Civilization #2: Religion and the Dawn of Society",
+                         "corpus_path":  "corpus/civilization/civ-02.md",
+                         "part_i_path":  "book/volume-ii/civ-02/civ-02-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-02/civ-02-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-02.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-03",
+                         "title":  "Civilization #3: The Religious Imagination",
+                         "corpus_path":  "corpus/civilization/civ-03.md",
+                         "part_i_path":  "book/volume-ii/civ-03/civ-03-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-03/civ-03-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-03.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-04",
+                         "title":  "Civilization #4: The Paradise Lost of Marija Gimbutas",
+                         "corpus_path":  "corpus/civilization/civ-04.md",
+                         "part_i_path":  "book/volume-ii/civ-04/civ-04-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-04/civ-04-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-04.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-05",
+                         "title":  "Civilization #5: The Yamnaya Conquest of Europe",
+                         "corpus_path":  "corpus/civilization/civ-05.md",
+                         "part_i_path":  "book/volume-ii/civ-05/civ-05-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-05/civ-05-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-05.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-06",
+                         "title":  "Civilization #6: Elite Overproduction and the Bronze Age Collapse",
+                         "corpus_path":  "corpus/civilization/civ-06.md",
+                         "part_i_path":  "book/volume-ii/civ-06/civ-06-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-06/civ-06-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-06.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-07",
+                         "title":  "Civilization #7: Homer\u0027s Iliad and the Birth of Greek Civilization",
+                         "corpus_path":  "corpus/civilization/civ-07.md",
+                         "part_i_path":  "book/volume-ii/civ-07/civ-07-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-07/civ-07-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-07.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-08",
+                         "title":  "Civilization #8: Rat Utopia and the Peloponnesian War",
+                         "corpus_path":  "corpus/civilization/civ-08.md",
+                         "part_i_path":  "book/volume-ii/civ-08/civ-08-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-08/civ-08-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-08.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-09",
+                         "title":  "Civilization #9: Aeschylus, Sophocles, and Euripides as Prophets of Democracy",
+                         "corpus_path":  "corpus/civilization/civ-09.md",
+                         "part_i_path":  "book/volume-ii/civ-09/civ-09-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-09/civ-09-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-09.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-10",
+                         "title":  "Civilization #10: The Trial of Socrates and Plato\u0027s Allegory of the Cave",
+                         "corpus_path":  "corpus/civilization/civ-10.md",
+                         "part_i_path":  "book/volume-ii/civ-10/civ-10-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-10/civ-10-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-10.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-11",
+                         "title":  "Civilization #11: The Greatness of Philip II of Macedon",
+                         "corpus_path":  "corpus/civilization/civ-11.md",
+                         "part_i_path":  "book/volume-ii/civ-11/civ-11-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-11/civ-11-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-11.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-12",
+                         "title":  "Civilization #12: The Tyranny of Alexander the Great",
+                         "corpus_path":  "corpus/civilization/civ-12.md",
+                         "part_i_path":  "book/volume-ii/civ-12/civ-12-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-12/civ-12-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-12.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-13",
+                         "title":  "Civilization #13: Aristotle and the Greek Legacy",
+                         "corpus_path":  "corpus/civilization/civ-13.md",
+                         "part_i_path":  "book/volume-ii/civ-13/civ-13-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-13/civ-13-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-13.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-14",
+                         "title":  "Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+                         "corpus_path":  "corpus/civilization/civ-14.md",
+                         "part_i_path":  "book/volume-ii/civ-14/civ-14-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-14/civ-14-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-14.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-15",
+                         "title":  "Civilization #15: The Myth-Making Genius of Julius Caesar",
+                         "corpus_path":  "corpus/civilization/civ-15.md",
+                         "part_i_path":  "book/volume-ii/civ-15/civ-15-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-15/civ-15-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-15.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-16",
+                         "title":  "Civilization #16: Julius Caesar\u0027s Will and Octavian\u0027s Birth of Empire",
+                         "corpus_path":  "corpus/civilization/civ-16.md",
+                         "part_i_path":  "book/volume-ii/civ-16/civ-16-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-16/civ-16-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-16.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-17",
+                         "title":  "Civilization #17: Homer, Virgil, and the War for the Soul of Rome",
+                         "corpus_path":  "corpus/civilization/civ-17.md",
+                         "part_i_path":  "book/volume-ii/civ-17/civ-17-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-17/civ-17-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-17.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-18",
+                         "title":  "Civilization #18: The Great Pyramid as Ancient Egypt\u0027s Manhattan Project",
+                         "corpus_path":  "corpus/civilization/civ-18.md",
+                         "part_i_path":  "book/volume-ii/civ-18/civ-18-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-18/civ-18-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-18.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-19",
+                         "title":  "Civilization #19: Gilgamesh and Mesopotamia\u0027s Quest for Immortality",
+                         "corpus_path":  "corpus/civilization/civ-19.md",
+                         "part_i_path":  "book/volume-ii/civ-19/civ-19-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-19/civ-19-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-19.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-20",
+                         "title":  "Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization",
+                         "corpus_path":  "corpus/civilization/civ-20.md",
+                         "part_i_path":  "book/volume-ii/civ-20/civ-20-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-20/civ-20-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-20.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-21",
+                         "title":  "Civilization #21: The Apology of King David of Israel",
+                         "corpus_path":  "corpus/civilization/civ-21.md",
+                         "part_i_path":  "book/volume-ii/civ-21/civ-21-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-21/civ-21-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-21.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-22",
+                         "title":  "Civilization #22: The Literary Genesis of the Yahwist",
+                         "corpus_path":  "corpus/civilization/civ-22.md",
+                         "part_i_path":  "book/volume-ii/civ-22/civ-22-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-22/civ-22-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-22.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-23",
+                         "title":  "Civilization #23: Cyrus the Great as Messiah",
+                         "corpus_path":  "corpus/civilization/civ-23.md",
+                         "part_i_path":  "book/volume-ii/civ-23/civ-23-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-23/civ-23-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-23.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-24",
+                         "title":  "Civilization #24: Resurrecting the Gnostic Jesus",
+                         "corpus_path":  "corpus/civilization/civ-24.md",
+                         "part_i_path":  "book/volume-ii/civ-24/civ-24-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-24/civ-24-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-24.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-25",
+                         "title":  "Civilization #25: Paul of Tarsus, Messiah of Rome",
+                         "corpus_path":  "corpus/civilization/civ-25.md",
+                         "part_i_path":  "book/volume-ii/civ-25/civ-25-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-25/civ-25-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-25.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-26",
+                         "title":  "Civilization #26: Constantine\u0027s Monotheistic Revolution",
+                         "corpus_path":  "corpus/civilization/civ-26.md",
+                         "part_i_path":  "book/volume-ii/civ-26/civ-26-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-26/civ-26-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-26.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-27",
+                         "title":  "Civilization #27: Augustine\u0027s Empire of God",
+                         "corpus_path":  "corpus/civilization/civ-27.md",
+                         "part_i_path":  "book/volume-ii/civ-27/civ-27-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-27/civ-27-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-27.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-28",
+                         "title":  "Civilization #28: Muhammad\u0027s Revolution of God",
+                         "corpus_path":  "corpus/civilization/civ-28.md",
+                         "part_i_path":  "book/volume-ii/civ-28/civ-28-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-28/civ-28-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-28.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-29",
+                         "title":  "Civilization #29: Dante\u0027s Divine Comedy and the Liberation of the Human Imagination",
+                         "corpus_path":  "corpus/civilization/civ-29.md",
+                         "part_i_path":  "book/volume-ii/civ-29/civ-29-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-29/civ-29-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-29.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-30",
+                         "title":  "Civilization #30: Dante as the Second Coming of Homer",
+                         "corpus_path":  "corpus/civilization/civ-30.md",
+                         "part_i_path":  "book/volume-ii/civ-30/civ-30-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-30/civ-30-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-30.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-31",
+                         "title":  "Civilization #31: The Oceanic Currents of History",
+                         "corpus_path":  "corpus/civilization/civ-31.md",
+                         "part_i_path":  "book/volume-ii/civ-31/civ-31-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-31/civ-31-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-31.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-32",
+                         "title":  "Civilization #32: Rome\u0027s Rise, Fall, and Legacy",
+                         "corpus_path":  "corpus/civilization/civ-32.md",
+                         "part_i_path":  "book/volume-ii/civ-32/civ-32-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-32/civ-32-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-32.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-33",
+                         "title":  "Civilization #33: The Rise and Fall of the Byzantine Empire",
+                         "corpus_path":  "corpus/civilization/civ-33.md",
+                         "part_i_path":  "book/volume-ii/civ-33/civ-33-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-33/civ-33-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-33.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-34",
+                         "title":  "Civilization #34: The Useful Fiction of the Holy Roman Empire",
+                         "corpus_path":  "corpus/civilization/civ-34.md",
+                         "part_i_path":  "book/volume-ii/civ-34/civ-34-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-34/civ-34-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-34.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-35",
+                         "title":  "Civilization #35: The Viking Legacy",
+                         "corpus_path":  "corpus/civilization/civ-35.md",
+                         "part_i_path":  "book/volume-ii/civ-35/civ-35-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-35/civ-35-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-35.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-36",
+                         "title":  "Civilization #36: Memory of the Norse",
+                         "corpus_path":  "corpus/civilization/civ-36.md",
+                         "part_i_path":  "book/volume-ii/civ-36/civ-36-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-36/civ-36-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-36.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-37",
+                         "title":  "Civilization #37: The Golden Age of Islam",
+                         "corpus_path":  "corpus/civilization/civ-37.md",
+                         "part_i_path":  "book/volume-ii/civ-37/civ-37-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-37/civ-37-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-37.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-38",
+                         "title":  "Civilization #38: Twilight of the Middle Kingdom",
+                         "corpus_path":  "corpus/civilization/civ-38.md",
+                         "part_i_path":  "book/volume-ii/civ-38/civ-38-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-38/civ-38-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-38.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-39",
+                         "title":  "Civilization #39: Genghis Khan, World Shatterer",
+                         "corpus_path":  "corpus/civilization/civ-39.md",
+                         "part_i_path":  "book/volume-ii/civ-39/civ-39-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-39/civ-39-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-39.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-40",
+                         "title":  "Civilization #40: Church and Empire",
+                         "corpus_path":  "corpus/civilization/civ-40.md",
+                         "part_i_path":  "book/volume-ii/civ-40/civ-40-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-40/civ-40-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-40.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-41",
+                         "title":  "Civilization #41: Dante\u0027s Quiet Revolution",
+                         "corpus_path":  "corpus/civilization/civ-41.md",
+                         "part_i_path":  "book/volume-ii/civ-41/civ-41-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-41/civ-41-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-41.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-42",
+                         "title":  "Civilization #42: The Protestant Reformation and the Birth of Capitalism",
+                         "corpus_path":  "corpus/civilization/civ-42.md",
+                         "part_i_path":  "book/volume-ii/civ-42/civ-42-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-42/civ-42-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-42.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-43",
+                         "title":  "Civilization #43: The Structure of Scientific Revolutions",
+                         "corpus_path":  "corpus/civilization/civ-43.md",
+                         "part_i_path":  "book/volume-ii/civ-43/civ-43-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-43/civ-43-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-43.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-44",
+                         "title":  "Civilization #44: The Spanish Conquest of the New World",
+                         "corpus_path":  "corpus/civilization/civ-44.md",
+                         "part_i_path":  "book/volume-ii/civ-44/civ-44-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-44/civ-44-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-44.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-45",
+                         "title":  "Civilization #45: The Gunpowder Revolution",
+                         "corpus_path":  "corpus/civilization/civ-45.md",
+                         "part_i_path":  "book/volume-ii/civ-45/civ-45-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-45/civ-45-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-45.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-46",
+                         "title":  "Civilization #46: The Revolution of Reason",
+                         "corpus_path":  "corpus/civilization/civ-46.md",
+                         "part_i_path":  "book/volume-ii/civ-46/civ-46-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-46/civ-46-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-46.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-47",
+                         "title":  "Civilization #47: The Passion of Robespierre",
+                         "corpus_path":  "corpus/civilization/civ-47.md",
+                         "part_i_path":  "book/volume-ii/civ-47/civ-47-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-47/civ-47-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-47.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-48",
+                         "title":  "Civilization #48: Napoleon\u0027s Empire of Myth",
+                         "corpus_path":  "corpus/civilization/civ-48.md",
+                         "part_i_path":  "book/volume-ii/civ-48/civ-48-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-48/civ-48-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-48.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-49",
+                         "title":  "Civilization #49: The Dutch Golden Age and the Rise of the Middle Class",
+                         "corpus_path":  "corpus/civilization/civ-49.md",
+                         "part_i_path":  "book/volume-ii/civ-49/civ-49-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-49/civ-49-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-49.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-50",
+                         "title":  "Civilization #50: Rule, Britannia!",
+                         "corpus_path":  "corpus/civilization/civ-50.md",
+                         "part_i_path":  "book/volume-ii/civ-50/civ-50-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-50/civ-50-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-50.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-51",
+                         "title":  "Civilization #51: Shakespeare\u0027s Language of Empire",
+                         "corpus_path":  "corpus/civilization/civ-51.md",
+                         "part_i_path":  "book/volume-ii/civ-51/civ-51-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-51/civ-51-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-51.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-52",
+                         "title":  "Civilization #52: Empire of Democracy",
+                         "corpus_path":  "corpus/civilization/civ-52.md",
+                         "part_i_path":  "book/volume-ii/civ-52/civ-52-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-52/civ-52-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-52.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-53",
+                         "title":  "Civilization #53: Dostoevsky and the Soul of Russia",
+                         "corpus_path":  "corpus/civilization/civ-53.md",
+                         "part_i_path":  "book/volume-ii/civ-53/civ-53-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-53/civ-53-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-53.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-54",
+                         "title":  "Civilization #54: The German Will to Power",
+                         "corpus_path":  "corpus/civilization/civ-54.md",
+                         "part_i_path":  "book/volume-ii/civ-54/civ-54-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-54/civ-54-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-54.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-55",
+                         "title":  "Civilization #55: Kant, Hegel, and the Theory of Everything",
+                         "corpus_path":  "corpus/civilization/civ-55.md",
+                         "part_i_path":  "book/volume-ii/civ-55/civ-55-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-55/civ-55-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-55.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-56",
+                         "title":  "Civilization #56: What Marx Got Wrong",
+                         "corpus_path":  "corpus/civilization/civ-56.md",
+                         "part_i_path":  "book/volume-ii/civ-56/civ-56-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-56/civ-56-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-56.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-57",
+                         "title":  "Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)",
+                         "corpus_path":  "corpus/civilization/civ-57.md",
+                         "part_i_path":  "book/volume-ii/civ-57/civ-57-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-57/civ-57-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-57.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-58",
+                         "title":  "Civilization #58: Birth of the Nation-State",
+                         "corpus_path":  "corpus/civilization/civ-58.md",
+                         "part_i_path":  "book/volume-ii/civ-58/civ-58-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-58/civ-58-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-58.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-59",
+                         "title":  "Civilization #59: The Man of Steel",
+                         "corpus_path":  "corpus/civilization/civ-59.md",
+                         "part_i_path":  "book/volume-ii/civ-59/civ-59-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-59/civ-59-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-59.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     },
+                     {
+                         "source_id":  "civ-60",
+                         "title":  "Civilization #60: The Decline and Fall of the American Empire",
+                         "corpus_path":  "corpus/civilization/civ-60.md",
+                         "part_i_path":  "book/volume-ii/civ-60/civ-60-transcript.md",
+                         "part_ii_path":  "book/volume-ii/civ-60/civ-60-commentary.md",
+                         "ph_civ_path":  "corpus/ph-civ/civ-60.md",
+                         "orientation_payload_path":  null,
+                         "transcript_fidelity":  "exact_body_match",
+                         "transcript_review_status":  "source_reviewed",
+                         "commentary_status":  "in-review",
+                         "ph_civ_review_status":  "in_review",
+                         "source_reviewed_at":  "2026-05-13",
+                         "warnings":  [
+
+                                      ]
+                     }
+                 ]
+}

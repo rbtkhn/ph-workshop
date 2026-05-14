@@ -1,0 +1,625 @@
+﻿{
+    "generated_at":  "deterministic-local",
+    "queue_count":  50,
+    "seeded_known_risk":  [
+                              "civ-24",
+                              "civ-25",
+                              "civ-31",
+                              "civ-32",
+                              "civ-43",
+                              "civ-44",
+                              "civ-52",
+                              "civ-53",
+                              "civ-54",
+                              "civ-58",
+                              "civ-59",
+                              "civ-60"
+                          ],
+    "items":  [
+                  {
+                      "source_id":  "civ-24",
+                      "title":  "Civilization #24: Resurrecting the Gnostic Jesus",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-24/civ-24-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-24.md"
+                  },
+                  {
+                      "source_id":  "civ-25",
+                      "title":  "Civilization #25: Paul of Tarsus, Messiah of Rome",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-25/civ-25-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-25.md"
+                  },
+                  {
+                      "source_id":  "civ-31",
+                      "title":  "Civilization #31: The Oceanic Currents of History",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-31/civ-31-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-31.md"
+                  },
+                  {
+                      "source_id":  "civ-32",
+                      "title":  "Civilization #32: Rome\u0027s Rise, Fall, and Legacy",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-32/civ-32-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-32.md"
+                  },
+                  {
+                      "source_id":  "civ-43",
+                      "title":  "Civilization #43: The Structure of Scientific Revolutions",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-43/civ-43-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-43.md"
+                  },
+                  {
+                      "source_id":  "civ-44",
+                      "title":  "Civilization #44: The Spanish Conquest of the New World",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-44/civ-44-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-44.md"
+                  },
+                  {
+                      "source_id":  "civ-52",
+                      "title":  "Civilization #52: Empire of Democracy",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-52/civ-52-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-52.md"
+                  },
+                  {
+                      "source_id":  "civ-53",
+                      "title":  "Civilization #53: Dostoevsky and the Soul of Russia",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-53/civ-53-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-53.md"
+                  },
+                  {
+                      "source_id":  "civ-54",
+                      "title":  "Civilization #54: The German Will to Power",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "race-eugenics-nazism-antisemitism",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-54/civ-54-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-54.md"
+                  },
+                  {
+                      "source_id":  "civ-58",
+                      "title":  "Civilization #58: Birth of the Nation-State",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "race-eugenics-nazism-antisemitism"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-58/civ-58-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-58.md"
+                  },
+                  {
+                      "source_id":  "civ-59",
+                      "title":  "Civilization #59: The Man of Steel",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "race-eugenics-nazism-antisemitism",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-59/civ-59-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-59.md"
+                  },
+                  {
+                      "source_id":  "civ-60",
+                      "title":  "Civilization #60: The Decline and Fall of the American Empire",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "finance-conspiracy-adjacent",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-60/civ-60-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-60.md"
+                  },
+                  {
+                      "source_id":  "civ-17",
+                      "title":  "Civilization #17: Homer, Virgil, and the War for the Soul of Rome",
+                      "priority":  "medium",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror",
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "review limits language and source-layer separation",
+                      "commentary_path":  "book/volume-ii/civ-17/civ-17-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-17.md"
+                  },
+                  {
+                      "source_id":  "civ-21",
+                      "title":  "Civilization #21: The Apology of King David of Israel",
+                      "priority":  "medium",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "review limits language and source-layer separation",
+                      "commentary_path":  "book/volume-ii/civ-21/civ-21-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-21.md"
+                  },
+                  {
+                      "source_id":  "civ-28",
+                      "title":  "Civilization #28: Muhammad\u0027s Revolution of God",
+                      "priority":  "medium",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "review limits language and source-layer separation",
+                      "commentary_path":  "book/volume-ii/civ-28/civ-28-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-28.md"
+                  },
+                  {
+                      "source_id":  "civ-39",
+                      "title":  "Civilization #39: Genghis Khan, World Shatterer",
+                      "priority":  "medium",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "review limits language and source-layer separation",
+                      "commentary_path":  "book/volume-ii/civ-39/civ-39-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-39.md"
+                  },
+                  {
+                      "source_id":  "civ-40",
+                      "title":  "Civilization #40: Church and Empire",
+                      "priority":  "medium",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "review limits language and source-layer separation",
+                      "commentary_path":  "book/volume-ii/civ-40/civ-40-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-40.md"
+                  },
+                  {
+                      "source_id":  "civ-47",
+                      "title":  "Civilization #47: The Passion of Robespierre",
+                      "priority":  "medium",
+                      "flags":  [
+                                    "violence-or-state-terror",
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "review limits language and source-layer separation",
+                      "commentary_path":  "book/volume-ii/civ-47/civ-47-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-47.md"
+                  },
+                  {
+                      "source_id":  "civ-03",
+                      "title":  "Civilization #3: The Religious Imagination",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-03/civ-03-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-03.md"
+                  },
+                  {
+                      "source_id":  "civ-04",
+                      "title":  "Civilization #4: The Paradise Lost of Marija Gimbutas",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-04/civ-04-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-04.md"
+                  },
+                  {
+                      "source_id":  "civ-05",
+                      "title":  "Civilization #5: The Yamnaya Conquest of Europe",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-05/civ-05-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-05.md"
+                  },
+                  {
+                      "source_id":  "civ-07",
+                      "title":  "Civilization #7: Homer\u0027s Iliad and the Birth of Greek Civilization",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-07/civ-07-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-07.md"
+                  },
+                  {
+                      "source_id":  "civ-08",
+                      "title":  "Civilization #8: Rat Utopia and the Peloponnesian War",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-08/civ-08-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-08.md"
+                  },
+                  {
+                      "source_id":  "civ-10",
+                      "title":  "Civilization #10: The Trial of Socrates and Plato\u0027s Allegory of the Cave",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation",
+                                    "transcript-or-asr-risk"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-10/civ-10-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-10.md"
+                  },
+                  {
+                      "source_id":  "civ-11",
+                      "title":  "Civilization #11: The Greatness of Philip II of Macedon",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "violence-or-state-terror",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-11/civ-11-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-11.md"
+                  },
+                  {
+                      "source_id":  "civ-12",
+                      "title":  "Civilization #12: The Tyranny of Alexander the Great",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-12/civ-12-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-12.md"
+                  },
+                  {
+                      "source_id":  "civ-13",
+                      "title":  "Civilization #13: Aristotle and the Greek Legacy",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "violence-or-state-terror",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-13/civ-13-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-13.md"
+                  },
+                  {
+                      "source_id":  "civ-14",
+                      "title":  "Civilization #14: Hannibal Barca, Lucius Brutus, and the Triumph of Rome",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-14/civ-14-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-14.md"
+                  },
+                  {
+                      "source_id":  "civ-15",
+                      "title":  "Civilization #15: The Myth-Making Genius of Julius Caesar",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-15/civ-15-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-15.md"
+                  },
+                  {
+                      "source_id":  "civ-16",
+                      "title":  "Civilization #16: Julius Caesar\u0027s Will and Octavian\u0027s Birth of Empire",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-16/civ-16-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-16.md"
+                  },
+                  {
+                      "source_id":  "civ-18",
+                      "title":  "Civilization #18: The Great Pyramid as Ancient Egypt\u0027s Manhattan Project",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-18/civ-18-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-18.md"
+                  },
+                  {
+                      "source_id":  "civ-19",
+                      "title":  "Civilization #19: Gilgamesh and Mesopotamia\u0027s Quest for Immortality",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-19/civ-19-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-19.md"
+                  },
+                  {
+                      "source_id":  "civ-20",
+                      "title":  "Civilization #20: The Proto-Buddhists of the Indus Valley (Harappan) Civilization",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-20/civ-20-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-20.md"
+                  },
+                  {
+                      "source_id":  "civ-22",
+                      "title":  "Civilization #22: The Literary Genesis of the Yahwist",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-22/civ-22-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-22.md"
+                  },
+                  {
+                      "source_id":  "civ-23",
+                      "title":  "Civilization #23: Cyrus the Great as Messiah",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-23/civ-23-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-23.md"
+                  },
+                  {
+                      "source_id":  "civ-26",
+                      "title":  "Civilization #26: Constantine\u0027s Monotheistic Revolution",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-26/civ-26-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-26.md"
+                  },
+                  {
+                      "source_id":  "civ-27",
+                      "title":  "Civilization #27: Augustine\u0027s Empire of God",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-27/civ-27-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-27.md"
+                  },
+                  {
+                      "source_id":  "civ-29",
+                      "title":  "Civilization #29: Dante\u0027s Divine Comedy and the Liberation of the Human Imagination",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-29/civ-29-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-29.md"
+                  },
+                  {
+                      "source_id":  "civ-30",
+                      "title":  "Civilization #30: Dante as the Second Coming of Homer",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-30/civ-30-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-30.md"
+                  },
+                  {
+                      "source_id":  "civ-33",
+                      "title":  "Civilization #33: The Rise and Fall of the Byzantine Empire",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-33/civ-33-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-33.md"
+                  },
+                  {
+                      "source_id":  "civ-35",
+                      "title":  "Civilization #35: The Viking Legacy",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "race-eugenics-nazism-antisemitism"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-35/civ-35-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-35.md"
+                  },
+                  {
+                      "source_id":  "civ-36",
+                      "title":  "Civilization #36: Memory of the Norse",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-36/civ-36-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-36.md"
+                  },
+                  {
+                      "source_id":  "civ-37",
+                      "title":  "Civilization #37: The Golden Age of Islam",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-37/civ-37-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-37.md"
+                  },
+                  {
+                      "source_id":  "civ-38",
+                      "title":  "Civilization #38: Twilight of the Middle Kingdom",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-38/civ-38-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-38.md"
+                  },
+                  {
+                      "source_id":  "civ-41",
+                      "title":  "Civilization #41: Dante\u0027s Quiet Revolution",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-41/civ-41-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-41.md"
+                  },
+                  {
+                      "source_id":  "civ-45",
+                      "title":  "Civilization #45: The Gunpowder Revolution",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-45/civ-45-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-45.md"
+                  },
+                  {
+                      "source_id":  "civ-48",
+                      "title":  "Civilization #48: Napoleon\u0027s Empire of Myth",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-48/civ-48-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-48.md"
+                  },
+                  {
+                      "source_id":  "civ-49",
+                      "title":  "Civilization #49: The Dutch Golden Age and the Rise of the Middle Class",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-49/civ-49-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-49.md"
+                  },
+                  {
+                      "source_id":  "civ-51",
+                      "title":  "Civilization #51: Shakespeare\u0027s Language of Empire",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "race-eugenics-nazism-antisemitism",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-51/civ-51-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-51.md"
+                  },
+                  {
+                      "source_id":  "civ-56",
+                      "title":  "Civilization #56: What Marx Got Wrong",
+                      "priority":  "watch",
+                      "flags":  [
+                                    "live-current-or-war-prediction",
+                                    "finance-conspiracy-adjacent"
+                                ],
+                      "recommended_next_action":  "monitor during next commentary pass",
+                      "commentary_path":  "book/volume-ii/civ-56/civ-56-commentary.md",
+                      "ph_civ_path":  "corpus/ph-civ/civ-56.md"
+                  }
+              ]
+}

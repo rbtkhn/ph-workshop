@@ -1,0 +1,20 @@
+﻿{
+    "generated_at":  "deterministic-local",
+    "next_actions":  [
+                         {
+                             "action":  "Run high-priority manual guardrail review",
+                             "target":  "seeded known-risk chapters",
+                             "count":  12
+                         },
+                         {
+                             "action":  "Review medium-risk limits and return paths",
+                             "target":  "heuristic medium-risk chapters",
+                             "count":  6
+                         },
+                         {
+                             "action":  "Preserve transcript fidelity during all review work",
+                             "target":  "all chapters",
+                             "count":  60
+                         }
+                     ]
+}
