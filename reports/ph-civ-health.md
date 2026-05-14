@@ -3,9 +3,9 @@
 Internal audit snapshot for PH-CIV orientation entries.
 
 Status: clean
-Entry count: 63
+Entry count: 72
 Warning count: 0
-Placement weights: strong=52, medium=10, light=1
+Placement weights: strong=59, medium=12, light=1
 
 | source_id | weight | review_status | warnings |
 | --- | --- | --- | --- |
@@ -69,6 +69,15 @@ Placement weights: strong=52, medium=10, light=1
 | `civ-58` | strong | in_review | none |
 | `civ-59` | strong | in_review | none |
 | `civ-60` | strong | in_review | none |
+| `gb-01` | strong | in_review | none |
+| `gb-02` | strong | in_review | none |
+| `gb-03` | strong | in_review | none |
+| `gb-04` | medium | in_review | none |
+| `gb-05` | strong | in_review | none |
+| `gb-06` | medium | in_review | none |
+| `gb-07` | strong | in_review | none |
+| `gb-08` | strong | in_review | none |
+| `gb-09` | strong | in_review | none |
 | `geo-05` | light | calibration_seed | none |
 | `geo-07` | medium | calibration_seed | none |
 | `geo-12` | medium | calibration_seed | none |

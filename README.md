@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`, and the Civilization Volume II scaffold now has a first sixty-chapter spine from `civ-01` through `civ-60`.
+The first version established the public contract before importing real corpus items. The first Geo-Strategy batch is now present as transcript-first chapter pairs plus corpus pointers for `geo-01` through `geo-12`; Civilization Volume II has a first sixty-chapter spine from `civ-01` through `civ-60`; and Volume V Great Books is active through `gb-09`.
 
 Included now:
 
@@ -30,11 +30,12 @@ Included now:
 - the Civilization Volume II scaffold and multi-layer commentary template
 - the first Civilization spine from `civ-01` through `civ-60`, with `civ-02` through `civ-60` in review
 - the `ph-civ` derived study corpus for calibrated and in-review chapter placement and re-entry
+- the Great Books Volume V spine from `gb-01` through `gb-09`, with all nine units in review
 
 Not included yet:
 
 - generous excerpts
-- full corpus exports beyond the first batch
+- full corpus exports beyond the active Geo-Strategy, Civilization, and Great Books batches
 - private operator notes
 - internal working backlog
 - final Civilization commentary analysis beyond `civ-01`
@@ -59,10 +60,12 @@ The repository should help readers:
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/ph-civ/](corpus/ph-civ/) - derived study placements for calibrated and in-review chapters
+- [corpus/great-books/](corpus/great-books/) - Great Books corpus pointers for `gb-01` through `gb-09`
 - [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-60`
 - [registries/](registries/) - current source index and future cross-reference registries
 - [book/](book/) - public chapter files and reader-facing material
 - [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first sixty-chapter spine
+- [book/volume-v/](book/volume-v/) - Great Books chapter scaffold and first nine-chapter spine
 - [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - calibrated Civilization pilot chapter pair
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling

@@ -84,6 +84,15 @@ The pipeline keeps the corpus compact: choose eligible chapters, write placement
 | `civ-58` | strong | in_review | civilization | [civ-58.md](civ-58.md) |
 | `civ-59` | strong | in_review | civilization | [civ-59.md](civ-59.md) |
 | `civ-60` | strong | in_review | civilization | [civ-60.md](civ-60.md) |
+| `gb-01` | strong | in_review | great-books | [gb-01.md](gb-01.md) |
+| `gb-02` | strong | in_review | great-books | [gb-02.md](gb-02.md) |
+| `gb-03` | strong | in_review | great-books | [gb-03.md](gb-03.md) |
+| `gb-04` | medium | in_review | great-books | [gb-04.md](gb-04.md) |
+| `gb-05` | strong | in_review | great-books | [gb-05.md](gb-05.md) |
+| `gb-06` | medium | in_review | great-books | [gb-06.md](gb-06.md) |
+| `gb-07` | strong | in_review | great-books | [gb-07.md](gb-07.md) |
+| `gb-08` | strong | in_review | great-books | [gb-08.md](gb-08.md) |
+| `gb-09` | strong | in_review | great-books | [gb-09.md](gb-09.md) |
 | `geo-05` | light | calibration_seed | geo-strategy | [geo-05.md](geo-05.md) |
 | `geo-07` | medium | calibration_seed | geo-strategy | [geo-07.md](geo-07.md) |
 | `geo-12` | medium | calibration_seed | geo-strategy | [geo-12.md](geo-12.md) |

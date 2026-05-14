@@ -34,12 +34,17 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   `-- geo-12.md
 |   |-- civilization/
 |   |   |-- civ-01.md
-|   |   `-- civ-02..civ-10.md
+|   |   `-- civ-02..civ-60.md
+|   |-- great-books/
+|   |   |-- README.md
+|   |   |-- index.md
+|   |   `-- gb-01..gb-09.md
 |   `-- ph-civ/
 |       |-- README.md
 |       |-- index.md
 |       |-- civ-01.md
-|       |-- civ-02..civ-10.md
+|       |-- civ-02..civ-60.md
+|       |-- gb-01..gb-09.md
 |       |-- geo-05.md
 |       |-- geo-07.md
 |       `-- geo-12.md
@@ -86,15 +91,17 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
     |   |-- geo-11-commentary.md
     |   |-- geo-12-transcript.md
     |   `-- geo-12-commentary.md
-    `-- volume-ii/
+    |-- volume-ii/
+    |   |-- README.md
+    |   `-- civ-01..civ-60/
+    |       |-- civ-XX-transcript.md
+    |       `-- civ-XX-commentary.md
+    `-- volume-v/
         |-- README.md
-        |-- civ-XX-commentary.md
-        |-- civ-01/
-        |   |-- civ-01-transcript.md
-        |   `-- civ-01-commentary.md
-        `-- civ-02..civ-10/
-            |-- civ-XX-transcript.md
-            `-- civ-XX-commentary.md
+        `-- gb-01..gb-09/
+            |-- gb-XX-transcript.md
+            |-- gb-XX-commentary.md
+            `-- gb-XX-orientation.yaml
 ```
 
 ## Future Corpus Shape

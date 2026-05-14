@@ -10,12 +10,15 @@ Part I is governed by transcript fidelity: preserve the source wording rather th
 
 Volume II is scaffolded separately for Civilization. It uses the same Part I / Part II split, but Part II commentary follows the multi-layer template in [volume-ii/README.md](volume-ii/README.md).
 
+Volume V is scaffolded separately for Great Books. It uses the same Part I / Part II split, but Part II commentary follows the literary-philosophical template in [volume-v/README.md](volume-v/README.md).
+
 Future priorities:
 
 - reading paths by interest
 - volume orientation notes
 - chapter transcripts and complementary material as paired Part I / Part II files
 - Civilization Volume II scaffold, commentary template, and the civ-01 pilot
+- Great Books Volume V scaffold and the `gb-01` through `gb-09` in-review spine
 - PH-CIV derived placements for the civ-01 / geo-05 / geo-07 / geo-12 calibration set
 - the first Geo-Strategy chapter pairs for `geo-01` through `geo-12`
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot

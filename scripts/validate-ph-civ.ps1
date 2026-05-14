@@ -68,6 +68,13 @@ function Get-PublicSurfaceFiles {
     }
   }
 
+  $greatBooksCorpusPath = Resolve-RepoPath -Path 'corpus/great-books'
+  if (Test-Path -LiteralPath $greatBooksCorpusPath -PathType Container) {
+    foreach ($file in (Get-ChildItem -LiteralPath $greatBooksCorpusPath -Filter '*.md' -File)) {
+      $files.Add($file.FullName)
+    }
+  }
+
   $bookRoot = Resolve-RepoPath -Path 'book'
   if (Test-Path -LiteralPath $bookRoot -PathType Container) {
     foreach ($file in (Get-ChildItem -LiteralPath $bookRoot -Filter '*.md' -File -Recurse)) {

@@ -796,3 +796,111 @@ chapters:
     part_ii_path: book/volume-ii/civ-60/civ-60-commentary.md
     ph_civ_path: corpus/ph-civ/civ-60.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-01
+    series: great-books
+    chronology: 1
+    title: "Great Books #1: Secrets of the Universe"
+    publication_date: 2026-01-07
+    corpus_path: corpus/great-books/gb-01.md
+    part_i_path: book/volume-v/gb-01/gb-01-transcript.md
+    part_ii_path: book/volume-v/gb-01/gb-01-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-01.md
+    orientation_payload_path: book/volume-v/gb-01/gb-01-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-02
+    series: great-books
+    chronology: 2
+    title: "Great Books #2: Homer and the Invention of the Human"
+    publication_date: 2026-01-14
+    corpus_path: corpus/great-books/gb-02.md
+    part_i_path: book/volume-v/gb-02/gb-02-transcript.md
+    part_ii_path: book/volume-v/gb-02/gb-02-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-02.md
+    orientation_payload_path: book/volume-v/gb-02/gb-02-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-03
+    series: great-books
+    chronology: 3
+    title: "Great Books #3: Poets and Prophets"
+    publication_date: 2026-01-21
+    corpus_path: corpus/great-books/gb-03.md
+    part_i_path: book/volume-v/gb-03/gb-03-transcript.md
+    part_ii_path: book/volume-v/gb-03/gb-03-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-03.md
+    orientation_payload_path: book/volume-v/gb-03/gb-03-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-04
+    series: great-books
+    chronology: 4
+    title: "Great Books #4: The Conscious Universe"
+    publication_date: 2026-01-28
+    corpus_path: corpus/great-books/gb-04.md
+    part_i_path: book/volume-v/gb-04/gb-04-transcript.md
+    part_ii_path: book/volume-v/gb-04/gb-04-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-04.md
+    orientation_payload_path: book/volume-v/gb-04/gb-04-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-05
+    series: great-books
+    chronology: 5
+    title: "Great Books #5: The Odyssey"
+    publication_date: 2026-03-04
+    corpus_path: corpus/great-books/gb-05.md
+    part_i_path: book/volume-v/gb-05/gb-05-transcript.md
+    part_ii_path: book/volume-v/gb-05/gb-05-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-05.md
+    orientation_payload_path: book/volume-v/gb-05/gb-05-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-06
+    series: great-books
+    chronology: 6
+    title: "Great Books #6: The Intimacy of Love"
+    publication_date: 2026-03-11
+    corpus_path: corpus/great-books/gb-06.md
+    part_i_path: book/volume-v/gb-06/gb-06-transcript.md
+    part_ii_path: book/volume-v/gb-06/gb-06-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-06.md
+    orientation_payload_path: book/volume-v/gb-06/gb-06-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-07
+    series: great-books
+    chronology: 7
+    title: "Great Books #7: The Anti-Homer"
+    publication_date: 2026-03-18
+    corpus_path: corpus/great-books/gb-07.md
+    part_i_path: book/volume-v/gb-07/gb-07-transcript.md
+    part_ii_path: book/volume-v/gb-07/gb-07-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-07.md
+    orientation_payload_path: book/volume-v/gb-07/gb-07-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-08
+    series: great-books
+    chronology: 8
+    title: "Great Books #8: The Poetry of Empire"
+    publication_date: 2026-03-25
+    corpus_path: corpus/great-books/gb-08.md
+    part_i_path: book/volume-v/gb-08/gb-08-transcript.md
+    part_ii_path: book/volume-v/gb-08/gb-08-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-08.md
+    orientation_payload_path: book/volume-v/gb-08/gb-08-orientation.yaml
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: gb-09
+    series: great-books
+    chronology: 9
+    title: "Great Books #9: Dante (Re-Upload with Audio Fixed)"
+    publication_date: 2026-04-08
+    corpus_path: corpus/great-books/gb-09.md
+    part_i_path: book/volume-v/gb-09/gb-09-transcript.md
+    part_ii_path: book/volume-v/gb-09/gb-09-commentary.md
+    ph_civ_path: corpus/ph-civ/gb-09.md
+    orientation_payload_path: book/volume-v/gb-09/gb-09-orientation.yaml
+    transcript_fidelity: exact_body_match

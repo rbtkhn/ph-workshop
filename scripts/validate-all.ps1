@@ -41,6 +41,9 @@ if (-not $SkipStrategyChecks) {
   Invoke-Step -Name 'Validate Civilization spine' -Script {
     & .\scripts\validate-civilization-spine.ps1 -StrategyRoot $StrategyRoot
   }
+  Invoke-Step -Name 'Validate Great Books spine' -Script {
+    & .\scripts\validate-great-books-spine.ps1 -StrategyRoot $StrategyRoot
+  }
 } else {
   Add-Warning -Warnings $warnings -Message 'Skipped strategy-codex spine validation'
 }
@@ -73,8 +76,10 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     'chapter-manifest.yaml',
     'corpus/README.md',
     'corpus/ph-civ',
+    'corpus/great-books',
     'book/README.md',
     'book/volume-ii/README.md',
+    'book/volume-v/README.md',
     'docs/chapter-index.md',
     'docs/repo-map.md',
     'docs/series-roadmap.md',
@@ -95,6 +100,10 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     }
 
     foreach ($file in $files) {
+      $relative = $file.FullName.Substring((Get-Location).Path.Length + 1)
+      if ($relative -in @('docs\civ-mem.md', 'docs\internal-audit-substrate.md')) {
+        continue
+      }
       if ($file.Name -like '*civmem.yaml') {
         continue
       }
@@ -107,7 +116,7 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
 }
 
 Invoke-Step -Name 'Scan stale placeholders' -Script {
-  $scanRoots = @('book/volume-ii', 'corpus/civilization', 'corpus/ph-civ', 'README.md', 'llms.txt', 'docs')
+  $scanRoots = @('book/volume-ii', 'book/volume-v', 'corpus/civilization', 'corpus/great-books', 'corpus/ph-civ', 'README.md', 'llms.txt', 'docs')
   $allowed = @(
     'book\volume-ii\civ-XX-commentary.md',
     'corpus\ph-civ\README.md',

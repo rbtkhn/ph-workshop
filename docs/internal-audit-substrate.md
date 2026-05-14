@@ -15,7 +15,7 @@ validate -> audit -> queue -> deepen -> revalidate
 - `.\scripts\audit-ph-civ.ps1`
 - `.\scripts\audit-review-queue.ps1`
 
-`validate-all.ps1` is the default maintainer command. It runs the spine, PH-CIV, and orientation validators, regenerates tracked reports, scans public surfaces, checks stale placeholder-like language, and runs `git diff --check`.
+`validate-all.ps1` is the default maintainer command. It runs the Civilization spine, Great Books spine, PH-CIV, and orientation validators, regenerates tracked reports, scans public surfaces, checks stale placeholder-like language, and runs `git diff --check`.
 
 ## Reports
 

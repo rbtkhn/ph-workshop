@@ -11,7 +11,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | PH-CIV | Seed plus spine placements present | Calibrated placements exist for `civ-01`, `geo-05`, `geo-07`, and `geo-12`; `civ-02` through `civ-60` are in review. |
 | Secret History | Pending | Planned future series; no public chapter batch yet. |
 | Game Theory | Pending | Planned future series; no public chapter batch yet. |
-| Great Books | Pending | Planned future series; no public chapter batch yet. |
+| Great Books | First nine-chapter spine present | Volume V lives in `book/volume-v/`; `gb-01` through `gb-09` are in review after initial transfer-backed commentary analysis. |
 | Interviews | Pending | Planned future series; no public chapter batch yet. |
 | Essays | Pending | Planned future series; no public chapter batch yet. |
 
@@ -20,9 +20,9 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 The repository has already proven the Geo-Strategy pipeline. A sensible next order is:
 
 1. Civilization
-2. Secret History
-3. Game Theory
-4. Great Books
+2. Great Books
+3. Secret History
+4. Game Theory
 5. Interviews
 6. Essays
 
@@ -31,7 +31,8 @@ This order is only a planning guide. The actual publication sequence can change 
 ## Planning Notes
 
 - Keep the series roadmap high-level.
-- Treat Civilization as the next active batch family, with a public first sixty-chapter spine now in review from `civ-02` through `civ-60`.
+- Treat Civilization as a completed first spine, with `civ-02` through `civ-60` in review.
+- Treat Great Books as the active Volume V literary spine, with `gb-01` through `gb-09` in review.
 - Treat PH-CIV as a derived study corpus, not a replacement for source transcripts, annotations, or commentary.
 - Do not reserve placeholder chapter files or manifest rows for future Civilization chapters until the batch is actually created.
 - Media policy draft for future chapters: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
