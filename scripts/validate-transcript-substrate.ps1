@@ -68,6 +68,24 @@ Assert-Text -Path 'scripts/fetch_youtube_channel_transcripts.py' -Needle 'TRANSC
 Assert-Text -Path 'scripts/work_jiang/sync_verbatim_transcripts.py' -Needle '--dry-run'
 Assert-Text -Path 'scripts/work_jiang/normalize_lecture_transcript_asr.py' -Needle 'Choose exactly one of --dry-run or --write'
 
+$verbatimDir = Resolve-RepoPath -Path 'verbatim-transcripts'
+if (Test-Path -LiteralPath $verbatimDir -PathType Container) {
+  $verbatimFiles = Get-ChildItem -LiteralPath $verbatimDir -File -Filter '*.md'
+  foreach ($file in $verbatimFiles) {
+    $text = Get-Content -LiteralPath $file.FullName -Raw -Encoding utf8
+    foreach ($needle in @(
+      'source: raw_youtube_caption_cache',
+      'transcript_status: generated_verbatim_pending_review',
+      'quote_grade: false',
+      '## Full transcript'
+    )) {
+      if ($text -notlike "*$needle*") {
+        throw "Generated verbatim file $($file.FullName) is missing required text: $needle"
+      }
+    }
+  }
+}
+
 & python -m py_compile `
   scripts\fetch_youtube_channel_transcripts.py `
   scripts\youtube_transcripts\__init__.py `
