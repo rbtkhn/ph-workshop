@@ -564,3 +564,47 @@ chapters:
     part_ii_path: book/volume-ii/civ-39/civ-39-commentary.md
     ph_civ_path: corpus/ph-civ/civ-39.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-40
+    series: civilization
+    chronology: 40
+    title: "Civilization #40: Church and Empire"
+    publication_date: 2025-03-20
+    corpus_path: corpus/civilization/civ-40.md
+    part_i_path: book/volume-ii/civ-40/civ-40-transcript.md
+    part_ii_path: book/volume-ii/civ-40/civ-40-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-40.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-41
+    series: civilization
+    chronology: 41
+    title: "Civilization #41: Dante's Quiet Revolution"
+    publication_date: 2025-03-25
+    corpus_path: corpus/civilization/civ-41.md
+    part_i_path: book/volume-ii/civ-41/civ-41-transcript.md
+    part_ii_path: book/volume-ii/civ-41/civ-41-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-41.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-42
+    series: civilization
+    chronology: 42
+    title: "Civilization #42: The Protestant Reformation and the Birth of Capitalism"
+    publication_date: 2025-03-27
+    corpus_path: corpus/civilization/civ-42.md
+    part_i_path: book/volume-ii/civ-42/civ-42-transcript.md
+    part_ii_path: book/volume-ii/civ-42/civ-42-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-42.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-43
+    series: civilization
+    chronology: 43
+    title: "Civilization #43: The Structure of Scientific Revolutions"
+    publication_date: 2025-04-01
+    corpus_path: corpus/civilization/civ-43.md
+    part_i_path: book/volume-ii/civ-43/civ-43-transcript.md
+    part_ii_path: book/volume-ii/civ-43/civ-43-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-43.md
+    transcript_fidelity: exact_body_match
