@@ -9,6 +9,10 @@ param(
   [string]$CommentaryPath
 )
 
+# Deprecated legacy validator. New PH-CIV orientation payload work should use
+# scripts/validate-orientation.ps1, which validates neutral *-orientation.yaml
+# payloads against PH-CIV entries and manifest routing.
+
 $ErrorActionPreference = 'Stop'
 
 function Get-Text {

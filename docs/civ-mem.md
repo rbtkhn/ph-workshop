@@ -1,6 +1,6 @@
 ---
 active_voice_profile: house-default
-payload_home: chapter-local YAML sidecar
+payload_home: chapter-local neutral orientation YAML sidecar
 render_surface: ph-civ derived corpus
 calibration_units:
   - civ-01
@@ -17,28 +17,30 @@ It is an internal derivation scaffold, not the public reader-facing corpus.
 
 ## Contract
 
-- **Payload authority** lives in a chapter-local YAML sidecar named `*-civmem.yaml`.
+- **Active payload authority** lives in a chapter-local neutral YAML sidecar named `*-orientation.yaml`.
 - **Public rendering authority** lives in the PH-CIV derived corpus under `corpus/ph-civ/`.
 - **Voice authority** lives in this doctrine file; rendering is currently fixed to `house-default`.
 
-The current repository does not yet have a separate evidence/media pack object beyond the chapter-local source files, corpus pointer, and commentary pair. The CIV-MEM sidecar is therefore the lightest existing pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
+The current repository does not yet have a separate evidence/media pack object beyond the chapter-local source files, corpus pointer, and commentary pair. The neutral orientation sidecar is therefore the lightest existing pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
 
-## Payload Fields
+## Active Payload Fields
 
-Each CIV-MEM payload should carry:
+Each active orientation payload should carry PH-CIV-section-shaped fields:
 
-- `primary_object`
-- `historical_arc`
-- `dominant_slots`
-- `reader_orientation`
-- `fit_strength`
-- optional `mismatch_limit_note`
+- `source_id`
+- `placement_weight`
+- `where_this_sits`
+- `reading_posture`
+- `historical_pressure_points`
+- `limits_of_the_frame`
+- `return_path`
 
 ## Derived Rendering Rules
 
 - Render public placements in `corpus/ph-civ/`, not as a named top-of-chapter block.
-- Keep the derived entry anchored in the payload, not independently authored.
+- Keep the derived entry anchored in the neutral orientation payload, not independently authored.
 - Keep source commentary and PH-CIV distinct: commentary is topic, claim, and evidence work; PH-CIV is civilizational placement and reading posture.
+- Route calibrated payloads from `chapter-manifest.yaml` using `orientation_payload_path`.
 
 ## Voice
 
@@ -62,6 +64,10 @@ The first calibration set is deliberately mixed across fit and genre conditions:
 
 The repository has not yet imported Interviews or Great Books as chapter pairs. When those series arrive, add one true interview-style unit and one true literary unit before broad CIV-MEM rollout.
 
+## Legacy Payloads
+
+Earlier calibration used `*-civmem.yaml` sidecars. Those files are deprecated historical scaffold material and should remain available temporarily for maintainers, but they are no longer the active routed payloads. New tooling should prefer `*-orientation.yaml` and `scripts/validate-orientation.ps1`.
+
 ## Cooler Rerender Check
 
-The schema must survive voice modulation without payload redesign. A cooler rerender of an existing payload may reduce rhetoric and shorten the frame, but it should still use the same `primary_object`, `historical_arc`, `dominant_slots`, `reader_orientation`, and `fit_strength` fields. This is a calibration check, not a second active voice profile.
+The schema must survive voice modulation without payload redesign. A cooler rerender of an existing payload may reduce rhetoric and shorten the frame, but it should still preserve `source_id`, `placement_weight`, section intent, limits, and return path. This is a calibration check, not a second active voice profile.
