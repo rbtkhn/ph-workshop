@@ -16,6 +16,7 @@
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
 - [docs/internal-audit-substrate.md](docs/internal-audit-substrate.md): maintainer audit workflow and tracked health reports.
+- [docs/youtube-transcript-workflow.md](docs/youtube-transcript-workflow.md): PH YouTube transcript layers, quote-grade boundaries, and skill routing.
 
 ## Canonical Content
 
@@ -40,5 +41,6 @@
 - Use `ph_civ_path` from `chapter-manifest.yaml` when the task asks for placement, orientation, or re-entry framing; check `review_status` before treating a PH-CIV entry as calibrated.
 - Use `corpus/cross-volume/` and `registries/cross-volume-links.yaml` when the task asks for cross-volume inheritance, comparison, or a guided route across series.
 - Treat PH-CIV work as `map -> orient -> constrain -> validate -> route`.
+- Use the repo-local `ph-youtube-transcript` skill for `youtube transcript`, `ph transcript`, or `predictive history transcript` work; if the fuller transcript tooling is absent, stay in plan-only fallback.
 - Expand to adjacent chapters only for comparison tasks.
 - Treat chronology as the primary navigation axis and topic paths as secondary.

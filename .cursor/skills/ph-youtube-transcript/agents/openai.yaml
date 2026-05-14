@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH YouTube Transcript"
+  short_description: "Predictive History transcript workflow"
+  default_prompt: "Use $ph-youtube-transcript to plan or perform a Predictive History YouTube transcript workflow with PH fidelity guardrails."
+
+policy:
+  allow_implicit_invocation: true

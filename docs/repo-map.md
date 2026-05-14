@@ -9,6 +9,12 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |-- chapter-manifest.yaml
 |-- CONTRIBUTING.md
 |-- CHANGELOG.md
+|-- .cursor/
+|   `-- skills/
+|       `-- ph-youtube-transcript/
+|-- .codex/
+|   `-- skills/
+|       `-- ph-youtube-transcript/
 |-- docs/
 |   |-- annotation-block.md
 |   |-- chapter-index.md
@@ -16,6 +22,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- corrections-policy.md
 |   |-- export-from-strategy-codex.md
 |   |-- repo-map.md
+|   |-- youtube-transcript-workflow.md
 |   `-- source-status.md
 |-- corpus/
 |   |-- README.md
@@ -69,6 +76,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- validate-cross-volume-links.ps1
 |   |-- validate-orientation.ps1
 |   |-- validate-ph-civ.ps1
+|   |-- validate-transcript-skill.ps1
 |   `-- validate-transcript-fidelity.ps1
 `-- book/
     |-- README.md
@@ -140,3 +148,7 @@ registries/
 ```
 
 The exact registry format should be settled after the first manual Geo-Strategy batch.
+
+## Local Skills
+
+The repo-local `ph-youtube-transcript` skill lives under both `.cursor/skills/` and `.codex/skills/` so future agents can load the same Predictive History transcript workflow in either surface. Use it for PH YouTube transcript acquisition, ASR audit, verbatim sync, curated transcript repair, and quote-grade verification boundaries. See [youtube-transcript-workflow.md](youtube-transcript-workflow.md) for the public workflow map.

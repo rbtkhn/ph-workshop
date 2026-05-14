@@ -60,6 +60,10 @@ Invoke-Step -Name 'Validate cross-volume links' -Script {
   & .\scripts\validate-cross-volume-links.ps1
 }
 
+Invoke-Step -Name 'Validate transcript skill' -Script {
+  & .\scripts\validate-transcript-skill.ps1
+}
+
 Invoke-Step -Name 'Generate Civilization spine health report' -Script {
   & .\scripts\audit-civilization-spine.ps1 -ReportsDir $ReportsDir
 }
