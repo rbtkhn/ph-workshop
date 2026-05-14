@@ -1,0 +1,90 @@
+version: 1
+
+corridors:
+  - corridor: homer-to-dante
+    title: "Homer to Dante"
+    status: in_review
+    reader_path: corpus/cross-volume/homer-to-dante.md
+    description: "A guided cross-volume route from Homeric Greek memory through Virgilian empire into Dante's poetic reordering of European imagination."
+
+edges:
+  - from: civ-07
+    to: gb-02
+    relation_type: scale_shift
+    corridor: homer-to-dante
+    theme: "Homeric humanity"
+    claim: "Civilization places Homer inside Greek civilizational memory; Great Books shifts the scale to Homer as a disclosure of readable human action."
+    strength: strong
+    guardrail: "Treat this as a shift in reading scale, not as proof that Homer alone caused Greek civilization."
+
+  - from: gb-02
+    to: gb-05
+    relation_type: inheritance
+    corridor: homer-to-dante
+    theme: "From heroic action to return"
+    claim: "The Homeric human introduced through heroic action is extended through wandering, homecoming, desire, and self-recognition."
+    strength: strong
+    guardrail: "Keep Iliad and Odyssey questions distinct; do not flatten Homer into one moral or psychological thesis."
+
+  - from: gb-05
+    to: gb-07
+    relation_type: revision
+    corridor: homer-to-dante
+    theme: "Anti-Homeric critique"
+    claim: "The Great Books sequence turns from Homeric return toward a deliberate test or reversal of heroic inheritance."
+    strength: medium
+    guardrail: "Read anti-Homeric revision as an interpretive relation that requires close textual checking, not as simple rejection."
+
+  - from: gb-07
+    to: civ-17
+    relation_type: transmutation
+    corridor: homer-to-dante
+    theme: "Greek epic into Roman memory"
+    claim: "Anti-Homeric pressure prepares the move into Virgil, where Greek epic inheritance becomes Roman imperial memory."
+    strength: strong
+    guardrail: "Keep literary transformation separate from a complete explanation of Roman political development."
+
+  - from: civ-17
+    to: gb-08
+    relation_type: scale_shift
+    corridor: homer-to-dante
+    theme: "Virgil and empire"
+    claim: "Civilization frames Virgil as Rome's poetic self-understanding; Great Books shifts toward close reading of poetry as imperial memory."
+    strength: strong
+    guardrail: "Treat Virgilian empire as a literary-political frame, not as a settled judgment on the whole Aeneid."
+
+  - from: gb-08
+    to: civ-29
+    relation_type: transmutation
+    corridor: homer-to-dante
+    theme: "Empire into pilgrimage"
+    claim: "Virgilian imperial memory becomes the inherited material Dante must honor, revise, and surpass inside Christian pilgrimage."
+    strength: strong
+    guardrail: "Keep Dante's theological and poetic transformation distinct from a simple anti-Roman or anti-Virgil claim."
+
+  - from: civ-29
+    to: civ-30
+    relation_type: inheritance
+    corridor: homer-to-dante
+    theme: "Dante capstone"
+    claim: "The first Dante chapter opens the liberation of imagination; the second extends that claim into Dante's replacement of older epic authority."
+    strength: strong
+    guardrail: "Preserve the difference between Dante as poetic capstone and Dante as long-range historical cause."
+
+  - from: civ-30
+    to: civ-41
+    relation_type: return
+    corridor: homer-to-dante
+    theme: "Dante's historical afterlife"
+    claim: "The Dante capstone returns later as a Renaissance hinge for imagination, individuality, and peaceful cultural transformation."
+    strength: medium
+    guardrail: "Treat Dante-to-Renaissance causation as a lecture thesis requiring external review."
+
+  - from: civ-41
+    to: gb-09
+    relation_type: return
+    corridor: homer-to-dante
+    theme: "Close reading after civilizational synthesis"
+    claim: "After Dante is framed as a civilizational hinge, Great Books returns to Dante as a close-reading problem of love, ascent, and poetic architecture."
+    strength: strong
+    guardrail: "Use the return to deepen reading, not to collapse Civilization and Great Books into one interpretive surface."

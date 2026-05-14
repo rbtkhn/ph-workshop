@@ -35,3 +35,7 @@ This entry is in review after initial commentary analysis. The placement is stro
 ## Return Path
 
 Return here when later chapters invoke Dante, Renaissance humanism, imagination, artistic revolution, peaceful cultural transformation, or the bridge from medieval Catholic order to modern Europe.
+
+## Cross-Volume Corridor
+
+This unit is part of the [Homer to Dante corridor](../cross-volume/homer-to-dante.md). Use that corridor to see how Dante returns as a Renaissance hinge after the Civilization capstone and before the Great Books Dante re-entry.

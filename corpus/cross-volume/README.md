@@ -1,0 +1,22 @@
+# Cross-Volume Corridors
+
+Cross-volume corridors are guided study paths that connect already-routed chapters across Predictive History volumes. They help readers move between series when a theme, literary inheritance, or interpretive problem is too large for one chapter sequence.
+
+Corridors are not causal proofs. They are reading routes: ways to notice how a form, figure, or question changes when it moves from one volume to another.
+
+## Current Corridors
+
+| Corridor | Status | Path |
+| --- | --- | --- |
+| Homer to Dante | In review | [homer-to-dante.md](homer-to-dante.md) |
+
+## Routing Contract
+
+- Reader-facing corridor files live in this folder.
+- Machine-readable edges live in [registries/cross-volume-links.yaml](../../registries/cross-volume-links.yaml).
+- Chapter-level orientation remains in [corpus/ph-civ/](../ph-civ/).
+- Transcript and commentary files remain the authority for each chapter's source and analysis.
+
+## Guardrail
+
+Poems, books, and memory-forms are treated here as interpretive carriers. A corridor may show how they preserve, revise, or redirect civilizational imagination, but it should not claim that a single text caused a civilization by itself.

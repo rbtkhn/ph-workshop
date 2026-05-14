@@ -35,3 +35,7 @@ This entry is in review after initial commentary analysis. The placement is stro
 ## Return Path
 
 Return here when later chapters invoke Dante as a source of European imagination, direct access to God, institutionalized doubt, or poetic memory. For close reading, move from transcript to commentary and keep literary interpretation separate from long-range historical consequence.
+
+## Cross-Volume Corridor
+
+This unit is part of the [Homer to Dante corridor](../cross-volume/homer-to-dante.md). Use that corridor to compare Dante's replacement of older epic authority with Great Books close reading and the later Renaissance return.

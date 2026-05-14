@@ -36,3 +36,7 @@ This entry is in review after initial commentary analysis. The frame is medium b
 ## Return Path
 
 Return here when later chapters ask how Greek politics, tragedy, philosophy, or civic identity grow out of heroic memory. For close reading, move from this placement entry to the source transcript, then use the companion commentary for source-backed claims, concepts, predictions, and limits.
+
+## Cross-Volume Corridor
+
+This unit is part of the [Homer to Dante corridor](../cross-volume/homer-to-dante.md). Use that corridor to follow Homeric memory from Civilization into Great Books close reading and onward toward Virgil and Dante.

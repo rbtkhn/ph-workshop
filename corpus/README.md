@@ -1,6 +1,6 @@
 # Corpus
 
-This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`), the first Civilization spine (`civ-01` through `civ-60`), the Great Books Volume V spine (`gb-01` through `gb-09`), and the `ph-civ` derived study corpus. Within the Civilization spine, `civ-02` through `civ-60` are in review after initial commentary analysis.
+This folder holds public corpus annotations and now includes the first Geo-Strategy batch (`geo-01` through `geo-12`), the first Civilization spine (`civ-01` through `civ-60`), the Great Books Volume V spine (`gb-01` through `gb-09`), the `ph-civ` derived study corpus, and the first cross-volume corridor. Within the Civilization spine, `civ-02` through `civ-60` are in review after initial commentary analysis.
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
@@ -22,6 +22,7 @@ Each item must:
 - Geo-Strategy
 - Civilization (first sixty-chapter spine present)
 - PH-CIV derived placements
+- Cross-volume corridors
 - Secret History
 - Game Theory
 - Great Books (first nine-chapter Volume V spine present)

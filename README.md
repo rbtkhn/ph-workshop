@@ -31,6 +31,7 @@ Included now:
 - the first Civilization spine from `civ-01` through `civ-60`, with `civ-02` through `civ-60` in review
 - the `ph-civ` derived study corpus for calibrated and in-review chapter placement and re-entry
 - the Great Books Volume V spine from `gb-01` through `gb-09`, with all nine units in review
+- the first cross-volume corridor, Homer to Dante, linking Civilization and Great Books study routes
 
 Not included yet:
 
@@ -60,9 +61,10 @@ The repository should help readers:
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/ph-civ/](corpus/ph-civ/) - derived study placements for calibrated and in-review chapters
+- [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante
 - [corpus/great-books/](corpus/great-books/) - Great Books corpus pointers for `gb-01` through `gb-09`
 - [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-60`
-- [registries/](registries/) - current source index and future cross-reference registries
+- [registries/](registries/) - current source index, cross-volume edge registry, and future cross-reference registries
 - [book/](book/) - public chapter files and reader-facing material
 - [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first sixty-chapter spine
 - [book/volume-v/](book/volume-v/) - Great Books chapter scaffold and first nine-chapter spine
@@ -76,6 +78,7 @@ The repository should help readers:
 
 - [llms.txt](llms.txt) is the model-facing index.
 - [chapter-manifest.yaml](chapter-manifest.yaml) is the routing table for chapter-by-chapter loads.
+- [registries/cross-volume-links.yaml](registries/cross-volume-links.yaml) is the typed edge registry for public cross-volume corridors.
 - The default load is one chapter at a time.
 
 ## Contributing

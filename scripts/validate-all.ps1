@@ -56,6 +56,10 @@ Invoke-Step -Name 'Validate orientation payloads' -Script {
   & .\scripts\validate-orientation.ps1
 }
 
+Invoke-Step -Name 'Validate cross-volume links' -Script {
+  & .\scripts\validate-cross-volume-links.ps1
+}
+
 Invoke-Step -Name 'Generate Civilization spine health report' -Script {
   & .\scripts\audit-civilization-spine.ps1 -ReportsDir $ReportsDir
 }
@@ -76,7 +80,10 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     'chapter-manifest.yaml',
     'corpus/README.md',
     'corpus/ph-civ',
+    'corpus/cross-volume',
     'corpus/great-books',
+    'registries/README.md',
+    'registries/cross-volume-links.yaml',
     'book/README.md',
     'book/volume-ii/README.md',
     'book/volume-v/README.md',
@@ -116,7 +123,7 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
 }
 
 Invoke-Step -Name 'Scan stale placeholders' -Script {
-  $scanRoots = @('book/volume-ii', 'book/volume-v', 'corpus/civilization', 'corpus/great-books', 'corpus/ph-civ', 'README.md', 'llms.txt', 'docs')
+  $scanRoots = @('book/volume-ii', 'book/volume-v', 'corpus/civilization', 'corpus/great-books', 'corpus/ph-civ', 'corpus/cross-volume', 'README.md', 'llms.txt', 'docs')
   $allowed = @(
     'book\volume-ii\civ-XX-commentary.md',
     'corpus\ph-civ\README.md',

@@ -39,6 +39,10 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   |-- README.md
 |   |   |-- index.md
 |   |   `-- gb-01..gb-09.md
+|   |-- cross-volume/
+|   |   |-- README.md
+|   |   |-- index.md
+|   |   `-- homer-to-dante.md
 |   `-- ph-civ/
 |       |-- README.md
 |       |-- index.md
@@ -49,7 +53,8 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       |-- geo-07.md
 |       `-- geo-12.md
 |-- registries/
-|   `-- README.md
+|   |-- README.md
+|   `-- cross-volume-links.yaml
 |-- reports/
 |   |-- civilization-spine-health.md
 |   |-- ph-civ-health.md
@@ -61,6 +66,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- audit-review-queue.ps1
 |   |-- validate-all.ps1
 |   |-- validate-civilization-spine.ps1
+|   |-- validate-cross-volume-links.ps1
 |   |-- validate-orientation.ps1
 |   |-- validate-ph-civ.ps1
 |   `-- validate-transcript-fidelity.ps1
@@ -113,6 +119,7 @@ corpus/
 |-- geo-strategy/
 |-- civilization/
 |-- ph-civ/
+|-- cross-volume/
 |-- secret-history/
 |-- game-theory/
 |-- great-books/
@@ -125,6 +132,7 @@ corpus/
 ```text
 registries/
 |-- sources.md
+|-- cross-volume-links.yaml
 |-- concepts.md
 |-- claims.md
 |-- predictions.md

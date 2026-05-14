@@ -35,3 +35,7 @@ This entry is in review after initial commentary analysis. The placement is stro
 ## Return Path
 
 Return here when later chapters need Dante as a bridge from medieval Christianity into European imagination, reform, science, and modernity. For close reading, use the transcript first, then the commentary to separate textual interpretation, theological claim, and historical extrapolation.
+
+## Cross-Volume Corridor
+
+This unit is part of the [Homer to Dante corridor](../cross-volume/homer-to-dante.md). Use that corridor to place Dante's liberation of imagination within the longer Homer-Virgil-Dante inheritance path.
