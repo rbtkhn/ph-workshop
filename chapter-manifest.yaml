@@ -641,3 +641,154 @@ chapters:
     part_ii_path: book/volume-ii/civ-46/civ-46-commentary.md
     ph_civ_path: corpus/ph-civ/civ-46.md
     transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-47
+    series: civilization
+    chronology: 47
+    title: "Civilization #47: The Passion of Robespierre"
+    publication_date: 2025-04-24
+    corpus_path: corpus/civilization/civ-47.md
+    part_i_path: book/volume-ii/civ-47/civ-47-transcript.md
+    part_ii_path: book/volume-ii/civ-47/civ-47-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-47.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-48
+    series: civilization
+    chronology: 48
+    title: "Civilization #48: Napoleon's Empire of Myth"
+    publication_date: 2025-04-29
+    corpus_path: corpus/civilization/civ-48.md
+    part_i_path: book/volume-ii/civ-48/civ-48-transcript.md
+    part_ii_path: book/volume-ii/civ-48/civ-48-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-48.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-49
+    series: civilization
+    chronology: 49
+    title: "Civilization #49: The Dutch Golden Age and the Rise of the Middle Class"
+    publication_date: 2025-05-06
+    corpus_path: corpus/civilization/civ-49.md
+    part_i_path: book/volume-ii/civ-49/civ-49-transcript.md
+    part_ii_path: book/volume-ii/civ-49/civ-49-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-49.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-50
+    series: civilization
+    chronology: 50
+    title: "Civilization #50: Rule, Britannia!"
+    publication_date: 2025-05-08
+    corpus_path: corpus/civilization/civ-50.md
+    part_i_path: book/volume-ii/civ-50/civ-50-transcript.md
+    part_ii_path: book/volume-ii/civ-50/civ-50-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-50.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-51
+    series: civilization
+    chronology: 51
+    title: "Civilization #51: Shakespeare's Language of Empire"
+    publication_date: 2025-05-14
+    corpus_path: corpus/civilization/civ-51.md
+    part_i_path: book/volume-ii/civ-51/civ-51-transcript.md
+    part_ii_path: book/volume-ii/civ-51/civ-51-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-51.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-52
+    series: civilization
+    chronology: 52
+    title: "Civilization #52: Empire of Democracy"
+    publication_date: 2025-05-15
+    corpus_path: corpus/civilization/civ-52.md
+    part_i_path: book/volume-ii/civ-52/civ-52-transcript.md
+    part_ii_path: book/volume-ii/civ-52/civ-52-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-52.md
+    transcript_fidelity: exact_body_match
+  - chapter_id: civ-53
+    series: civilization
+    chronology: 53
+    title: "Civilization #53: Dostoevsky and the Soul of Russia"
+    publication_date: 2025-05-20
+    corpus_path: corpus/civilization/civ-53.md
+    part_i_path: book/volume-ii/civ-53/civ-53-transcript.md
+    part_ii_path: book/volume-ii/civ-53/civ-53-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-53.md
+    transcript_fidelity: exact_body_match
+  - chapter_id: civ-54
+    series: civilization
+    chronology: 54
+    title: "Civilization #54: The German Will to Power"
+    publication_date: 2025-05-22
+    corpus_path: corpus/civilization/civ-54.md
+    part_i_path: book/volume-ii/civ-54/civ-54-transcript.md
+    part_ii_path: book/volume-ii/civ-54/civ-54-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-54.md
+    transcript_fidelity: exact_body_match
+  - chapter_id: civ-55
+    series: civilization
+    chronology: 55
+    title: "Civilization #55: Kant, Hegel, and the Theory of Everything"
+    publication_date: 2025-05-27
+    corpus_path: corpus/civilization/civ-55.md
+    part_i_path: book/volume-ii/civ-55/civ-55-transcript.md
+    part_ii_path: book/volume-ii/civ-55/civ-55-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-55.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-56
+    series: civilization
+    chronology: 56
+    title: "Civilization #56: What Marx Got Wrong"
+    publication_date: 2025-05-29
+    corpus_path: corpus/civilization/civ-56.md
+    part_i_path: book/volume-ii/civ-56/civ-56-transcript.md
+    part_ii_path: book/volume-ii/civ-56/civ-56-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-56.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-57
+    series: civilization
+    chronology: 57
+    title: "Civilization #57: How Modernism Ruined Everything (Re-upload AUDIO FIXED -- Thanks to Gabriel Bessa)"
+    publication_date: 2025-06-04
+    corpus_path: corpus/civilization/civ-57.md
+    part_i_path: book/volume-ii/civ-57/civ-57-transcript.md
+    part_ii_path: book/volume-ii/civ-57/civ-57-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-57.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-58
+    series: civilization
+    chronology: 58
+    title: "Civilization #58: Birth of the Nation-State"
+    publication_date: 2025-06-05
+    corpus_path: corpus/civilization/civ-58.md
+    part_i_path: book/volume-ii/civ-58/civ-58-transcript.md
+    part_ii_path: book/volume-ii/civ-58/civ-58-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-58.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-59
+    series: civilization
+    chronology: 59
+    title: "Civilization #59: The Man of Steel"
+    publication_date: 2025-06-10
+    corpus_path: corpus/civilization/civ-59.md
+    part_i_path: book/volume-ii/civ-59/civ-59-transcript.md
+    part_ii_path: book/volume-ii/civ-59/civ-59-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-59.md
+    transcript_fidelity: exact_body_match
+
+  - chapter_id: civ-60
+    series: civilization
+    chronology: 60
+    title: "Civilization #60: The Decline and Fall of the American Empire"
+    publication_date: 2025-06-12
+    corpus_path: corpus/civilization/civ-60.md
+    part_i_path: book/volume-ii/civ-60/civ-60-transcript.md
+    part_ii_path: book/volume-ii/civ-60/civ-60-commentary.md
+    ph_civ_path: corpus/ph-civ/civ-60.md
+    transcript_fidelity: exact_body_match
