@@ -16,6 +16,7 @@
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
 - [docs/internal-audit-substrate.md](docs/internal-audit-substrate.md): maintainer audit workflow and tracked health reports.
+- [docs/recursive-improvement-loops.md](docs/recursive-improvement-loops.md): internal quality loops for validation, audit, review queues, deepening, and revalidation.
 - [docs/youtube-transcript-workflow.md](docs/youtube-transcript-workflow.md): PH YouTube transcript layers, quote-grade boundaries, and skill routing.
 
 ## Canonical Content
@@ -41,6 +42,8 @@
 - [docs/chapter-index.md](docs/chapter-index.md): human-readable chapter catalog.
 - [docs/series-roadmap.md](docs/series-roadmap.md): series-level planning and next-batch order.
 - [reports/](reports/): internal tracked audit snapshots for spine health, civ-ph health, review queue, and next actions.
+- [reports/improvement-loops.md](reports/improvement-loops.md): internal summary of recursive quality-loop health.
+- [reports/review-sprint.md](reports/review-sprint.md): weekly maintainer sprint selected from the high-risk review queue.
 
 ## Load Contract
 

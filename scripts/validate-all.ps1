@@ -97,6 +97,14 @@ Invoke-Step -Name 'Generate high-risk review queue' -Script {
   & .\scripts\audit-review-queue.ps1 -ReportsDir $ReportsDir
 }
 
+Invoke-Step -Name 'Generate improvement loop report' -Script {
+  & .\scripts\audit-improvement-loops.ps1 -ReportsDir $ReportsDir
+}
+
+Invoke-Step -Name 'Generate weekly review sprint' -Script {
+  & .\scripts\audit-review-sprint.ps1 -ReportsDir $ReportsDir
+}
+
 Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
   $publicPaths = @(
     'README.md',

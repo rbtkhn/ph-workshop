@@ -1,0 +1,58 @@
+﻿{
+    "generated_at":  "deterministic-local",
+    "loop_model":  "validate -\u003e audit -\u003e queue -\u003e deepen -\u003e revalidate",
+    "status":  "warnings",
+    "warning_count":  50,
+    "loops":  [
+                  {
+                      "name":  "Structural Integrity Loop",
+                      "purpose":  "Keep routed chapter surfaces resolvable and schema-consistent.",
+                      "signal_source":  "Spine validators, chapter-manifest.yaml, routed chapter files, and path checks.",
+                      "artifact":  "reports/civilization-spine-health.*",
+                      "warning_count":  0,
+                      "status":  "clean",
+                      "next_action":  "Repair manifest paths, missing routed files, invalid metadata, or validator failures.",
+                      "failure_boundary":  "Broken paths, missing required files, invalid schema, or validator failures are hard failures."
+                  },
+                  {
+                      "name":  "Source Fidelity Loop",
+                      "purpose":  "Preserve exact transcript bodies and quote-grade boundaries.",
+                      "signal_source":  "Transcript fidelity metadata, transfer-authority comparisons, and transcript substrate checks.",
+                      "artifact":  "spine health reports and transcript validators",
+                      "warning_count":  0,
+                      "status":  "clean",
+                      "next_action":  "Use explicit transcript-fidelity workflow before repairing curated transcript bodies.",
+                      "failure_boundary":  "Guardrail review must not mutate transcript bodies."
+                  },
+                  {
+                      "name":  "Interpretive Constraint Loop",
+                      "purpose":  "Keep high-risk interpretation bounded, source-statused, and reviewable.",
+                      "signal_source":  "Known-risk seeds, heuristic flags, limits sections, and date-sensitive language.",
+                      "artifact":  "reports/high-risk-review-queue.* and reports/next-actions.*",
+                      "warning_count":  50,
+                      "status":  "warnings",
+                      "next_action":  "Work the highest-priority guardrail queue, then regenerate reports.",
+                      "failure_boundary":  "Review-depth gaps remain warnings; public terminology leakage and unsupported confidence must be corrected."
+                  },
+                  {
+                      "name":  "Orientation Coherence Loop",
+                      "purpose":  "Keep civ-ph entries aligned with chapters, payloads, placement weights, limits, and return paths.",
+                      "signal_source":  "civ-ph validator, orientation validator, manifest civ_ph_path, and entry frontmatter.",
+                      "artifact":  "reports/civ-ph-health.*",
+                      "warning_count":  0,
+                      "status":  "clean",
+                      "next_action":  "Update civ-ph or orientation payloads only where alignment fails.",
+                      "failure_boundary":  "civ-ph remains orientation, not transcript, source substitute, endorsement, or second commentary."
+                  },
+                  {
+                      "name":  "Cross-Surface Routing Loop",
+                      "purpose":  "Keep corridors, media packs, reports, registries, and export surfaces mutually navigable.",
+                      "signal_source":  "Cross-volume validators, media-pack validators, report generation, and export-readiness checks.",
+                      "artifact":  "cross-volume registry, media-pack corpus, and improvement-loop report",
+                      "warning_count":  0,
+                      "status":  "clean",
+                      "next_action":  "Repair missing routing/report surfaces, then run cross-volume and media-pack validation.",
+                      "failure_boundary":  "Corridors and media packs orient study; they do not prove causal claims or override chapter source status."
+                  }
+              ]
+}

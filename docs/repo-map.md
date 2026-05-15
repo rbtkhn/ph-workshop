@@ -97,11 +97,15 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- civilization-spine-health.md
 |   |-- civ-ph-health.md
 |   |-- high-risk-review-queue.md
+|   |-- improvement-loops.md
+|   |-- review-sprint.md
 |   `-- next-actions.md
 |-- scripts/
 |   |-- audit-civilization-spine.ps1
 |   |-- audit-civ-ph.ps1
+|   |-- audit-improvement-loops.ps1
 |   |-- audit-review-queue.ps1
+|   |-- audit-review-sprint.ps1
 |   |-- validate-all.ps1
 |   |-- validate-civilization-spine.ps1
 |   |-- validate-cross-volume-links.ps1
@@ -204,6 +208,7 @@ The repo-local Predictive History skill suite lives under both `.cursor/skills/`
 - `ph-youtube-transcript`: compatibility alias for `ph-transcript`.
 
 See [youtube-transcript-workflow.md](youtube-transcript-workflow.md) for the public transcript workflow map.
+See [recursive-improvement-loops.md](recursive-improvement-loops.md) for the internal quality loop protocol.
     |-- volume-iii/
     |   |-- README.md
     |   `-- gt-01..gt-22/

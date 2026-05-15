@@ -1,0 +1,107 @@
+﻿{
+    "generated_at":  "deterministic-local",
+    "cadence":  "weekly",
+    "sprint_model":  "validate -\u003e audit -\u003e select sprint -\u003e deepen selected items -\u003e revalidate",
+    "requested_count":  5,
+    "selected_count":  5,
+    "queue_count":  50,
+    "improvement_loop_status":  "warnings",
+    "next_actions":  [
+                         {
+                             "action":  "Run high-priority manual guardrail review",
+                             "target":  "seeded known-risk chapters",
+                             "count":  12
+                         },
+                         {
+                             "action":  "Review medium-risk limits and return paths",
+                             "target":  "heuristic medium-risk chapters",
+                             "count":  6
+                         },
+                         {
+                             "action":  "Preserve transcript fidelity during all review work",
+                             "target":  "all chapters",
+                             "count":  60
+                         }
+                     ],
+    "items":  [
+                  {
+                      "source_id":  "civ-24",
+                      "title":  "Civilization #24: Resurrecting the Gnostic Jesus",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-24/civ-24-commentary.md",
+                      "civ_ph_path":  "corpus/civ-ph/civ-24.md",
+                      "target_loop":  "Interpretive Constraint Loop",
+                      "allowed_action":  "Deepen limits, clarify counter-readings, and add uncertainty or source-status notes in commentary or civ-ph.",
+                      "validation_return_path":  "Regenerate the review queue, regenerate the improvement loop report, then run validate-all."
+                  },
+                  {
+                      "source_id":  "civ-25",
+                      "title":  "Civilization #25: Paul of Tarsus, Messiah of Rome",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "religious-formation"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-25/civ-25-commentary.md",
+                      "civ_ph_path":  "corpus/civ-ph/civ-25.md",
+                      "target_loop":  "Interpretive Constraint Loop",
+                      "allowed_action":  "Deepen limits, clarify counter-readings, and add uncertainty or source-status notes in commentary or civ-ph.",
+                      "validation_return_path":  "Regenerate the review queue, regenerate the improvement loop report, then run validate-all."
+                  },
+                  {
+                      "source_id":  "civ-31",
+                      "title":  "Civilization #31: The Oceanic Currents of History",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-31/civ-31-commentary.md",
+                      "civ_ph_path":  "corpus/civ-ph/civ-31.md",
+                      "target_loop":  "Interpretive Constraint Loop",
+                      "allowed_action":  "Deepen limits, clarify counter-readings, and add uncertainty or source-status notes in commentary or civ-ph.",
+                      "validation_return_path":  "Regenerate the review queue, regenerate the improvement loop report, then run validate-all."
+                  },
+                  {
+                      "source_id":  "civ-32",
+                      "title":  "Civilization #32: Rome\u0027s Rise, Fall, and Legacy",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "live-current-or-war-prediction",
+                                    "violence-or-state-terror",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-32/civ-32-commentary.md",
+                      "civ_ph_path":  "corpus/civ-ph/civ-32.md",
+                      "target_loop":  "Interpretive Constraint Loop",
+                      "allowed_action":  "Deepen limits, clarify counter-readings, and add uncertainty or source-status notes in commentary or civ-ph.",
+                      "validation_return_path":  "Regenerate the review queue, regenerate the improvement loop report, then run validate-all."
+                  },
+                  {
+                      "source_id":  "civ-43",
+                      "title":  "Civilization #43: The Structure of Scientific Revolutions",
+                      "priority":  "high",
+                      "flags":  [
+                                    "seeded-known-risk",
+                                    "religious-formation",
+                                    "political-analogy-or-date-sensitive"
+                                ],
+                      "recommended_next_action":  "manual guardrail and external-review triage",
+                      "commentary_path":  "book/volume-ii/civ-43/civ-43-commentary.md",
+                      "civ_ph_path":  "corpus/civ-ph/civ-43.md",
+                      "target_loop":  "Interpretive Constraint Loop",
+                      "allowed_action":  "Deepen limits, clarify counter-readings, and add uncertainty or source-status notes in commentary or civ-ph.",
+                      "validation_return_path":  "Regenerate the review queue, regenerate the improvement loop report, then run validate-all."
+                  }
+              ]
+}

@@ -8,6 +8,8 @@ The workflow is:
 validate -> audit -> queue -> deepen -> revalidate
 ```
 
+That loop is formalized in [recursive-improvement-loops.md](recursive-improvement-loops.md). Use it when deciding whether a warning should trigger structural repair, transcript-fidelity work, interpretive guardrail review, civ-ph alignment, or cross-surface routing repair.
+
 ## Commands
 
 - `.\scripts\validate-all.ps1 -StrategyRoot C:\dev\strategy-codex\codex\predictive-history`
@@ -24,7 +26,9 @@ Tracked reports live in `reports/`:
 - `civilization-spine-health.md` and `.json`
 - `civ-ph-health.md` and `.json`
 - `high-risk-review-queue.md` and `.json`
+- `review-sprint.md` and `.json`
 - `next-actions.md` and `.json`
+- `improvement-loops.md` and `.json`
 
 Markdown reports are for maintainers. JSON reports are for future CLI or agent tooling. They are internal health snapshots, not polished reader-facing material.
 
