@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-41
 public_slug: civ-41-dante-s-quiet-revolution
 title: "Civilization #41: Dante's Quiet Revolution"
@@ -30,4 +30,4 @@ This entry points to the chapter transcript in [book/volume-ii/civ-41/civ-41-tra
 
 - Imported from the strategy-codex Predictive History transfer surface.
 - The transcript is materialized for routing and review.
-- Commentary and PH-CIV placement are in review after initial analysis.
+- Commentary and civ-ph placement are in review after initial analysis.

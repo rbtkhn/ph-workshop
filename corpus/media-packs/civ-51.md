@@ -64,7 +64,7 @@ Use this pack before reading the transcript or commentary. It gives students a v
 
 ## Return Path
 
-- **PH-CIV:** [civ-51](../ph-civ/civ-51.md)
+- **civ-ph:** [civ-51](../civ-ph/civ-51.md)
 - **Transcript:** [Part I](../../book/volume-ii/civ-51/civ-51-transcript.md)
 - **Commentary:** [Part II](../../book/volume-ii/civ-51/civ-51-commentary.md)
 - **Source corpus:** [source entry](../../corpus/civilization/civ-51.md)

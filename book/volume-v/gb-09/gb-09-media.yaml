@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "It is later civic commemoration, not a direct source for Dante's intention."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-09.md
+      civ_ph_path: corpus/civ-ph/gb-09.md
       transcript_path: book/volume-v/gb-09/gb-09-transcript.md
       commentary_path: book/volume-v/gb-09/gb-09-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Nineteenth-century illustration can overpower the poem if treated as primary meaning."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-09.md
+      civ_ph_path: corpus/civ-ph/gb-09.md
       transcript_path: book/volume-v/gb-09/gb-09-transcript.md
       commentary_path: book/volume-v/gb-09/gb-09-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The drawings are a Renaissance reading of Dante, not neutral illustration."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-09.md
+      civ_ph_path: corpus/civ-ph/gb-09.md
       transcript_path: book/volume-v/gb-09/gb-09-transcript.md
       commentary_path: book/volume-v/gb-09/gb-09-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Generic cosmology diagrams may not match Dante's exact poetic architecture."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-09.md
+      civ_ph_path: corpus/civ-ph/gb-09.md
       transcript_path: book/volume-v/gb-09/gb-09-transcript.md
       commentary_path: book/volume-v/gb-09/gb-09-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Later romantic imagery can soften Dante's theological and philosophical stakes."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-09.md
+      civ_ph_path: corpus/civ-ph/gb-09.md
       transcript_path: book/volume-v/gb-09/gb-09-transcript.md
       commentary_path: book/volume-v/gb-09/gb-09-commentary.md

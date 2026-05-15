@@ -158,7 +158,7 @@ foreach ($row in $mediaRows) {
     }
   }
 
-  foreach ($pathField in @('ph_civ_path', 'transcript_path', 'commentary_path')) {
+  foreach ($pathField in @('civ_ph_path', 'transcript_path', 'commentary_path')) {
     $pathMatches = [regex]::Matches($payloadText, "(?m)^\s+$([regex]::Escape($pathField)):\s*(.+?)\s*$")
     if ($pathMatches.Count -eq 0) {
       throw "Media payload $mediaPayloadPath is missing related path field $pathField"

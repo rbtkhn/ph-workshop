@@ -11,12 +11,12 @@
                          "corpus_path":  "corpus/civilization/civ-01.md",
                          "part_i_path":  "book/volume-ii/civ-01/civ-01-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-01/civ-01-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-01.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-01.md",
                          "orientation_payload_path":  "book/volume-ii/civ-01/civ-01-orientation.yaml",
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "calibration_seed",
+                         "civ_ph_review_status":  "calibration_seed",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -28,12 +28,12 @@
                          "corpus_path":  "corpus/civilization/civ-02.md",
                          "part_i_path":  "book/volume-ii/civ-02/civ-02-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-02/civ-02-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-02.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-02.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -45,12 +45,12 @@
                          "corpus_path":  "corpus/civilization/civ-03.md",
                          "part_i_path":  "book/volume-ii/civ-03/civ-03-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-03/civ-03-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-03.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-03.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -62,12 +62,12 @@
                          "corpus_path":  "corpus/civilization/civ-04.md",
                          "part_i_path":  "book/volume-ii/civ-04/civ-04-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-04/civ-04-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-04.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-04.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -79,12 +79,12 @@
                          "corpus_path":  "corpus/civilization/civ-05.md",
                          "part_i_path":  "book/volume-ii/civ-05/civ-05-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-05/civ-05-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-05.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-05.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -96,12 +96,12 @@
                          "corpus_path":  "corpus/civilization/civ-06.md",
                          "part_i_path":  "book/volume-ii/civ-06/civ-06-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-06/civ-06-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-06.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-06.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -113,12 +113,12 @@
                          "corpus_path":  "corpus/civilization/civ-07.md",
                          "part_i_path":  "book/volume-ii/civ-07/civ-07-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-07/civ-07-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-07.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-07.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -130,12 +130,12 @@
                          "corpus_path":  "corpus/civilization/civ-08.md",
                          "part_i_path":  "book/volume-ii/civ-08/civ-08-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-08/civ-08-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-08.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-08.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -147,12 +147,12 @@
                          "corpus_path":  "corpus/civilization/civ-09.md",
                          "part_i_path":  "book/volume-ii/civ-09/civ-09-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-09/civ-09-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-09.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-09.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -164,12 +164,12 @@
                          "corpus_path":  "corpus/civilization/civ-10.md",
                          "part_i_path":  "book/volume-ii/civ-10/civ-10-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-10/civ-10-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-10.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-10.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -181,12 +181,12 @@
                          "corpus_path":  "corpus/civilization/civ-11.md",
                          "part_i_path":  "book/volume-ii/civ-11/civ-11-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-11/civ-11-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-11.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-11.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -198,12 +198,12 @@
                          "corpus_path":  "corpus/civilization/civ-12.md",
                          "part_i_path":  "book/volume-ii/civ-12/civ-12-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-12/civ-12-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-12.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-12.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -215,12 +215,12 @@
                          "corpus_path":  "corpus/civilization/civ-13.md",
                          "part_i_path":  "book/volume-ii/civ-13/civ-13-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-13/civ-13-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-13.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-13.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -232,12 +232,12 @@
                          "corpus_path":  "corpus/civilization/civ-14.md",
                          "part_i_path":  "book/volume-ii/civ-14/civ-14-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-14/civ-14-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-14.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-14.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -249,12 +249,12 @@
                          "corpus_path":  "corpus/civilization/civ-15.md",
                          "part_i_path":  "book/volume-ii/civ-15/civ-15-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-15/civ-15-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-15.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-15.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -266,12 +266,12 @@
                          "corpus_path":  "corpus/civilization/civ-16.md",
                          "part_i_path":  "book/volume-ii/civ-16/civ-16-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-16/civ-16-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-16.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-16.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -283,12 +283,12 @@
                          "corpus_path":  "corpus/civilization/civ-17.md",
                          "part_i_path":  "book/volume-ii/civ-17/civ-17-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-17/civ-17-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-17.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-17.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -300,12 +300,12 @@
                          "corpus_path":  "corpus/civilization/civ-18.md",
                          "part_i_path":  "book/volume-ii/civ-18/civ-18-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-18/civ-18-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-18.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-18.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -317,12 +317,12 @@
                          "corpus_path":  "corpus/civilization/civ-19.md",
                          "part_i_path":  "book/volume-ii/civ-19/civ-19-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-19/civ-19-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-19.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-19.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -334,12 +334,12 @@
                          "corpus_path":  "corpus/civilization/civ-20.md",
                          "part_i_path":  "book/volume-ii/civ-20/civ-20-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-20/civ-20-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-20.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-20.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -351,12 +351,12 @@
                          "corpus_path":  "corpus/civilization/civ-21.md",
                          "part_i_path":  "book/volume-ii/civ-21/civ-21-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-21/civ-21-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-21.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-21.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -368,12 +368,12 @@
                          "corpus_path":  "corpus/civilization/civ-22.md",
                          "part_i_path":  "book/volume-ii/civ-22/civ-22-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-22/civ-22-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-22.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-22.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -385,12 +385,12 @@
                          "corpus_path":  "corpus/civilization/civ-23.md",
                          "part_i_path":  "book/volume-ii/civ-23/civ-23-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-23/civ-23-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-23.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-23.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -402,12 +402,12 @@
                          "corpus_path":  "corpus/civilization/civ-24.md",
                          "part_i_path":  "book/volume-ii/civ-24/civ-24-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-24/civ-24-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-24.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-24.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -419,12 +419,12 @@
                          "corpus_path":  "corpus/civilization/civ-25.md",
                          "part_i_path":  "book/volume-ii/civ-25/civ-25-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-25/civ-25-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-25.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-25.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -436,12 +436,12 @@
                          "corpus_path":  "corpus/civilization/civ-26.md",
                          "part_i_path":  "book/volume-ii/civ-26/civ-26-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-26/civ-26-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-26.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-26.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -453,12 +453,12 @@
                          "corpus_path":  "corpus/civilization/civ-27.md",
                          "part_i_path":  "book/volume-ii/civ-27/civ-27-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-27/civ-27-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-27.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-27.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -470,12 +470,12 @@
                          "corpus_path":  "corpus/civilization/civ-28.md",
                          "part_i_path":  "book/volume-ii/civ-28/civ-28-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-28/civ-28-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-28.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-28.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -487,12 +487,12 @@
                          "corpus_path":  "corpus/civilization/civ-29.md",
                          "part_i_path":  "book/volume-ii/civ-29/civ-29-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-29/civ-29-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-29.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-29.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -504,12 +504,12 @@
                          "corpus_path":  "corpus/civilization/civ-30.md",
                          "part_i_path":  "book/volume-ii/civ-30/civ-30-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-30/civ-30-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-30.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-30.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -521,12 +521,12 @@
                          "corpus_path":  "corpus/civilization/civ-31.md",
                          "part_i_path":  "book/volume-ii/civ-31/civ-31-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-31/civ-31-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-31.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-31.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -538,12 +538,12 @@
                          "corpus_path":  "corpus/civilization/civ-32.md",
                          "part_i_path":  "book/volume-ii/civ-32/civ-32-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-32/civ-32-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-32.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-32.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -555,12 +555,12 @@
                          "corpus_path":  "corpus/civilization/civ-33.md",
                          "part_i_path":  "book/volume-ii/civ-33/civ-33-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-33/civ-33-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-33.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-33.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -572,12 +572,12 @@
                          "corpus_path":  "corpus/civilization/civ-34.md",
                          "part_i_path":  "book/volume-ii/civ-34/civ-34-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-34/civ-34-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-34.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-34.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -589,12 +589,12 @@
                          "corpus_path":  "corpus/civilization/civ-35.md",
                          "part_i_path":  "book/volume-ii/civ-35/civ-35-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-35/civ-35-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-35.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-35.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -606,12 +606,12 @@
                          "corpus_path":  "corpus/civilization/civ-36.md",
                          "part_i_path":  "book/volume-ii/civ-36/civ-36-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-36/civ-36-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-36.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-36.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -623,12 +623,12 @@
                          "corpus_path":  "corpus/civilization/civ-37.md",
                          "part_i_path":  "book/volume-ii/civ-37/civ-37-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-37/civ-37-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-37.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-37.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -640,12 +640,12 @@
                          "corpus_path":  "corpus/civilization/civ-38.md",
                          "part_i_path":  "book/volume-ii/civ-38/civ-38-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-38/civ-38-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-38.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-38.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -657,12 +657,12 @@
                          "corpus_path":  "corpus/civilization/civ-39.md",
                          "part_i_path":  "book/volume-ii/civ-39/civ-39-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-39/civ-39-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-39.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-39.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -674,12 +674,12 @@
                          "corpus_path":  "corpus/civilization/civ-40.md",
                          "part_i_path":  "book/volume-ii/civ-40/civ-40-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-40/civ-40-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-40.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-40.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -691,12 +691,12 @@
                          "corpus_path":  "corpus/civilization/civ-41.md",
                          "part_i_path":  "book/volume-ii/civ-41/civ-41-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-41/civ-41-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-41.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-41.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -708,12 +708,12 @@
                          "corpus_path":  "corpus/civilization/civ-42.md",
                          "part_i_path":  "book/volume-ii/civ-42/civ-42-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-42/civ-42-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-42.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-42.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -725,12 +725,12 @@
                          "corpus_path":  "corpus/civilization/civ-43.md",
                          "part_i_path":  "book/volume-ii/civ-43/civ-43-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-43/civ-43-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-43.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-43.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -742,12 +742,12 @@
                          "corpus_path":  "corpus/civilization/civ-44.md",
                          "part_i_path":  "book/volume-ii/civ-44/civ-44-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-44/civ-44-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-44.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-44.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -759,12 +759,12 @@
                          "corpus_path":  "corpus/civilization/civ-45.md",
                          "part_i_path":  "book/volume-ii/civ-45/civ-45-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-45/civ-45-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-45.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-45.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -776,12 +776,12 @@
                          "corpus_path":  "corpus/civilization/civ-46.md",
                          "part_i_path":  "book/volume-ii/civ-46/civ-46-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-46/civ-46-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-46.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-46.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -793,12 +793,12 @@
                          "corpus_path":  "corpus/civilization/civ-47.md",
                          "part_i_path":  "book/volume-ii/civ-47/civ-47-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-47/civ-47-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-47.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-47.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -810,12 +810,12 @@
                          "corpus_path":  "corpus/civilization/civ-48.md",
                          "part_i_path":  "book/volume-ii/civ-48/civ-48-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-48/civ-48-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-48.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-48.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -827,12 +827,12 @@
                          "corpus_path":  "corpus/civilization/civ-49.md",
                          "part_i_path":  "book/volume-ii/civ-49/civ-49-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-49/civ-49-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-49.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-49.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -844,12 +844,12 @@
                          "corpus_path":  "corpus/civilization/civ-50.md",
                          "part_i_path":  "book/volume-ii/civ-50/civ-50-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-50/civ-50-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-50.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-50.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -861,12 +861,12 @@
                          "corpus_path":  "corpus/civilization/civ-51.md",
                          "part_i_path":  "book/volume-ii/civ-51/civ-51-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-51/civ-51-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-51.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-51.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -878,12 +878,12 @@
                          "corpus_path":  "corpus/civilization/civ-52.md",
                          "part_i_path":  "book/volume-ii/civ-52/civ-52-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-52/civ-52-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-52.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-52.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -895,12 +895,12 @@
                          "corpus_path":  "corpus/civilization/civ-53.md",
                          "part_i_path":  "book/volume-ii/civ-53/civ-53-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-53/civ-53-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-53.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-53.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -912,12 +912,12 @@
                          "corpus_path":  "corpus/civilization/civ-54.md",
                          "part_i_path":  "book/volume-ii/civ-54/civ-54-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-54/civ-54-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-54.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-54.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -929,12 +929,12 @@
                          "corpus_path":  "corpus/civilization/civ-55.md",
                          "part_i_path":  "book/volume-ii/civ-55/civ-55-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-55/civ-55-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-55.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-55.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -946,12 +946,12 @@
                          "corpus_path":  "corpus/civilization/civ-56.md",
                          "part_i_path":  "book/volume-ii/civ-56/civ-56-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-56/civ-56-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-56.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-56.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -963,12 +963,12 @@
                          "corpus_path":  "corpus/civilization/civ-57.md",
                          "part_i_path":  "book/volume-ii/civ-57/civ-57-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-57/civ-57-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-57.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-57.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -980,12 +980,12 @@
                          "corpus_path":  "corpus/civilization/civ-58.md",
                          "part_i_path":  "book/volume-ii/civ-58/civ-58-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-58/civ-58-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-58.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-58.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -997,12 +997,12 @@
                          "corpus_path":  "corpus/civilization/civ-59.md",
                          "part_i_path":  "book/volume-ii/civ-59/civ-59-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-59/civ-59-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-59.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-59.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 
@@ -1014,12 +1014,12 @@
                          "corpus_path":  "corpus/civilization/civ-60.md",
                          "part_i_path":  "book/volume-ii/civ-60/civ-60-transcript.md",
                          "part_ii_path":  "book/volume-ii/civ-60/civ-60-commentary.md",
-                         "ph_civ_path":  "corpus/ph-civ/civ-60.md",
+                         "civ_ph_path":  "corpus/civ-ph/civ-60.md",
                          "orientation_payload_path":  null,
                          "transcript_fidelity":  "exact_body_match",
                          "transcript_review_status":  "source_reviewed",
                          "commentary_status":  "in-review",
-                         "ph_civ_review_status":  "in_review",
+                         "civ_ph_review_status":  "in_review",
                          "source_reviewed_at":  "2026-05-13",
                          "warnings":  [
 

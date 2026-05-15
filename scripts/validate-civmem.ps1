@@ -9,9 +9,9 @@ param(
   [string]$CommentaryPath
 )
 
-# Deprecated legacy validator. New PH-CIV orientation payload work should use
+# Deprecated legacy validator. New civ-ph orientation payload work should use
 # scripts/validate-orientation.ps1, which validates neutral *-orientation.yaml
-# payloads against PH-CIV entries and manifest routing.
+# payloads against civ-ph entries and manifest routing.
 
 $ErrorActionPreference = 'Stop'
 

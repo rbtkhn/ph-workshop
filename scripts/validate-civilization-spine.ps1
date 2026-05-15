@@ -142,7 +142,7 @@ foreach ($chapterId in $expectedIds) {
   }
 
   $block = $chapterMatch.Groups[0].Value
-  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'ph_civ_path')) {
+  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'civ_ph_path')) {
     $fieldMatch = [regex]::Match($block, "(?m)^\s+${field}:\s*(\S+)\s*$")
     if (-not $fieldMatch.Success) {
       throw "Manifest row $chapterId is missing $field"

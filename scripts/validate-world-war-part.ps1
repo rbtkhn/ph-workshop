@@ -102,15 +102,15 @@ foreach ($chapterId in $expectedIds) {
     throw "Manifest row $chapterId must set part: world-war"
   }
 
-  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'ph_civ_path', 'orientation_payload_path')) {
+  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'civ_ph_path', 'orientation_payload_path')) {
     $target = Get-ManifestField -Block $block -Field $field -ChapterId $chapterId
     Assert-FileExists -Path $target -Context "Manifest row $chapterId $field"
   }
 
-  $phCivPath = Get-ManifestField -Block $block -Field 'ph_civ_path' -ChapterId $chapterId
+  $phCivPath = Get-ManifestField -Block $block -Field 'civ_ph_path' -ChapterId $chapterId
   $phCivText = Get-Text -Path (Resolve-RepoPath -Path $phCivPath)
   if ($phCivText -notmatch '(?m)^part:\s*world-war\s*$') {
-    throw "PH-CIV entry $chapterId must set part: world-war"
+    throw "civ-ph entry $chapterId must set part: world-war"
   }
 }
 

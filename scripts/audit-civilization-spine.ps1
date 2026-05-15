@@ -115,14 +115,14 @@ foreach ($sourceId in (1..60 | ForEach-Object { "civ-{0:D2}" -f $_ })) {
   $corpusPath = Get-ManifestField -Block $block -Field 'corpus_path'
   $partIPath = Get-ManifestField -Block $block -Field 'part_i_path'
   $partIIPath = Get-ManifestField -Block $block -Field 'part_ii_path'
-  $phCivPath = Get-ManifestField -Block $block -Field 'ph_civ_path'
+  $phCivPath = Get-ManifestField -Block $block -Field 'civ_ph_path'
   $orientationPayloadPath = Get-ManifestField -Block $block -Field 'orientation_payload_path'
   $transcriptFidelity = Get-ManifestField -Block $block -Field 'transcript_fidelity'
 
   Test-PathField -SourceId $sourceId -FieldName 'corpus_path' -RelativePath $corpusPath -Warnings $warnings | Out-Null
   Test-PathField -SourceId $sourceId -FieldName 'part_i_path' -RelativePath $partIPath -Warnings $warnings | Out-Null
   Test-PathField -SourceId $sourceId -FieldName 'part_ii_path' -RelativePath $partIIPath -Warnings $warnings | Out-Null
-  Test-PathField -SourceId $sourceId -FieldName 'ph_civ_path' -RelativePath $phCivPath -Warnings $warnings | Out-Null
+  Test-PathField -SourceId $sourceId -FieldName 'civ_ph_path' -RelativePath $phCivPath -Warnings $warnings | Out-Null
 
   if ($sourceId -in $calibratedOrientationIds) {
     Test-PathField -SourceId $sourceId -FieldName 'orientation_payload_path' -RelativePath $orientationPayloadPath -Warnings $warnings | Out-Null
@@ -152,7 +152,7 @@ foreach ($sourceId in (1..60 | ForEach-Object { "civ-{0:D2}" -f $_ })) {
     $warnings.Add("missing source_reviewed_at") | Out-Null
   }
   if (-not $phCivReviewStatus) {
-    $warnings.Add("missing PH-CIV review_status") | Out-Null
+    $warnings.Add("missing civ-ph review_status") | Out-Null
   }
   if ($representation -ne 'true') {
     $warnings.Add("commentary representation_not_endorsement is '$representation'") | Out-Null
@@ -171,12 +171,12 @@ foreach ($sourceId in (1..60 | ForEach-Object { "civ-{0:D2}" -f $_ })) {
     corpus_path = $corpusPath
     part_i_path = $partIPath
     part_ii_path = $partIIPath
-    ph_civ_path = $phCivPath
+    civ_ph_path = $phCivPath
     orientation_payload_path = $orientationPayloadPath
     transcript_fidelity = $transcriptFidelity
     transcript_review_status = $transcriptReviewStatus
     commentary_status = $commentaryStatus
-    ph_civ_review_status = $phCivReviewStatus
+    civ_ph_review_status = $phCivReviewStatus
     source_reviewed_at = $sourceReviewedAt
     warnings = @($warnings.ToArray())
   }) | Out-Null
@@ -208,13 +208,13 @@ $md.Add("Status: $($summary.status)") | Out-Null
 $md.Add("Chapter count: $($summary.chapter_count)") | Out-Null
 $md.Add("Warning count: $($summary.warning_count)") | Out-Null
 $md.Add('') | Out-Null
-$md.Add('| source_id | transcript | commentary | PH-CIV | orientation | warnings |') | Out-Null
+$md.Add('| source_id | transcript | commentary | civ-ph | orientation | warnings |') | Out-Null
 $md.Add('| --- | --- | --- | --- | --- | --- |') | Out-Null
 foreach ($item in $items) {
   $orientation = if ($item.orientation_payload_path) { 'routed' } else { '-' }
   $warningText = if ($item.warnings.Count -gt 0) { ($item.warnings -join '; ') } else { 'none' }
   $sourceId = $item.source_id
-  $md.Add("| ``$sourceId`` | $($item.transcript_fidelity) | $($item.commentary_status) | $($item.ph_civ_review_status) | $orientation | $warningText |") | Out-Null
+  $md.Add("| ``$sourceId`` | $($item.transcript_fidelity) | $($item.commentary_status) | $($item.civ_ph_review_status) | $orientation | $warningText |") | Out-Null
 }
 
 $mdPath = Join-Path -Path $resolvedReportsDir -ChildPath 'civilization-spine-health.md'

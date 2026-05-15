@@ -10,7 +10,7 @@ part: world-war
 part_role: world-war
 transcript_path: book/volume-i/geo-13-transcript.md
 commentary_path: book/volume-i/geo-13-commentary.md
-ph_civ_path: corpus/ph-civ/geo-13.md
+civ_ph_path: corpus/civ-ph/geo-13.md
 orientation_payload_path: book/volume-i/geo-13-orientation.yaml
 review_status: source_reviewed
 annotation_status: drafted
@@ -28,8 +28,8 @@ This source entry routes geo-13 into the World War semester of Predictive Histor
 
 - **Transcript:** [geo-13-transcript.md](../../book/volume-i/geo-13-transcript.md)
 - **Commentary:** [geo-13-commentary.md](../../book/volume-i/geo-13-commentary.md)
-- **PH-CIV orientation:** [geo-13.md](../ph-civ/geo-13.md)
+- **civ-ph orientation:** [geo-13.md](../civ-ph/geo-13.md)
 
 ## Source Discipline
 
-The transcript body is preserved from the transfer authority. Commentary and PH-CIV add review status, limits, and return paths without altering the lecture text.
+The transcript body is preserved from the transfer authority. Commentary and civ-ph add review status, limits, and return paths without altering the lecture text.

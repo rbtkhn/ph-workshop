@@ -41,7 +41,7 @@ Macro recap: city-states and trade competition → innovation → empire → bur
 
 ## Evidence Limits And Date Sensitivity
 
-This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use. Its Tolstoy function is a source-backed literary endpoint, not evidence that the course contains a full dedicated Tolstoy lecture. Transcript fidelity preserves uncomfortable or speculative claims in Part I; guardrails belong here, in PH-CIV, and in routing language.
+This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use. Its Tolstoy function is a source-backed literary endpoint, not evidence that the course contains a full dedicated Tolstoy lecture. Transcript fidelity preserves uncomfortable or speculative claims in Part I; guardrails belong here, in civ-ph, and in routing language.
 
 ## Counter-Readings
 

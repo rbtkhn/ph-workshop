@@ -6,7 +6,7 @@ Status: clean
 Chapter count: 60
 Warning count: 0
 
-| source_id | transcript | commentary | PH-CIV | orientation | warnings |
+| source_id | transcript | commentary | civ-ph | orientation | warnings |
 | --- | --- | --- | --- | --- | --- |
 | `civ-01` | exact_body_match | in-review | calibration_seed | routed | none |
 | `civ-02` | exact_body_match | in-review | in_review | - | none |

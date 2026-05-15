@@ -64,7 +64,7 @@ Use this pack before reading the transcript or commentary. It gives students a v
 
 ## Return Path
 
-- **PH-CIV:** [civ-07](../ph-civ/civ-07.md)
+- **civ-ph:** [civ-07](../civ-ph/civ-07.md)
 - **Transcript:** [Part I](../../book/volume-ii/civ-07/civ-07-transcript.md)
 - **Commentary:** [Part II](../../book/volume-ii/civ-07/civ-07-commentary.md)
 - **Source corpus:** [source entry](../../corpus/civilization/civ-07.md)

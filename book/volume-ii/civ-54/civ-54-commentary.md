@@ -47,7 +47,7 @@ The lecture completes the four-modern-civilizations comparison by turning to Ger
 
 The middle of the lecture moves through Frederick the Great, Prussian reform, Humboldt, Clausewitz, 1848, Bismarck, welfare policy, Catholics, liberals, socialism, and the rise of a German problem of unity. Germany is framed as creative and dangerous because it seeks unity of will under pressure.
 
-The final movement is the most sensitive: Schopenhauer, Nietzsche, Wagner, Hitler, Nazism, antisemitism, Holocaust-related claims, World War II, Trump analogy, and live Europe-Russia speculation are used to explain unity of will. Commentary and PH-CIV must represent the lecture without endorsing its highest-risk claims.
+The final movement is the most sensitive: Schopenhauer, Nietzsche, Wagner, Hitler, Nazism, antisemitism, Holocaust-related claims, World War II, Trump analogy, and live Europe-Russia speculation are used to explain unity of will. Commentary and civ-ph must represent the lecture without endorsing its highest-risk claims.
 
 ---
 

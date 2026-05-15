@@ -199,7 +199,7 @@ foreach ($chapterId in $ExpectedIds) {
   $expectedVideoId = Get-YamlScalar -Block $sourceBlock -Key 'video_id' -Default ''
 
   $block = Get-ManifestBlock -ManifestText $manifestText -ChapterId $chapterId
-  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'ph_civ_path', 'orientation_payload_path')) {
+  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'civ_ph_path', 'orientation_payload_path')) {
     $target = Get-ManifestField -Block $block -Field $field -ChapterId $chapterId
     Assert-FileExists -Path $target -Context "Manifest row $chapterId $field" | Out-Null
   }
@@ -227,7 +227,7 @@ foreach ($chapterId in $ExpectedIds) {
   $corpusPath = Get-ManifestField -Block $block -Field 'corpus_path' -ChapterId $chapterId
   $transcriptPath = Get-ManifestField -Block $block -Field 'part_i_path' -ChapterId $chapterId
   $commentaryPath = Get-ManifestField -Block $block -Field 'part_ii_path' -ChapterId $chapterId
-  $phCivPath = Get-ManifestField -Block $block -Field 'ph_civ_path' -ChapterId $chapterId
+  $phCivPath = Get-ManifestField -Block $block -Field 'civ_ph_path' -ChapterId $chapterId
   $payloadPath = Get-ManifestField -Block $block -Field 'orientation_payload_path' -ChapterId $chapterId
 
   $transcriptText = Get-Text -Path (Resolve-RepoPath -Path $transcriptPath)
@@ -287,10 +287,10 @@ foreach ($chapterId in $ExpectedIds) {
   $phCivText = Get-Text -Path (Resolve-RepoPath -Path $phCivPath)
   $payloadText = Get-Text -Path (Resolve-RepoPath -Path $payloadPath)
   if ((Get-FrontmatterValue -Text $phCivText -Key 'review_status') -ne 'in_review') {
-    throw "PH-CIV $chapterId must set review_status: in_review"
+    throw "civ-ph $chapterId must set review_status: in_review"
   }
   if ((Get-FrontmatterValue -Text $phCivText -Key 'part') -ne 'world-war') {
-    throw "PH-CIV $chapterId must set part: world-war"
+    throw "civ-ph $chapterId must set part: world-war"
   }
   $phCivWeight = Get-FrontmatterValue -Text $phCivText -Key 'placement_weight'
   $payloadWeightMatch = [regex]::Match($payloadText, '(?m)^placement_weight:\s*(\S+)\s*$')
@@ -298,10 +298,10 @@ foreach ($chapterId in $ExpectedIds) {
     throw "Orientation payload $chapterId is missing placement_weight"
   }
   if ($payloadWeightMatch.Groups[1].Value -ne $phCivWeight) {
-    throw "PH-CIV $chapterId placement_weight does not match orientation payload"
+    throw "civ-ph $chapterId placement_weight does not match orientation payload"
   }
   if ($chapterId -eq 'sh-16' -and $phCivText -notmatch 'not a dedicated Tolstoy lecture') {
-    throw "PH-CIV sh-16 must caveat that it is not a dedicated Tolstoy lecture"
+    throw "civ-ph sh-16 must caveat that it is not a dedicated Tolstoy lecture"
   }
 }
 

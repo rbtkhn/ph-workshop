@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-44
 public_slug: civ-44-the-spanish-conquest-of-the-new-world
 title: "Civilization #44: The Spanish Conquest of the New World"
@@ -30,4 +30,4 @@ This entry points to the chapter transcript in [book/volume-ii/civ-44/civ-44-tra
 
 - Imported from the strategy-codex Predictive History transfer surface.
 - The transcript is materialized for routing and review.
-- Commentary and PH-CIV placement are in review after initial analysis.
+- Commentary and civ-ph placement are in review after initial analysis.

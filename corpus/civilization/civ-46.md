@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-46
 public_slug: civ-46-the-revolution-of-reason
 title: "Civilization #46: The Revolution of Reason"
@@ -30,4 +30,4 @@ This entry points to the chapter transcript in [book/volume-ii/civ-46/civ-46-tra
 
 - Imported from the strategy-codex Predictive History transfer surface.
 - The transcript is materialized for routing and review.
-- Commentary and PH-CIV placement are in review after initial analysis.
+- Commentary and civ-ph placement are in review after initial analysis.

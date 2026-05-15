@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "A conference photograph does not prove later claims about financial control."
     related_paths:
-      ph_civ_path: corpus/ph-civ/sh-28.md
+      civ_ph_path: corpus/civ-ph/sh-28.md
       transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
       commentary_path: book/volume-vi/sh-28/sh-28-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Overview pages simplify contested monetary history."
     related_paths:
-      ph_civ_path: corpus/ph-civ/sh-28.md
+      civ_ph_path: corpus/civ-ph/sh-28.md
       transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
       commentary_path: book/volume-vi/sh-28/sh-28-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Nuclear imagery is rhetorically intense and must not be treated as proof of theological claims."
     related_paths:
-      ph_civ_path: corpus/ph-civ/sh-28.md
+      civ_ph_path: corpus/civ-ph/sh-28.md
       transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
       commentary_path: book/volume-vi/sh-28/sh-28-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Internet origins are complex and cannot be reduced to one strategic purpose."
     related_paths:
-      ph_civ_path: corpus/ph-civ/sh-28.md
+      civ_ph_path: corpus/civ-ph/sh-28.md
       transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
       commentary_path: book/volume-vi/sh-28/sh-28-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Images of sacred places can invite overreading; they orient attention rather than proving claims."
     related_paths:
-      ph_civ_path: corpus/ph-civ/sh-28.md
+      civ_ph_path: corpus/civ-ph/sh-28.md
       transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
       commentary_path: book/volume-vi/sh-28/sh-28-commentary.md

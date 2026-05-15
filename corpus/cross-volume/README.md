@@ -17,7 +17,7 @@ The Homer-to-Tolstoy route now reaches Tolstoy through the limited Secret Histor
 
 - Reader-facing corridor files live in this folder.
 - Machine-readable edges live in [registries/cross-volume-links.yaml](../../registries/cross-volume-links.yaml).
-- Chapter-level orientation remains in [corpus/ph-civ/](../ph-civ/).
+- Chapter-level orientation remains in [corpus/civ-ph/](../civ-ph/).
 - Transcript and commentary files remain the authority for each chapter's source and analysis.
 
 ## Guardrail

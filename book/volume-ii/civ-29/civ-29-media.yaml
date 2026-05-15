@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "A Renaissance portrait is an afterimage, not a contemporary record of Dante."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-29.md
+      civ_ph_path: corpus/civ-ph/civ-29.md
       transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
       commentary_path: book/volume-ii/civ-29/civ-29-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The painting visualizes later reception and should not replace the poem."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-29.md
+      civ_ph_path: corpus/civ-ph/civ-29.md
       transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
       commentary_path: book/volume-ii/civ-29/civ-29-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "It is a later interpretive diagram, not Dante's own drawing."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-29.md
+      civ_ph_path: corpus/civ-ph/civ-29.md
       transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
       commentary_path: book/volume-ii/civ-29/civ-29-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Category-level media need item-level review before use as evidence."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-29.md
+      civ_ph_path: corpus/civ-ph/civ-29.md
       transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
       commentary_path: book/volume-ii/civ-29/civ-29-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Individual manuscripts differ by date, region, illustration, and textual tradition."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-29.md
+      civ_ph_path: corpus/civ-ph/civ-29.md
       transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
       commentary_path: book/volume-ii/civ-29/civ-29-commentary.md

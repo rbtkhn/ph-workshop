@@ -13,7 +13,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   `-- skills/
 |       |-- ph-transcript/
 |       |-- ph-chapter/
-|       |-- ph-civ/
+|       |-- civ-ph/
 |       |-- ph-cross-volume/
 |       |-- ph-audit/
 |       `-- ph-youtube-transcript/
@@ -21,7 +21,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   `-- skills/
 |       |-- ph-transcript/
 |       |-- ph-chapter/
-|       |-- ph-civ/
+|       |-- civ-ph/
 |       |-- ph-cross-volume/
 |       |-- ph-audit/
 |       `-- ph-youtube-transcript/
@@ -78,7 +78,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   |-- index.md
 |   |   |-- homer-to-dante.md
 |   |   `-- homer-to-tolstoy.md
-|   `-- ph-civ/
+|   `-- civ-ph/
 |       |-- README.md
 |       |-- index.md
 |       |-- civ-01.md
@@ -95,12 +95,12 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   `-- cross-volume-links.yaml
 |-- reports/
 |   |-- civilization-spine-health.md
-|   |-- ph-civ-health.md
+|   |-- civ-ph-health.md
 |   |-- high-risk-review-queue.md
 |   `-- next-actions.md
 |-- scripts/
 |   |-- audit-civilization-spine.ps1
-|   |-- audit-ph-civ.ps1
+|   |-- audit-civ-ph.ps1
 |   |-- audit-review-queue.ps1
 |   |-- validate-all.ps1
 |   |-- validate-civilization-spine.ps1
@@ -111,7 +111,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- validate-world-war-part.ps1
 |   |-- validate-media-packs.ps1
 |   |-- validate-orientation.ps1
-|   |-- validate-ph-civ.ps1
+|   |-- validate-civ-ph.ps1
 |   |-- validate-ph-skills.ps1
 |   |-- validate-transcript-skill.ps1
 |   `-- validate-transcript-fidelity.ps1
@@ -169,7 +169,7 @@ Future corpus material should be added in small reviewed batches. A likely struc
 corpus/
 |-- geo-strategy/
 |-- civilization/
-|-- ph-civ/
+|-- civ-ph/
 |-- cross-volume/
 |-- secret-history/
 |-- game-theory/
@@ -198,7 +198,7 @@ The repo-local Predictive History skill suite lives under both `.cursor/skills/`
 
 - `ph-transcript`: transcript acquisition, ASR audit, generated verbatim sync, exact-body-match checks, and quote-grade boundaries.
 - `ph-chapter`: one chapter pair plus manifest, source metadata, and review status wiring.
-- `ph-civ`: PH-CIV placement entries, orientation payload alignment, limits, and return paths.
+- `civ-ph`: civ-ph placement entries, orientation payload alignment, limits, and return paths.
 - `ph-cross-volume`: typed cross-volume corridors and edge registry work.
 - `ph-audit`: health checks, audit reports, high-risk queue, and next-action summaries.
 - `ph-youtube-transcript`: compatibility alias for `ph-transcript`.

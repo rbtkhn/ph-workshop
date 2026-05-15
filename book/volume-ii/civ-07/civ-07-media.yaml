@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "A later painted object is not a direct image of Homeric society; it shows how Greeks remembered and re-staged heroic values."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-07.md
+      civ_ph_path: corpus/civ-ph/civ-07.md
       transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
       commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The archaeological site cannot be read as a simple confirmation of the Iliad as history."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-07.md
+      civ_ph_path: corpus/civ-ph/civ-07.md
       transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
       commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Modern maps simplify uncertain Bronze Age and archaic geographies."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-07.md
+      civ_ph_path: corpus/civ-ph/civ-07.md
       transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
       commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Administrative writing and oral epic are different media and should not be collapsed."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-07.md
+      civ_ph_path: corpus/civ-ph/civ-07.md
       transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
       commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Category pages gather later visual traditions; each object needs separate dating for close claims."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-07.md
+      civ_ph_path: corpus/civ-ph/civ-07.md
       transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
       commentary_path: book/volume-ii/civ-07/civ-07-commentary.md

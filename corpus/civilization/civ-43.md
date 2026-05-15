@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-43
 public_slug: civ-43-the-structure-of-scientific-revolutions
 title: "Civilization #43: The Structure of Scientific Revolutions"
@@ -30,4 +30,4 @@ This entry points to the chapter transcript in [book/volume-ii/civ-43/civ-43-tra
 
 - Imported from the strategy-codex Predictive History transfer surface.
 - The transcript is materialized for routing and review.
-- Commentary and PH-CIV placement are in review after initial analysis.
+- Commentary and civ-ph placement are in review after initial analysis.

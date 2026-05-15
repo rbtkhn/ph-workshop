@@ -1,7 +1,7 @@
 # Human-Curated Chapter Media Packs, Link-First By Default
 
 ## Summary
-Make media packs a human-curated, agent-structured study layer. The pack should orient students before transcript and commentary: PH-CIV says where the lecture sits, the media pack says what to see before reading, the transcript preserves what was said, and commentary interprets and bounds it.
+Make media packs a human-curated, agent-structured study layer. The pack should orient students before transcript and commentary: civ-ph says where the lecture sits, the media pack says what to see before reading, the transcript preserves what was said, and commentary interprets and bounds it.
 
 ## Key Changes
 - Add a chapter-local media payload plus public media-pack corpus page:

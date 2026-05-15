@@ -13,7 +13,7 @@ Use this skill for guided routes across Predictive History volumes.
 - Every edge must resolve to existing `chapter-manifest.yaml` endpoints.
 - Use allowed relation types already established by the registry, such as `scale_shift`, `inheritance`, `revision`, `transmutation`, and `return`.
 - Treat corridors as guided study paths, not causal proof. Keep guardrails explicit.
-- Keep PH-CIV entries orientation-first; corridor links should be compact pointers, not duplicate commentary.
+- Keep civ-ph entries orientation-first; corridor links should be compact pointers, not duplicate commentary.
 
 ## Validation
 

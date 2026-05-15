@@ -40,7 +40,7 @@ Proposes a civilizational cycle model where marginal groups with higher cohesion
 
 ## Evidence Limits And Date Sensitivity
 
-This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use. Transcript fidelity preserves uncomfortable or speculative claims in Part I; guardrails belong here, in PH-CIV, and in routing language.
+This entry is in review and preserves the lecture's interpretive frame without treating it as final scholarly judgment. Claims involving current events, religion, violence, forecasts, or named political actors require external review before quotation-grade or publication-grade use. Transcript fidelity preserves uncomfortable or speculative claims in Part I; guardrails belong here, in civ-ph, and in routing language.
 
 ## Counter-Readings
 

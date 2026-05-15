@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-45
 public_slug: civ-45-the-gunpowder-revolution
 title: "Civilization #45: The Gunpowder Revolution"
@@ -30,4 +30,4 @@ This entry points to the chapter transcript in [book/volume-ii/civ-45/civ-45-tra
 
 - Imported from the strategy-codex Predictive History transfer surface.
 - The transcript is materialized for routing and review.
-- Commentary and PH-CIV placement are in review after initial analysis.
+- Commentary and civ-ph placement are in review after initial analysis.

@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The Folio is a posthumous publication and reflects editorial mediation."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-51.md
+      civ_ph_path: corpus/civ-ph/civ-51.md
       transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
       commentary_path: book/volume-ii/civ-51/civ-51-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Modern reconstructions are teaching aids, not direct Elizabethan evidence."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-51.md
+      civ_ph_path: corpus/civ-ph/civ-51.md
       transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
       commentary_path: book/volume-ii/civ-51/civ-51-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Court portraiture is propaganda-rich and should be read as constructed image."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-51.md
+      civ_ph_path: corpus/civ-ph/civ-51.md
       transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
       commentary_path: book/volume-ii/civ-51/civ-51-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Map categories contain varied dates and purposes; item-level dating matters."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-51.md
+      civ_ph_path: corpus/civ-ph/civ-51.md
       transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
       commentary_path: book/volume-ii/civ-51/civ-51-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "A play title page does not settle interpretation of race or empire by itself."
     related_paths:
-      ph_civ_path: corpus/ph-civ/civ-51.md
+      civ_ph_path: corpus/civ-ph/civ-51.md
       transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
       commentary_path: book/volume-ii/civ-51/civ-51-commentary.md

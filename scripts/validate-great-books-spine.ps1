@@ -199,7 +199,7 @@ foreach ($chapterId in $expectedIds) {
   }
 
   $block = Get-ManifestBlock -ManifestText $manifestText -ChapterId $chapterId
-  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'ph_civ_path', 'orientation_payload_path')) {
+  foreach ($field in @('corpus_path', 'part_i_path', 'part_ii_path', 'civ_ph_path', 'orientation_payload_path')) {
     $target = Get-ManifestField -Block $block -Field $field -ChapterId $chapterId
     Assert-FileExists -Path $target -Context "Manifest row $chapterId $field" | Out-Null
   }
@@ -207,7 +207,7 @@ foreach ($chapterId in $expectedIds) {
   $corpusPath = Get-ManifestField -Block $block -Field 'corpus_path' -ChapterId $chapterId
   $transcriptPath = Get-ManifestField -Block $block -Field 'part_i_path' -ChapterId $chapterId
   $commentaryPath = Get-ManifestField -Block $block -Field 'part_ii_path' -ChapterId $chapterId
-  $phCivPath = Get-ManifestField -Block $block -Field 'ph_civ_path' -ChapterId $chapterId
+  $phCivPath = Get-ManifestField -Block $block -Field 'civ_ph_path' -ChapterId $chapterId
   $payloadPath = Get-ManifestField -Block $block -Field 'orientation_payload_path' -ChapterId $chapterId
 
   $transcriptText = Get-Text -Path (Resolve-RepoPath -Path $transcriptPath)
@@ -267,11 +267,11 @@ foreach ($chapterId in $expectedIds) {
   }
 
   if ($payloadWeightMatch.Groups[1].Value -ne $phCivWeight) {
-    throw "PH-CIV $chapterId placement_weight does not match orientation payload"
+    throw "civ-ph $chapterId placement_weight does not match orientation payload"
   }
 
   if ((Get-FrontmatterValue -Text $phCivText -Key 'source_series') -ne 'great-books') {
-    throw "PH-CIV $chapterId must set source_series: great-books"
+    throw "civ-ph $chapterId must set source_series: great-books"
   }
 }
 

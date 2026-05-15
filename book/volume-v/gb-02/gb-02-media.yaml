@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Ancient portrait types are conventional and not reliable likenesses."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-02.md
+      civ_ph_path: corpus/civ-ph/gb-02.md
       transcript_path: book/volume-v/gb-02/gb-02-transcript.md
       commentary_path: book/volume-v/gb-02/gb-02-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Manuscript evidence belongs to later transmission, not the original performance setting."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-02.md
+      civ_ph_path: corpus/civ-ph/gb-02.md
       transcript_path: book/volume-v/gb-02/gb-02-transcript.md
       commentary_path: book/volume-v/gb-02/gb-02-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The vase interprets the story visually and should not replace the poem's language."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-02.md
+      civ_ph_path: corpus/civ-ph/gb-02.md
       transcript_path: book/volume-v/gb-02/gb-02-transcript.md
       commentary_path: book/volume-v/gb-02/gb-02-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The site's layers do not straightforwardly prove the Iliad's narrative."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-02.md
+      civ_ph_path: corpus/civ-ph/gb-02.md
       transcript_path: book/volume-v/gb-02/gb-02-transcript.md
       commentary_path: book/volume-v/gb-02/gb-02-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "The map is a modern reconstruction of poetic material."
     related_paths:
-      ph_civ_path: corpus/ph-civ/gb-02.md
+      civ_ph_path: corpus/civ-ph/gb-02.md
       transcript_path: book/volume-v/gb-02/gb-02-transcript.md
       commentary_path: book/volume-v/gb-02/gb-02-commentary.md

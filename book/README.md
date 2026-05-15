@@ -33,5 +33,5 @@ Future priorities:
 - Game Theory `gt-01` through `gt-22`
 - Secret History `sh-01` through `sh-28`
 - Great Books Volume V scaffold and the `gb-01` through `gb-10` in-review spine
-- PH-CIV derived placements across the routed Civilization and World War spines
+- civ-ph derived placements across the routed Civilization and World War spines
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot

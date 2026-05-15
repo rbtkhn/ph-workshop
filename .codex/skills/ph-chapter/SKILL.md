@@ -18,7 +18,7 @@ Use this skill when creating or updating one Predictive History chapter pair. Ke
 
 ## Chapter Surfaces
 
-Check the relevant volume folder under `book/`, the matching corpus entry, `chapter-manifest.yaml`, `docs/chapter-index.md`, and `docs/series-roadmap.md`. If the chapter has PH-CIV or orientation payload routing, preserve those links rather than inventing a second route.
+Check the relevant volume folder under `book/`, the matching corpus entry, `chapter-manifest.yaml`, `docs/chapter-index.md`, and `docs/series-roadmap.md`. If the chapter has civ-ph or orientation payload routing, preserve those links rather than inventing a second route.
 
 ## Validation
 

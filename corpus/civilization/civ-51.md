@@ -30,4 +30,4 @@ This entry points to the chapter transcript in [book/volume-ii/civ-51/civ-51-tra
 
 - Imported from the strategy-codex Predictive History transfer surface.
 - The transcript is materialized for routing and review.
-- Commentary and PH-CIV placement are in review after initial analysis.
+- Commentary and civ-ph placement are in review after initial analysis.

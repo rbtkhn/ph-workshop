@@ -41,7 +41,7 @@ function Assert-Text {
 $canonicalSkills = @(
   'ph-transcript',
   'ph-chapter',
-  'ph-civ',
+  'civ-ph',
   'ph-cross-volume',
   'ph-audit'
 )
@@ -102,13 +102,13 @@ if ($Failures.Count -eq 0) {
   }
 
   foreach ($needle in @(
-    'corpus/ph-civ/',
+    'corpus/civ-ph/',
     'placement_weight',
     'orientation_payload_path',
     'Do not overclaim calibrated status',
     'limits language'
   )) {
-    Assert-Text -Label 'ph-civ' -Text $skillText['ph-civ'] -Needle $needle
+    Assert-Text -Label 'civ-ph' -Text $skillText['civ-ph'] -Needle $needle
   }
 
   foreach ($needle in @(
@@ -124,7 +124,7 @@ if ($Failures.Count -eq 0) {
   foreach ($needle in @(
     'scripts/validate-all.ps1',
     'transcript fidelity',
-    'PH-CIV health',
+    'civ-ph health',
     'high-risk review queue',
     'avoid content rewrites'
   )) {

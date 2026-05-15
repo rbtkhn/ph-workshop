@@ -1,6 +1,6 @@
 param(
   [string]$ManifestPath = "chapter-manifest.yaml",
-  [string]$CorpusPath = "corpus/ph-civ",
+  [string]$CorpusPath = "corpus/civ-ph",
   [string[]]$CalibrationIds = @()
 )
 
@@ -168,7 +168,7 @@ if (-not (Test-Path -LiteralPath $resolvedManifestPath -PathType Leaf)) {
 
 $resolvedCorpusPath = Resolve-RepoPath -Path $CorpusPath
 if (-not (Test-Path -LiteralPath $resolvedCorpusPath -PathType Container)) {
-  throw "PH-CIV corpus path does not exist: $CorpusPath"
+  throw "civ-ph corpus path does not exist: $CorpusPath"
 }
 
 $requiredPayloadFields = @(
@@ -193,7 +193,7 @@ $manifestText = Get-Text -Path $resolvedManifestPath
 if ($CalibrationIds.Count -eq 0) {
   $CalibrationIds = @(
     [regex]::Matches($manifestText, "(?ms)^\s+- chapter_id:\s*(\S+)\s*\n(.*?)(?=^\s+- chapter_id:|\z)") |
-      Where-Object { $_.Groups[2].Value -match '(?m)^\s+orientation_payload_path:\s*\S+' -and $_.Groups[2].Value -match '(?m)^\s+ph_civ_path:\s*\S+' } |
+      Where-Object { $_.Groups[2].Value -match '(?m)^\s+orientation_payload_path:\s*\S+' -and $_.Groups[2].Value -match '(?m)^\s+civ_ph_path:\s*\S+' } |
       ForEach-Object { $_.Groups[1].Value }
   )
 }
@@ -202,7 +202,7 @@ $validated = 0
 foreach ($sourceId in $CalibrationIds) {
   $block = Get-ManifestBlock -ManifestText $manifestText -SourceId $sourceId
   $payloadPath = Get-ManifestField -Block $block -Field 'orientation_payload_path' -SourceId $sourceId
-  $phCivPath = Get-ManifestField -Block $block -Field 'ph_civ_path' -SourceId $sourceId
+  $phCivPath = Get-ManifestField -Block $block -Field 'civ_ph_path' -SourceId $sourceId
 
   if ($payloadPath -match '(?i)civ[-_ ]?mem') {
     throw "Manifest row $sourceId must use a neutral orientation payload path, found: $payloadPath"
@@ -230,27 +230,27 @@ foreach ($sourceId in $CalibrationIds) {
 
   $resolvedPhCivPath = Resolve-RepoPath -Path $phCivPath
   if (-not (Test-Path -LiteralPath $resolvedPhCivPath -PathType Leaf)) {
-    throw "Manifest row $sourceId points ph_civ_path to missing file: $phCivPath"
+    throw "Manifest row $sourceId points civ_ph_path to missing file: $phCivPath"
   }
 
   $phCivText = Get-Text -Path $resolvedPhCivPath
   $frontmatter = Get-Frontmatter -Text $phCivText
   if (-not $frontmatter) {
-    throw "PH-CIV entry $phCivPath is missing frontmatter"
+    throw "civ-ph entry $phCivPath is missing frontmatter"
   }
 
   if ((Get-FrontmatterValue -Frontmatter $frontmatter -Key 'source_id') -ne $sourceId) {
-    throw "PH-CIV entry $phCivPath has mismatched source_id"
+    throw "civ-ph entry $phCivPath has mismatched source_id"
   }
 
   $phCivWeight = Get-FrontmatterValue -Frontmatter $frontmatter -Key 'placement_weight'
   if ($phCivWeight -ne $payload['placement_weight']) {
-    throw "PH-CIV entry $phCivPath placement_weight '$phCivWeight' does not match orientation payload '$($payload['placement_weight'])'"
+    throw "civ-ph entry $phCivPath placement_weight '$phCivWeight' does not match orientation payload '$($payload['placement_weight'])'"
   }
 
   foreach ($section in $requiredSections) {
     if (-not (Get-SectionText -Text $phCivText -Heading $section)) {
-      throw "PH-CIV entry $phCivPath is missing required section '$section'"
+      throw "civ-ph entry $phCivPath is missing required section '$section'"
     }
   }
 

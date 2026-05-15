@@ -136,7 +136,7 @@ Internal notes only. Keep this section concise and review-oriented.
 
 - Check named archaeological examples and spellings before public polish: Chauvet, Lascaux, Altamira, Romito 2, Genevieve von Petzinger, David Graeber, David Wengrow, Durkheim, Kant.
 - If this chapter is prepared for wider publication, add a short external reading note on cave art interpretation and the risks of over-reading Paleolithic symbols.
-- Revisit the PH-CIV entry after `civ-03` is deepened, because `civ-02` and `civ-03` form a paired religion/imagination unit.
+- Revisit the civ-ph entry after `civ-03` is deepened, because `civ-02` and `civ-03` form a paired religion/imagination unit.
 
 ---
 

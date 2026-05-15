@@ -121,14 +121,14 @@ foreach ($edgeMatch in $edgeMatches) {
       throw "Cross-volume endpoint $endpoint is missing from $ManifestPath"
     }
 
-    $phCivPath = Get-BlockField -Block $manifestBlock -Field 'ph_civ_path'
+    $phCivPath = Get-BlockField -Block $manifestBlock -Field 'civ_ph_path'
     if (-not $phCivPath) {
-      throw "Cross-volume endpoint $endpoint does not declare ph_civ_path in $ManifestPath"
+      throw "Cross-volume endpoint $endpoint does not declare civ_ph_path in $ManifestPath"
     }
 
     $resolvedPhCivPath = Resolve-RepoPath -Path $phCivPath
     if (-not (Test-Path -LiteralPath $resolvedPhCivPath -PathType Leaf)) {
-      throw "Cross-volume endpoint $endpoint points ph_civ_path to missing file: $phCivPath"
+      throw "Cross-volume endpoint $endpoint points civ_ph_path to missing file: $phCivPath"
     }
   }
 }

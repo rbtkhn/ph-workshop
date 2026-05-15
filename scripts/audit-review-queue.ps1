@@ -69,7 +69,7 @@ foreach ($sourceId in (1..60 | ForEach-Object { "civ-{0:D2}" -f $_ })) {
   }
 
   $partIIPath = Get-ManifestField -Block $block -Field 'part_ii_path'
-  $phCivPath = Get-ManifestField -Block $block -Field 'ph_civ_path'
+  $phCivPath = Get-ManifestField -Block $block -Field 'civ_ph_path'
   $partIPath = Get-ManifestField -Block $block -Field 'part_i_path'
   foreach ($path in @($partIIPath, $phCivPath, $partIPath)) {
     if (-not $path) { throw "Missing path in manifest row $sourceId" }
@@ -107,7 +107,7 @@ foreach ($sourceId in (1..60 | ForEach-Object { "civ-{0:D2}" -f $_ })) {
       flags = @($flags.ToArray())
       recommended_next_action = $nextAction
       commentary_path = $partIIPath
-      ph_civ_path = $phCivPath
+      civ_ph_path = $phCivPath
     }) | Out-Null
   }
 }

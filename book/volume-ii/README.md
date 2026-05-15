@@ -33,4 +33,4 @@ Template rules:
 The transcript companion path is recorded in the commentary frontmatter.
 The first sixty-chapter spine lives in `civ-01/` through `civ-60/`. `civ-01` is the calibrated pilot, and `civ-02` through `civ-60` are in review after initial commentary analysis.
 
-For chapter placement, use the derived PH-CIV corpus in [corpus/ph-civ/](../../corpus/ph-civ/) and check each entry's `review_status`. Commentary pages should remain focused on the source-backed layer structure.
+For chapter placement, use the derived civ-ph corpus in [corpus/civ-ph/](../../corpus/civ-ph/) and check each entry's `review_status`. Commentary pages should remain focused on the source-backed layer structure.

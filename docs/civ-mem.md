@@ -1,7 +1,7 @@
 ---
 active_voice_profile: house-default
 payload_home: chapter-local neutral orientation YAML sidecar
-render_surface: ph-civ derived corpus
+render_surface: civ-ph derived corpus
 calibration_units:
   - civ-01
   - geo-05
@@ -18,14 +18,14 @@ It is an internal derivation scaffold, not the public reader-facing corpus.
 ## Contract
 
 - **Active payload authority** lives in a chapter-local neutral YAML sidecar named `*-orientation.yaml`.
-- **Public rendering authority** lives in the PH-CIV derived corpus under `corpus/ph-civ/`.
+- **Public rendering authority** lives in the civ-ph derived corpus under `corpus/civ-ph/`.
 - **Voice authority** lives in this doctrine file; rendering is currently fixed to `house-default`.
 
 The current repository does not yet have a separate evidence/media pack object beyond the chapter-local source files, corpus pointer, and commentary pair. The neutral orientation sidecar is therefore the lightest existing pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
 
 ## Active Payload Fields
 
-Each active orientation payload should carry PH-CIV-section-shaped fields:
+Each active orientation payload should carry civ-ph-section-shaped fields:
 
 - `source_id`
 - `placement_weight`
@@ -37,9 +37,9 @@ Each active orientation payload should carry PH-CIV-section-shaped fields:
 
 ## Derived Rendering Rules
 
-- Render public placements in `corpus/ph-civ/`, not as a named top-of-chapter block.
+- Render public placements in `corpus/civ-ph/`, not as a named top-of-chapter block.
 - Keep the derived entry anchored in the neutral orientation payload, not independently authored.
-- Keep source commentary and PH-CIV distinct: commentary is topic, claim, and evidence work; PH-CIV is civilizational placement and reading posture.
+- Keep source commentary and civ-ph distinct: commentary is topic, claim, and evidence work; civ-ph is civilizational placement and reading posture.
 - Route calibrated payloads from `chapter-manifest.yaml` using `orientation_payload_path`.
 
 ## Voice

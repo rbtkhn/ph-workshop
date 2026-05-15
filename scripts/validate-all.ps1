@@ -57,8 +57,8 @@ if (-not $SkipStrategyChecks) {
   Add-Warning -Warnings $warnings -Message 'Skipped strategy-codex spine validation'
 }
 
-Invoke-Step -Name 'Validate PH-CIV' -Script {
-  & .\scripts\validate-ph-civ.ps1
+Invoke-Step -Name 'Validate civ-ph' -Script {
+  & .\scripts\validate-civ-ph.ps1
 }
 
 Invoke-Step -Name 'Validate orientation payloads' -Script {
@@ -89,8 +89,8 @@ Invoke-Step -Name 'Generate Civilization spine health report' -Script {
   & .\scripts\audit-civilization-spine.ps1 -ReportsDir $ReportsDir
 }
 
-Invoke-Step -Name 'Generate PH-CIV health report' -Script {
-  & .\scripts\audit-ph-civ.ps1 -ReportsDir $ReportsDir
+Invoke-Step -Name 'Generate civ-ph health report' -Script {
+  & .\scripts\audit-civ-ph.ps1 -ReportsDir $ReportsDir
 }
 
 Invoke-Step -Name 'Generate high-risk review queue' -Script {
@@ -104,7 +104,7 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     'CHANGELOG.md',
     'chapter-manifest.yaml',
     'corpus/README.md',
-    'corpus/ph-civ',
+    'corpus/civ-ph',
     'corpus/geo-strategy',
     'corpus/game-theory',
     'corpus/secret-history',
@@ -160,10 +160,10 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
 }
 
 Invoke-Step -Name 'Scan stale placeholders' -Script {
-  $scanRoots = @('book/parts', 'book/volume-i', 'book/volume-ii', 'book/volume-iii', 'book/volume-v', 'book/volume-vi', 'corpus/civilization', 'corpus/geo-strategy', 'corpus/game-theory', 'corpus/great-books', 'corpus/secret-history', 'corpus/ph-civ', 'corpus/cross-volume', 'corpus/world-war', 'corpus/media-packs', 'README.md', 'llms.txt', 'docs')
+  $scanRoots = @('book/parts', 'book/volume-i', 'book/volume-ii', 'book/volume-iii', 'book/volume-v', 'book/volume-vi', 'corpus/civilization', 'corpus/geo-strategy', 'corpus/game-theory', 'corpus/great-books', 'corpus/secret-history', 'corpus/civ-ph', 'corpus/cross-volume', 'corpus/world-war', 'corpus/media-packs', 'README.md', 'llms.txt', 'docs')
   $allowed = @(
     'book\volume-ii\civ-XX-commentary.md',
-    'corpus\ph-civ\README.md',
+    'corpus\civ-ph\README.md',
     'docs\internal-audit-substrate.md',
     'docs\proposed-media-policy-plan.md',
     'docs\series-roadmap.md',
@@ -204,7 +204,7 @@ Invoke-Step -Name 'Check whitespace' -Script {
 }
 
 $reportWarnings = 0
-foreach ($jsonName in @('civilization-spine-health.json', 'ph-civ-health.json')) {
+foreach ($jsonName in @('civilization-spine-health.json', 'civ-ph-health.json')) {
   $path = Resolve-RepoPath -Path (Join-Path $ReportsDir $jsonName)
   if (Test-Path -LiteralPath $path -PathType Leaf) {
     $json = Get-Content -LiteralPath $path -Raw -Encoding utf8 | ConvertFrom-Json

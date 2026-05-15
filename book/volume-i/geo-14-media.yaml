@@ -21,7 +21,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Maps show vulnerability, not inevitability or a complete war model."
     related_paths:
-      ph_civ_path: corpus/ph-civ/geo-14.md
+      civ_ph_path: corpus/civ-ph/geo-14.md
       transcript_path: book/volume-i/geo-14-transcript.md
       commentary_path: book/volume-i/geo-14-commentary.md
   - id: 02
@@ -36,7 +36,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Static maps cannot capture changing alliances or military readiness."
     related_paths:
-      ph_civ_path: corpus/ph-civ/geo-14.md
+      civ_ph_path: corpus/civ-ph/geo-14.md
       transcript_path: book/volume-i/geo-14-transcript.md
       commentary_path: book/volume-i/geo-14-commentary.md
   - id: 03
@@ -51,7 +51,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Weapons-platform images do not prove operational claims about a specific strike."
     related_paths:
-      ph_civ_path: corpus/ph-civ/geo-14.md
+      civ_ph_path: corpus/civ-ph/geo-14.md
       transcript_path: book/volume-i/geo-14-transcript.md
       commentary_path: book/volume-i/geo-14-commentary.md
   - id: 04
@@ -66,7 +66,7 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Wikipedia context is a starting point, not a source sufficient for final claims."
     related_paths:
-      ph_civ_path: corpus/ph-civ/geo-14.md
+      civ_ph_path: corpus/civ-ph/geo-14.md
       transcript_path: book/volume-i/geo-14-transcript.md
       commentary_path: book/volume-i/geo-14-commentary.md
   - id: 05
@@ -81,6 +81,6 @@ items:
     lecture_connection: "Orient before reading; return to transcript and commentary for source-specific claims."
     limit_note: "Overview pages compress disputes and require source-level checking."
     related_paths:
-      ph_civ_path: corpus/ph-civ/geo-14.md
+      civ_ph_path: corpus/civ-ph/geo-14.md
       transcript_path: book/volume-i/geo-14-transcript.md
       commentary_path: book/volume-i/geo-14-commentary.md

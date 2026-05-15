@@ -28,7 +28,7 @@ Use these labels so readers can see what is known, what is provisional, and what
 
 Part I transcript bodies are fidelity-bearing artifacts. Guardrails for rhetoric, uncertainty, endorsement, contested claims, harmful wording, or present-day interpretation do not rewrite, soften, omit, or sanitize the verbatim transcript body.
 
-Those guardrails apply to Part II commentary, PH-CIV placement entries, summaries, claims tables, limits sections, routing language, and public documentation. The repository preserves what was said in the transcript, then uses commentary and orientation surfaces to clarify status, uncertainty, evidence limits, and representation-not-endorsement.
+Those guardrails apply to Part II commentary, civ-ph placement entries, summaries, claims tables, limits sections, routing language, and public documentation. The repository preserves what was said in the transcript, then uses commentary and orientation surfaces to clarify status, uncertainty, evidence limits, and representation-not-endorsement.
 
 ## Annotation Status
 

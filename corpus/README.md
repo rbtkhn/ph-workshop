@@ -1,6 +1,6 @@
 # Corpus
 
-This folder holds public corpus annotations for the two-part Predictive History course. Part One, Civilization, discovers the laws of history through `civ-01` through `civ-60`, Great Books `gb-01` through `gb-10`, PH-CIV orientation cards, media packs, and cross-volume literary corridors. Part Two, World War, applies those laws through Geo-Strategy `geo-01` through `geo-20`, Game Theory `gt-01` through `gt-22`, Secret History `sh-01` through `sh-28`, pressure corridors, and media packs.
+This folder holds public corpus annotations for the two-part Predictive History course. Part One, Civilization, discovers the laws of history through `civ-01` through `civ-60`, Great Books `gb-01` through `gb-10`, civ-ph orientation cards, media packs, and cross-volume literary corridors. Part Two, World War, applies those laws through Geo-Strategy `geo-01` through `geo-20`, Game Theory `gt-01` through `gt-22`, Secret History `sh-01` through `sh-28`, pressure corridors, and media packs.
 
 The first public pilot is intentionally small and manual, and it should continue to grow in reviewed batches.
 
@@ -21,7 +21,7 @@ Each item must:
 
 - Geo-Strategy (complete through `geo-20`)
 - Civilization (first sixty-chapter spine present)
-- PH-CIV derived placements
+- civ-ph derived placements
 - Cross-volume corridors
 - World War pressure corridors
 - Media packs
