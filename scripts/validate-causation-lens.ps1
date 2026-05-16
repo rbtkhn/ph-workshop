@@ -44,9 +44,47 @@ function Get-ManifestBlock {
   return $match.Value
 }
 
+function Get-TolstoyLensBlock {
+  param([Parameter(Mandatory = $true)][string]$Text)
+
+  $match = [regex]::Match($Text, "(?ms)^## Tolstoy Lens\s*$.*?(?=^##\s+|\z)")
+  if (-not $match.Success) {
+    return $null
+  }
+  return $match.Value
+}
+
+function Get-FrontMatterField {
+  param(
+    [Parameter(Mandatory = $true)][string]$Text,
+    [Parameter(Mandatory = $true)][string]$Field
+  )
+
+  $match = [regex]::Match($Text, "(?ms)\A---\s*\n(.*?)\n---")
+  if (-not $match.Success) {
+    return $null
+  }
+
+  $frontMatter = $match.Groups[1].Value
+  $fieldMatch = [regex]::Match($frontMatter, "(?m)^$([regex]::Escape($Field)):\s*(.+?)\s*$")
+  if (-not $fieldMatch.Success) {
+    return $null
+  }
+  return $fieldMatch.Groups[1].Value.Trim().Trim('"')
+}
+
 $requiredLensIds = @('civ-15', 'civ-16', 'civ-25', 'civ-48', 'civ-53', 'sh-16', 'civ-59', 'gt-21', 'gt-22')
 $requiredFields = @('source_id', 'visible_actor', 'causation_question', 'caution')
 $requiredSectionLabels = @('Visible actor', 'Underlying pressure', 'Tolstoy question', 'Limit')
+$requiredCommentaryLabels = @(
+  'Visible actor',
+  'Pressure field',
+  'Agency boundary',
+  'Where this supports Jiang',
+  'Where this complicates Jiang',
+  'Falsifier / limit',
+  'Return path'
+)
 
 $resolvedRegistryPath = Resolve-RepoPath -Path $RegistryPath
 if (-not (Test-Path -LiteralPath $resolvedRegistryPath -PathType Leaf)) {
@@ -98,10 +136,20 @@ if ($lensMatches.Count -eq 0) {
 }
 
 $seen = @{}
+$registryLensIds = @{}
+$deferredLensIds = @{}
+$commentaryPathsBySourceId = @{}
 foreach ($lensMatch in $lensMatches) {
   $block = $lensMatch.Value
   $sourceId = $lensMatch.Groups[1].Value.Trim().Trim('"')
   $seen[$sourceId] = $true
+  $registryLensIds[$sourceId] = $true
+
+  $tolstoyLensStatus = Get-BlockField -Block $block -Field 'tolstoy_lens_status'
+  $deferred = Get-BlockField -Block $block -Field 'deferred'
+  if ($tolstoyLensStatus -eq 'deferred' -or $deferred -eq 'true') {
+    $deferredLensIds[$sourceId] = $true
+  }
 
   foreach ($field in $requiredFields) {
     if ($field -eq 'source_id') {
@@ -125,6 +173,17 @@ foreach ($lensMatch in $lensMatches) {
     throw "Causation lens source $sourceId is missing from $ManifestPath"
   }
 
+  $commentaryPath = Get-BlockField -Block $manifestBlock -Field 'part_ii_path'
+  if (-not $commentaryPath) {
+    throw "Causation lens source $sourceId does not declare part_ii_path"
+  }
+
+  $resolvedCommentaryPath = Resolve-RepoPath -Path $commentaryPath
+  if (-not (Test-Path -LiteralPath $resolvedCommentaryPath -PathType Leaf)) {
+    throw "Causation lens source $sourceId points part_ii_path to missing file: $commentaryPath"
+  }
+  $commentaryPathsBySourceId[$sourceId] = $resolvedCommentaryPath
+
   $civPhPath = Get-BlockField -Block $manifestBlock -Field 'civ_ph_path'
   if (-not $civPhPath) {
     throw "Causation lens source $sourceId does not declare civ_ph_path"
@@ -144,6 +203,20 @@ foreach ($lensMatch in $lensMatches) {
       throw "civ-ph entry $civPhPath is missing Agency And Necessity label '$label'"
     }
   }
+
+  if (-not $deferredLensIds.ContainsKey($sourceId)) {
+    $commentaryText = Get-Text -Path $resolvedCommentaryPath
+    $tolstoyLensBlock = Get-TolstoyLensBlock -Text $commentaryText
+    if (-not $tolstoyLensBlock) {
+      throw "Causation lens source $sourceId must have a '## Tolstoy Lens' section in $commentaryPath or be explicitly marked deferred in $RegistryPath"
+    }
+
+    foreach ($label in $requiredCommentaryLabels) {
+      if ($tolstoyLensBlock -notmatch "(?m)^-\s+\*\*$([regex]::Escape($label)):\*\*") {
+        throw "Tolstoy Lens section for $sourceId in $commentaryPath is missing required field '$label'"
+      }
+    }
+  }
 }
 
 foreach ($sourceId in $requiredLensIds) {
@@ -152,10 +225,39 @@ foreach ($sourceId in $requiredLensIds) {
   }
 }
 
+$bookRoot = Resolve-RepoPath -Path 'book'
+$commentaryFiles = Get-ChildItem -LiteralPath $bookRoot -File -Recurse -Filter '*-commentary.md'
+foreach ($commentaryFile in $commentaryFiles) {
+  $commentaryText = Get-Text -Path $commentaryFile.FullName
+  if (-not (Get-TolstoyLensBlock -Text $commentaryText)) {
+    continue
+  }
+
+  $sourceId = Get-FrontMatterField -Text $commentaryText -Field 'source_id'
+  if (-not $sourceId) {
+    $sourceId = $commentaryFile.BaseName -replace '-commentary$', ''
+  }
+
+  if (-not $registryLensIds.ContainsKey($sourceId)) {
+    $relativePath = $commentaryFile.FullName.Substring((Get-Location).Path.Length + 1)
+    throw "Commentary file $relativePath has a '## Tolstoy Lens' section, but source_id $sourceId is not listed in $RegistryPath"
+  }
+
+  $expectedPath = $commentaryPathsBySourceId[$sourceId]
+  if ($expectedPath -and $commentaryFile.FullName -ne $expectedPath) {
+    $relativePath = $commentaryFile.FullName.Substring((Get-Location).Path.Length + 1)
+    throw "Commentary file $relativePath has a '## Tolstoy Lens' section for $sourceId, but manifest part_ii_path points to $expectedPath"
+  }
+}
+
 [pscustomobject]@{
   RegistryPath = $RegistryPath
   CorridorPath = $CorridorPath
   LensCount = $lensMatches.Count
   RequiredLensCount = $requiredLensIds.Count
+  CommentaryLensCount = $commentaryFiles | Where-Object {
+    $text = Get-Text -Path $_.FullName
+    [bool](Get-TolstoyLensBlock -Text $text)
+  } | Measure-Object | Select-Object -ExpandProperty Count
   Status = 'causation_lens_valid'
 } | Format-List | Out-Host

@@ -110,6 +110,20 @@ External or opposing views, always sourced.
 
 ---
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Dostoevsky.
+- **Pressure field:** Russian Orthodox memory, imperial suffering, modern ideological fracture, and conscience, guilt, and inner necessity.
+- **Agency boundary:** Dostoevsky matters as novelist, religious thinker, and interpreter of the human heart, but his civilizational force becomes readable because Russian historical pressure gives his fiction a field of suffering, guilt, faith, empire, and ideological crisis to disclose.
+- **Where this supports Jiang:** It supports the lecture's use of Dostoevsky as a privileged entry into Russian civilization, especially the contrast between reason, law, heart, mercy, and spiritual redemption.
+- **Where this complicates Jiang:** It keeps Dostoevsky from becoming a complete explanation of Russia or present-day Russian politics, and keeps literary insight distinct from geopolitical diagnosis.
+- **Falsifier / limit:** Later review should narrow this lens if external literary, theological, or historical sources show that the commentary overstates Dostoevsky's representativeness or turns fiction into an overly direct civilizational key.
+- **Return path:** Use the `civ-53` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
+---
+
 ## Layer 5 - Synthesis & Cross-Volume Links
 
 - Connection to civ-52: Russia is introduced as a rival to the American empire of democracy and material acquisition.

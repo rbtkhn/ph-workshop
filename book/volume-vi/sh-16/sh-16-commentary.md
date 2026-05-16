@@ -49,6 +49,18 @@ This entry is in review and preserves the lecture's interpretive frame without t
 - Strategic behavior may reflect institutional weakness, personality, or accident as much as deep civilizational inheritance.
 - Literary, theological, or mythic material should not be treated as a sole cause of political outcomes.
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Tolstoy.
+- **Pressure field:** modern novelistic consciousness, critique of great-man history, distributed causation, and literary memory after epic.
+- **Agency boundary:** Tolstoy matters as the named literary endpoint for this corridor, but the routed function of `sh-16` is not to claim a dedicated Tolstoy lecture; it lets the project ask whether inherited forms, collective pressures, and distributed causation can be mapped without rebuilding great-man mythology.
+- **Where this supports Jiang:** It supports the commentary's treatment of the lecture as applied historical pressure, where inherited forms shape what actors and communities can plausibly do.
+- **Where this complicates Jiang:** It marks `sh-16` as a routed endpoint rather than direct evidence that the course itself fully develops Tolstoy's theory of history.
+- **Falsifier / limit:** This lens must be narrowed if later routing, transcript review, or external source work shows that `sh-16` cannot bear the Tolstoy endpoint function without overstating its lecture-level content.
+- **Return path:** Use the `sh-16` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
 ## Open Issues For Review
 
 - Identify which claims are descriptive, interpretive, predictive, or rhetorical.

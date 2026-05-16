@@ -15,7 +15,7 @@ corridors:
     description: "A broader literary author arc from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, with Tolstoy routed through the limited Secret History literary subset."
   - corridor: tolstoy-question
     title: "The Tolstoy Question"
-    status: in_review
+    status: routed_draft
     reader_path: corpus/cross-volume/tolstoy-question.md
     description: "A causation corridor that asks whether visible actors make history or become legible through deeper pressure systems."
 
