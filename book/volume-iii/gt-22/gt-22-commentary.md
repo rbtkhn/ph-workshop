@@ -48,6 +48,18 @@ This entry is in review and preserves the lecture's interpretive frame without t
 - Strategic behavior may reflect institutional weakness, personality, or accident as much as deep civilizational inheritance.
 - Literary, theological, or mythic material should not be treated as a sole cause of political outcomes.
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** the nation-state.
+- **Pressure field:** sovereign legitimacy strain, finance and debt pressure, eschatological mobilization, institutional trust decay, and crisis-state decision pressure.
+- **Agency boundary:** The apparent actor is not one person but a political form; states act through leaders and institutions, yet those actors inherit constraints from legitimacy, debt, publics, borders, and strategic commitments.
+- **Where this supports Jiang:** It supports the lecture's claim that Apocalypse pressure can make inherited political forms operational under crisis.
+- **Where this complicates Jiang:** It keeps the nation-state from becoming a single-minded actor and resists deterministic collapse language.
+- **Falsifier / limit:** Later evidence may show that state adaptation, institutional resilience, or local contingency explains more than the terminal-pressure frame.
+- **Return path:** Use the `gt-22` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
 ## Open Issues For Review
 
 - Identify which claims are descriptive, interpretive, predictive, or rhetorical.

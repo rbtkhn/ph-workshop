@@ -24,6 +24,7 @@
 - [docs/annotation-block.md](docs/annotation-block.md): public item template.
 - [docs/audience-profile.md](docs/audience-profile.md): internal audience segments, trust tensions, and product posture for corpus and `civ-ph` work.
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md): front-door causation essay; use it when a task asks what Predictive History is responding to in Tolstoy or great-man history.
+- [docs/tolstoy-lens.md](docs/tolstoy-lens.md): bounded commentary standard for Jiang Lens / Tolstoy Lens choreography and actor-pressure causation sections.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
 - [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md): public posture for Professor Jiang or course-team review; treat it as the canonical statement that the repo is unofficial, corrigible, and open to correction or supersession.
@@ -66,7 +67,7 @@
 - Treat Part One, Civilization, as the law-discovery semester; treat Part Two, Apocalypse, as the law-application semester.
 - Use `book/parts/civilization-to-apocalypse.md` when a task asks how the two parts connect.
 - Use `corpus/cross-volume/` and `registries/cross-volume-links.yaml` when the task asks for cross-volume inheritance, comparison, or a guided route across series.
-- Use `corpus/cross-volume/tolstoy-question.md` and `registries/causation-lenses.yaml` when the task asks whether named actors make history or reveal deeper pressure systems.
+- Use `docs/tolstoy-lens.md`, `corpus/cross-volume/tolstoy-question.md`, and `registries/causation-lenses.yaml` when the task asks whether named actors make history or reveal deeper pressure systems. Only add a Tolstoy Lens section when the source ID appears in the causation lens registry.
 - Treat civ-ph work as `map -> orient -> constrain -> validate -> route`.
 - Treat media-pack work as human-curated search/selection plus agent-structured museum labels, with link-first rights-safe status.
 - Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.

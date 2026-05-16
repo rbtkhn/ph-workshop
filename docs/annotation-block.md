@@ -100,9 +100,12 @@ Commentaries are the primary link-worthy study pages. A mature commentary should
 - key concepts
 - predictions / falsifiers
 - counter-readings
+- optional Tolstoy Lens when the source ID appears in `registries/causation-lenses.yaml`
 - `civ-ph` placement link
 - related routes
 - correction path
+
+When present, the Tolstoy Lens is a bounded commentary section, not a replacement for Jiang's argument. Use [docs/tolstoy-lens.md](tolstoy-lens.md) for the template, guardrails, and Jiang / Tolstoy choreography.
 
 ## Style
 

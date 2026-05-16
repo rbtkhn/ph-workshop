@@ -113,6 +113,20 @@ External or opposing views, always sourced.
 
 ---
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Paul of Tarsus.
+- **Pressure field:** messianic expectation, diaspora networks, Roman mobility and legal order, and Gentile-facing doctrinal portability.
+- **Agency boundary:** Paul matters as missionary, theologian, and organizer, but his transformation becomes historical because the movement can travel through Roman roads, law, cities, letters, and Gentile openings.
+- **Where this supports Jiang:** It supports the lecture's claim that Paul is a hinge between a local Jesus movement and a portable world religion.
+- **Where this complicates Jiang:** It bounds the high-risk Paul-as-spy thesis by asking which parts are actor agency and which parts are institutional or theological pressure.
+- **Falsifier / limit:** External textual, historical, and theological review may show that this lens compresses too many source layers or overstates Paul's singular agency.
+- **Return path:** Use the `civ-25` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
+---
+
 ## Layer 5 - Synthesis & Cross-Volume Links
 
 - Connection to `civ-24`: the Jesus chapter's source layers become a Pauline transformation problem.

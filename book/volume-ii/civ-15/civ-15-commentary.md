@@ -113,6 +113,20 @@ External or opposing views, always sourced.
 
 ---
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Julius Caesar.
+- **Pressure field:** late-republic land, debt, faction pressure, provincial conquest, military prestige, self-authored myth, and a republic unable to absorb imperial scale.
+- **Agency boundary:** Caesar matters as actor and narrator, but his self-myth becomes historically available because the republic is already strained by conquest, debt, and factional violence.
+- **Where this supports Jiang:** It reinforces the lecture's account of Caesar as mythmaker rather than merely battlefield commander.
+- **Where this complicates Jiang:** It keeps Caesar's genius from becoming a complete explanation of Rome's regime crisis.
+- **Falsifier / limit:** Later review should narrow this lens if the transcript or external sources show the commentary overstates structural pressure or underplays Caesar's contingent choices.
+- **Return path:** Use the `civ-15` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
+---
+
 ## Layer 5 - Synthesis & Cross-Volume Links
 
 - Connection to `civ-14`: Roman victory creates the social and political crisis out of which Caesar rises.

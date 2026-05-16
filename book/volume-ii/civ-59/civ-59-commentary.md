@@ -82,6 +82,18 @@ External or opposing views, always sourced.
 - Which claims require external verification before completion?
 - Which adjacent chapters confirm, revise, or limit the placement proposed here?
 ---
+## Tolstoy Lens
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Stalin.
+- **Pressure field:** Bolshevik organization, secret-police power, Soviet state terror, war mobilization, Russian nationalism, and twentieth-century ideological crisis.
+- **Agency boundary:** Stalin matters as organizer, operator, ruler, and moral agent, but his form of power becomes possible through revolutionary institutions, coercive machinery, party discipline, war pressure, and national mobilization.
+- **Where this supports Jiang:** It reinforces the lecture's account of Stalin as a world-historical actor whose agency works through organization, terror, and strategic pressure.
+- **Where this complicates Jiang:** It prevents Stalin's will or genius from becoming a sufficient explanation and keeps Soviet terror morally visible rather than softened by system pressure.
+- **Falsifier / limit:** This lens must be narrowed if external review shows the commentary overstates Stalin's strategic control, minimizes contingency, or blurs responsibility for terror.
+- **Return path:** Use the `civ-59` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
+---
 ## Layer 5 - Synthesis & Cross-Volume Links
 - Connection to civ-58: The nation-state chapter explains the political-religious form that Stalin adapts into Soviet nationalism.
 - Connection to civ-60: The American Empire finale follows by asking how postwar financial and military order replaced the nation-state world.

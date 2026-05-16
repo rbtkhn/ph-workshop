@@ -113,6 +113,20 @@ External or opposing views, always sourced.
 
 ---
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Octavian / Augustus.
+- **Pressure field:** Caesar's symbolic inheritance, civil-war exhaustion, republican legitimacy language, and imperial administrative need.
+- **Agency boundary:** Octavian's caution, violence, and political intelligence matter, but his settlement works because Rome already needs a form that can preserve republican language while organizing imperial power.
+- **Where this supports Jiang:** It strengthens the lecture's focus on Octavian converting Caesar's will and myth into durable authority.
+- **Where this complicates Jiang:** It keeps the Augustan settlement from becoming only a story of personal genius.
+- **Falsifier / limit:** Later review should narrow this lens if adjacent chapters or external sources show that contingency, elite bargains, or military force dominate the institutional-pressure reading.
+- **Return path:** Use the `civ-16` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
+---
+
 ## Layer 5 - Synthesis & Cross-Volume Links
 
 - Connection to `civ-15`: Caesar's myth becomes more powerful after death than during dictatorship.

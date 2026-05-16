@@ -48,6 +48,18 @@ This entry is in review and preserves the lecture's interpretive frame without t
 - Strategic behavior may reflect institutional weakness, personality, or accident as much as deep civilizational inheritance.
 - Literary, theological, or mythic material should not be treated as a sole cause of political outcomes.
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Trump-era crisis actors.
+- **Pressure field:** US-Iran pressure, Russia-Ukraine pressure, China-Pacific pressure, signaling, escalation, and miscalculation.
+- **Agency boundary:** Named leaders and officials matter as decision-makers, but live crisis also constrains them through theaters, alliances, domestic audiences, escalation ladders, and inherited strategic commitments.
+- **Where this supports Jiang:** It supports the lecture's reading of crisis actors as operating inside wider pressure systems rather than through personal whim alone.
+- **Where this complicates Jiang:** It keeps date-sensitive claims from becoming personality-centered prophecy or deterministic strategic law.
+- **Falsifier / limit:** Later events, archival evidence, or scholarly consensus may show that local contingency, institutional weakness, or accident explains more than the broad pressure model.
+- **Return path:** Use the `gt-21` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
 ## Open Issues For Review
 
 - Identify which claims are descriptive, interpretive, predictive, or rhetorical.

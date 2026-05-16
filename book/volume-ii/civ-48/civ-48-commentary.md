@@ -110,6 +110,20 @@ External or opposing views, always sourced.
 
 ---
 
+## Tolstoy Lens
+
+The Tolstoy Lens does not overrule Jiang's interpretation. It asks a second-order causation question beside it.
+
+- **Visible actor:** Napoleon.
+- **Pressure field:** revolutionary mobilization, mass army, talent promotion, nationalism, administrative state capacity, and imperial myth.
+- **Agency boundary:** Napoleon matters as military and mythic actor, but the Revolution gives him the army, bureaucracy, talent system, and national energy through which his agency can scale.
+- **Where this supports Jiang:** It reinforces the lecture's claim that Napoleon is impossible without the prior revolutionary and Robespierre phase.
+- **Where this complicates Jiang:** It prevents Napoleon's charisma or battlefield genius from standing in for the deeper revolutionary pressure field.
+- **Falsifier / limit:** Later review should narrow this lens if military contingency, coalition politics, or institutional history better explain the chapter than the revolution-to-myth pressure model.
+- **Return path:** Use the `civ-48` entry in `registries/causation-lenses.yaml` and the [Tolstoy Question corridor](../../../corpus/cross-volume/tolstoy-question.md).
+
+---
+
 ## Layer 5 - Synthesis & Cross-Volume Links
 
 - Connection to civ-47: Napoleon inherits the revolutionary field left by Robespierre and the Terror.
