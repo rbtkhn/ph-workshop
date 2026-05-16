@@ -13,6 +13,12 @@ Thank you for considering a contribution. This repository is a source-discipline
 
 - Preserve stable source IDs when known, such as `geo-01`, `vi-16`, or `es-13`.
 - Include original source URLs, publication dates, and video timestamps where practical.
+- Use the public surface vocabulary consistently:
+  - source items are the underlying Jiang videos, essays, interviews, or other sources
+  - source transcripts are source-text or transcript records when available
+  - commentaries are the main study surfaces
+  - civ-ph placement cards are compact civilizational orientation and re-entry pages
+  - Part One and Part Two refer only to the whole corpus structure, not individual source-surface files
 - Distinguish clearly between:
   - original source text
   - neutral summary
@@ -45,6 +51,8 @@ Use issues or pull requests for:
 - typos, formatting issues, or clarity improvements
 
 See [docs/corrections-policy.md](docs/corrections-policy.md) for the detailed correction workflow.
+
+Corrections or clarifications from Professor Jiang or the course team should be treated as high-priority source and governance feedback. This does not reduce the value of ordinary student or contributor corrections; it recognizes that original-source clarification can change source status, review status, rights boundaries, or student-facing interpretation. See [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md) for the public posture.
 
 ### New Annotations or Content
 

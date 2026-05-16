@@ -19,9 +19,9 @@ transcript_path: ./geo-07-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-07.md
 ---
 
-# Part II - Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi?
+# Commentary - Geo-Strategy #7: Who Killed Iranian President Ebrahim Raisi?
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

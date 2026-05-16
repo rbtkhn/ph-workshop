@@ -2,14 +2,14 @@
 
 This folder defines the Great Books chapter unit.
 
-For Great Books, each chapter is split into two files:
+For Great Books, each source item is represented by two main files:
 
-- Part I: `gb-XX-transcript.md`
-- Part II: `gb-XX-commentary.md`
+- Source transcript: `gb-XX-transcript.md`
+- Commentary: `gb-XX-commentary.md`
 
-Part I is fidelity-bearing. Its transcript body should preserve the transferred source wording exactly after normalization, even when the wording is contested, speculative, uncomfortable, or rhetorically forceful. Do not use interpretive guardrails to rewrite the transcript body.
+The source transcript is fidelity-bearing. Its transcript body should preserve the transferred source wording exactly after normalization, even when the wording is contested, speculative, uncomfortable, or rhetorically forceful. Do not use interpretive guardrails to rewrite the transcript body.
 
-Part II is interpretation-bearing. Apply guardrails there: status labels, neutral summaries, source-backed interpretive claims, counter-readings, limits, representation-not-endorsement, and explicit handling of uncertainty.
+The commentary is interpretation-bearing. Apply guardrails there: status labels, neutral summaries, source-backed interpretive claims, counter-readings, limits, representation-not-endorsement, and explicit handling of uncertainty.
 
 The Great Books commentary scaffold is literary and philosophical rather than Civilization-layered:
 
@@ -23,4 +23,4 @@ The Great Books commentary scaffold is literary and philosophical rather than Ci
 
 The first ten-chapter spine lives in `gb-01/` through `gb-10/`. `gb-01` through `gb-09` are in review after initial transfer-backed commentary analysis; `gb-10` is in review after direct public-channel import and needs transcript fidelity review.
 
-For chapter placement, use the derived civ-ph corpus in [corpus/civ-ph/](../../corpus/civ-ph/) and check each entry's `review_status`.
+For civ-ph placement, use the derived civ-ph corpus in [corpus/civ-ph/](../../corpus/civ-ph/) and check each entry's `review_status`.

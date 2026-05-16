@@ -29,9 +29,9 @@ exported_from_youtube_at: 2026-05-14
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
-# Part II - Great Books Commentary
+# Commentary - Great Books
 
-Part I is the full lecture transcript in gb-10-transcript.md. Part II uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the Part I transcript body.
+The source transcript is gb-10-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the source transcript body.
 
 ## Core Thesis & Reading Problem
 

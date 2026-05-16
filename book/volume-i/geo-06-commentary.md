@@ -19,9 +19,9 @@ transcript_path: ./geo-06-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-06.md
 ---
 
-# Part II - Geo-Strategy #6: America's Imperial Hubris
+# Commentary - Geo-Strategy #6: America's Imperial Hubris
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

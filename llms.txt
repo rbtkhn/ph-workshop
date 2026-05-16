@@ -1,13 +1,22 @@
 # Predictive History
 
 > A source-disciplined public study companion for Professor Jiang's Predictive History corpus.
-> Start with one chapter at a time. Use `chapter-manifest.yaml` to route to the canonical transcript pair, and use the docs below for trust, fidelity, and export rules.
+> Start with one source item at a time. Use `chapter-manifest.yaml` to route to the canonical source transcript, commentary, and civ-ph placement card, and use the docs below for trust, fidelity, and export rules.
 
 ## Start Here
 
 - [README.md](README.md): human-facing overview and contribution path.
+- [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md): Jiang-facing posture page for unofficial status, correction paths, and course-improvement signals.
 - [chapter-manifest.yaml](chapter-manifest.yaml): machine-readable chapter routing table.
 - [docs/repo-map.md](docs/repo-map.md): folder map and surface guide.
+
+## Surface Vocabulary
+
+- Source items are the underlying Jiang videos, essays, interviews, or other sources.
+- Source transcripts are source-text or transcript records when available.
+- Commentaries are the main study surfaces for thesis, claims, concepts, predictions, counter-readings, routes, limits, and correction paths.
+- civ-ph placement cards are compact civilizational orientation and re-entry pages.
+- Part One and Part Two refer only to the corpus architecture: Civilization and Apocalypse.
 
 ## Canonical Rules
 
@@ -17,6 +26,7 @@
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md): front-door causation essay; use it when a task asks what Predictive History is responding to in Tolstoy or great-man history.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
+- [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md): public posture for Professor Jiang or course-team review; treat it as the canonical statement that the repo is unofficial, corrigible, and open to correction or supersession.
 - [docs/internal-audit-substrate.md](docs/internal-audit-substrate.md): maintainer audit workflow and tracked health reports.
 - [docs/recursive-improvement-loops.md](docs/recursive-improvement-loops.md): internal quality loops for validation, audit, review queues, deepening, and revalidation.
 - [docs/youtube-transcript-workflow.md](docs/youtube-transcript-workflow.md): PH YouTube transcript layers, quote-grade boundaries, and skill routing.
@@ -25,13 +35,13 @@
 
 - [book/parts/](book/parts/): semester guides for Civilization and Apocalypse.
 - [book/parts/civilization-to-apocalypse.md](book/parts/civilization-to-apocalypse.md): transition essay from Civilization's law discovery to Apocalypse's pressure application.
-- [book/volume-i/](book/volume-i/): Geo-Strategy transcript and commentary chapters.
+- [book/volume-i/](book/volume-i/): Geo-Strategy source transcripts and commentaries.
 - [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and first sixty-chapter spine.
-- [book/volume-iii/](book/volume-iii/): Game Theory transcript and commentary chapters.
+- [book/volume-iii/](book/volume-iii/): Game Theory source transcripts and commentaries.
 - [book/volume-v/](book/volume-v/): Great Books chapter scaffold and first ten-chapter spine.
-- [book/volume-vi/](book/volume-vi/): Secret History transcript and commentary chapters.
-- [book/volume-ii/civ-01/](book/volume-ii/civ-01/): calibrated Civilization pilot chapter pair.
-- [corpus/civ-ph/](corpus/civ-ph/): derived chapter placements and return paths for calibrated and in-review units.
+- [book/volume-vi/](book/volume-vi/): Secret History source transcripts and commentaries.
+- [book/volume-ii/civ-01/](book/volume-ii/civ-01/): calibrated Civilization pilot source transcript and commentary.
+- [corpus/civ-ph/](corpus/civ-ph/): derived civ-ph placement cards and return paths for calibrated and in-review units.
 - [corpus/cross-volume/](corpus/cross-volume/): public guided routes across volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc.
 - [corpus/geo-strategy/](corpus/geo-strategy/): Geo-Strategy source pointers and public indices.
 - [corpus/game-theory/](corpus/game-theory/): Game Theory source pointers and public indices.

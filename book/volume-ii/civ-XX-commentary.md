@@ -24,11 +24,11 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
 
-# Part II - Civilization Commentary Template v1
+# Commentary - Civilization Template v1
 
 This file is the canonical Civilization commentary scaffold. Copy it when creating a real `civ-XX-commentary.md` chapter and keep the layer order stable.
 
-Part I lives in the companion transcript file. Part II should contain the multi-layer commentary structure below.
+The source transcript lives in the companion transcript file. The commentary should contain the multi-layer structure below.
 
 ## Layer 0 - Metadata & Quick Reference
 

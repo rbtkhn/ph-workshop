@@ -19,9 +19,9 @@ transcript_path: ./geo-01-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-01.md
 ---
 
-# Part II - Geo-Strategy #1: Iran's Strategy Matrix
+# Commentary - Geo-Strategy #1: Iran's Strategy Matrix
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

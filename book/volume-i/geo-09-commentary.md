@@ -19,9 +19,9 @@ transcript_path: ./geo-09-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-09.md
 ---
 
-# Part II - Geo-Strategy #9: Putin's War for the Soul of Russia
+# Commentary - Geo-Strategy #9: Putin's War for the Soul of Russia
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

@@ -27,5 +27,5 @@ This entry points to the chapter transcript in [book/volume-ii/civ-01/civ-01-tra
 
 ## Notes
 
-- Part I is the transcript pilot for this lecture.
-- Part II uses the Civilization multi-layer commentary scaffold.
+- The source transcript is the transcript pilot for this source item.
+- The commentary uses the Civilization multi-layer scaffold.

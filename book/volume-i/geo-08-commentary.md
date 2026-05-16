@@ -19,9 +19,9 @@ transcript_path: ./geo-08-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-08.md
 ---
 
-# Part II - Geo-Strategy #8: The Iran Trap
+# Commentary - Geo-Strategy #8: The Iran Trap
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

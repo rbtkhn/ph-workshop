@@ -19,9 +19,9 @@ transcript_path: ./geo-12-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-12.md
 ---
 
-# Part II - Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)
+# Commentary - Geo-Strategy #12 (END): Psychohistory (The Science of Imagining the Future)
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

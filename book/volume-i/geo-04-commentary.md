@@ -19,9 +19,9 @@ transcript_path: ./geo-04-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-04.md
 ---
 
-# Part II - Geo-Strategy #4: Saudi Arabia's Trump Card Against Iran
+# Commentary - Geo-Strategy #4: Saudi Arabia's Trump Card Against Iran
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

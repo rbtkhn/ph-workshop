@@ -19,9 +19,9 @@ transcript_path: ./geo-10-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-10.md
 ---
 
-# Part II - Geo-Strategy #10: Putin's Strategic Imagination
+# Commentary - Geo-Strategy #10: Putin's Strategic Imagination
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

@@ -27,9 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
 
-# Part II - Civilization Commentary
+# Commentary - Civilization
 
-Part I is the full lecture transcript in civ-56-transcript.md. Part II uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim Part I transcript body.
+The source transcript is civ-56-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 
 ## Layer 0 - Metadata & Quick Reference
 - Core thesis: the lecture frames Marx as the Hegelian inversion into dialectical materialism, capitalism diagnosis, alienation, class struggle, communism as secular prophecy, and a critique that religion, status, and meaning exceed economics.

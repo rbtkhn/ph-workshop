@@ -26,8 +26,8 @@ exported_from_strategy_codex_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
-# Part II - Civilization Commentary
-Part I is the full lecture transcript in civ-58-transcript.md. Part II uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim Part I transcript body.
+# Commentary - Civilization
+The source transcript is civ-58-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 ## Layer 0 - Metadata & Quick Reference
 - Core thesis: the lecture frames the nation-state as the final course setup: nationalism as political religion, industrialization, bourgeois property, urban alienation, Rousseau, romanticism, French and German nationalism, race science, eugenics, imperialism, totalitarianism, and Pax Americana.
 - Primary focus: nation-state, nationalism, state, nation, Protestant crisis of faith, capitalism, enlightenment, liberalism, modernism, industrial revolution, bourgeoisie, urbanization, alienation, game theory, Rousseau, general will, romanticism, French nationalism, German nationalism, Jewish question, Dreyfus affair, Darwin, race science, eugenics, imperialism, fascism, totalitarianism, Pax Americana, identity politics, immigration, and Trump-era backlash.

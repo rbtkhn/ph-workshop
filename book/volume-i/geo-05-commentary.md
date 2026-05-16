@@ -19,9 +19,9 @@ transcript_path: ./geo-05-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-05.md
 ---
 
-# Part II - Geo-Strategy #5: Why Trump Will Win (And Pick Nikki Haley as VP)
+# Commentary - Geo-Strategy #5: Why Trump Will Win (And Pick Nikki Haley as VP)
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

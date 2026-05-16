@@ -67,6 +67,6 @@ Use this pack before reading the transcript or commentary. It gives students a v
 ## Return Path
 
 - **civ-ph:** [geo-14](../civ-ph/geo-14.md)
-- **Transcript:** [Part I](../../book/volume-i/geo-14-transcript.md)
-- **Commentary:** [Part II](../../book/volume-i/geo-14-commentary.md)
+- **Source Transcript:** [Source Transcript](../../book/volume-i/geo-14-transcript.md)
+- **Commentary:** [Commentary](../../book/volume-i/geo-14-commentary.md)
 - **Source corpus:** [source entry](../../corpus/geo-strategy/geo-14.md)

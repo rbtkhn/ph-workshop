@@ -2,6 +2,15 @@
 
 Use this template for future public corpus items. V1 includes the template only; real items come later through manual pilot review.
 
+## Surface Vocabulary
+
+- **Source item**: the underlying Jiang video, essay, interview, or other source.
+- **Source transcript**: the source-text or transcript record for the source item when available.
+- **Commentary**: the main study surface for thesis, claims, concepts, predictions, counter-readings, routes, limits, and correction paths.
+- **civ-ph placement card**: the compact civilizational orientation and re-entry page.
+
+Use **Part One** and **Part Two** only for the whole corpus architecture, not for individual source surfaces.
+
 ```yaml
 ---
 source_id: geo-01
@@ -79,6 +88,21 @@ Optional. Link to a separate counter-reading or disagreement note when useful.
 
 Clearly label open uncertainties, transcript limitations, or interpretation risks.
 ```
+
+## Commentary Standard
+
+Commentaries are the primary link-worthy study pages. A mature commentary should include:
+
+- quick thesis
+- source transcript status
+- review status and rights limits
+- core claims
+- key concepts
+- predictions / falsifiers
+- counter-readings
+- `civ-ph` placement link
+- related routes
+- correction path
 
 ## Style
 

@@ -18,9 +18,9 @@ representation_not_endorsement: true
 transcript_path: ./geo-03-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-03.md
 ---
-# Part II - Geo-Strategy #3: How Empire Is Destroying America
+# Commentary - Geo-Strategy #3: How Empire Is Destroying America
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

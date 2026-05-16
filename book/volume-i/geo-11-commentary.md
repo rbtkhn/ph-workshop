@@ -19,9 +19,9 @@ transcript_path: ./geo-11-transcript.md
 corpus_path: ../../corpus/geo-strategy/geo-11.md
 ---
 
-# Part II - Geo-Strategy #11: The Second American Civil War
+# Commentary - Geo-Strategy #11: The Second American Civil War
 
-Part II is reserved for commentary and complementary material.
+This commentary is reserved for complementary study material.
 
 ## Commentary skeleton
 

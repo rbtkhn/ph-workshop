@@ -2,6 +2,15 @@
 
 This repo is docs-first and site-ready. Markdown files should remain readable on GitHub and easy to convert into a static site later.
 
+## Surface Vocabulary
+
+- **Source item**: the underlying Jiang video, essay, interview, or other source.
+- **Source transcript**: the source-text or transcript record when available.
+- **Commentary**: the main study surface for thesis, claims, concepts, predictions, counter-readings, routes, limits, and correction paths.
+- **civ-ph placement card**: the compact civilizational orientation and re-entry page.
+
+Use **Part One** and **Part Two** only for the whole corpus architecture: Civilization and Apocalypse.
+
 ```text
 .
 |-- README.md
@@ -151,7 +160,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
     |   |-- geo-09-commentary.md
     |   |-- geo-10-transcript.md
     |   |-- geo-10-commentary.md
-    |   `-- geo-01..geo-20 transcript/commentary/orientation files
+    |   `-- geo-01..geo-20 source transcripts, commentaries, and orientation files
     |-- volume-ii/
     |   |-- README.md
     |   `-- civ-01..civ-60/
@@ -207,7 +216,7 @@ The strategic registries are intentionally minimal in this pass. They provide st
 The repo-local Predictive History skill suite lives under both `.cursor/skills/` and `.codex/skills/` so future agents can load the same workflows in either surface.
 
 - `ph-transcript`: transcript acquisition, ASR audit, generated verbatim sync, exact-body-match checks, and quote-grade boundaries.
-- `ph-chapter`: one chapter pair plus manifest, source metadata, and review status wiring.
+- `ph-chapter`: one source transcript and commentary unit plus manifest, source metadata, and review status wiring.
 - `civ-ph`: civ-ph placement entries, orientation payload alignment, limits, and return paths.
 - `ph-cross-volume`: typed cross-volume corridors and edge registry work.
 - `ph-audit`: health checks, audit reports, high-risk queue, and next-action summaries.

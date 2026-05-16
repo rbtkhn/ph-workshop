@@ -24,5 +24,5 @@ This entry points to the chapter transcript in [book/volume-i/geo-01-transcript.
 
 ## Notes
 
-- Part I is the transcript-only migration for this lecture.
-- Part II is reserved for complementary material.
+- The source transcript is the transcript-only migration for this source item.
+- The commentary is reserved for complementary study material.

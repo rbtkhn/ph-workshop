@@ -26,8 +26,8 @@ exported_from_strategy_codex_at: 2026-05-13
 rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
-# Part II - Civilization Commentary
-Part I is the full lecture transcript in civ-60-transcript.md. Part II uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim Part I transcript body.
+# Commentary - Civilization
+The source transcript is civ-60-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 ## Layer 0 - Metadata & Quick Reference
 - Core thesis: the lecture closes the course by framing the American Empire through Bretton Woods, central banking, dollar reserve power, Pax Americana, financialization, Japan, China, easy money, military-industrial power, Ukraine, Iran, Trump, and a final return to imagination and love.
 - Primary focus: American Empire, Bretton Woods, dollar reserve currency, central banks, Bank for International Settlements, World Bank, IMF, Bank of England, Federal Reserve, Carroll Quigley, easy money, Pax Americana, Japan, Plaza Accord, Asian financial crisis, financialization, 2008 crisis, China, COVID lockdown, Xi Jinping, Putin, Ukraine, Iran, Israel, Trump, NATO, Peloponnesian War, Athens, empire, imagination, and love.

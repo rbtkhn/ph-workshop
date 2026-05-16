@@ -6,11 +6,22 @@ This repository organizes source metadata, study annotations, reading paths, cla
 
 If you are using an LLM or coding agent, start with [llms.txt](llms.txt). That file points to the canonical reading path without repeating the whole repository map here.
 
+## Surface Vocabulary
+
+- **Source item** - the underlying Jiang video, essay, interview, or other source.
+- **Source transcript** - the source-text or transcript record for a source item when available.
+- **Commentary** - the main study surface for thesis, claims, concepts, predictions, counter-readings, routes, limits, and correction paths.
+- **civ-ph placement card** - the compact civilizational orientation and re-entry page.
+
+Use **Part One** and **Part Two** only for the whole corpus architecture: Part One is Civilization, and Part Two is Apocalypse.
+
 ## Status
 
 This is an independent educational and research project. It is not an official archive, not a substitute for Professor Jiang's original videos or essays, and not endorsed by Professor Jiang unless explicitly stated later.
 
 Representation is not endorsement. The repository documents and analyzes claims in the corpus; it does not automatically affirm every claim, prediction, interpretation, or framing.
+
+For Professor Jiang or course-team review, see [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md).
 
 License status is pending. Until a license is added, do not assume broad reuse rights for repository contents or source material.
 
@@ -29,7 +40,7 @@ Included now:
 - the full Geo-Strategy spine for `geo-01` through `geo-20`
 - the Civilization Volume II scaffold and multi-layer commentary template
 - the first Civilization spine from `civ-01` through `civ-60`, with `civ-02` through `civ-60` in review
-- the `civ-ph` derived study corpus for calibrated and in-review chapter placement and re-entry
+- the `civ-ph` derived study corpus for calibrated and in-review placement cards and re-entry
 - the Great Books Volume V spine from `gb-01` through `gb-10`, with all ten units in review
 - the full Game Theory spine for `gt-01` through `gt-22`
 - the full Secret History spine for `sh-01` through `sh-28`, with `sh-11`, `sh-16`, `sh-17`, and `sh-18` preserved as dual-role Civilization support nodes
@@ -62,12 +73,13 @@ The repository should help readers:
 ## Public Surfaces
 
 - [llms.txt](llms.txt) - compact AI-facing entry point
+- [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md) - unofficial study companion posture, correction path, and course-improvement signal guide
 - [docs/chapter-index.md](docs/chapter-index.md) - readable chapter catalog
 - [docs/series-roadmap.md](docs/series-roadmap.md) - series-level planning and batch order
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md) - front-door essay on Predictive History as a response to Tolstoy's causation problem
 - [corpus/](corpus/) - public source items and annotations
-- [corpus/civ-ph/](corpus/civ-ph/) - derived study placements for calibrated and in-review chapters
+- [corpus/civ-ph/](corpus/civ-ph/) - derived civ-ph placement cards for calibrated and in-review source items
 - [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc
 - [corpus/world-war/](corpus/world-war/) - Apocalypse pressure corridors
 - [corpus/media-packs/](corpus/media-packs/) - human-curated, agent-structured orientation media packs
@@ -81,12 +93,12 @@ The repository should help readers:
 - [book/](book/) - public chapter files and reader-facing material
 - [book/parts/](book/parts/) - semester guides for Civilization and Apocalypse
 - [book/parts/civilization-to-apocalypse.md](book/parts/civilization-to-apocalypse.md) - transition essay from law discovery to applied pressure reading
-- [book/volume-i/](book/volume-i/) - Geo-Strategy chapter pairs
+- [book/volume-i/](book/volume-i/) - Geo-Strategy source transcripts and commentaries
 - [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first sixty-chapter spine
-- [book/volume-iii/](book/volume-iii/) - Game Theory chapter pairs
+- [book/volume-iii/](book/volume-iii/) - Game Theory source transcripts and commentaries
 - [book/volume-v/](book/volume-v/) - Great Books chapter scaffold and first ten-chapter spine
-- [book/volume-vi/](book/volume-vi/) - Secret History chapter pairs
-- [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - calibrated Civilization pilot chapter pair
+- [book/volume-vi/](book/volume-vi/) - Secret History source transcripts and commentaries
+- [book/volume-ii/civ-01/](book/volume-ii/civ-01/) - calibrated Civilization pilot source transcript and commentary
 - [docs/annotation-block.md](docs/annotation-block.md) - required annotation format
 - [docs/source-status.md](docs/source-status.md) - status ladder for source and transcript handling
 - [docs/corrections-policy.md](docs/corrections-policy.md) - how corrections are reported and reviewed

@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-44
 public_slug: civ-44-the-spanish-conquest-of-the-new-world
 title: "Civilization #44: The Spanish Conquest of the New World"
@@ -27,9 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
 
-# Part II - Civilization Commentary
+# Commentary - Civilization
 
-Part I is the full lecture transcript in civ-44-transcript.md. Part II uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim Part I transcript body.
+The source transcript is civ-44-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 
 ## Layer 0 - Metadata & Quick Reference
 

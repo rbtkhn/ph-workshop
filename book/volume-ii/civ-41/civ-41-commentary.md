@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-41
 public_slug: civ-41-dante-s-quiet-revolution
 title: "Civilization #41: Dante's Quiet Revolution"
@@ -27,9 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
 
-# Part II - Civilization Commentary
+# Commentary - Civilization
 
-Part I is the full lecture transcript in civ-41-transcript.md. Part II uses the multi-layer scaffold below.
+The source transcript is civ-41-transcript.md. This commentary uses the multi-layer scaffold below.
 
 ## Layer 0 - Metadata & Quick Reference
 

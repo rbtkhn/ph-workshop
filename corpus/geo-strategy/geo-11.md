@@ -24,5 +24,5 @@ This entry points to the chapter transcript in [geo-11-transcript.md](../../book
 
 ## Notes
 
-- Part I is the transcript-first migration for this lecture.
-- Part II is reserved for complementary material.
+- The source transcript is the transcript-first migration for this source item.
+- The commentary is reserved for complementary study material.

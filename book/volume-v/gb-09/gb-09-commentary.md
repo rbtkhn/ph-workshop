@@ -30,9 +30,9 @@ representation_not_endorsement: true
 strategy_codex_analysis_path: ../../../strategy-codex/codex/predictive-history/analysis/4EZUrGPgAos-great-books-09-analysis.md
 strategy_codex_evidence_pack_path: ../../../strategy-codex/codex/predictive-history/evidence-packs/gb-ch09.md
 ---
-# Part II - Great Books Commentary
+# Commentary - Great Books
 
-Part I is the full lecture transcript in gb-09-transcript.md. Part II uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim Part I transcript body.
+The source transcript is gb-09-transcript.md. This commentary uses a Great Books-native scaffold. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 
 ## Core Thesis & Reading Problem
 

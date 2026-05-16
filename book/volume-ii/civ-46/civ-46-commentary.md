@@ -1,4 +1,4 @@
-﻿---
+---
 source_id: civ-46
 public_slug: civ-46-the-revolution-of-reason
 title: "Civilization #46: The Revolution of Reason"
@@ -27,9 +27,9 @@ rights_review: required_before_long_excerpt
 representation_not_endorsement: true
 ---
 
-# Part II - Civilization Commentary
+# Commentary - Civilization
 
-Part I is the full lecture transcript in civ-46-transcript.md. Part II uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim Part I transcript body.
+The source transcript is civ-46-transcript.md. This commentary uses the multi-layer scaffold below. Interpretive guardrails apply to this commentary surface, not by rewriting the verbatim source transcript body.
 
 ## Layer 0 - Metadata & Quick Reference
 

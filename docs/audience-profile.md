@@ -81,7 +81,7 @@ Needs:
 - importable context
 - first-good-question prompts
 - JSON/Markdown portability
-- no transcript/commentary leakage
+- no source transcript or commentary leakage
 - clear provenance boundaries
 
 ### Skeptical Analyst
