@@ -32,10 +32,17 @@ Read it as a strong but high-risk civilizational chapter. It is most useful when
 
 This entry is in review after initial commentary analysis. The placement is strong, but Putin/Ukraine claims, Russian exceptionalism, Orthodox contrast, ethnic-cleansing language, civilizational-war framing, and Russia-America comparison must remain bounded as lecture interpretations pending external review.
 
+## Agency And Necessity
+
+- **Visible actor:** Dostoevsky.
+- **Underlying pressure:** Russian Orthodox memory, imperial suffering, modern ideological fracture, and questions of conscience make Dostoevsky a literary pressure point.
+- **Tolstoy question:** Does Dostoevsky explain Russia, or does Russian historical pressure become readable through Dostoevsky's fiction?
+- **Limit:** Do not turn literature into a complete explanation of present-day Russian politics.
+
 ## Return Path
 
 Return here when later chapters discuss Russia, Dostoevsky, Orthodoxy, fatalism, Ukraine, sovereignty, civilizational conflict, Russian literature, or the contrast between material empire and spiritual identity.
 
 ## Cross-Volume Corridor
 
-This unit is part of the [Homer to Tolstoy arc](../cross-volume/homer-to-tolstoy.md). Use that corridor to treat Dostoevsky as the routed endpoint of the current literary arc, with Tolstoy named as the intended terminal author but not yet a typed endpoint.
+This unit is part of the [Homer to Tolstoy arc](../cross-volume/homer-to-tolstoy.md). Use that corridor to move from Shakespeare into Dostoevsky and then toward the routed Tolstoy endpoint in `sh-16`.

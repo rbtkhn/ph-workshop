@@ -19,7 +19,7 @@ representation_not_endorsement: true
 
 ## Core Strategic Thesis
 
-Game Theory #21: World War Trump belongs to the Game Theory spine of World War, where actors, incentives, signaling, and escalation make the laws of history operational. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
+Game Theory #21: World War Trump belongs to the Game Theory spine of Apocalypse, where actors, incentives, signaling, and escalation make the laws of history operational. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
 
 ## Neutral Lecture Summary
 

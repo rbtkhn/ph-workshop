@@ -1,6 +1,6 @@
 # civ-ph Index
 
-civ-ph is the Predictive History orientation and re-entry corpus. It uses one public card shape across both semesters: Civilization discovers the laws of history, and World War sees those laws applied.
+civ-ph is the Predictive History orientation and re-entry corpus. It uses one public card shape across both semesters: Civilization discovers the laws of history, and Apocalypse sees those laws applied.
 
 ## Operating Pipeline
 

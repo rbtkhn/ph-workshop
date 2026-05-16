@@ -1,0 +1,92 @@
+version: 1
+
+lenses:
+  - source_id: civ-15
+    visible_actor: Julius Caesar
+    underlying_pressures:
+      - late-republic land, debt, and faction pressure
+      - military prestige and provincial conquest
+      - self-authored political myth
+      - republican inability to absorb imperial scale
+    causation_question: "Does Caesar overthrow the republic, or does republican crisis make Caesar's self-myth historically available?"
+    caution: "Do not reduce the late republic to biography or treat Caesar's own narration as neutral evidence."
+
+  - source_id: civ-16
+    visible_actor: Octavian / Augustus
+    underlying_pressures:
+      - Caesar's symbolic inheritance
+      - civil-war exhaustion
+      - republican legitimacy language
+      - imperial administrative need
+    causation_question: "Does Octavian create empire by will, or does he discover the form that lets Roman power survive its republican crisis?"
+    caution: "Keep Octavian's agency distinct from the deeper regime-conversion pressure."
+
+  - source_id: civ-25
+    visible_actor: Paul of Tarsus
+    underlying_pressures:
+      - messianic expectation
+      - diaspora networks
+      - Roman mobility and legal order
+      - Gentile-facing doctrinal portability
+    causation_question: "Does Paul found Christianity, or does he become the hinge through which a local Jesus movement becomes portable?"
+    caution: "Keep the lecture's strongest political and spy-thesis claims visibly bounded."
+
+  - source_id: civ-48
+    visible_actor: Napoleon
+    underlying_pressures:
+      - revolutionary mobilization
+      - mass army and talent promotion
+      - nationalism
+      - imperial myth
+    causation_question: "Does Napoleon master the Revolution, or does the Revolution become legible through Napoleon?"
+    caution: "Do not reduce the French Revolution sequence to biography or charisma."
+
+  - source_id: civ-53
+    visible_actor: Dostoevsky
+    underlying_pressures:
+      - Russian Orthodox memory
+      - imperial suffering
+      - modern ideological fracture
+      - conscience, guilt, and inner necessity
+    causation_question: "Does Dostoevsky explain Russia, or does Russian historical pressure become readable through Dostoevsky's fiction?"
+    caution: "Do not turn literature into a complete explanation of present-day Russian politics."
+
+  - source_id: sh-16
+    visible_actor: Tolstoy
+    underlying_pressures:
+      - modern novelistic consciousness
+      - critique of great-man history
+      - distributed causation
+      - literary memory after epic
+    causation_question: "If Tolstoy dissolves history into innumerable pressures, can Predictive History map those pressures without restoring great-man mythology?"
+    caution: "SH-16 is a routed Tolstoy endpoint, not a dedicated Tolstoy lecture."
+
+  - source_id: civ-59
+    visible_actor: Stalin
+    underlying_pressures:
+      - Bolshevik organization
+      - secret-police power
+      - Soviet state terror
+      - war mobilization and Russian nationalism
+    causation_question: "Does Stalin bend the twentieth century by personal will, or does Soviet system pressure make Stalin's form of power possible?"
+    caution: "Do not use system pressure to soften moral responsibility for terror."
+
+  - source_id: gt-21
+    visible_actor: Trump-era crisis actors
+    underlying_pressures:
+      - US-Iran pressure
+      - Russia-Ukraine pressure
+      - China-Pacific pressure
+      - signaling, escalation, and miscalculation
+    causation_question: "In live crisis, are named leaders causes, signals, or operators inside deeper strategic pressure?"
+    caution: "Treat date-sensitive and forecast-bearing claims as in-review."
+
+  - source_id: gt-22
+    visible_actor: the nation-state
+    underlying_pressures:
+      - sovereign legitimacy strain
+      - finance and debt pressure
+      - eschatological mobilization
+      - institutional trust decay
+    causation_question: "What if the apparent actor is not a person but the nation-state form under terminal constraint?"
+    caution: "Keep structural diagnosis separate from deterministic collapse claims."

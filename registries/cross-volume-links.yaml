@@ -13,6 +13,11 @@ corridors:
     terminal_author: Tolstoy
     terminal_status: routed_via_secret_history_subset
     description: "A broader literary author arc from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, with Tolstoy routed through the limited Secret History literary subset."
+  - corridor: tolstoy-question
+    title: "The Tolstoy Question"
+    status: in_review
+    reader_path: corpus/cross-volume/tolstoy-question.md
+    description: "A causation corridor that asks whether visible actors make history or become legible through deeper pressure systems."
 
 edges:
   - from: civ-07
@@ -131,3 +136,102 @@ edges:
     claim: "The literary arc can now reach Tolstoy through SH-16's Anna Karenina coda, which returns from Greek epic memory to the modern novel's spiritual and psychological fracture."
     strength: medium
     guardrail: "SH-16 is source-backed but not a dedicated Tolstoy lecture; treat Tolstoy here as a routed terminal coda, not as complete Tolstoy coverage."
+
+  - from: civ-07
+    to: gb-02
+    relation_type: causation_question
+    corridor: tolstoy-question
+    theme: "Heroic agency and civilizational memory"
+    claim: "The causation question begins where heroic agency becomes civilizational memory and can be tested through close reading of Homer."
+    strength: strong
+    guardrail: "Do not treat Homeric heroic agency as a simple historical theory of causation."
+
+  - from: gb-02
+    to: gb-05
+    relation_type: actor_to_pressure
+    corridor: tolstoy-question
+    theme: "From Achilles to Odysseus"
+    claim: "The question shifts from glory and rage toward adaptive intelligence, return, and constrained action."
+    strength: strong
+    guardrail: "Keep Achilles and Odysseus as distinct literary problems rather than one model of agency."
+
+  - from: gb-05
+    to: civ-15
+    relation_type: actor_to_pressure
+    corridor: tolstoy-question
+    theme: "From epic actor to political author"
+    claim: "The route moves from literary agency into Caesar's self-authored political centrality under late-republic pressure."
+    strength: medium
+    guardrail: "Treat this as a study path, not a direct Homer-to-Caesar causal inheritance."
+
+  - from: civ-15
+    to: civ-16
+    relation_type: myth_to_system
+    corridor: tolstoy-question
+    theme: "Personal myth into regime form"
+    claim: "Caesar's personal myth becomes material that Octavian converts into a durable imperial settlement."
+    strength: strong
+    guardrail: "Keep Caesar's self-narration and Octavian's institutional conversion analytically distinct."
+
+  - from: civ-16
+    to: civ-25
+    relation_type: myth_to_system
+    corridor: tolstoy-question
+    theme: "Imperial form and portable religion"
+    claim: "Roman institutional scale prepares the question of how Paul becomes a hinge for portable religious transmission."
+    strength: medium
+    guardrail: "Do not collapse Roman infrastructure into a complete explanation of Christian formation."
+
+  - from: civ-25
+    to: civ-48
+    relation_type: myth_to_system
+    corridor: tolstoy-question
+    theme: "Transmission and revolutionary myth"
+    claim: "The route moves from religious transmission into the modern problem of revolutionary energy gathered into a named actor."
+    strength: medium
+    guardrail: "Use this as a causation comparison, not as a claim that Paul and Napoleon perform the same historical role."
+
+  - from: civ-48
+    to: civ-53
+    relation_type: necessity
+    corridor: tolstoy-question
+    theme: "Napoleon and inner necessity"
+    claim: "After Napoleon, the question turns inward through Dostoevsky, where history is read through conscience, suffering, and spiritual compulsion."
+    strength: strong
+    guardrail: "Do not treat Dostoevsky as a complete explanation of Russian political history."
+
+  - from: civ-53
+    to: sh-16
+    relation_type: return
+    corridor: tolstoy-question
+    theme: "Dostoevsky into Tolstoy"
+    claim: "The route reaches Tolstoy as the explicit challenge to great-man history and the literary return to distributed causation."
+    strength: medium
+    guardrail: "SH-16 is a routed endpoint, not a full Tolstoy lecture."
+
+  - from: sh-16
+    to: civ-59
+    relation_type: necessity
+    corridor: tolstoy-question
+    theme: "Tolstoy's challenge under system terror"
+    claim: "Stalin forces the Tolstoy question into the twentieth century: actor, system, terror, ideology, and war mobilization cannot be separated cleanly."
+    strength: strong
+    guardrail: "Do not use system pressure to excuse or soften moral responsibility for terror."
+
+  - from: civ-59
+    to: gt-21
+    relation_type: actor_to_pressure
+    corridor: tolstoy-question
+    theme: "From historical actor to live strategic pressure"
+    claim: "The route moves from Stalin as historical actor-system problem into live game-theoretic pressure among named leaders and theaters."
+    strength: strong
+    guardrail: "Treat current-event and forecast-bearing claims as date-sensitive and in-review."
+
+  - from: gt-21
+    to: gt-22
+    relation_type: necessity
+    corridor: tolstoy-question
+    theme: "Actor-system pressure into state-form constraint"
+    claim: "The endpoint asks whether the actor under pressure is now the nation-state form itself rather than any single leader."
+    strength: strong
+    guardrail: "Keep structural diagnosis separate from deterministic collapse claims."

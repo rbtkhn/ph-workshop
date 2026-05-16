@@ -69,7 +69,7 @@ $requiredFiles = @(
 )
 
 foreach ($file in $requiredFiles) {
-  Assert-FileExists -Path $file -Context 'World War part surface'
+  Assert-FileExists -Path $file -Context 'Apocalypse part surface'
 }
 
 foreach ($corridor in @(
@@ -82,7 +82,7 @@ foreach ($corridor in @(
   'eschatology',
   'media-technology'
 )) {
-  Assert-FileExists -Path "corpus/world-war/$corridor.md" -Context "World War corridor $corridor"
+  Assert-FileExists -Path "corpus/world-war/$corridor.md" -Context "Apocalypse corridor $corridor"
 }
 
 $resolvedManifestPath = Resolve-RepoPath -Path $ManifestPath

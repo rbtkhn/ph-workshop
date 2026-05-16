@@ -32,6 +32,13 @@ Read it as a chapter about inheritance, political theater, and institutional dis
 
 This entry is in review after initial commentary analysis. The frame is strong because it explains the birth of empire, but Octavian's propaganda, Antony's choices, and the constitutional settlement require careful final source review.
 
+## Agency And Necessity
+
+- **Visible actor:** Octavian / Augustus.
+- **Underlying pressure:** Caesar's symbolic inheritance, civil-war exhaustion, republican legitimacy language, and imperial administrative need converge around Octavian.
+- **Tolstoy question:** Does Octavian create empire by will, or does he discover the form that lets Roman power survive its republican crisis?
+- **Limit:** Keep Octavian's agency distinct from the deeper regime-conversion pressure.
+
 ## Return Path
 
 Return here when later chapters need the Macedon-to-Rome hinge, the movement from Greek cultural formation into imperial carriers, or the shift from conquest to memory. For close reading, move from this placement entry to the source transcript, then use the companion commentary for source-backed claims, concepts, predictions, and limits.

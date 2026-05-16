@@ -1,6 +1,6 @@
 # Volume III: Game Theory
 
-Volume III is part of the World War semester. It applies the laws discovered in Civilization to actors, incentives, escalation, strategy, and live pressure systems.
+Volume III is part of the Apocalypse semester. It applies the laws discovered in Civilization to actors, incentives, escalation, strategy, and live pressure systems.
 
 ## Chapters
 

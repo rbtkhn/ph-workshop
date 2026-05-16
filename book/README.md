@@ -11,17 +11,18 @@ Part I is governed by transcript fidelity: preserve the source wording rather th
 The book is also organized into two semester-scale parts:
 
 - [Civilization](parts/civilization/README.md): discover the laws of history.
-- [World War](parts/world-war/README.md): see the laws applied.
+- [From Civilization To Apocalypse](parts/civilization-to-apocalypse.md): transition from law discovery into pressure reading.
+- [Apocalypse](parts/world-war/README.md): see the laws applied.
 
-Volume I contains Geo-Strategy, one of the World War application spines.
+Volume I contains Geo-Strategy, one of the Apocalypse application spines.
 
 Volume II is scaffolded separately for Civilization. It uses the same Part I / Part II split, but Part II commentary follows the multi-layer template in [volume-ii/README.md](volume-ii/README.md).
 
-Volume III contains Game Theory, the central World War application spine.
+Volume III contains Game Theory, the central Apocalypse application spine.
 
 Volume V is scaffolded separately for Great Books. It uses the same Part I / Part II split, but Part II commentary follows the literary-philosophical template in [volume-v/README.md](volume-v/README.md).
 
-Volume VI contains Secret History. It belongs to World War by default, while `sh-11`, `sh-16`, `sh-17`, and `sh-18` also support the Civilization literary and imagination spine.
+Volume VI contains Secret History. It belongs to Apocalypse by default, while `sh-11`, `sh-16`, `sh-17`, and `sh-18` also support the Civilization literary and imagination spine.
 
 Future priorities:
 
@@ -33,5 +34,5 @@ Future priorities:
 - Game Theory `gt-01` through `gt-22`
 - Secret History `sh-01` through `sh-28`
 - Great Books Volume V scaffold and the `gb-01` through `gb-10` in-review spine
-- civ-ph derived placements across the routed Civilization and World War spines
+- civ-ph derived placements across the routed Civilization and Apocalypse spines
 - a compact review packet suitable for showing to Professor Jiang after standards plus a small pilot

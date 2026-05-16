@@ -1,6 +1,6 @@
 # Chapter Index
 
-This index is generated from chapter-manifest.yaml. It routes both Predictive History semesters: Civilization discovers the laws of history; World War sees those laws applied.
+This index is generated from chapter-manifest.yaml. It routes both Predictive History semesters: Civilization discovers the laws of history; Apocalypse sees those laws applied.
 
 | ID | Part | Series | Title | Transcript | Commentary | civ-ph |
 | --- | --- | --- | --- | --- | --- | --- |

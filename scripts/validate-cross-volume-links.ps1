@@ -40,7 +40,7 @@ function Get-ManifestBlock {
   return $match.Value
 }
 
-$allowedRelationTypes = @('scale_shift', 'inheritance', 'revision', 'transmutation', 'return')
+$allowedRelationTypes = @('scale_shift', 'inheritance', 'revision', 'transmutation', 'return', 'causation_question', 'actor_to_pressure', 'myth_to_system', 'necessity')
 $allowedStrengths = @('strong', 'medium', 'light')
 $requiredEdgeFields = @('from', 'to', 'relation_type', 'corridor', 'theme', 'claim', 'strength', 'guardrail')
 

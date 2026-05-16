@@ -69,6 +69,10 @@ Invoke-Step -Name 'Validate cross-volume links' -Script {
   & .\scripts\validate-cross-volume-links.ps1
 }
 
+Invoke-Step -Name 'Validate causation lens' -Script {
+  & .\scripts\validate-causation-lens.ps1
+}
+
 Invoke-Step -Name 'Validate World War part' -Script {
   & .\scripts\validate-world-war-part.ps1
 }
@@ -125,6 +129,7 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     'registries/theaters.yaml',
     'registries/forecasts.yaml',
     'registries/cross-volume-links.yaml',
+    'registries/causation-lenses.yaml',
     'book/README.md',
     'book/parts',
     'book/volume-i',

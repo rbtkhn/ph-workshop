@@ -16,7 +16,7 @@ License status is pending. Until a license is added, do not assume broad reuse r
 
 ## V1 Scope
 
-The repository is now organized as a one-year course in two parts. Part One, **Civilization**, discovers the laws of history through Civilization, Great Books, and the literary spine from Homer to Tolstoy. Part Two, **World War**, sees those laws applied through Geo-Strategy, Game Theory, Secret History, and pressure corridors.
+The repository is now organized as a one-year course in two parts. Part One, **Civilization**, discovers the laws of history through Civilization, Great Books, and the literary spine from Homer to Tolstoy. Part Two, **Apocalypse**, sees those laws applied through Geo-Strategy, Game Theory, Secret History, and pressure corridors.
 
 Included now:
 
@@ -33,10 +33,11 @@ Included now:
 - the Great Books Volume V spine from `gb-01` through `gb-10`, with all ten units in review
 - the full Game Theory spine for `gt-01` through `gt-22`
 - the full Secret History spine for `sh-01` through `sh-28`, with `sh-11`, `sh-16`, `sh-17`, and `sh-18` preserved as dual-role Civilization support nodes
-- the Civilization and World War part guides under `book/parts/`
+- the Civilization and Apocalypse part guides under `book/parts/`
 - the first human-curation-ready media-pack calibration set
-- the first World War pressure corridors and minimal strategic registries
+- the first Apocalypse pressure corridors and minimal strategic registries
 - the first cross-volume corridors, Homer to Dante and Homer to Tolstoy, linking Civilization, Great Books, and selected Secret History study routes
+- the first Tolstoy causation lens, framing Predictive History as pressure reading rather than great-man history
 
 Not included yet:
 
@@ -64,10 +65,11 @@ The repository should help readers:
 - [docs/chapter-index.md](docs/chapter-index.md) - readable chapter catalog
 - [docs/series-roadmap.md](docs/series-roadmap.md) - series-level planning and batch order
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
+- [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md) - front-door essay on Predictive History as a response to Tolstoy's causation problem
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/civ-ph/](corpus/civ-ph/) - derived study placements for calibrated and in-review chapters
 - [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc
-- [corpus/world-war/](corpus/world-war/) - World War pressure corridors
+- [corpus/world-war/](corpus/world-war/) - Apocalypse pressure corridors
 - [corpus/media-packs/](corpus/media-packs/) - human-curated, agent-structured orientation media packs
 - [corpus/game-theory/](corpus/game-theory/) - Game Theory corpus pointers for `gt-01` through `gt-22`
 - [corpus/great-books/](corpus/great-books/) - Great Books corpus pointers for `gb-01` through `gb-10`
@@ -75,8 +77,10 @@ The repository should help readers:
 - [corpus/geo-strategy/](corpus/geo-strategy/) - Geo-Strategy corpus pointers for `geo-01` through `geo-20`
 - [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-60`
 - [registries/](registries/) - current source index, cross-volume edge registry, and future cross-reference registries
+- [registries/causation-lenses.yaml](registries/causation-lenses.yaml) - actor-pressure pairs for the Tolstoy question
 - [book/](book/) - public chapter files and reader-facing material
-- [book/parts/](book/parts/) - semester guides for Civilization and World War
+- [book/parts/](book/parts/) - semester guides for Civilization and Apocalypse
+- [book/parts/civilization-to-apocalypse.md](book/parts/civilization-to-apocalypse.md) - transition essay from law discovery to applied pressure reading
 - [book/volume-i/](book/volume-i/) - Geo-Strategy chapter pairs
 - [book/volume-ii/](book/volume-ii/) - Civilization chapter scaffold and first sixty-chapter spine
 - [book/volume-iii/](book/volume-iii/) - Game Theory chapter pairs

@@ -27,7 +27,9 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |       `-- ph-youtube-transcript/
 |-- docs/
 |   |-- annotation-block.md
+|   |-- audience-profile.md
 |   |-- chapter-index.md
+|   |-- predictive-history-after-tolstoy.md
 |   |-- series-roadmap.md
 |   |-- corrections-policy.md
 |   |-- export-from-strategy-codex.md
@@ -77,7 +79,8 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |   |-- README.md
 |   |   |-- index.md
 |   |   |-- homer-to-dante.md
-|   |   `-- homer-to-tolstoy.md
+|   |   |-- homer-to-tolstoy.md
+|   |   `-- tolstoy-question.md
 |   `-- civ-ph/
 |       |-- README.md
 |       |-- index.md
@@ -90,6 +93,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |-- registries/
 |   |-- README.md
 |   |-- actors.yaml
+|   |-- causation-lenses.yaml
 |   |-- theaters.yaml
 |   |-- forecasts.yaml
 |   `-- cross-volume-links.yaml
@@ -107,6 +111,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 |   |-- audit-review-queue.ps1
 |   |-- audit-review-sprint.ps1
 |   |-- validate-all.ps1
+|   |-- validate-causation-lens.ps1
 |   |-- validate-civilization-spine.ps1
 |   |-- validate-cross-volume-links.ps1
 |   |-- validate-geo-strategy-spine.ps1
@@ -122,6 +127,7 @@ This repo is docs-first and site-ready. Markdown files should remain readable on
 `-- book/
     |-- README.md
     |-- parts/
+    |   |-- civilization-to-apocalypse.md
     |   |-- civilization/
     |   `-- world-war/
     |-- volume-i/

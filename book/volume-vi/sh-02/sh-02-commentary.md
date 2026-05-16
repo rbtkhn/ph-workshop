@@ -19,7 +19,7 @@ representation_not_endorsement: true
 
 ## Core Strategic Thesis
 
-Secret History #2: How Societies Collapse belongs to Secret History inside World War, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
+Secret History #2: How Societies Collapse belongs to Secret History inside Apocalypse, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
 
 ## Neutral Lecture Summary
 

@@ -1,6 +1,6 @@
-# World War Index
+# Apocalypse Index
 
-World War gathers the applied spines of Predictive History. The units remain source-routed through exact transcripts, strategic commentary, civ-ph cards, and orientation payloads.
+Apocalypse gathers the applied spines of Predictive History. The units remain source-routed through exact transcripts, strategic commentary, civ-ph cards, and orientation payloads.
 
 ## Spines
 

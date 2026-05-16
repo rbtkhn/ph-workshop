@@ -32,6 +32,13 @@ Read it as a high-leverage but high-risk chapter. Paul's role is central to the 
 
 This entry is in review after initial commentary analysis. The frame is strong because Paul is a major transformation point, but the spy thesis, Acts reading, James/Ebionite claims, and long-range Catholic claims require substantial final source review.
 
+## Agency And Necessity
+
+- **Visible actor:** Paul of Tarsus.
+- **Underlying pressure:** Messianic expectation, diaspora networks, Roman mobility, and Gentile-facing doctrinal portability make Paul's hinge role historically powerful.
+- **Tolstoy question:** Does Paul found Christianity, or does he become the hinge through which a local Jesus movement becomes portable?
+- **Limit:** Keep the lecture's strongest political and spy-thesis claims visibly bounded.
+
 ## Return Path
 
 Return here when later chapters need the Hebrew Bible to Pauline Christianity formation arc, the movement from scripture and exile into messianism, or the distinction between historical, literary, theological, and institutional layers. For close reading, move from this placement entry to the source transcript, then use the companion commentary for source-backed claims, concepts, predictions, and limits.

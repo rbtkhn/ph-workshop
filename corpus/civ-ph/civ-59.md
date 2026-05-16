@@ -22,5 +22,10 @@ Read it as a high-risk interpretation of power, not as praise to be adopted or h
 - World War II, lend-lease, Mother Russia, and Putin analogies make this a major capstone bridge.
 ## Limits of the Frame
 This entry is in review after initial commentary analysis. The placement is strong, but Stalin praise, Soviet terror claims, poisoning claims, secret-police sponsorship, Islamic-extremism analogies, World War II counterfactuals, Hitler/Nazi interpretation, Putin analogies, and claims that purges improved military flexibility require especially strong limits and external review.
+## Agency And Necessity
+- **Visible actor:** Stalin.
+- **Underlying pressure:** Bolshevik organization, secret-police power, Soviet terror, war mobilization, and Russian nationalism make Stalin's power more than personal biography.
+- **Tolstoy question:** Does Stalin bend the twentieth century by personal will, or does Soviet system pressure make Stalin's form of power possible?
+- **Limit:** Do not use system pressure to soften moral responsibility for terror.
 ## Return Path
 Return here when later material discusses Soviet communism, Stalin, state terror, World War II, Russia, Putin, Ukraine, revolutionary organization, nationalism, secret police, or the conversion of ideology into absolute state power.

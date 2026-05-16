@@ -20,7 +20,7 @@ representation_not_endorsement: true
 
 ## Core Strategic Thesis
 
-Secret History #18: Thus Spoke Zarathustra belongs to Secret History inside World War, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. It also supports the Civilization literary and imagination spine, so it should be read as a bridge between discovery and application. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
+Secret History #18: Thus Spoke Zarathustra belongs to Secret History inside Apocalypse, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. It also supports the Civilization literary and imagination spine, so it should be read as a bridge between discovery and application. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
 
 ## Neutral Lecture Summary
 

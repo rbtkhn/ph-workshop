@@ -13,6 +13,8 @@
 
 - [docs/source-status.md](docs/source-status.md): source, transcript, annotation, review, and fidelity vocabulary.
 - [docs/annotation-block.md](docs/annotation-block.md): public item template.
+- [docs/audience-profile.md](docs/audience-profile.md): internal audience segments, trust tensions, and product posture for corpus and `civ-ph` work.
+- [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md): front-door causation essay; use it when a task asks what Predictive History is responding to in Tolstoy or great-man history.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
 - [docs/internal-audit-substrate.md](docs/internal-audit-substrate.md): maintainer audit workflow and tracked health reports.
@@ -21,7 +23,8 @@
 
 ## Canonical Content
 
-- [book/parts/](book/parts/): semester guides for Civilization and World War.
+- [book/parts/](book/parts/): semester guides for Civilization and Apocalypse.
+- [book/parts/civilization-to-apocalypse.md](book/parts/civilization-to-apocalypse.md): transition essay from Civilization's law discovery to Apocalypse's pressure application.
 - [book/volume-i/](book/volume-i/): Geo-Strategy transcript and commentary chapters.
 - [book/volume-ii/](book/volume-ii/): Civilization chapter scaffold and first sixty-chapter spine.
 - [book/volume-iii/](book/volume-iii/): Game Theory transcript and commentary chapters.
@@ -39,6 +42,7 @@
 - [corpus/media-packs/](corpus/media-packs/): visual/source orientation packs; use before transcript or commentary when the task asks what students should see first.
 - [registries/sources.md](registries/sources.md): current source registry entries.
 - [registries/cross-volume-links.yaml](registries/cross-volume-links.yaml): typed edges for cross-volume corridors.
+- [registries/causation-lenses.yaml](registries/causation-lenses.yaml): actor-pressure pairs for the Tolstoy question.
 - [docs/chapter-index.md](docs/chapter-index.md): human-readable chapter catalog.
 - [docs/series-roadmap.md](docs/series-roadmap.md): series-level planning and next-batch order.
 - [reports/](reports/): internal tracked audit snapshots for spine health, civ-ph health, review queue, and next actions.
@@ -49,8 +53,10 @@
 
 - Default to one chapter at a time.
 - Use `civ_ph_path` from `chapter-manifest.yaml` when the task asks for placement, orientation, or re-entry framing; check `review_status` before treating a civ-ph entry as calibrated.
-- Treat Part One, Civilization, as the law-discovery semester; treat Part Two, World War, as the law-application semester.
+- Treat Part One, Civilization, as the law-discovery semester; treat Part Two, Apocalypse, as the law-application semester.
+- Use `book/parts/civilization-to-apocalypse.md` when a task asks how the two parts connect.
 - Use `corpus/cross-volume/` and `registries/cross-volume-links.yaml` when the task asks for cross-volume inheritance, comparison, or a guided route across series.
+- Use `corpus/cross-volume/tolstoy-question.md` and `registries/causation-lenses.yaml` when the task asks whether named actors make history or reveal deeper pressure systems.
 - Treat civ-ph work as `map -> orient -> constrain -> validate -> route`.
 - Treat media-pack work as human-curated search/selection plus agent-structured museum labels, with link-first rights-safe status.
 - Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.

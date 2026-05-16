@@ -22,7 +22,7 @@ representation_not_endorsement: true
 
 ## Source Position
 
-This source entry routes geo-17 into the World War semester of Predictive History. Part Two applies historical laws through strategic actors, pressure systems, escalation, ideology, and date-sensitive claims.
+This source entry routes geo-17 into the Apocalypse semester of Predictive History. Part Two applies historical laws through strategic actors, pressure systems, escalation, ideology, and date-sensitive claims.
 
 ## Routed Surfaces
 

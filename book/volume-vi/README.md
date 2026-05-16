@@ -1,6 +1,6 @@
 # Volume VI: Secret History
 
-Volume VI is the Secret History spine of the World War semester. It reads hidden inheritance, myth, ideology, and imagination as operational forces in modern conflict.
+Volume VI is the Secret History spine of the Apocalypse semester. It reads hidden inheritance, myth, ideology, and imagination as operational forces in modern conflict.
 
 ## Dual-Role Nodes
 

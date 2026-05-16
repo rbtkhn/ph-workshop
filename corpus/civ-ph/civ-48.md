@@ -32,6 +32,13 @@ Read it as a strong transition from revolutionary purity to imperial organizatio
 
 This entry is in review after initial commentary analysis. The placement is strong, but the Robespierre-to-Napoleon causal chain, talent-promotion model, great-leader framing, nationalism claims, and modern political analogies must remain bounded pending external review.
 
+## Agency And Necessity
+
+- **Visible actor:** Napoleon.
+- **Underlying pressure:** Revolutionary mobilization, mass army, talent promotion, nationalism, and imperial myth make Napoleon legible as more than an individual commander.
+- **Tolstoy question:** Does Napoleon master the Revolution, or does the Revolution become legible through Napoleon?
+- **Limit:** Do not reduce the French Revolution sequence to biography or charisma.
+
 ## Return Path
 
 Return here when later chapters discuss empire, nationalism, charisma, talent systems, post-revolutionary order, political myth, or the relation between French Revolution energy and modern imperial statecraft.

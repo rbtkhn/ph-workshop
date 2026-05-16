@@ -1,4 +1,4 @@
-# World War Pressure Corridor Index
+# Apocalypse Pressure Corridor Index
 
 | Corridor | Focus |
 | --- | --- |

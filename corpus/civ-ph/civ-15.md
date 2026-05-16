@@ -32,6 +32,13 @@ Read Caesar here as both actor and author. The lecture asks how a political figu
 
 This entry is in review after initial commentary analysis. The frame is strong because Caesar sits at the republican-imperial hinge, but Caesar's self-narration, reform claims, and assassination motives need final source-layer separation.
 
+## Agency And Necessity
+
+- **Visible actor:** Julius Caesar.
+- **Underlying pressure:** Late-republic land, debt, faction, conquest, and memory pressure make Caesar's self-authored centrality possible.
+- **Tolstoy question:** Does Caesar overthrow the republic, or does republican crisis make Caesar's self-myth historically available?
+- **Limit:** Do not reduce the late republic to Caesar's biography or treat Caesar's own narration as neutral evidence.
+
 ## Return Path
 
 Return here when later chapters need the Macedon-to-Rome hinge, the movement from Greek cultural formation into imperial carriers, or the shift from conquest to memory. For close reading, move from this placement entry to the source transcript, then use the companion commentary for source-backed claims, concepts, predictions, and limits.

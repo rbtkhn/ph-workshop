@@ -20,7 +20,7 @@ representation_not_endorsement: true
 
 ## Core Strategic Thesis
 
-Secret History #16: The Big Bang of Greek Civilization belongs to Secret History inside World War, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. It also serves as the routed Tolstoy endpoint for the literary spine, while remaining a Secret History lecture rather than a dedicated Tolstoy lecture. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
+Secret History #16: The Big Bang of Greek Civilization belongs to Secret History inside Apocalypse, where hidden memory, ideology, imagination, and deep narrative inheritance shape strategic action. It also serves as the routed Tolstoy endpoint for the literary spine, while remaining a Secret History lecture rather than a dedicated Tolstoy lecture. The working thesis is that the lecture should be read as applied historical pressure: a way to see which inherited forms become active in crisis.
 
 ## Neutral Lecture Summary
 
