@@ -6,7 +6,7 @@ Predictive History now has three public motions through the same source body.
 - `ph-apo` stress-tests the grammar: how those forms return under live pressure, escalation, finance, media, war, and sacred mobilization.
 - `ph-mus` gives curated contact: artifacts, maps, texts, places, music, documents, diagrams, and institutions that let a reader encounter the pattern before argument hardens.
 
-The choreography is not a content migration. The editorial source remains this repository. The public distribution layer is `rbtkhn/ph-civilization`. The museum artifact archive remains outside Git in the local vault and shared cloud workspace.
+The choreography is not a content migration. The editorial source remains this repository. The public distribution layer is `rbtkhn/ph-civ`. The museum artifact archive remains outside Git in the local vault and shared cloud workspace.
 
 ## Reader Motion
 
