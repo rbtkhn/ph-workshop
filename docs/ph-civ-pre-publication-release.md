@@ -1,24 +1,24 @@
 # ph-civ Pre-Publication Release
 
-`ph-civ` should be populated only after the public shape has been rehearsed here. This document defines the pre-publication scaffold for `pilot-001`; it does not approve export.
+`ph-civ` should be updated only after the public shape has been rehearsed here. This document defines the pre-publication scaffold for the public context-pack batch `pilot-001`; it does not approve export.
 
-The source of truth remains `predictive-history`. The future public context pack is `rbtkhn/ph-civ`.
+The source of truth remains `ph-workshop`. The public edition repo is `rbtkhn/ph-civilization`, with `ph-civ` as the public Civilization surface and package name.
 
 ## First Batch Posture
 
-`pilot-001` is defined in [registries/ph-civ-export-manifest.yaml](../registries/ph-civ-export-manifest.yaml). It uses the current eight choreography routes because they already exercise all three surfaces:
+`pilot-001` is defined in [registries/ph-civ-export-manifest.yaml](../registries/ph-civ-export-manifest.yaml). It uses the current eight choreography routes because they already exercise all three public context-pack surfaces:
 
 - `ph-civ`: historical and literary formation
 - `ph-apo`: pressure application
 - `ph-mus`: museum exhibit manifests
 
-Every route remains blocked until its own `public_export_status` permits export. Batch membership is rehearsal, not approval.
+Every context-pack route remains blocked until its own `public_export_status` permits export. Batch membership is rehearsal, not approval.
 
 ## What This Is Not
 
-The public context pack is not:
+The public context pack layer is not:
 
-- a mirror of `predictive-history`
+- a mirror of `ph-workshop`
 - a transcript archive
 - a commentary archive
 - a museum binary store
@@ -26,11 +26,11 @@ The public context pack is not:
 - an official course repository
 - a vector dump or AI-only substrate
 
-It should be a small, source-routed context layer that helps students and AI systems ask better first questions.
+It should be a small, source-routed context layer that helps students and AI systems ask better first questions. The broader `ph-civ` public edition repo may still contain full publishable text approved through the workshop.
 
 ## Future Public Front Door
 
-Before any population, the future `ph-civ` repo should have:
+Before any context-pack population, the public edition repo should have:
 
 - `README.md` explaining the three surfaces and unofficial status
 - `llms.txt` as the machine-facing entry path
@@ -57,4 +57,4 @@ Use the scaffold validator and dry-run report before changing any route status:
 .\scripts\report-ph-civ-export-diff.ps1
 ```
 
-The expected current result is simple: `pilot-001` exists, all eight routes remain `not_ready`, and no route is approved for public population.
+The expected current result is simple: `pilot-001` exists, all eight context-pack routes remain `not_ready`, and no route is approved for public context-pack population.

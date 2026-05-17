@@ -77,7 +77,7 @@
 - Treat civ-ph work as `map -> orient -> constrain -> validate -> route`.
 - Treat media-pack work as Predictive History Museum work: humans curate artifacts and provide taste, cultural judgment, proportion, emotional calibration, and final responsibility; agents structure payloads, write museum labels, validate links, and preserve link-first rights-safe status.
 - Predictive History Museum artifacts must be stored in both a local museum vault and shared document cloud workspace; GitHub stores manifests and generated pages, not large binary artifacts.
-- Treat `ph-civ` as not populated until a route passes the publication gate. If a route is paused, use the empty-state language from `docs/ph-civ-pre-publication-release.md`.
+- Treat `ph-civ` public edition and context-pack updates as gated by route approval. If a context-pack route is paused, use the empty-state language from `docs/ph-civ-pre-publication-release.md`.
 - Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.
 - Treat `ph-youtube-transcript` as a compatibility alias for `ph-transcript`.
 - Expand to adjacent chapters only for comparison tasks.

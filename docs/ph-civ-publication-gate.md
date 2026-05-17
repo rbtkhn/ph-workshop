@@ -1,8 +1,8 @@
 # ph-civ Publication Gate
 
-`predictive-history` is the editorial workshop and source of truth. `ph-civ` is the future public context pack. Nothing should be copied, generated, or exported into `ph-civ` merely because it exists in this repository.
+`ph-workshop` is the editorial workshop and source of truth. `ph-civ` is the public edition repo: it may contain the full publishable Predictive History text plus a smaller public context pack. Nothing should be copied, generated, or exported into `ph-civ` merely because it exists in this repository.
 
-The publication gate exists to keep the public repo from hardening provisional editorial choices. A route becomes exportable only when it has passed public-facing review, rights boundaries, and validator coverage.
+The publication gate exists to keep the public repo from hardening provisional editorial choices. Public text and context-pack routes become exportable only when they have passed public-facing review, rights boundaries, and validator coverage.
 
 ## Gate Status
 
@@ -15,11 +15,11 @@ Each route in [registries/ph-choreography.yaml](../registries/ph-choreography.ya
 
 `museum_status` and `public_export_status` are separate. A `curated_draft` museum exhibit may be useful inside the workshop while still being blocked from public export.
 
-The first named rehearsal batch lives in [registries/ph-civ-export-manifest.yaml](../registries/ph-civ-export-manifest.yaml). That manifest defines `pilot-001`, but batch membership does not approve export.
+The first named context-pack rehearsal batch lives in [registries/ph-civ-export-manifest.yaml](../registries/ph-civ-export-manifest.yaml). That manifest defines `pilot-001`, but batch membership does not approve export.
 
 ## Gate Requirements
 
-A route should not become `approved` or `exported` unless it has:
+A context-pack route should not become `approved` or `exported` unless it has:
 
 - a stable chapter route in the choreography registry
 - a public-safe civ-ph orientation card
