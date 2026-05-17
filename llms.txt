@@ -27,6 +27,7 @@
 - [docs/predictive-history-museum.md](docs/predictive-history-museum.md): canonical Predictive History Museum storage and bidder contract; URL-only artifacts are insufficient.
 - [docs/ph-choreography.md](docs/ph-choreography.md): public-surface choreography for `ph-civ`, `ph-apo`, and `ph-mus`; use it to route between historical formation, pressure application, and museum encounter.
 - [docs/ph-civ-publication-gate.md](docs/ph-civ-publication-gate.md): export gate; `ph-civ` population remains paused until route-level status permits export.
+- [docs/ph-civ-new-chat-open.md](docs/ph-civ-new-chat-open.md): fresh-chat opening protocol for `ph-civ` population readiness, candidate review, and no-export boundaries.
 - [docs/ph-civ-pre-publication-release.md](docs/ph-civ-pre-publication-release.md): pre-publication scaffold for `pilot-001`, public front-door requirements, and empty states.
 - [docs/tolstoy-lens.md](docs/tolstoy-lens.md): bounded commentary standard for Jiang Lens / Tolstoy Lens choreography and actor-pressure causation sections.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
@@ -78,7 +79,8 @@
 - Treat media-pack work as Predictive History Museum work: humans curate artifacts and provide taste, cultural judgment, proportion, emotional calibration, and final responsibility; agents structure payloads, write museum labels, validate links, and preserve link-first rights-safe status.
 - Predictive History Museum artifacts must be stored in both a local museum vault and shared document cloud workspace; GitHub stores manifests and generated pages, not large binary artifacts.
 - Treat `ph-civ` public edition and context-pack updates as gated by route approval. If a context-pack route is paused, use the empty-state language from `docs/ph-civ-pre-publication-release.md`.
-- Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.
+- Use the repo-local skill suite by task: `ph-open`, `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.
+- Use `ph-open` at the start of a new chat preparing `ph-civ` population work; run `scripts/ph-civ-open.ps1` and do not populate `ph-civ` unless route-level status is `approved` or `exported`.
 - Treat `ph-youtube-transcript` as a compatibility alias for `ph-transcript`.
 - Expand to adjacent chapters only for comparison tasks.
 - Treat chronology as the primary navigation axis and topic paths as secondary.

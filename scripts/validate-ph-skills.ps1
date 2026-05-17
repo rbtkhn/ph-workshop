@@ -39,6 +39,7 @@ function Assert-Text {
 }
 
 $canonicalSkills = @(
+  'ph-open',
   'ph-transcript',
   'ph-chapter',
   'civ-ph',
@@ -77,6 +78,17 @@ if ($Failures.Count -eq 0) {
   $skillText = @{}
   foreach ($skill in $allSkills) {
     $skillText[$skill] = Get-Text -Path (Resolve-RepoPath ".cursor/skills/$skill/SKILL.md")
+  }
+
+  foreach ($needle in @(
+    'scripts/ph-civ-open.ps1',
+    'candidate',
+    'approved',
+    'exported',
+    'Do not copy transcripts',
+    'ph-workshop'
+  )) {
+    Assert-Text -Label 'ph-open' -Text $skillText['ph-open'] -Needle $needle
   }
 
   foreach ($needle in @(

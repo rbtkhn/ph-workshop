@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH Open"
+  short_description: "Fresh-chat bootstrap for ph-civ readiness"
+  default_prompt: "Use $ph-open to open Predictive History workshop state and summarize ph-civ population readiness."
+
+policy:
+  allow_implicit_invocation: true

@@ -20,6 +20,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |-- CHANGELOG.md
 |-- .cursor/
 |   `-- skills/
+|       |-- ph-open/
 |       |-- ph-transcript/
 |       |-- ph-chapter/
 |       |-- civ-ph/
@@ -28,6 +29,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |       `-- ph-youtube-transcript/
 |-- .codex/
 |   `-- skills/
+|       |-- ph-open/
 |       |-- ph-transcript/
 |       |-- ph-chapter/
 |       |-- civ-ph/
@@ -40,6 +42,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |   |-- chapter-index.md
 |   |-- predictive-history-after-tolstoy.md
 |   |-- predictive-history-museum.md
+|   |-- ph-civ-new-chat-open.md
 |   |-- series-roadmap.md
 |   |-- corrections-policy.md
 |   |-- export-from-strategy-codex.md
@@ -132,6 +135,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |   |-- validate-orientation.ps1
 |   |-- validate-civ-ph.ps1
 |   |-- validate-ph-skills.ps1
+|   |-- ph-civ-open.ps1
 |   |-- validate-transcript-skill.ps1
 |   `-- validate-transcript-fidelity.ps1
 `-- book/
@@ -217,6 +221,7 @@ The strategic registries are intentionally minimal in this pass. They provide st
 The repo-local Predictive History skill suite lives under both `.cursor/skills/` and `.codex/skills/` so future agents can load the same workflows in either surface.
 
 - `ph-transcript`: transcript acquisition, ASR audit, generated verbatim sync, exact-body-match checks, and quote-grade boundaries.
+- `ph-open`: fresh-chat bootstrap for `ph-civ` population readiness, candidate routes, gate status, and no-export boundaries.
 - `ph-chapter`: one source transcript and commentary unit plus manifest, source metadata, and review status wiring.
 - `civ-ph`: civ-ph placement entries, orientation payload alignment, limits, and return paths.
 - `ph-cross-volume`: typed cross-volume corridors and edge registry work.
