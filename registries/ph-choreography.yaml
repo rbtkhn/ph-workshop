@@ -15,14 +15,14 @@ routes:
   - source_id: civ-07
     surface: ph-civ
     museum_status: curated_draft
-    public_export_status: not_ready
+    public_export_status: candidate
     claim_boundaries:
       - orientation
       - interpretive
       - historical_claim
       - rights_sensitive
       - artifact_manifest
-    readiness_note: "Public export is paused until the ph-civ publication gate, rights boundary, and package contract are approved."
+    readiness_note: "Candidate review has started for a public ph-civ bridge rehearsal; export remains blocked until final public-facing review, rights boundary, and package contract approval."
     card_path: corpus/civ-ph/civ-07.md
     transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
     commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
