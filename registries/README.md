@@ -6,6 +6,7 @@ The active typed registries are:
 
 - [cross-volume-links.yaml](cross-volume-links.yaml), which supports public guided corridors under [corpus/cross-volume/](../corpus/cross-volume/).
 - [causation-lenses.yaml](causation-lenses.yaml), which supports the Tolstoy question by pairing visible actors with underlying pressure systems.
+- [ph-choreography.yaml](ph-choreography.yaml), which routes the first `ph-civ`, `ph-apo`, and `ph-mus` public-surface calibration batch.
 
 Possible registries:
 

@@ -14,6 +14,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Game Theory | Complete through `gt-22` | Central Apocalypse application spine with exact transcripts, strategic commentary, civ-ph cards, and orientation payloads. |
 | Great Books | First ten-chapter spine present | Volume V lives in `book/volume-v/`; `gb-01` through `gb-09` are in review after initial transfer-backed commentary analysis, and `gb-10` is in review after direct public-channel import. |
 | Predictive History Museum | Calibration set present | Human-curated, agent-structured chapter exhibits live under `corpus/media-packs/`; the target end state is one exhibit per chapter across Predictive History: Civilization and Predictive History: Apocalypse. |
+| ph public surfaces | First choreography registry present | `registries/ph-choreography.yaml` routes the first `ph-civ`, `ph-apo`, and `ph-mus` calibration batch without requiring full museum coverage. |
 | Interviews | Pending | Planned future series; no public chapter batch yet. |
 | Essays | Pending | Planned future series; no public chapter batch yet. |
 

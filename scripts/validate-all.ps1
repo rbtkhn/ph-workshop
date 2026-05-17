@@ -81,6 +81,10 @@ Invoke-Step -Name 'Validate media packs' -Script {
   & .\scripts\validate-media-packs.ps1
 }
 
+Invoke-Step -Name 'Validate PH choreography' -Script {
+  & .\scripts\validate-ph-choreography.ps1
+}
+
 Invoke-Step -Name 'Validate PH skills' -Script {
   & .\scripts\validate-ph-skills.ps1
 }
@@ -130,6 +134,7 @@ Invoke-Step -Name 'Scan public surfaces for internal terminology' -Script {
     'registries/forecasts.yaml',
     'registries/cross-volume-links.yaml',
     'registries/causation-lenses.yaml',
+    'registries/ph-choreography.yaml',
     'book/README.md',
     'book/parts',
     'book/volume-i',

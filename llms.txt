@@ -25,6 +25,7 @@
 - [docs/audience-profile.md](docs/audience-profile.md): internal audience segments, trust tensions, and product posture for corpus and `civ-ph` work.
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md): front-door causation essay; use it when a task asks what Predictive History is responding to in Tolstoy or great-man history.
 - [docs/predictive-history-museum.md](docs/predictive-history-museum.md): canonical Predictive History Museum storage and bidder contract; URL-only artifacts are insufficient.
+- [docs/ph-choreography.md](docs/ph-choreography.md): public-surface choreography for `ph-civ`, `ph-apo`, and `ph-mus`; use it to route between historical formation, pressure application, and museum encounter.
 - [docs/tolstoy-lens.md](docs/tolstoy-lens.md): bounded commentary standard for Jiang Lens / Tolstoy Lens choreography and actor-pressure causation sections.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.

@@ -1,0 +1,94 @@
+# Predictive History public-surface choreography registry.
+#
+# This registry maps the first public museum calibration exhibits across:
+# - ph-civ: Civilization-facing pattern formation
+# - ph-apo: Apocalypse-facing pressure application
+# - ph-mus: museum exhibit encounter
+#
+# It is intentionally partial. Missing chapters do not fail validation until
+# they claim a museum exhibit.
+
+routes:
+  - source_id: civ-07
+    surface: ph-civ
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/civ-07.md
+    transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
+    commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
+    museum_exhibit_path: corpus/media-packs/civ-07.md
+    museum_payload_path: book/volume-ii/civ-07/civ-07-media.yaml
+    what_changes_here: "Homer becomes a civilizational memory system: heroic action is no longer just story, but a grammar of honor, violence, and inherited imagination."
+
+  - source_id: civ-29
+    surface: ph-civ
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/civ-29.md
+    transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
+    commentary_path: book/volume-ii/civ-29/civ-29-commentary.md
+    museum_exhibit_path: corpus/media-packs/civ-29.md
+    museum_payload_path: book/volume-ii/civ-29/civ-29-media.yaml
+    what_changes_here: "Dante turns inherited sacred order into navigable imaginative architecture, making the inner life of civilization visible as a structured journey."
+
+  - source_id: civ-51
+    surface: ph-civ
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/civ-51.md
+    transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
+    commentary_path: book/volume-ii/civ-51/civ-51-commentary.md
+    museum_exhibit_path: corpus/media-packs/civ-51.md
+    museum_payload_path: book/volume-ii/civ-51/civ-51-media.yaml
+    what_changes_here: "Shakespeare becomes an imperial language machine: stage, speech, legitimacy, and expansion begin to share one imaginative field."
+
+  - source_id: gb-02
+    surface: ph-civ
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/gb-02.md
+    transcript_path: book/volume-v/gb-02/gb-02-transcript.md
+    commentary_path: book/volume-v/gb-02/gb-02-commentary.md
+    museum_exhibit_path: corpus/media-packs/gb-02.md
+    museum_payload_path: book/volume-v/gb-02/gb-02-media.yaml
+    what_changes_here: "Homer becomes not only a historical source but a tool for inventing the human as a literary, moral, and political subject."
+
+  - source_id: gb-09
+    surface: ph-civ
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/gb-09.md
+    transcript_path: book/volume-v/gb-09/gb-09-transcript.md
+    commentary_path: book/volume-v/gb-09/gb-09-commentary.md
+    museum_exhibit_path: corpus/media-packs/gb-09.md
+    museum_payload_path: book/volume-v/gb-09/gb-09-media.yaml
+    what_changes_here: "Dante shifts from civilizational landmark to close-reading engine: the poem becomes a machine for sorting desire, guilt, punishment, and ascent."
+
+  - source_id: geo-14
+    surface: ph-apo
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/geo-14.md
+    transcript_path: book/volume-i/geo-14-transcript.md
+    commentary_path: book/volume-i/geo-14-commentary.md
+    museum_exhibit_path: corpus/media-packs/geo-14.md
+    museum_payload_path: book/volume-i/geo-14-media.yaml
+    what_changes_here: "Geography becomes operational pressure: chokepoints, nuclear infrastructure, proxies, and platforms make strategic escalation legible."
+
+  - source_id: gt-16
+    surface: ph-apo
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/gt-16.md
+    transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
+    commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
+    museum_exhibit_path: corpus/media-packs/gt-16.md
+    museum_payload_path: book/volume-iii/gt-16/gt-16-media.yaml
+    what_changes_here: "Game theory turns the same historical grammar into an incentive field: shipping, energy, deterrence, and narrative become pressure variables."
+    civilization_roots:
+      - civ-31
+
+  - source_id: sh-28
+    surface: ph-apo
+    museum_status: curated_draft
+    card_path: corpus/civ-ph/sh-28.md
+    transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
+    commentary_path: book/volume-vi/sh-28/sh-28-commentary.md
+    museum_exhibit_path: corpus/media-packs/sh-28.md
+    museum_payload_path: book/volume-vi/sh-28/sh-28-media.yaml
+    what_changes_here: "Secret History turns infrastructure into symbolic pressure: finance, networks, nuclear power, and sacred geography become a contested system of meaning."
+    civilization_roots:
+      - civ-58

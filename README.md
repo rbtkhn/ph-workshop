@@ -79,6 +79,7 @@ The repository should help readers:
 - [docs/repo-map.md](docs/repo-map.md) - intended folder structure
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md) - front-door essay on Predictive History as a response to Tolstoy's causation problem
 - [docs/predictive-history-museum.md](docs/predictive-history-museum.md) - storage, folder, metadata, and bidder contract for the Predictive History Museum
+- [docs/ph-choreography.md](docs/ph-choreography.md) - public-surface choreography for `ph-civ`, `ph-apo`, and `ph-mus`
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/civ-ph/](corpus/civ-ph/) - derived civ-ph placement cards for calibrated and in-review source items
 - [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc
