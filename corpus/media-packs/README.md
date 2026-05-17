@@ -1,10 +1,12 @@
-# Media Packs
+# Civilization Museum
 
-Media packs are human-curated, agent-structured orientation aids. They help students see the objects, places, diagrams, maps, and pressure systems that matter before reading a transcript or commentary.
+The Civilization Museum is the public artifact-exhibit layer for Predictive History chapters. The repo path remains `corpus/media-packs/` for compatibility, but the reader-facing surface is a chapter museum: a curated set of artifacts that helps students enter a chapter before reading the transcript or commentary.
 
-The human role is search and curation. Agents structure selected items, render museum-label captions, and validate links, return paths, and status fields. Rights handling remains conservative and procedural: link first, avoid mirrored binaries, and mark uncertain items for review.
+Artifacts can be visual, textual, sonic, spatial, institutional, or symbolic: objects, texts, maps, places, diagrams, music, speeches, documents, performances, architecture, flags, tools, propaganda, and pressure systems.
 
-Media packs orient; they do not prove lecture claims.
+The human role is curatorial judgment: selection, taste, proportion, cultural context, emotional calibration, and final responsibility. Agents structure selected artifacts, render museum-label captions, and validate links, return paths, and status fields. Rights handling remains conservative and procedural: link first, avoid mirrored binaries, and mark uncertain items for review.
+
+Civilization Museum exhibits orient; they do not prove lecture claims.
 
 ## Index
 

@@ -13,6 +13,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Secret History | Complete through `sh-28` | Apocalypse spine by default; `sh-11`, `sh-16`, `sh-17`, and `sh-18` remain dual-role Civilization support nodes. |
 | Game Theory | Complete through `gt-22` | Central Apocalypse application spine with exact transcripts, strategic commentary, civ-ph cards, and orientation payloads. |
 | Great Books | First ten-chapter spine present | Volume V lives in `book/volume-v/`; `gb-01` through `gb-09` are in review after initial transfer-backed commentary analysis, and `gb-10` is in review after direct public-channel import. |
+| Civilization Museum | Calibration set present | Human-curated, agent-structured chapter exhibits live under `corpus/media-packs/`; artifacts may be visual, textual, sonic, spatial, institutional, or symbolic. |
 | Interviews | Pending | Planned future series; no public chapter batch yet. |
 | Essays | Pending | Planned future series; no public chapter batch yet. |
 
@@ -40,7 +41,7 @@ This order is only a planning guide. The actual publication sequence can change 
 - Treat the Tolstoy question as a causation lens: it should prevent overpersonalized history without turning the corpus into deterministic theory.
 - Treat Secret History as Apocalypse by default, with named dual-role support nodes for the Civilization literary spine.
 - Do not reserve placeholder chapter files or manifest rows for future Civilization chapters until the batch is actually created.
-- Media policy draft for future chapters: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
+- Civilization Museum policy draft for future chapter exhibits: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
 - Keep chapter routing in `chapter-manifest.yaml`.
 - Keep the readable chapter inventory in `chapter-index.md`.
 - Keep the public front door in `README.md`.

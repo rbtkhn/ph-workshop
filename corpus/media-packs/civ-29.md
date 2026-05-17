@@ -1,18 +1,19 @@
----
+﻿---
 source_id: civ-29
 title: "Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination"
 part: civilization
 media_pack_status: curated_draft
+public_surface: civilization_museum
 item_count: 5
 rights_mode: link_first_rights_safe
 reader_voice: museum_label
 ---
 
-# Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination Media Pack
+# Civilization Museum Exhibit: Civilization #29: Dante's Divine Comedy and the Liberation of the Human Imagination
 
-## How To Use This Pack
+## How To Use This Exhibit
 
-Use this pack before reading the transcript or commentary. It gives students a visual and documentary doorway into the lecture while keeping source claims, interpretation, and rights status separate. This is a curated draft awaiting human search and curation.
+Use this exhibit before reading the transcript or commentary. It gives students a curated artifact doorway into the lecture: objects, texts, maps, places, diagrams, music, speeches, documents, performances, and pressure systems, while keeping source claims, interpretation, and rights status separate. This is a curated draft awaiting human search and curation.
 
 ## Entry Object
 

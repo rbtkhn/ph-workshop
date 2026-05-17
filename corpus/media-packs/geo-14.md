@@ -1,18 +1,19 @@
----
+﻿---
 source_id: geo-14
 title: "Geo-Strategy #14: WWIII Begins, Let's Game Theory"
 part: world-war
 media_pack_status: curated_draft
+public_surface: civilization_museum
 item_count: 5
 rights_mode: link_first_rights_safe
 reader_voice: museum_label
 ---
 
-# Geo-Strategy #14: WWIII Begins, Let's Game Theory Media Pack
+# Civilization Museum Exhibit: Geo-Strategy #14: WWIII Begins, Let's Game Theory
 
-## How To Use This Pack
+## How To Use This Exhibit
 
-Use this pack before reading the transcript or commentary. It gives students a visual and documentary doorway into the lecture while keeping source claims, interpretation, and rights status separate. This is a curated draft awaiting human search and curation.
+Use this exhibit before reading the transcript or commentary. It gives students a curated artifact doorway into the lecture: objects, texts, maps, places, diagrams, music, speeches, documents, performances, and pressure systems, while keeping source claims, interpretation, and rights status separate. This is a curated draft awaiting human search and curation.
 
 ## Entry Object
 

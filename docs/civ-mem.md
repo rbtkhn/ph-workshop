@@ -21,7 +21,7 @@ It is an internal derivation scaffold, not the public reader-facing corpus.
 - **Public rendering authority** lives in the civ-ph derived corpus under `corpus/civ-ph/`.
 - **Voice authority** lives in this doctrine file; rendering is currently fixed to `house-default`.
 
-The current repository does not yet have a separate evidence/media pack object beyond the chapter-local source files, corpus pointer, and commentary pair. The neutral orientation sidecar is therefore the lightest existing pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
+The current repository now treats the Civilization Museum/media-pack object as the artifact exhibit layer beside chapter-local source files, corpus pointers, and commentary pairs. The neutral orientation sidecar remains the lightest pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
 
 ## Active Payload Fields
 

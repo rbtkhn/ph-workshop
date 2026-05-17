@@ -1,4 +1,6 @@
-# Media Pack Index
+# Civilization Museum Index
+
+These chapter exhibits are curated artifact doorways into Predictive History units. They use the internal `media-pack` schema, but the public surface is the Civilization Museum.
 
 | ID | Part | Title | Status | Items |
 | --- | --- | --- | --- | ---: |

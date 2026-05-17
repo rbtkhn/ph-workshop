@@ -71,13 +71,13 @@ $mediaRows = @(
 )
 
 if ($mediaRows.Count -eq 0) {
-  throw "No media pack rows found in $ManifestPath"
+  throw "No Civilization Museum/media-pack rows found in $ManifestPath"
 }
 
 $allowedStatuses = @('curated_draft', 'in_review', 'human_curated')
 $allowedRights = @('public_domain', 'open_license', 'external_link_only', 'needs_review', 'unavailable')
 $requiredMdSections = @(
-  'How To Use This Pack',
+  'How To Use This Exhibit',
   'Entry Object',
   'Return Path'
 )
@@ -112,6 +112,7 @@ foreach ($row in $mediaRows) {
     'title',
     'part',
     'media_pack_status',
+    'public_surface',
     'primary_job',
     'rights_mode',
     'reader_voice',
@@ -122,9 +123,11 @@ foreach ($row in $mediaRows) {
 
   Assert-Contains -Text $payloadText -Pattern "(?m)^source_id:\s*$([regex]::Escape($sourceId))\s*$" -Context "Media payload $mediaPayloadPath"
   Assert-Contains -Text $payloadText -Pattern "(?m)^part:\s*$([regex]::Escape($part))\s*$" -Context "Media payload $mediaPayloadPath"
+  Assert-Contains -Text $payloadText -Pattern "(?m)^public_surface:\s*civilization_museum\s*$" -Context "Media payload $mediaPayloadPath"
   Assert-Contains -Text $payloadText -Pattern "(?m)^rights_mode:\s*link_first_rights_safe\s*$" -Context "Media payload $mediaPayloadPath"
   Assert-Contains -Text $payloadText -Pattern "(?m)^reader_voice:\s*museum_label\s*$" -Context "Media payload $mediaPayloadPath"
   Assert-Contains -Text $payloadText -Pattern "(?m)^\s+human_curated:\s*(true|false)\s*$" -Context "Media payload $mediaPayloadPath"
+  Assert-Contains -Text $packText -Pattern "(?m)^public_surface:\s*civilization_museum\s*$" -Context "Media pack $mediaPackPath"
 
   $itemMatches = [regex]::Matches($payloadText, "(?m)^\s+- id:\s*(\S+)\s*$")
   if ($itemMatches.Count -lt 5 -or $itemMatches.Count -gt 15) {
@@ -148,7 +151,7 @@ foreach ($row in $mediaRows) {
   }
 
   foreach ($section in $requiredMdSections) {
-    Assert-Contains -Text $packText -Pattern "(?m)^##\s+$([regex]::Escape($section))\s*$" -Context "Media pack $mediaPackPath"
+    Assert-Contains -Text $packText -Pattern "(?m)^##\s+$([regex]::Escape($section))\s*$" -Context "Civilization Museum exhibit $mediaPackPath"
   }
   foreach ($section in @('Context Anchors', 'Primary Objects And Texts', 'Comparison Objects', 'Pressure / Structure', 'Limits And Cautions')) {
     if ($packText -notmatch "(?m)^##\s+$([regex]::Escape($section))\s*$") {
@@ -170,7 +173,7 @@ foreach ($row in $mediaRows) {
 
   if ($part -eq 'world-war') {
     if ($packText -notmatch '(?i)date-sensitive|current-events|current events|forecast|pressure') {
-      throw "World War media pack $mediaPackPath must include date-sensitive/current-events caution language"
+      throw "World War Civilization Museum exhibit $mediaPackPath must include date-sensitive/current-events caution language"
     }
   }
 }

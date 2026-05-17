@@ -45,7 +45,7 @@ Included now:
 - the full Game Theory spine for `gt-01` through `gt-22`
 - the full Secret History spine for `sh-01` through `sh-28`, with `sh-11`, `sh-16`, `sh-17`, and `sh-18` preserved as dual-role Civilization support nodes
 - the Civilization and Apocalypse part guides under `book/parts/`
-- the first human-curation-ready media-pack calibration set
+- the first human-curation-ready Civilization Museum calibration set
 - the first Apocalypse pressure corridors and minimal strategic registries
 - the first cross-volume corridors, Homer to Dante and Homer to Tolstoy, linking Civilization, Great Books, and selected Secret History study routes
 - the first Tolstoy causation lens, framing Predictive History as pressure reading rather than great-man history
@@ -82,7 +82,7 @@ The repository should help readers:
 - [corpus/civ-ph/](corpus/civ-ph/) - derived civ-ph placement cards for calibrated and in-review source items
 - [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc
 - [corpus/world-war/](corpus/world-war/) - Apocalypse pressure corridors
-- [corpus/media-packs/](corpus/media-packs/) - human-curated, agent-structured orientation media packs
+- [corpus/media-packs/](corpus/media-packs/) - Civilization Museum exhibits: human-curated, agent-structured artifact doorways into chapters
 - [corpus/game-theory/](corpus/game-theory/) - Game Theory corpus pointers for `gt-01` through `gt-22`
 - [corpus/great-books/](corpus/great-books/) - Great Books corpus pointers for `gb-01` through `gb-10`
 - [corpus/secret-history/](corpus/secret-history/) - Secret History corpus pointers for `sh-01` through `sh-28`

@@ -83,7 +83,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |   |-- media-packs/
 |   |   |-- README.md
 |   |   |-- index.md
-|   |   `-- calibrated media-pack pages
+|   |   `-- Civilization Museum exhibit pages using the internal media-pack schema
 |   |-- cross-volume/
 |   |   |-- README.md
 |   |   |-- index.md
