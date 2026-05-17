@@ -82,6 +82,30 @@ foreach ($blockMatch in $corridorBlocks) {
   $corridorPaths[$corridor] = $readerPath
 }
 
+$homerToTolstoyMatch = $corridorBlocks | Where-Object { $_.Groups[1].Value.Trim().Trim('"') -eq 'homer-to-tolstoy' } | Select-Object -First 1
+if (-not $homerToTolstoyMatch) {
+  throw "Registry $RegistryPath must define homer-to-tolstoy"
+}
+
+$homerToTolstoyBlock = $homerToTolstoyMatch.Value
+$structuralRole = Get-BlockField -Block $homerToTolstoyBlock -Field 'structural_role'
+if ($structuralRole -ne 'volume_i_literary_spine') {
+  throw "homer-to-tolstoy must declare structural_role: volume_i_literary_spine"
+}
+
+$routingRole = Get-BlockField -Block $homerToTolstoyBlock -Field 'routing_role'
+if ($routingRole -ne 'cross_volume_exposure') {
+  throw "homer-to-tolstoy must declare routing_role: cross_volume_exposure"
+}
+
+$homerToTolstoyReaderPath = $corridorPaths['homer-to-tolstoy']
+$homerToTolstoyText = Get-Text -Path (Resolve-RepoPath -Path $homerToTolstoyReaderPath)
+foreach ($phrase in @('Volume I literary spine', 'not a side corridor', 'cross-volume routing')) {
+  if ($homerToTolstoyText -notmatch [regex]::Escape($phrase)) {
+    throw "homer-to-tolstoy reader file must preserve invariant phrase '$phrase'"
+  }
+}
+
 $edgeMatches = [regex]::Matches($registryText, "(?ms)^\s+-\s+from:\s*(\S+)\s*\n(.*?)(?=^\s+-\s+from:|\z)")
 if ($edgeMatches.Count -eq 0) {
   throw "Registry $RegistryPath does not define any edges"

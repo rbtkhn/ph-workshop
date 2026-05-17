@@ -3,19 +3,27 @@ corridor: homer-to-tolstoy
 title: "Homer to Tolstoy"
 status: in_review
 registry_path: ../../registries/cross-volume-links.yaml
+structural_role: volume_i_literary_spine
+routing_role: cross_volume_exposure
 terminal_author: Tolstoy
 terminal_status: routed_via_secret_history_subset
 ---
 
 # Homer to Tolstoy
 
-This literary arc extends the first Homer-to-Dante corridor into the later Civilization spine. Its author sequence is:
+Homer to Tolstoy is the Volume I literary spine, exposed here through cross-volume routing. It is not a side corridor: it names the civilizational memory arc that runs from epic through empire, theology, theater, conscience, and the modern novel.
+
+Its author sequence is:
 
 ```text
 Homer -> Virgil -> Dante -> Shakespeare -> Dostoevsky -> Tolstoy
 ```
 
 The routed path now reaches Tolstoy through [SH-16](../civ-ph/sh-16.md), where *Anna Karenina* appears as a modern-literature coda to a lecture primarily about Homer and Greek civilization. That makes the corridor complete enough to route, but unevenly weighted: Homer, Dante, Shakespeare, and Dostoevsky have stronger direct coverage than Tolstoy.
+
+## Structural Invariant
+
+Treat this route as the Volume I literary spine. The `corpus/cross-volume/` placement is a routing surface, not a downgrade into a side corridor. Downstream lenses, including the Tolstoy Question and Tolstoy Lens, derive from this spine rather than replacing it.
 
 ## Routed Sequence
 

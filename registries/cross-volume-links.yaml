@@ -10,9 +10,11 @@ corridors:
     title: "Homer to Tolstoy"
     status: in_review
     reader_path: corpus/cross-volume/homer-to-tolstoy.md
+    structural_role: volume_i_literary_spine
+    routing_role: cross_volume_exposure
     terminal_author: Tolstoy
     terminal_status: routed_via_secret_history_subset
-    description: "A broader literary author arc from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, with Tolstoy routed through the limited Secret History literary subset."
+    description: "The Volume I literary spine from Homer, Virgil, and Dante through Shakespeare and Dostoevsky, exposed through cross-volume routing with Tolstoy routed through the limited Secret History literary subset."
   - corridor: tolstoy-question
     title: "The Tolstoy Question"
     status: routed_draft

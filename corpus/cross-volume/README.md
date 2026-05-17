@@ -9,8 +9,10 @@ Corridors are not causal proofs. They are reading routes: ways to notice how a f
 | Corridor | Status | Path |
 | --- | --- | --- |
 | Homer to Dante | In review | [homer-to-dante.md](homer-to-dante.md) |
-| Homer to Tolstoy | In review | [homer-to-tolstoy.md](homer-to-tolstoy.md) |
+| Homer to Tolstoy | Volume I literary spine / in review | [homer-to-tolstoy.md](homer-to-tolstoy.md) |
 | The Tolstoy Question | Routed draft | [tolstoy-question.md](tolstoy-question.md) |
+
+Homer to Tolstoy is the Volume I literary spine exposed through cross-volume routing, not a side corridor. The route carries the civilizational memory arc from Homeric epic through Virgil, Dante, Shakespeare, Dostoevsky, and the routed Tolstoy endpoint.
 
 The Homer-to-Tolstoy route now reaches Tolstoy through the limited Secret History literary subset. That endpoint is source-backed but deliberately modest: SH-16 includes an *Anna Karenina* coda, not a dedicated Tolstoy lecture.
 
