@@ -14,7 +14,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Game Theory | Complete through `gt-22` | Central Apocalypse application spine with exact transcripts, strategic commentary, civ-ph cards, and orientation payloads. |
 | Great Books | First ten-chapter spine present | Volume V lives in `book/volume-v/`; `gb-01` through `gb-09` are in review after initial transfer-backed commentary analysis, and `gb-10` is in review after direct public-channel import. |
 | Predictive History Museum | Calibration set present | Human-curated, agent-structured chapter exhibits live under `corpus/media-packs/`; the target end state is one exhibit per chapter across Predictive History: Civilization and Predictive History: Apocalypse. |
-| ph public surfaces | First choreography registry present | `registries/ph-choreography.yaml` routes the first `ph-civ`, `ph-apo`, and `ph-mus` calibration batch without requiring full museum coverage. |
+| ph public surfaces | Pre-publication scaffold present | `registries/ph-choreography.yaml` routes the first `ph-civ`, `ph-apo`, and `ph-mus` calibration batch, while [the publication gate](ph-civ-publication-gate.md) and [export manifest](../registries/ph-civ-export-manifest.yaml) keep `ph-civ` from being populated before routes are approved. |
 | Interviews | Pending | Planned future series; no public chapter batch yet. |
 | Essays | Pending | Planned future series; no public chapter batch yet. |
 
@@ -25,7 +25,7 @@ The repository now has both course semesters materialized at an in-review level.
 1. Deepen Apocalypse high-risk review packets.
 2. Add external-source bibliography for forecast-bearing claims.
 3. Harden civ-ph cards that carry date-sensitive claims.
-4. Prepare export packaging once source and rights boundaries are settled.
+4. Define and pass the publication gate before populating `ph-civ`.
 5. Interviews
 6. Essays
 
@@ -47,3 +47,4 @@ This order is only a planning guide. The actual publication sequence can change 
 - Keep the readable chapter inventory in `chapter-index.md`.
 - Keep the public front door in `README.md`.
 - Keep the machine front door in `llms.txt`.
+- Keep `ph-civ` population paused until `pilot-001` passes the export scaffold and publication gate.

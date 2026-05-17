@@ -85,6 +85,14 @@ Invoke-Step -Name 'Validate PH choreography' -Script {
   & .\scripts\validate-ph-choreography.ps1
 }
 
+Invoke-Step -Name 'Validate PH publication gate' -Script {
+  & .\scripts\validate-ph-publication-gate.ps1
+}
+
+Invoke-Step -Name 'Validate PH civ export scaffold' -Script {
+  & .\scripts\validate-ph-civ-export-scaffold.ps1
+}
+
 Invoke-Step -Name 'Validate PH skills' -Script {
   & .\scripts\validate-ph-skills.ps1
 }

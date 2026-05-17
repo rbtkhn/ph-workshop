@@ -7,11 +7,22 @@
 #
 # It is intentionally partial. Missing chapters do not fail validation until
 # they claim a museum exhibit.
+#
+# public_export_status gates whether a route may be copied into rbtkhn/ph-civ.
+# curated_draft museum work is not the same thing as public export approval.
 
 routes:
   - source_id: civ-07
     surface: ph-civ
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until the ph-civ publication gate, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/civ-07.md
     transcript_path: book/volume-ii/civ-07/civ-07-transcript.md
     commentary_path: book/volume-ii/civ-07/civ-07-commentary.md
@@ -22,6 +33,14 @@ routes:
   - source_id: civ-29
     surface: ph-civ
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until the ph-civ publication gate, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/civ-29.md
     transcript_path: book/volume-ii/civ-29/civ-29-transcript.md
     commentary_path: book/volume-ii/civ-29/civ-29-commentary.md
@@ -32,6 +51,14 @@ routes:
   - source_id: civ-51
     surface: ph-civ
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until the ph-civ publication gate, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/civ-51.md
     transcript_path: book/volume-ii/civ-51/civ-51-transcript.md
     commentary_path: book/volume-ii/civ-51/civ-51-commentary.md
@@ -42,6 +69,14 @@ routes:
   - source_id: gb-02
     surface: ph-civ
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until the ph-civ publication gate, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/gb-02.md
     transcript_path: book/volume-v/gb-02/gb-02-transcript.md
     commentary_path: book/volume-v/gb-02/gb-02-commentary.md
@@ -52,6 +87,14 @@ routes:
   - source_id: gb-09
     surface: ph-civ
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until the ph-civ publication gate, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/gb-09.md
     transcript_path: book/volume-v/gb-09/gb-09-transcript.md
     commentary_path: book/volume-v/gb-09/gb-09-commentary.md
@@ -62,6 +105,16 @@ routes:
   - source_id: geo-14
     surface: ph-apo
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - current_events
+      - forecast_bearing
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until Apocalypse caution language, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/geo-14.md
     transcript_path: book/volume-i/geo-14-transcript.md
     commentary_path: book/volume-i/geo-14-commentary.md
@@ -72,6 +125,16 @@ routes:
   - source_id: gt-16
     surface: ph-apo
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - current_events
+      - forecast_bearing
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until Apocalypse caution language, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/gt-16.md
     transcript_path: book/volume-iii/gt-16/gt-16-transcript.md
     commentary_path: book/volume-iii/gt-16/gt-16-commentary.md
@@ -84,6 +147,16 @@ routes:
   - source_id: sh-28
     surface: ph-apo
     museum_status: curated_draft
+    public_export_status: not_ready
+    claim_boundaries:
+      - orientation
+      - interpretive
+      - historical_claim
+      - current_events
+      - forecast_bearing
+      - rights_sensitive
+      - artifact_manifest
+    readiness_note: "Public export is paused until Apocalypse caution language, rights boundary, and package contract are approved."
     card_path: corpus/civ-ph/sh-28.md
     transcript_path: book/volume-vi/sh-28/sh-28-transcript.md
     commentary_path: book/volume-vi/sh-28/sh-28-commentary.md

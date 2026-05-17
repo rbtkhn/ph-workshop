@@ -54,6 +54,7 @@ Not included yet:
 
 - generous excerpts
 - external package exports
+- populated `ph-civ` public context-pack exports
 - private operator notes
 - internal working backlog
 - final Civilization commentary analysis beyond `civ-01`
@@ -80,6 +81,8 @@ The repository should help readers:
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md) - front-door essay on Predictive History as a response to Tolstoy's causation problem
 - [docs/predictive-history-museum.md](docs/predictive-history-museum.md) - storage, folder, metadata, and bidder contract for the Predictive History Museum
 - [docs/ph-choreography.md](docs/ph-choreography.md) - public-surface choreography for `ph-civ`, `ph-apo`, and `ph-mus`
+- [docs/ph-civ-publication-gate.md](docs/ph-civ-publication-gate.md) - gate that keeps `ph-civ` population paused until route-level export approval
+- [docs/ph-civ-pre-publication-release.md](docs/ph-civ-pre-publication-release.md) - `pilot-001` scaffold, front-door requirements, and empty states before population
 - [corpus/](corpus/) - public source items and annotations
 - [corpus/civ-ph/](corpus/civ-ph/) - derived civ-ph placement cards for calibrated and in-review source items
 - [corpus/cross-volume/](corpus/cross-volume/) - guided corridors across routed volumes, beginning with Homer to Dante and the broader Homer to Tolstoy literary arc
@@ -92,6 +95,8 @@ The repository should help readers:
 - [corpus/civilization/](corpus/civilization/) - Civilization corpus pointers for `civ-01` through `civ-60`
 - [registries/](registries/) - current source index, cross-volume edge registry, and future cross-reference registries
 - [registries/causation-lenses.yaml](registries/causation-lenses.yaml) - actor-pressure pairs for the Tolstoy question
+- [registries/ph-civ-export-manifest.yaml](registries/ph-civ-export-manifest.yaml) - pre-publication export manifest for `pilot-001`
+- [registries/ph-claim-boundaries.yaml](registries/ph-claim-boundaries.yaml) - allowed claim boundary tags for public-surface export readiness
 - [book/](book/) - public chapter files and reader-facing material
 - [book/parts/](book/parts/) - semester guides for Civilization and Apocalypse
 - [book/parts/civilization-to-apocalypse.md](book/parts/civilization-to-apocalypse.md) - transition essay from law discovery to applied pressure reading

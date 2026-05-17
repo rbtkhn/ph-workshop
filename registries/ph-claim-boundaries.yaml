@@ -1,0 +1,36 @@
+# Claim boundary taxonomy for ph-civ / ph-apo / ph-mus export readiness.
+
+allowed_boundaries:
+  - tag: orientation
+    meaning: "Reader placement, route guidance, and what-to-notice framing."
+  - tag: interpretive
+    meaning: "A bounded reading of the lecture or route, not a transcript substitute."
+  - tag: historical_claim
+    meaning: "Historical assertion or comparison that should remain source-routed."
+  - tag: current_events
+    meaning: "Present-day or recent political, military, financial, or religious pressure."
+  - tag: forecast_bearing
+    meaning: "Prediction-like or forward-looking claim requiring date-sensitive caution."
+  - tag: rights_sensitive
+    meaning: "Material that needs reuse, quote, image, audio, or artifact rights caution."
+  - tag: artifact_manifest
+    meaning: "Museum manifest metadata; Git must not imply binary artifact storage."
+
+surface_requirements:
+  ph-civ:
+    minimum:
+      - orientation
+      - interpretive
+      - historical_claim
+  ph-apo:
+    minimum:
+      - orientation
+      - interpretive
+      - historical_claim
+      - current_events
+      - forecast_bearing
+  ph-mus:
+    minimum:
+      - orientation
+      - rights_sensitive
+      - artifact_manifest
