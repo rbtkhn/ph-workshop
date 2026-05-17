@@ -4,7 +4,7 @@ A source-disciplined public study companion for Professor Jiang's Predictive His
 
 This repository organizes source metadata, study annotations, reading paths, claims, concepts, predictions, and future book/site material so Jiang students can study the corpus with source discipline: what was said, where it was said, when it was said, what it implies, and how it can be compared or tested.
 
-If you are using an LLM or coding agent, start with [llms.txt](llms.txt). That file points to the canonical reading path without repeating the whole repository map here.
+If you are using an LLM or coding agent, start with [AGENTS.md](AGENTS.md) and [llms.txt](llms.txt). Those files define the workshop identity, the `ph-civ` boundary, and the canonical reading path without repeating the whole repository map here.
 
 ## Surface Vocabulary
 
@@ -54,7 +54,7 @@ Not included yet:
 
 - generous excerpts
 - external package exports
-- populated `ph-civ` public context-pack exports
+- additional approved route-level population into the existing `ph-civ` public repo
 - private operator notes
 - internal working backlog
 - final Civilization commentary analysis beyond `civ-01`

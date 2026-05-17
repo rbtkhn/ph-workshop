@@ -208,7 +208,7 @@ $populationInstruction = if ($approvedRoutes.Count -gt 0) {
 Write-Host ""
 Write-Host "== copy-ready next-chat prompt =="
 @"
-Open rbtkhn/ph-workshop as the editorial source for rbtkhn/ph-civ. Start with llms.txt, then run scripts/ph-civ-open.ps1 and summarize the gate state before proposing work.
+Open rbtkhn/ph-workshop as the editorial source for rbtkhn/ph-civ. Start with AGENTS.md and llms.txt, then run scripts/ph-civ-open.ps1 and summarize the gate state before proposing work. If the operator says coffee, treat it as this PH opening workflow, not as a generic greeting.
 
 Current opening state from this checkout:
 - source_commit: $sourceCommit

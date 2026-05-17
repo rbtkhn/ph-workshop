@@ -1,0 +1,7 @@
+interface:
+  display_name: "PH Coffee"
+  short_description: "Compatibility opener that routes coffee to ph-open"
+  default_prompt: "Use $coffee to open ph-workshop through ph-open and summarize ph-civ readiness."
+
+policy:
+  allow_implicit_invocation: true

@@ -10,6 +10,8 @@ Use this skill as the fresh-chat bootstrap for `ph-workshop`, especially when th
 ## Operating Rules
 
 - Start from `llms.txt`, then use `docs/ph-civ-publication-gate.md`, `docs/ph-civ-pre-publication-release.md`, `registries/ph-civ-export-manifest.yaml`, and `registries/ph-choreography.yaml` as the gate sources.
+- If the operator says `coffee`, treat it as this opening workflow, not as a generic coffee greeting.
+- State that `ph-civ` already exists as the public repository and public surface; this workshop only gates additional route-level population into it.
 - Run `scripts/ph-civ-open.ps1` before proposing any `ph-civ` population work.
 - Treat `candidate` routes as review-only. Candidate status does not permit export or population.
 - Treat only `approved` and `exported` route statuses as population-eligible.

@@ -3,8 +3,11 @@
 > A source-disciplined public study companion for Professor Jiang's Predictive History corpus.
 > Start with one source item at a time. Use `chapter-manifest.yaml` to route to the canonical source transcript, commentary, and civ-ph placement card, and use the docs below for trust, fidelity, and export rules.
 
+This workspace is `rbtkhn/ph-workshop`, the Predictive History editorial workshop and source-of-truth workspace. `rbtkhn/ph-civ` already exists as the public Predictive History distribution repository and public surface. In this repo, `civ-ph` is the workshop-local orientation corpus; `ph-civ` is the public repository whose population is gated by route-level `public_export_status`.
+
 ## Start Here
 
+- [AGENTS.md](AGENTS.md): agent guardrails, project identity, `coffee` opening behavior, and `ph-civ` boundary.
 - [README.md](README.md): human-facing overview and contribution path.
 - [FOR-PROFESSOR-JIANG.md](FOR-PROFESSOR-JIANG.md): Jiang-facing posture page for unofficial status, correction paths, and course-improvement signals.
 - [chapter-manifest.yaml](chapter-manifest.yaml): machine-readable chapter routing table.
@@ -79,7 +82,8 @@
 - Treat media-pack work as Predictive History Museum work: humans curate artifacts and provide taste, cultural judgment, proportion, emotional calibration, and final responsibility; agents structure payloads, write museum labels, validate links, and preserve link-first rights-safe status.
 - Predictive History Museum artifacts must be stored in both a local museum vault and shared document cloud workspace; GitHub stores manifests and generated pages, not large binary artifacts.
 - Treat `ph-civ` public edition and context-pack updates as gated by route approval. If a context-pack route is paused, use the empty-state language from `docs/ph-civ-pre-publication-release.md`.
-- Use the repo-local skill suite by task: `ph-open`, `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.
+- If the operator says `coffee`, route to `ph-open`; do not give a generic coffee greeting.
+- Use the repo-local skill suite by task: `coffee`, `ph-open`, `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.
 - Use `ph-open` at the start of a new chat preparing `ph-civ` population work; run `scripts/ph-civ-open.ps1` and do not populate `ph-civ` unless route-level status is `approved` or `exported`.
 - Treat `ph-youtube-transcript` as a compatibility alias for `ph-transcript`.
 - Expand to adjacent chapters only for comparison tasks.

@@ -14,12 +14,14 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 ```text
 .
 |-- README.md
+|-- AGENTS.md
 |-- llms.txt
 |-- chapter-manifest.yaml
 |-- CONTRIBUTING.md
 |-- CHANGELOG.md
 |-- .cursor/
 |   `-- skills/
+|       |-- coffee/
 |       |-- ph-open/
 |       |-- ph-transcript/
 |       |-- ph-chapter/
@@ -29,6 +31,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |       `-- ph-youtube-transcript/
 |-- .codex/
 |   `-- skills/
+|       |-- coffee/
 |       |-- ph-open/
 |       |-- ph-transcript/
 |       |-- ph-chapter/
@@ -221,6 +224,7 @@ The strategic registries are intentionally minimal in this pass. They provide st
 The repo-local Predictive History skill suite lives under both `.cursor/skills/` and `.codex/skills/` so future agents can load the same workflows in either surface.
 
 - `ph-transcript`: transcript acquisition, ASR audit, generated verbatim sync, exact-body-match checks, and quote-grade boundaries.
+- `coffee`: compatibility opener that routes `coffee` to `ph-open` instead of a generic greeting.
 - `ph-open`: fresh-chat bootstrap for `ph-civ` population readiness, candidate routes, gate status, and no-export boundaries.
 - `ph-chapter`: one source transcript and commentary unit plus manifest, source metadata, and review status wiring.
 - `civ-ph`: civ-ph placement entries, orientation payload alignment, limits, and return paths.

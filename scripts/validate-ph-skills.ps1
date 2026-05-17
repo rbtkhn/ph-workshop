@@ -39,6 +39,7 @@ function Assert-Text {
 }
 
 $canonicalSkills = @(
+  'coffee',
   'ph-open',
   'ph-transcript',
   'ph-chapter',
@@ -78,6 +79,16 @@ if ($Failures.Count -eq 0) {
   $skillText = @{}
   foreach ($skill in $allSkills) {
     $skillText[$skill] = Get-Text -Path (Resolve-RepoPath ".cursor/skills/$skill/SKILL.md")
+  }
+
+  foreach ($needle in @(
+    'ph-open',
+    'generic coffee greeting',
+    'existing public repository',
+    'approved',
+    'exported'
+  )) {
+    Assert-Text -Label 'coffee' -Text $skillText['coffee'] -Needle $needle
   }
 
   foreach ($needle in @(
@@ -157,10 +168,14 @@ if ($Failures.Count -eq 0) {
 
   $llmsText = Get-Text -Path (Assert-File 'llms.txt')
   $repoMapText = Get-Text -Path (Assert-File 'docs/repo-map.md')
+  $agentsText = Get-Text -Path (Assert-File 'AGENTS.md')
   foreach ($skill in $canonicalSkills) {
     Assert-Text -Label 'llms.txt' -Text $llmsText -Needle $skill
     Assert-Text -Label 'docs/repo-map.md' -Text $repoMapText -Needle $skill
   }
+  Assert-Text -Label 'AGENTS.md' -Text $agentsText -Needle 'coffee'
+  Assert-Text -Label 'AGENTS.md' -Text $agentsText -Needle 'ph-civ` already exists'
+  Assert-Text -Label 'AGENTS.md' -Text $agentsText -Needle 'candidate'
   Assert-Text -Label 'llms.txt' -Text $llmsText -Needle 'ph-youtube-transcript'
   Assert-Text -Label 'docs/repo-map.md' -Text $repoMapText -Needle 'ph-youtube-transcript'
 }
