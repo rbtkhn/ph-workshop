@@ -3,19 +3,19 @@ source_id: geo-14
 title: "Geo-Strategy #14: WWIII Begins, Let's Game Theory"
 part: world-war
 media_pack_status: curated_draft
-public_surface: civilization_museum
+public_surface: predictive_history_museum
 item_count: 5
 rights_mode: link_first_rights_safe
 reader_voice: museum_label
 ---
 
-# Civilization Museum Exhibit: Geo-Strategy #14: WWIII Begins, Let's Game Theory
+# Predictive History Museum Exhibit: Geo-Strategy #14: WWIII Begins, Let's Game Theory
 
 ## How To Use This Exhibit
 
 Use this exhibit before reading the transcript or commentary. It gives students a curated artifact doorway into the lecture: objects, texts, maps, places, diagrams, music, speeches, documents, performances, and pressure systems, while keeping source claims, interpretation, and rights status separate. This is a curated draft awaiting human search and curation.
 
-## Entry Object
+## Entrance Artifact
 
 ### 01. Strait of Hormuz map
 
@@ -23,9 +23,9 @@ Use this exhibit before reading the transcript or commentary. It gives students 
 - **Source:** https://commons.wikimedia.org/wiki/Category:Maps_of_the_Strait_of_Hormuz
 - **Rights:** external_link_only
 - **What to notice:** The chokepoint shows how geography can turn regional conflict into global economic pressure.
-- **Limit:** Maps show vulnerability, not inevitability or a complete war model.
+- **What this cannot prove:** Maps show vulnerability, not inevitability or a complete war model.
 
-## Context Anchors
+## Context Room
 
 ### 02. Iran regional map
 
@@ -33,9 +33,9 @@ Use this exhibit before reading the transcript or commentary. It gives students 
 - **Source:** https://commons.wikimedia.org/wiki/Category:Maps_of_Iran
 - **Rights:** external_link_only
 - **What to notice:** A regional map helps students locate Iran among Gulf, Levant, Central Asian, and maritime pressures.
-- **Limit:** Static maps cannot capture changing alliances or military readiness.
+- **What this cannot prove:** Static maps cannot capture changing alliances or military readiness.
 
-## Primary Objects And Texts
+## Primary Artifacts And Texts
 
 ### 04. Fordow nuclear facility map/context
 
@@ -43,9 +43,9 @@ Use this exhibit before reading the transcript or commentary. It gives students 
 - **Source:** https://en.wikipedia.org/wiki/Fordow_Fuel_Enrichment_Plant
 - **Rights:** external_link_only
 - **What to notice:** The facility anchors nuclear-infrastructure discussion in a concrete contested site.
-- **Limit:** Wikipedia context is a starting point, not a source sufficient for final claims.
+- **What this cannot prove:** Wikipedia context is a starting point, not a source sufficient for final claims.
 
-## Comparison Objects
+## Comparison Artifacts
 
 ### 05. Israel-Iran proxy conflict overview
 
@@ -53,9 +53,9 @@ Use this exhibit before reading the transcript or commentary. It gives students 
 - **Source:** https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_proxy_conflict
 - **Rights:** external_link_only
 - **What to notice:** A conflict overview helps students see layers of proxy pressure before treating events as isolated.
-- **Limit:** Overview pages compress disputes and require source-level checking.
+- **What this cannot prove:** Overview pages compress disputes and require source-level checking.
 
-## Pressure / Structure
+## Pressure Systems
 
 ### 03. B-2 Spirit aircraft
 
@@ -63,7 +63,7 @@ Use this exhibit before reading the transcript or commentary. It gives students 
 - **Source:** https://commons.wikimedia.org/wiki/Category:Northrop_Grumman_B-2_Spirit
 - **Rights:** external_link_only
 - **What to notice:** Strategic aircraft imagery makes visible the lecture's concern with reach, signaling, and escalation.
-- **Limit:** Weapons-platform images do not prove operational claims about a specific strike.
+- **What this cannot prove:** Weapons-platform images do not prove operational claims about a specific strike.
 
 ## Return Path
 

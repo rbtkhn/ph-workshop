@@ -1,4 +1,4 @@
-# Series Roadmap
+﻿# Series Roadmap
 
 This roadmap shows the current series-level shape of the repository. Use [chapter-index.md](chapter-index.md) for chapter inventory, [chapter-manifest.yaml](../chapter-manifest.yaml) for routing, and [llms.txt](../llms.txt) for the AI-facing entry path.
 
@@ -13,7 +13,7 @@ This roadmap shows the current series-level shape of the repository. Use [chapte
 | Secret History | Complete through `sh-28` | Apocalypse spine by default; `sh-11`, `sh-16`, `sh-17`, and `sh-18` remain dual-role Civilization support nodes. |
 | Game Theory | Complete through `gt-22` | Central Apocalypse application spine with exact transcripts, strategic commentary, civ-ph cards, and orientation payloads. |
 | Great Books | First ten-chapter spine present | Volume V lives in `book/volume-v/`; `gb-01` through `gb-09` are in review after initial transfer-backed commentary analysis, and `gb-10` is in review after direct public-channel import. |
-| Civilization Museum | Calibration set present | Human-curated, agent-structured chapter exhibits live under `corpus/media-packs/`; artifacts may be visual, textual, sonic, spatial, institutional, or symbolic. |
+| Predictive History Museum | Calibration set present | Human-curated, agent-structured chapter exhibits live under `corpus/media-packs/`; the target end state is one exhibit per chapter across Predictive History: Civilization and Predictive History: Apocalypse. |
 | Interviews | Pending | Planned future series; no public chapter batch yet. |
 | Essays | Pending | Planned future series; no public chapter batch yet. |
 
@@ -41,7 +41,7 @@ This order is only a planning guide. The actual publication sequence can change 
 - Treat the Tolstoy question as a causation lens: it should prevent overpersonalized history without turning the corpus into deterministic theory.
 - Treat Secret History as Apocalypse by default, with named dual-role support nodes for the Civilization literary spine.
 - Do not reserve placeholder chapter files or manifest rows for future Civilization chapters until the batch is actually created.
-- Civilization Museum policy draft for future chapter exhibits: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
+- Predictive History Museum policy draft for future chapter exhibits: [docs/proposed-media-policy-plan.md](proposed-media-policy-plan.md).
 - Keep chapter routing in `chapter-manifest.yaml`.
 - Keep the readable chapter inventory in `chapter-index.md`.
 - Keep the public front door in `README.md`.

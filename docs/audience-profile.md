@@ -1,8 +1,8 @@
-# Predictive History Audience Profile
+﻿# Predictive History Audience Profile
 
 This internal profile summarizes public audience signals and the product implications for Predictive History and `civ-ph`.
 
-It should guide corpus design, review priorities, Civilization Museum planning, contributor onboarding, and future `civ-ph` package work. Public audience numbers are approximate and should be refreshed before publication or fundraising use.
+It should guide corpus design, review priorities, Predictive History Museum planning, contributor onboarding, and future `civ-ph` package work. Public audience numbers are approximate and should be refreshed before publication or fundraising use.
 
 ## Executive Read
 
@@ -119,7 +119,7 @@ The audience environment is noisy.
 The repo should answer this with structure rather than defensiveness:
 
 - exact transcript fidelity
-- clear distinction between transcript, commentary, `civ-ph`, Civilization Museum exhibits, and quote-grade claims
+- clear distinction between transcript, commentary, `civ-ph`, Predictive History Museum exhibits, and quote-grade claims
 - visible review status
 - high-risk review queues
 - bounded public language
@@ -137,7 +137,7 @@ The repo should therefore keep strengthening:
 - `chapter-manifest.yaml` as canonical routing
 - `civ-ph` as orientation and re-entry layer
 - cross-volume corridors as guided paths
-- Civilization Museum exhibits as what-to-encounter-before-reading aids
+- Predictive History Museum exhibits as what-to-encounter-before-reading aids
 - transcript fidelity and quote-grade boundaries
 - recursive review loops and weekly review sprint tooling
 
@@ -180,7 +180,7 @@ Avoid sounding like a fan archive or a debunking project. The stronger identity 
 - Start users with paths and first questions, not blank search.
 - Keep all public cards compact, bounded, and source-routed.
 - Treat review warnings as quality queues, not hidden defects.
-- Build Civilization Museum exhibits for orientation, not proof.
+- Build Predictive History Museum exhibits for orientation, not proof.
 - Preserve transcript exactness even when commentary adds guardrails.
 - Make contribution tasks concrete enough for open-source helpers.
 - Keep `civ-ph` provider-neutral and portable.
@@ -191,7 +191,7 @@ Refresh this profile before:
 
 - public launch of `civ-ph`
 - major contributor recruitment
-- Civilization Museum bounty expansion
+- Predictive History Museum bounty expansion
 - package release
 - public claims about audience size or growth
 - adding official-looking branding or affiliation language

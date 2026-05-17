@@ -1,4 +1,4 @@
----
+﻿---
 active_voice_profile: house-default
 payload_home: chapter-local neutral orientation YAML sidecar
 render_surface: civ-ph derived corpus
@@ -21,7 +21,7 @@ It is an internal derivation scaffold, not the public reader-facing corpus.
 - **Public rendering authority** lives in the civ-ph derived corpus under `corpus/civ-ph/`.
 - **Voice authority** lives in this doctrine file; rendering is currently fixed to `house-default`.
 
-The current repository now treats the Civilization Museum/media-pack object as the artifact exhibit layer beside chapter-local source files, corpus pointers, and commentary pairs. The neutral orientation sidecar remains the lightest pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
+The current repository now treats the Predictive History Museum/media-pack object as the artifact exhibit layer beside chapter-local source files, corpus pointers, and commentary pairs. The neutral orientation sidecar remains the lightest pack-owned authority surface for the internal payload. It must remain structured and reusable; do not replace it with manually duplicated freeform prose.
 
 ## Active Payload Fields
 

@@ -1,4 +1,4 @@
-# Recursive Improvement Loops
+﻿# Recursive Improvement Loops
 
 This internal doctrine makes the repo's quality-improvement loops explicit for maintainers and future agents.
 
@@ -15,7 +15,7 @@ These loops improve corpus quality without changing transcript fidelity or turni
 - Validation finds broken structure, invalid schema, public terminology leakage, and fidelity failures.
 - Audit reports summarize current health without rewriting source content.
 - Queues identify the next human or agent review target.
-- Deepening work happens only in the appropriate interpretive surface: commentary, civ-ph, orientation payloads, Civilization Museum exhibits, or routing docs.
+- Deepening work happens only in the appropriate interpretive surface: commentary, civ-ph, orientation payloads, Predictive History Museum exhibits, or routing docs.
 - Revalidation closes the loop before changes are trusted.
 - Transcript bodies remain fidelity-bearing and are not rewritten by guardrails.
 
@@ -35,7 +35,7 @@ These loops improve corpus quality without changing transcript fidelity or turni
 - **Queue/report artifact:** spine health reports, transcript validators, and transcript audit notes where present.
 - **Allowed action:** correct routing or metadata; repair curated transcripts only through explicit transcript-fidelity workflow.
 - **Validation return path:** run transcript and spine validators against the transfer authority.
-- **Failure boundary:** do not alter transcript bodies as a side effect of commentary, civ-ph, Civilization Museum, or guardrail review.
+- **Failure boundary:** do not alter transcript bodies as a side effect of commentary, civ-ph, Predictive History Museum, or guardrail review.
 
 ## Interpretive Constraint Loop
 
@@ -57,12 +57,12 @@ These loops improve corpus quality without changing transcript fidelity or turni
 
 ## Cross-Surface Routing Loop
 
-- **Purpose:** keep cross-volume corridors, Civilization Museum exhibits, reports, registries, and export surfaces mutually navigable.
+- **Purpose:** keep cross-volume corridors, Predictive History Museum exhibits, reports, registries, and export surfaces mutually navigable.
 - **Signal source:** cross-volume validators, media-pack validators, report generation, and export-readiness checks.
-- **Queue/report artifact:** cross-volume registry, Civilization Museum corpus, improvement-loop report, and future export reports.
-- **Allowed action:** repair typed edges, return paths, Civilization Museum routing, report wiring, and source-safe export metadata.
+- **Queue/report artifact:** cross-volume registry, Predictive History Museum corpus, improvement-loop report, and future export reports.
+- **Allowed action:** repair typed edges, return paths, Predictive History Museum routing, report wiring, and source-safe export metadata.
 - **Validation return path:** run cross-volume, media-pack, civ-ph, and full validation.
-- **Failure boundary:** corridors and Civilization Museum exhibits orient study; they do not prove causal claims or override chapter-level source status.
+- **Failure boundary:** corridors and Predictive History Museum exhibits orient study; they do not prove causal claims or override chapter-level source status.
 
 ## Maintainer Use
 

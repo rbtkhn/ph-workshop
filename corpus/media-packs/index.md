@@ -1,6 +1,6 @@
-# Civilization Museum Index
+﻿# Predictive History Museum Index
 
-These chapter exhibits are curated artifact doorways into Predictive History units. They use the internal `media-pack` schema, but the public surface is the Civilization Museum.
+These chapter exhibits are curated artifact doorways into Predictive History units. They use the internal `media-pack` schema, but the public surface is the Predictive History Museum. The target end state is one exhibit per chapter across Predictive History: Civilization and Predictive History: Apocalypse.
 
 | ID | Part | Title | Status | Items |
 | --- | --- | --- | --- | ---: |

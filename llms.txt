@@ -1,4 +1,4 @@
-# Predictive History
+﻿# Predictive History
 
 > A source-disciplined public study companion for Professor Jiang's Predictive History corpus.
 > Start with one source item at a time. Use `chapter-manifest.yaml` to route to the canonical source transcript, commentary, and civ-ph placement card, and use the docs below for trust, fidelity, and export rules.
@@ -24,6 +24,7 @@
 - [docs/annotation-block.md](docs/annotation-block.md): public item template.
 - [docs/audience-profile.md](docs/audience-profile.md): internal audience segments, trust tensions, and product posture for corpus and `civ-ph` work.
 - [docs/predictive-history-after-tolstoy.md](docs/predictive-history-after-tolstoy.md): front-door causation essay; use it when a task asks what Predictive History is responding to in Tolstoy or great-man history.
+- [docs/predictive-history-museum.md](docs/predictive-history-museum.md): canonical Predictive History Museum storage and bidder contract; URL-only artifacts are insufficient.
 - [docs/tolstoy-lens.md](docs/tolstoy-lens.md): bounded commentary standard for Jiang Lens / Tolstoy Lens choreography and actor-pressure causation sections.
 - [docs/export-from-strategy-codex.md](docs/export-from-strategy-codex.md): one-way boundary from Strategy-Codex and transcript export rules.
 - [docs/corrections-policy.md](docs/corrections-policy.md): how to report and review corrections.
@@ -50,7 +51,7 @@
 - [corpus/great-books/](corpus/great-books/): Great Books source pointers for `gb-01` through `gb-10`.
 - [corpus/secret-history/](corpus/secret-history/): Secret History source pointers for `sh-01` through `sh-28`.
 - [corpus/world-war/](corpus/world-war/): pressure corridors for the applied second semester.
-- [corpus/media-packs/](corpus/media-packs/): Civilization Museum exhibits; use before transcript or commentary when the task asks which artifacts students should encounter first. Artifacts may be visual, textual, sonic, spatial, institutional, or symbolic.
+- [corpus/media-packs/](corpus/media-packs/): Predictive History Museum exhibits; use before transcript or commentary when the task asks which artifacts students should encounter first. Target one exhibit per chapter across Predictive History: Civilization and Predictive History: Apocalypse. Artifacts may be visual, textual, sonic, spatial, institutional, or symbolic.
 - [registries/sources.md](registries/sources.md): current source registry entries.
 - [registries/cross-volume-links.yaml](registries/cross-volume-links.yaml): typed edges for cross-volume corridors.
 - [registries/causation-lenses.yaml](registries/causation-lenses.yaml): actor-pressure pairs for the Tolstoy question.
@@ -69,7 +70,8 @@
 - Use `corpus/cross-volume/` and `registries/cross-volume-links.yaml` when the task asks for cross-volume inheritance, comparison, or a guided route across series.
 - Use `docs/tolstoy-lens.md`, `corpus/cross-volume/tolstoy-question.md`, and `registries/causation-lenses.yaml` when the task asks whether named actors make history or reveal deeper pressure systems. Only add a Tolstoy Lens section when the source ID appears in the causation lens registry.
 - Treat civ-ph work as `map -> orient -> constrain -> validate -> route`.
-- Treat media-pack work as Civilization Museum work: humans curate artifacts and provide taste, cultural judgment, proportion, emotional calibration, and final responsibility; agents structure payloads, write museum labels, validate links, and preserve link-first rights-safe status.
+- Treat media-pack work as Predictive History Museum work: humans curate artifacts and provide taste, cultural judgment, proportion, emotional calibration, and final responsibility; agents structure payloads, write museum labels, validate links, and preserve link-first rights-safe status.
+- Predictive History Museum artifacts must be stored in both a local museum vault and shared document cloud workspace; GitHub stores manifests and generated pages, not large binary artifacts.
 - Use the repo-local skill suite by task: `ph-transcript`, `ph-chapter`, `civ-ph`, `ph-cross-volume`, and `ph-audit`.
 - Treat `ph-youtube-transcript` as a compatibility alias for `ph-transcript`.
 - Expand to adjacent chapters only for comparison tasks.

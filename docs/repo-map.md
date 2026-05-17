@@ -1,4 +1,4 @@
-# Repository Map
+﻿# Repository Map
 
 This repo is docs-first and site-ready. Markdown files should remain readable on GitHub and easy to convert into a static site later.
 
@@ -39,6 +39,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |   |-- audience-profile.md
 |   |-- chapter-index.md
 |   |-- predictive-history-after-tolstoy.md
+|   |-- predictive-history-museum.md
 |   |-- series-roadmap.md
 |   |-- corrections-policy.md
 |   |-- export-from-strategy-codex.md
@@ -83,7 +84,7 @@ Use **Part One** and **Part Two** only for the whole corpus architecture: Civili
 |   |-- media-packs/
 |   |   |-- README.md
 |   |   |-- index.md
-|   |   `-- Civilization Museum exhibit pages using the internal media-pack schema
+|   |   `-- Predictive History Museum exhibit pages using the internal media-pack schema; target one exhibit per chapter
 |   |-- cross-volume/
 |   |   |-- README.md
 |   |   |-- index.md
