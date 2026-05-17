@@ -2,7 +2,7 @@
 
 `ph-civ` should be updated only after the public shape has been rehearsed here. This document defines the pre-publication scaffold for the public context-pack batch `pilot-001`; it does not approve export.
 
-The source of truth remains `ph-workshop`. The public edition repo is `rbtkhn/ph-civilization`, with `ph-civ` as the public Civilization surface and package name.
+The source of truth remains `ph-workshop`. The public edition repo is `rbtkhn/ph-civ`.
 
 ## First Batch Posture
 

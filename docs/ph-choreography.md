@@ -6,7 +6,7 @@ Predictive History now has three public motions through the same source body.
 - `ph-apo` stress-tests the grammar: how those forms return under live pressure, escalation, finance, media, war, and sacred mobilization.
 - `ph-mus` gives curated contact: artifacts, maps, texts, places, music, documents, diagrams, and institutions that let a reader encounter the pattern before argument hardens.
 
-The choreography is not a content migration. The editorial source remains this repository. The public edition and distribution layer is `rbtkhn/ph-civilization`, with `ph-civ` as the public Civilization surface and package name. It may contain the full publishable text plus a smaller public context pack, but neither layer should be updated just because a route exists here. The museum artifact archive remains outside Git in the local vault and shared cloud workspace.
+The choreography is not a content migration. The editorial source remains this repository. The public edition and distribution layer is `rbtkhn/ph-civ`. It may contain the full publishable text plus a smaller public context pack, but neither layer should be updated just because a route exists here. The museum artifact archive remains outside Git in the local vault and shared cloud workspace.
 
 Use [ph-civ Publication Gate](ph-civ-publication-gate.md) before exporting any route into the public edition or public context pack. The registry records choreography and readiness; it is not an export command.
 Use [ph-civ Pre-Publication Release](ph-civ-pre-publication-release.md) and [registries/ph-civ-export-manifest.yaml](../registries/ph-civ-export-manifest.yaml) to rehearse a batch before any public population.

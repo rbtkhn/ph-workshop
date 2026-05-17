@@ -79,7 +79,7 @@ $claimBoundaryText = Get-Text -Path (Assert-FileExists -Path $ClaimBoundaryPath 
 $prePublicationDocText = Get-Text -Path (Assert-FileExists -Path $PrePublicationDocPath -Context 'Pre-publication release doc')
 
 foreach ($required in @(
-  'target_repo: rbtkhn/ph-civilization',
+  'target_repo: rbtkhn/ph-civ',
   'source_repo: rbtkhn/ph-workshop',
   'release_stage: pre_publication_scaffold',
   'public_population: paused',

@@ -1,11 +1,11 @@
-# Pre-publication export manifest for the rbtkhn/ph-civilization public edition and context pack.
+# Pre-publication export manifest for the rbtkhn/ph-civ public edition and context pack.
 #
 # This manifest names candidate batches only. It does not approve export.
 # Route-level public_export_status in registries/ph-choreography.yaml remains
 # the authority for whether a route may be copied into rbtkhn/ph-civ.
 
 release:
-  target_repo: rbtkhn/ph-civilization
+  target_repo: rbtkhn/ph-civ
   source_repo: rbtkhn/ph-workshop
   release_stage: pre_publication_scaffold
   public_population: paused
